@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """Validate webapp/data/*.js -> check syntax (node) and structure (json parse)."""
 import json, os, re, subprocess, sys
 
-OUT = 'data'
+OUT = 'webapp/data'
 ok = True
 total_q = 0
 for f in sorted(os.listdir(OUT)):
@@ -43,3 +43,4 @@ for f in sorted(os.listdir(OUT)):
     total_q += len(data['questions'])
     print(f'{m.group(1)}: {len(data["questions"])} soal (PG {n_pg}, isian {n_isi})')
 print('TOTAL:', total_q, '| status:', 'OK' if ok else 'ADA MASALAH')
+
