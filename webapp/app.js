@@ -44,7 +44,7 @@
     });
 
     var html = '';
-    YEAR_ORDER.forEach(function (y) {
+    years.forEach(function (y) {
       if (filterYear !== 'all' && String(filterYear) !== String(y)) return;
       keys.filter(function (k) { return PKGS[k].year === y; }).sort(function (a, b) {
         return (a + b).localeCompare ? (mapelOrder(PKGS[a]) - mapelOrder(PKGS[b]) || a.localeCompare(b)) : 0;
