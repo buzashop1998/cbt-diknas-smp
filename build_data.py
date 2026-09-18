@@ -3,7 +3,7 @@
 import json, os, sys
 
 DRAFT = 'draft'
-OUT = 'data'
+OUT = 'webapp/data'
 os.makedirs(OUT, exist_ok=True)
 
 def build(pkg, meta, include, fixes=None, drops=None, draft=None):
@@ -27,7 +27,7 @@ def build(pkg, meta, include, fixes=None, drops=None, draft=None):
         imgs = f.get('img', q.get('images', []))
         imgs = [p.replace('img2/', 'img/') for p in imgs]
         typ = f.get('type', 'isian' if q.get('isian') else ('pg' if len(opts) >= 3 else 'pg'))
-        pemb = f.get('pemb', '')
+        pemb = f.get('pemb', q.get('pemb', ''))
         if key is None:
             print(f'!! {pkg} Q{num} TANPA KUNCI - dilewati')
             continue
@@ -50,5 +50,6 @@ def build(pkg, meta, include, fixes=None, drops=None, draft=None):
     pg = sum(1 for q in questions if q['type'] == 'pg')
     isi = len(questions) - pg
     print(f'OK {path} | {len(questions)} soal (pg {pg}, isian {isi})')
+
 
 
