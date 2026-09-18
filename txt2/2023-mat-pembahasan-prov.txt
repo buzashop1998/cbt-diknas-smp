@@ -1,0 +1,372 @@
+<<<PAGE 1>>>
+Halaman 1 dari 19
+SOAL DAN SOLUSI
+OLIMPIADE SAINS TINGKAT PROPINSI 2023
+BIDANG MATEMATIKA SMP
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+SURABAYA
+2023
+SOAL OSP SMP 2023
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 2>>>
+Halaman 2 dari 19
+SOAL OSP SMP 2023
+1. Suatu penampung air berbentuk gabungan balok dan limas terpancung dengan ukuran dalam
+(m) seperti pada gambar berikut.
+Penampung tersebut yang semula kosong diisi air dengan debit 1000 m3/jam.
+Waktu yang dibutuhkan agar air dalam penampungan setinggi √ m adalah .... jam
+2. Diketahui angka satuan dari adalah 9 dan angka satuan adalah 8. Jika bilangan ganjil dan
+bilangan genap serta dan bilangan bulat, maka banyaknya angka satuan dari yang mungkin
+adalah....
+3. Sejumlah bola merah dan bola putih akan disusun memanjang secara acak sehingga
+peluang bola di ujung kiri dan kanan susunan berwarna sama adalah 1/2. Jika diketahui
+, maka banyaknya pasangan ( ) yang mungkin adalah....
+4. Empat puluh dua bilangan berbeda disusun dalam kotak papan dengan 7 baris dan 6 kolom.
+Banyaknya cara memilih 3 bilangan dari baris dan kolom berbeda adalah......
+5. Perhatikan gambar berikut !
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 3>>>
+Halaman 3 dari 19
+Di dalam lingkaran berpusat di O, dibuat dua persegi panjang kongruen ABCD dan EFGH, di mana
+titik-titik A, B, C, D, E, F, G, H terletak pada lingkaran. Garis AB sejajar EF, AB = EH = 2 cm, dan AD =
+EF = 4 cm. Di dalam lingkaran tersebut juga dibuat persegi IJKL, di mana titik I, J, K, L terletak pada
+lingkaran dan diagonal LJ sejajar AB. Jika jumlah luas semua segitiga yang berwarna merah muda
+adalah √ cm2, maka nilai dari adalah....
+6. Diketahui segitiga sama sisi ABC dengan panjang sisi 10 cm. Suatu lingkaran menyinggung sisi
+AB dan AC masing-masing di F dan G. Lingkaran tersebut menyinggung lingkaran luar segitiga
+ABC di titik H. Jika luas daerah segitiga AFG adalah √ cm2, maka nilai dari adalah....
+7. Suatu kerucut memiliki jari-jari alas 3 cm dan panjang sisi miring 5 cm. Kerucut tersebut dicelupkan
+dalam posisi tegak ke dalam suatu wadah cukup besar yang berisi cat. Pada saat keseluruhan alas
+kerucut menyentuh alas wadah cat, ketinggan cat pada wadah adalah 2 cm, sehingga sebagian
+kerucut akan tertutup cat. Jika perbandingan luas permukaan yang tertutup cat terhadap
+keseluruhan permukaan kerucut dapat dinyatakan dalam pecahan paling sederhana , maka nilai
+dari adalah....
+8. Diketahui segitiga ABC dengan panjang sisi AB = 20 cm. Titik P berada pada sisi AB sehingga AP =
+BP = CP. Luas daerah segitiga APC adalah 30 cm2. Jika jarak titik P ke sisi BC adalah cm, maka nilai
+terbesar dari yang mungkin adalah....
+9. Bilangan bulat memenuhi persamaan berikut.
+Sisa perbagian oleh 7 adalah....
+10. Bilangan bulat dan memenuhi
+( )
+( )
+Hasil penjumlahan semua faktor positif dari nilai terbesar yang mungkin adalah....
+11. Pak Andi merupakan salah satu dari 7 calon guru yang berpeluang sama untuk ditempatkan di
+salah satu sekolah, SMP X atau SMP Y. SMP X membutuhkan 2 guru baru, sedangkan SMP Y
+membutuhkan 3 guru baru. Jika peluang pak Andi ditempatkan di SMP X adalah , maka
+nilai adalah.....
+12. Suatu permainan dilakukan dengan mengambil tiga bola sekaligus secara acak dari satu kantong
+yang berisi 31 bola nomor berbeda dari 1 sampai dengan 31. Budi akan menang jika ketiga bola
+yang terambil memenuhi ketiga syarat berkut.
+i. Tidak ada bola nomor 1
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 4>>>
+Halaman 4 dari 19
+ii. Tidak ada bola dengan nomor berurutan
+iii. Rata-rata nomor terbesar dan terkecil lebih besar dari median ketiga nomor yang terambil.
+Jika peluang Budi memenangkan permainan tersebut dapat dinyatakan dalam bentuk pecahan paling
+sederhana maka nilai dari adalah....
+13. Diketahui fungsi-fungsi
+( ) ( ) ( ) ( )
+Dengan ( ) dan untuk , ( )
+( )
+Jika adalah bilangan genap tiga digit sehingga ( ) , maka banyaknya semua nilai yang
+mungkin adalah....
+14. Empat titik berbeda A, B, C, dan D terletak pada lingkaran berjari-jari 7 cm. Diketahui AB : BC =
+3 : 4, AB = AD, dan BC = CD. Titik E adalah perpotongan AC dan BD, melalui E dibuat garis dan
+. Garis tegak lurus BC dan memotong AD di P. Semetara, garis tegak lurus AD dan memotong
+BC di Q. Perbadingan luas daerah segitiga AQP dan PDQ adalah 1 : .....
+15. Didefinisikan ( ) sebagai jumlah semua digit pada bilangan bulat . Banyaknya bilangan bulat
+dengan dan ( ) adalah....
+16. Enam belas titik disusun dalam 4 baris dan 4 kolom sehingga jarak antar titik yang berdekatan
+dalam satu baris dan satu kolom sama. Jika dipiih 3 titik secara acak, maka banyaknya
+kemungkinan bahwa ketiga titik tersebut membentuk suatu segitiga ketika dihubungkan
+adalah....
+17. Jika merupakan akar dari
+maka nilai yang memenuhi ( ( )) adalah....
+18. Bilangan bulat terbesar dengan dan merupakan bilangan kuadrat adalah....
+19. Bilangan real memenuhi persamaan berikut.
+√ √ √ √ √
+√
+Nilai dari adalah....
+20. Misalkan dan adalah bilangan real positif yang memenuhi sistem persamaan berikut.
+Nilai dari adalah....
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 5>>>
+Halaman 5 dari 19
+SOAL DAN SOLUSI OSP SMP 2023
+1. Suatu penampung air berbentuk gabungan balok dan limas terpancung dengan ukuran dalam
+(m) seperti pada gambar berikut.
+Penampung tersebut yang semula kosong diisi air dengan debit 1000 m3/jam.
+Waktu yang dibutuhkan agar air dalam penampungan setinggi √ m adalah .... jam
+SOLUSI :
+Perhatikan gambar berikut !
+Warna biru menunjukkan air, JK = 10, maka JL = √ . Dengan pythagoras maka GH = √
+dan CD = BA = √ . Sekarang, Perhatikan bahwa , sehingga berlaku
+√
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 6>>>
+Halaman 6 dari 19
+( )( )( )
+( )
+( )( )( )
+√
+2. Diketahui angka satuan dari adalah 9 dan angka satuan adalah 8. Jika bilangan ganjil dan
+bilangan genap serta dan bilangan bulat, maka banyaknya angka satuan dari yang mungkin
+adalah....
+SOLUSI :
+ Karena angka satuan adalah 9, maka angka satuan yang mungkin adalah , atau 9.
+ Jika , maka angka satuan yang mungkin adalah 2, 6, 0, 4, 8.
+ Jika mala angka satuan yang mungkin adalah 2, 6, 0, 4, 8.
+ Jika mala ganjil, sehingga angka satuan yang mungkin adalah 1, 3, 5, 7, 9.
+ Karena angka satuan adalah 8, maka angka satuan yang mungkin adalah atau 8.
+ Jika , maka angka satuan yang mungkin adalah 3, 7, 1, 5, 9.
+ Jika mala angka satuan yang mungkin adalah 1, 5, 9, 3, 7.
+Angka satuan dari mungkin adalah 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (ada 10).
+3. Sejumlah bola merah dan bola putih akan disusun memanjang secara acak sehingga
+peluang bola di ujung kiri dan kanan susunan berwarna sama adalah 1/2. Jika diketahui
+, maka banyaknya pasangan ( ) yang mungkin adalah....
+SOLUSI :
+( ) ( )
+( ) ( ) ( ) ( )
+( ) ( )
+( ) ( )( )
+( )
+Karena , maka sehingga ada 60 pasangan ( ) yang
+memenuhi.
+4. Empat puluh dua bilangan berbeda disusun dalam kotak papan dengan 7 baris dan 6 kolom.
+Banyaknya cara memilih 3 bilangan dari baris dan kolom berbeda adalah......
+SOLUSI :
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 7>>>
+Halaman 7 dari 19
+Banyaknya nya cara memilih bilangan pertama adalah 42 cara. Sampai disini, ada 42 12 = 30 cara
+untuk memilih bilangan kedua yang tidak sebaris dan tidak sekolom dengan bilangan pertama.
+Sisanya, ada 42 22 = 20 cara untuk memilih bilangan ketiga yang tidak sebaris dan tidak sekolom
+dengan bilangan pertama dan kedua.
+5. Perhatikan gambar berikut !
+Di dalam lingkaran berpusat di O, dibuat dua persegi panjang kongruen ABCD dan EFGH, di mana
+titik-titik A, B, C, D, E, F, G, H terletak pada lingkaran. Garis AB sejajar EF, AB = EH = 2 cm, dan AD =
+EF = 4 cm. Di dalam lingkaran tersebut juga dibuat persegi IJKL, di mana titik I, J, K, L terletak pada
+lingkaran dan diagonal LJ sejajar AB. Jika jumlah luas semua segitiga yang berwarna merah muda
+adalah √ cm2, maka nilai dari adalah....
+SOLUSI :
+Jelas bahwa, dengan pythagoras OFM, diperoleh √ .
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 8>>>
+Halaman 8 dari 19
+Jelas bahwa OIJ MNJ FNP, sehingga √ √ .
+, - ( ) ( √ ) , - ( ) √
+, - , - √ , maka Jadi, .
+6. Diketahui segitiga sama sisi ABC dengan panjang sisi 10 cm. Suatu lingkaran menyinggung sisi
+AB dan AC masing-masing di F dan G. Lingkaran tersebut menyinggung lingkaran luar segitiga
+ABC di titik H. Jika luas daerah segitiga AFG adalah √ cm2, maka nilai dari adalah....
+SOLUSI
+Misalkan O pusat lingkaran kecil dan jari-jari lingkaran kecil, maka OF AB. Dengan kesimetrisan
+maka AH melalui O. Karena AH diameter lingkaran besar, maka HB AB, kaena ABC sama sisi, maka
+BAH = , dan BHA = , sehingga BH : AH : AB = 1 : 2 : √ . Diketahui AB = 10, maka BH =
+√
+dan AH = Jelas sehingga berlaku :
+√
+√
+√ √
+, - √ √
+7. Suatu kerucut memiliki jari-jari alas 3 cm dan panjang sisi miring 5 cm. Kerucut tersebut dicelupkan
+dalam posisi tegak ke dalam suatu wadah cukup besar yang berisi cat. Pada saat keseluruhan alas
+kerucut menyentuh alas wadah cat, ketinggan cat pada wadah adalah 2 cm, sehingga sebagian
+kerucut akan tertutup cat. Jika perbandingan luas permukaan yang tertutup cat terhadap
+keseluruhan permukaan kerucut dapat dinyatakan dalam pecahan paling sederhana , maka nilai
+dari adalah....
+SOLUSI :
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 9>>>
+Halaman 9 dari 19
+Dengan tripel pythagoras segitiga ACD, maka AC = 4, AB = BC = 2. Karena B titik tengah AC dan BE
+sejajar CD, maka E titik tengah ED sehingga BE = dan .
+Luas permukaan limas yang terkena cat luas alas + luas selimut
+Luas permukaan limas yang terkena cat ( ) ( )( ) . /. /
+Luas permukaan limas ( ) ( )( )
+Perbandingan luas permukaan yang tertutup cat terhadap seluruh permukaan kerucut .
+Diperoleh , . Nilai dari .
+8. Diketahui segitiga ABC dengan panjang sisi AB = 20 cm. Titik P berada pada sisi AB sehingga AP =
+BP = CP. Luas daerah segitiga APC adalah 30 cm2. Jika jarak titik P ke sisi BC adalah cm, maka nilai
+terbesar dari yang mungkin adalah....
+SOLUSI :
+Karena P titik tengah AB, maka , - , - dan
+Dengan pythagoras PDB, maka
+( ) ( )( )
+Jadi, nilai terbesar dari yang mungkin adalah 90.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 10>>>
+Halaman 10 dari 19
+9. Bilangan bulat memenuhi persamaan berikut.
+Sisa perbagian oleh 7 adalah....
+SOLUSI :
+( )
+Perhatikan bahwa , dengan adalah bilangan asli dan .
+( ) . / . / . / . / ( ).
+( ) ( )
+Dengan menggunakan Teorema Wilson, dperoleh :
+( ) ( ) ( ) sehingga ( ) ( )
+Jadi, dibagi 7 bersisa 1.
+10. Bilangan bulat dan memenuhi
+( )
+( )
+Hasil penjumlahan semua faktor positif dari nilai terbesar yang mungkin adalah....
+SOLUSI :
+Misalkan dan , maka . Perhatikan bahwa :
+⏟ ( )(( ) ( ) ) )
+( )(( ) ( ) ( ) )
+Sehingga atau ( ) ( ) ( ) , diperoleh atau
+, untuk suatu bilangan bulat .
+ Jika , maka ( ) ( ), diperoleh atau , maka
+terbesar untuk kasus ini adalah 6. Ambil , cek ke pertidaksamaan yang ketiga, maka
+( ) (memenuhi).
+ Jika , maka , diperoleh atau .
+Jadi, terbesar adalah 6 dan jumlah semua faktor positifnya adalah .
+11. Pak Andi merupakan salah satu dari 7 calon guru yang berpeluang sama untuk ditempatkan di
+salah satu sekolah, SMP X atau SMP Y. SMP X membutuhkan 2 guru baru, sedangkan SMP Y
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 11>>>
+Halaman 11 dari 19
+membutuhkan 3 guru baru. Jika peluang pak Andi ditempatkan di SMP X adalah , maka
+nilai adalah.....
+SOLUSI :
+. /. /
+. /. /
+12. Suatu permainan dilakukan dengan mengambil tiga bola sekaligus secara acak dari satu kantong
+yang berisi 31 bola nomor berbeda dari 1 sampai dengan 31. Budi akan menang jika ketiga bola
+yang terambil memenuhi ketiga syarat berkut.
+i. Tidak ada bola nomor 1
+ii. Tidak ada bola dengan nomor berurutan
+iii. Rata-rata nomor terbesar dan terkecil lebih besar dari median ketiga nomor yang terambil.
+Jika peluang Budi memenangkan permainan tersebut dapat dinyatakan dalam bentuk pecahan paling
+sederhana maka nilai dari adalah....
+SOLUSI :
+Misalkan dengan adalah nomor kemenangan Budi, maka .
+ Jika , maka (tidak memenuhi syarat (iii))
+ Jika , maka , nilai dapat diisi oleh 2, 3, ... , 26 (ada 1 x 25)
+ Jika , maka , nilai dapat diisi oleh 2, 3, ... , 25 (ada 1 x 24)
+ Jika , maka atau , nilai dapat diisi oleh 2, 3, ... , 24 (ada 2 x 23)
+ Jika , maka atau , nilai dapat diisi oleh 2, 3, ... , 23 (ada 2 x 22)
+dan seterusnya....... , sehingga mengikuti pola berikut.
+Banyaknya nomor kemenangan Budi
+( ) ( ) ( ) ( ) ( )
+( ( )) ( ( )) ( ( )) ( ( )) ( ( ))
+( ) ( )
+( )( ) ( )( )( )
+. /
+13. Diketahui fungsi-fungsi
+( ) ( ) ( ) ( )
+( ) ( )
+( )
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 12>>>
+Halaman 12 dari 19
+Jika adalah bilangan genap tiga digit sehingga ( ) , maka banyaknya semua nilai yang
+mungkin adalah....
+SOLUSI :
+( ) ( )
+( )
+( ) ( ) ( ) ( )
+. / . /
+Dengan demikian,
+( )
+( )
+( )
+( )
+{
+ Untuk ( ), maka ( ) , terpenuhi untuk setiap ( ).
+ ( ) ( ) tidak ada bilangan bulat yang memenuhi.
+ ( ) ( ) tidak ada bilangan bulat yang memenuhi.
+Nilai yang memenuhi adalah 100, 106, 112, .... , 994 (ada sebanyak 150)
+14. Empat titik berbeda A, B, C, dan D terletak pada lingkaran berjari-jari 7 cm. Diketahui AB : BC =
+3 : 4, AB = AD, dan BC = CD. Titik E adalah perpotongan AC dan BD, melalui E dibuat garis dan
+. Garis tegak lurus BC dan memotong AD di P. Semetara, garis tegak lurus AD dan memotong
+BC di Q. Perbadingan luas daerah segitiga AQP dan PDQ adalah 1 : .....
+SOLUSI :
+Karena AB = AD dan BC = CD, maka jelas bahwa ABCD layang-layang, sehingga AC BD.
+Misalkan , maka
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 13>>>
+Halaman 13 dari 19
+dan
+Akibatnya DP = PE = PA. Berarti P titik tengah AD sehingga , - , -
+15. Didefinisikan ( ) sebagai jumlah semua digit pada bilangan bulat . Banyaknya bilangan bulat
+dengan dan ( ) adalah....
+SOLUSI :
+Misalkan ̅̅ ̅̅ ̅ maka , dengan * +. Misalkan dan ,
+maka , dengan , , dan .
+ Untuk , , banyaknya yang memenuhi adalah . /
+ Untuk , , banyaknya yang memenuhi adalah . / . /
+ Untuk , , banyaknya yang memenuhi adalah
+. / . / . /
+ Untuk , , banyaknya yang memenuhi adalah
+. / . / . /
+Jadi, total banyaknya yang memenuhi adalah 45 + 54 + 61+ 66 = 226.
+16. Enam belas titik disusun dalam 4 baris dan 4 kolom sehingga jarak antar titik yang berdekatan
+dalam satu baris dan satu kolom sama. Jika dipiih 3 titik secara acak, maka banyaknya
+kemungkinan bahwa ketiga titik tersebut membentuk suatu segitiga ketika dihubungkan
+adalah....
+SOLUSI :
+Tiga titik yang segaris tidak bisa dibentuk segitiga. Garis hitam (vertikal/horisontal) dan garis biru
+memuat tiga titik yang segaris. Oleh karena itu,
+. / . / . /
+17. Jika merupakan akar dari
+maka nilai yang memenuhi ( ( )) adalah....
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 14>>>
+Halaman 14 dari 19
+SOLUSI :
+, akibatnya ( ( ))
+( ) ( ( )) ( )
+18. Bilangan bulat terbesar dengan dan merupakan bilangan kuadrat adalah....
+SOLUSI :
+Agar merupakan bilangan kuadrat maka , untuk suatu bilangan asli
+Nilai terbesar yang memenuhi adalah 243.
+19. Bilangan real memenuhi persamaan berikut.
+√ √ √ √ √
+√
+Nilai dari adalah....
+SOLUSI :
+√ √ √ √ √ √ √
+√
+√ ( √ ) √ √ √ kuadratkan kedua ruas, maka
+√ ( √ ) √ ,
+diperoleh .
+20. Misalkan dan adalah bilangan real positif yang memenuhi sistem persamaan berikut.
+Nilai dari adalah....
+SOLUSI :
+( ) ( )
+( ) ( )( )
+Kontradiksi dengan bilangan real positif. Oke, Sekarang coba kita abakan kalimat “ dan
+adalah bilangan real positif”, maka dengan menerapkan teorema Vieta, , , dan merupakan
+akar-akar dari polinom kubik : ( )( )
+Diperoleh dan permutasinya. Jadi, nilai dari
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481

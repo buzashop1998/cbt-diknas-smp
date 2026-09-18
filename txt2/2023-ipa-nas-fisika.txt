@@ -1,0 +1,323 @@
+<<<PAGE 1>>>
+PAKET A
+FISIKA
+PILIHAN GANDA
+1. Ga(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)mbar berikut menunjukkan percepatan benda A, B, dan C yang bergerak pada sumbu-x.
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+Kecepatan awal benda A, B, dan C berturut-turut adalah (cid:3398)2 m/s, 0 m/s, dan (cid:3397)1 m/s. Urutan benda
+berdasarkan kecepatan akhirnya dari kecepatan terbesar ke kecepatan terkecil adalah ….
+(A) A, B, C
+(B) B, C, A
+(C) C, B, A
+(D) A, C, B
+2. Sebuah benda bergerak pada sebuah bidang di bawah pengaruh gaya gravitasi. Grafik energi
+potensial dan energi kinetik benda terhadap waktu ditunjukkan pada gambar.
+Pernyataan yang benar untuk gerak benda tersebut adalah ….
+A. benda bergerak pada bidang datar licin
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+B. benda bergerak pada bidang datar kasar
+C. benda bergerak pada bidang miring licin
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+D. benda bergerak pada bidang miring kasar
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+3. Pada tekanan 1(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) atm suhu air mendidih yang terukur oleh sebuah termometer adalah 80 derajat. Saat
+digunakan untuk mengukur air bersuhu 60 C, termometer ini menunjukkan hasil pengukuran
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+sebesar 52 derajat. Pada tekanan 1 atm air membeku pada suhu … derajat.
+A.  20
+B.  14
+C. 10
+D. 20
+
+<<<PAGE 2>>>
+(cid:0)(cid:3)
+(cid:0)(cid:3)
+(cid:17)(cid:0)(cid:23)(cid:0) (cid:0)(cid:3) (cid:0)3(cid:0)(cid:0)DG(cid:0)(cid:0)D(cid:3)(cid:0)V(cid:0)X(cid:0)(cid:0)DW(cid:0)(cid:0)X(cid:3)(cid:0)E(cid:0)(cid:0)HM(cid:0)(cid:0)DQ(cid:0)(cid:0)D(cid:0)(cid:15)(cid:3)(cid:0)V(cid:0)H(cid:0)(cid:0)SR(cid:0)W(cid:0)(cid:0)RQ(cid:0)(cid:0)J(cid:3)(cid:0)O(cid:0)(cid:0)RJ(cid:0)(cid:0)DP(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)E(cid:0)(cid:0)H(cid:0)UP(cid:0)(cid:0)DV(cid:0)(cid:0)VD(cid:0)(cid:3)(cid:0)(cid:0)(cid:24)(cid:19)(cid:0)(cid:3)(cid:0)J(cid:0)U(cid:0)(cid:0)DP(cid:0)(cid:3)(cid:0)W(cid:0)(cid:0)HU(cid:0)(cid:0)H(cid:0)QG(cid:0)(cid:0)DP(cid:0)(cid:3)(cid:0)(cid:0)GL (cid:0)(cid:3)(cid:0)(cid:0)G(cid:0)DO(cid:0)D(cid:0)(cid:0)(cid:3)P(cid:0)(cid:24)(cid:0)(cid:19)(cid:0)(cid:19)(cid:0)(cid:3)(cid:0)P(cid:0)O(cid:0)(cid:3)(cid:0)(cid:0)DL(cid:0)U(cid:0)(cid:3)(cid:0)(cid:0)SD(cid:0)(cid:0)GD(cid:0)(cid:3)(cid:0)(cid:0)XV(cid:0)(cid:0)KX(cid:0)(cid:3)
+Q(cid:0)D(cid:0)E(cid:0)P(cid:0)L(cid:0)W(cid:3)(cid:0)(cid:0)HJ(cid:0)(cid:0)V(cid:0)(cid:3)(cid:0)(cid:25)(cid:0)(cid:21)(cid:0) (cid:0)q (cid:0)&(cid:0)(cid:0)(cid:17)(cid:3)(cid:0)(cid:0)(cid:0).H(cid:3)(cid:0)(cid:0)G(cid:0)DO(cid:0)D(cid:0)(cid:0)(cid:3)P(cid:0)E(cid:0)(cid:0)HM(cid:0)(cid:0)DQ(cid:0)(cid:0)D(cid:3)(cid:0)W(cid:0)(cid:0)HU(cid:0)V(cid:0)(cid:0)H(cid:0)EX(cid:0)W(cid:0)(cid:3)(cid:0)G(cid:0)L(cid:0)(cid:0)(cid:0)X(cid:0)WDQ(cid:0)J(cid:0)(cid:0)(cid:0)DQN(cid:0)(cid:3)(cid:0)(cid:24)(cid:0)(cid:0)(cid:19)(cid:0)(cid:19)(cid:3)(cid:0)P(cid:0)O(cid:0)(cid:3)(cid:0)(cid:0)(cid:0)UDL(cid:0)(cid:3)(cid:0)(cid:0)EH(cid:0)(cid:0)UV(cid:0)(cid:0)XK(cid:0)(cid:0)(cid:3)X(cid:0)(cid:0)(cid:27)(cid:0)(cid:25)(cid:3) (cid:0)q (cid:0)&(cid:0)(cid:3)(cid:0)V(cid:0)(cid:0)H(cid:0)KL(cid:0)Q(cid:0)(cid:0)JJ(cid:0)(cid:0)D(cid:3)(cid:0)(cid:0)XV(cid:0)(cid:0)KX(cid:0)(cid:3)
+U(cid:0)(cid:3)DV(cid:0)(cid:0)(cid:0)EV(cid:3)(cid:0)(cid:22)(cid:0)(cid:0)HS(cid:0)HL(cid:0)(cid:0)(cid:0)(cid:0)D(cid:25)JD(cid:0)G(cid:0)(cid:0)U(cid:0)F(cid:0)\Q(cid:0)N(cid:0)(cid:3)(cid:3)(cid:0)(cid:0)(cid:3)L(cid:0)L(cid:0)(cid:0)(cid:0)(cid:0)D(cid:0)DK(cid:0)(cid:0)(cid:0) (cid:0)q (cid:0)(cid:17)(cid:0)&(cid:0)(cid:3)(cid:0)0(cid:0)D(cid:0)V(cid:0)V(cid:0)D(cid:0)(cid:3)(cid:0)M(cid:0)H(cid:0)Q(cid:0)L(cid:0)V(cid:0)(cid:3)(cid:0)G(cid:0)D(cid:0)Q(cid:0)(cid:3)(cid:0)N(cid:0)D(cid:0)O(cid:0)R(cid:0)U(cid:0)(cid:3)(cid:0)M(cid:0)H(cid:0)Q(cid:0)L(cid:0)V (cid:0)(cid:3)(cid:0)D(cid:0)L(cid:0)U(cid:0)(cid:3)(cid:0)D(cid:0)G(cid:0)D(cid:0)O(cid:0)D(cid:0)K(cid:0)(cid:3)(cid:0)(cid:20)(cid:0)(cid:3)(cid:0)N(cid:0)J (cid:0)(cid:18)(cid:0)O(cid:0)L(cid:0)W(cid:0)H(cid:0)U(cid:0)(cid:3)(cid:0)G(cid:0)D(cid:0)Q(cid:0)(cid:3)(cid:0)(cid:23)(cid:0)(cid:15)(cid:0)(cid:21)(cid:0)(cid:3)(cid:0)N(cid:0)- (cid:0)(cid:18)(cid:0)(cid:0)JN(cid:0)(cid:17) (cid:0)q (cid:0)&(cid:0)(cid:17)(cid:0)(cid:3)
+(cid:0)-(cid:0)L(cid:0)(cid:0)ND(cid:0)(cid:0)(cid:3)(cid:0)ND(cid:0)O(cid:0)(cid:0)RU(cid:0)(cid:0)(cid:3)(cid:0)\D(cid:0)(cid:0)QJ(cid:0)(cid:0)(cid:3)G(cid:0)L(cid:0)(cid:0)HV(cid:0)(cid:0)(cid:0)UDS(cid:0)(cid:18)(cid:0)(cid:0)G(cid:0)L(cid:0)(cid:0)HSO(cid:0)(cid:0)DV(cid:0)(cid:0)(cid:3)E(cid:0)(cid:0)HM(cid:0)(cid:0)DQ(cid:0)(cid:0)D(cid:0)(cid:3)G(cid:0)L(cid:0)(cid:0)DE(cid:0)(cid:0)DL(cid:0)(cid:0)ND(cid:0)(cid:0)Q(cid:0)(cid:15)(cid:3)(cid:0)(cid:0)N(cid:0)DO(cid:0)R(cid:0)(cid:0)U(cid:3)(cid:0)M(cid:0)(cid:0)H(cid:0)QL(cid:0)V(cid:0)(cid:0)(cid:3)O (cid:0)R(cid:0)J(cid:0)(cid:0)(cid:0)(cid:3)PD(cid:0)(cid:0)DV(cid:0)(cid:0)(cid:0)DP(cid:3)(cid:0)(cid:0)G(cid:0)HQ(cid:0)J(cid:0)(cid:0)D(cid:0)Q(cid:3)(cid:0)(cid:0)«(cid:0)(cid:3)N(cid:0)(cid:0)(cid:18)-(cid:0)N(cid:0)J(cid:0)(cid:17) (cid:0)q (cid:3)(cid:17)(cid:0)(cid:0)(cid:3)&(cid:0)(cid:0)
+(cid:17)(cid:0)$(cid:0) (cid:0)(cid:3) (cid:27)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:23)(cid:0)(cid:15)(cid:0) (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)%(cid:0)(cid:17) (cid:0)(cid:3) (cid:25)(cid:0)(cid:20)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:27)(cid:0)(cid:15)(cid:0)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)&(cid:0)(cid:17) (cid:0)(cid:3) (cid:23)(cid:0)(cid:27)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:15)(cid:0)
+(cid:17)(cid:0)’(cid:0) (cid:0)(cid:3) (cid:3)(cid:0)(cid:25)(cid:0)(cid:20)(cid:0)(cid:19)(cid:0)(cid:15)(cid:0)(cid:27)(cid:0)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)(cid:3)
+(cid:17)(cid:0)(cid:24)(cid:0) (cid:0)(cid:3) X(cid:0)6(cid:0)(cid:3)(cid:0)X(cid:0)WQ(cid:0)(cid:0)GD(cid:0)(cid:0)(cid:3)(cid:0)W(cid:0)JD(cid:0)(cid:0)QZ(cid:0)(cid:0)D(cid:0)N(cid:0)J(cid:0)H(cid:0)Q(cid:0)D(cid:0)(cid:3)(cid:0)(cid:24)D(cid:0)(cid:3)(cid:0)(cid:15)(cid:0)M(cid:0)D(cid:0)(cid:19)(cid:0)Q(cid:0)G(cid:0)(cid:3)(cid:0)D(cid:0)D(cid:0)(cid:0)SS(cid:0)(cid:0)(cid:3)Q(cid:3)(cid:0)E(cid:0)(cid:0)(cid:0)DD(cid:3)(cid:0)(cid:0)(cid:0)GGP(cid:0)(cid:0)(cid:0)HD(cid:0)(cid:0)PUQ(cid:0)(cid:0)(cid:0)J(cid:0)D(cid:0)P(cid:0)(cid:3)H(cid:0)(cid:0)K(cid:0)(cid:3)(cid:0)W(cid:0)H(cid:0)R(cid:0)P(cid:0)R(cid:0)J(cid:0) (cid:0)H(cid:0)Q(cid:0)(cid:3)(cid:0)(cid:21)(cid:0)(cid:19) (cid:0)(cid:3)(cid:0)(cid:0)L(cid:0)PN(cid:0)(cid:0)UR(cid:0)W(cid:0)(cid:0)HV(cid:0)O(cid:0)(cid:0)D(cid:0)(cid:3)G(cid:0)(cid:0)HQ(cid:0)(cid:0)J(cid:0)DQ(cid:0)(cid:3)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:3)(cid:0)$(cid:0)(cid:3)X(cid:0)(cid:0)ULE(cid:0)G(cid:0)X(cid:0)H(cid:0)U(cid:0)H(cid:3)(cid:0)(cid:3)(cid:0)U(cid:0)(cid:0)W(cid:0)L(cid:0)V(cid:23)(cid:0)W(cid:0)D(cid:0)(cid:0)(cid:3)(cid:0)O(cid:0)(cid:3)(cid:0)(cid:0)LV(cid:0)WD(cid:0)(cid:0)(cid:0)(cid:0)DDD(cid:17)(cid:0)(cid:0)(cid:0)(cid:0)NN(cid:0)(cid:0)Z(cid:3)L(cid:0)(cid:0)(cid:0)-(cid:0)(cid:3)(cid:0)DU(cid:0)(cid:3)(cid:0)(cid:0)GXDK(cid:0)V(cid:0)(cid:0)(cid:0)L(cid:0)D(cid:0)U(cid:0)(cid:0)Q(cid:3)D(cid:0)P(cid:0)(cid:0)DN(cid:0)JE(cid:0)(cid:0)(cid:0)(cid:0)(cid:3)P(cid:0)(cid:0)JE(cid:0)(cid:0)D(cid:0) (cid:0)N(cid:0)(cid:0)H(cid:0)(cid:3)D(cid:0)(cid:0)U(cid:0)DK(cid:0)(cid:0)(cid:3)N(cid:0)(cid:0)D(cid:0)QD(cid:0)(cid:0)Q(cid:0)(cid:15)(cid:3)(cid:0)(cid:0)(cid:0)J\D(cid:0)(cid:0)D(cid:3)(cid:0)(cid:0)/(cid:0)RU(cid:0)(cid:0)HQ(cid:0)W(cid:0)(cid:0)](cid:0)(cid:3)\(cid:0)(cid:0)D(cid:0)QJ(cid:0)(cid:3)
+(cid:3)(cid:0)VW(cid:0)S(cid:0)NEU(cid:0)GD(cid:0)(cid:0)(cid:0)(cid:3)(cid:3)(cid:17)(cid:3)(cid:0)(cid:0)(cid:3)WH(cid:0)(cid:0)(cid:0)(cid:0)DZ(cid:0)(cid:0)(cid:0)WK(cid:17)D(cid:0)H(cid:0)(cid:0)D(cid:0)(cid:0)(cid:0)G(cid:0)HDXO(cid:0)D(cid:17)EM(cid:0)D(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)D(cid:0)(cid:17)(cid:3)NU(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)H(cid:0) (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) (cid:0)(cid:3)(cid:0)(cid:3)
+(cid:3)(cid:0)(cid:17)(cid:0)$(cid:0)(cid:15)(cid:0)(cid:21)(cid:0)N(cid:0)L(cid:0)P(cid:0)(cid:3)(cid:0)(cid:24)(cid:0)Q(cid:0)R(cid:0)W(cid:0)Z(cid:0)H(cid:0)Q(cid:0)R(cid:0)U(cid:0)(cid:3)(cid:0)V(cid:0)D(cid:0)W(cid:0)D(cid:0)(cid:3)(cid:0)H(cid:0)N(cid:0)(cid:3)(cid:0)
+(cid:21)(cid:0)(cid:3)(cid:0)(cid:17)(cid:0)%(cid:0)R(cid:0)W(cid:0)Z(cid:0)H(cid:0)Q(cid:0)(cid:24)(cid:0)(cid:15)(cid:0)(cid:3)(cid:0)Q(cid:0)R(cid:0)U(cid:0)N(cid:0)L(cid:0)P(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)H(cid:0)N(cid:0)(cid:3)(cid:0)K(cid:0)D(cid:0)Z(cid:0)D(cid:0)E(cid:0)
+(cid:0)&(cid:0)(cid:0)(cid:17)(cid:0)(cid:3)(cid:23)(cid:0)(cid:0)(cid:19)(cid:3)(cid:0)(cid:0)L(cid:0)PN(cid:0)(cid:0)UR(cid:0)(cid:0)HQ(cid:0)(cid:0)ZW(cid:0)(cid:0)RQ(cid:0)(cid:0)(cid:3)N(cid:0)(cid:0)H(cid:0)(cid:3)(cid:0)DW(cid:0)D(cid:0)V(cid:0)(cid:3)
+R(cid:0)(cid:3)W(cid:0)(cid:0)(cid:17)Z(cid:0)(cid:0)’H(cid:0)(cid:0)(cid:3)Q(cid:0)(cid:0)Q(cid:19)R(cid:0)(cid:0)(cid:0)(cid:23)U(cid:0)(cid:0)(cid:3)N(cid:3)(cid:0)(cid:0)(cid:0)HLK(cid:0)(cid:0)(cid:0)NPD(cid:0)(cid:0)(cid:0)(cid:3)Z(cid:0)(cid:0)D(cid:0)E(cid:0)
+(cid:0)(cid:3)
+(cid:17)(cid:0)(cid:25)(cid:0) (cid:0)(cid:3) J(cid:0)SSQH(cid:0)(cid:0)(cid:0)(cid:0)LD(cid:3)GDW(cid:0)(cid:0)Q(cid:0)(cid:0)(cid:0)(cid:0)GN(cid:0)OV(cid:3)(cid:0)(cid:0)(cid:3)D(cid:0)(cid:0)(cid:0)(cid:3)L(cid:0)(cid:0)HDD(cid:0)(cid:0)J(cid:0)(cid:0)(cid:0)-(cid:0)UOD(cid:0)(cid:0)(cid:0)(cid:0)D(cid:0)SD(cid:0)(cid:0) (cid:0)(cid:20)(cid:0)(cid:19)(cid:0)(cid:3)(cid:0)Y(cid:0)R(cid:0)O(cid:0)W(cid:0)(cid:3)(cid:0)P(cid:0)D(cid:0)N(cid:0)D(cid:0)(cid:3)(cid:0)G(cid:0)D(cid:0)(cid:0)J\(cid:0)(cid:0)DD(cid:0)(cid:0)Q(cid:3)(cid:0)(cid:0)(cid:3)W(cid:0)(cid:0)(cid:20)R(cid:0)W(cid:0)D(cid:0)O(cid:0)(cid:3)(cid:0)W(cid:0)L (cid:3)N(cid:0)E(cid:0)U(cid:0)L(cid:0)H(cid:0)D(cid:0)W(cid:0)V(cid:0)V(cid:0)Q(cid:0)(cid:3)X(cid:0)HX(cid:0)(cid:0)H(cid:0)(cid:0)S(cid:0)K(cid:0)G(cid:3)(cid:0)P(cid:0)(cid:0)(cid:0)LDD(cid:24)(cid:0)(cid:0)(cid:3)(cid:0)(cid:0)DJ(cid:0)(cid:23)O(cid:0)(cid:0)(cid:0)(cid:0)(cid:3)(cid:0)E(cid:0)(cid:3)(cid:0)
+JQ(cid:0)(cid:0)HD(cid:0)(cid:0)WSQ(cid:0)G(cid:0)(cid:0)(cid:3)(cid:0)(cid:3)D(cid:0)D(cid:0)J(cid:0)D(cid:0)(cid:0)SV(cid:0)(cid:3)(cid:0)(cid:0)(cid:0)LDD(cid:0)(cid:0)(cid:0)GN(cid:0)(cid:3)(cid:0)E(cid:0)L(cid:0)W(cid:0)H(cid:0)MX(cid:0)(cid:0)E(cid:0)SV(cid:0)(cid:0)(cid:0)D(cid:3)(cid:3)HPU(cid:0)(cid:0)(cid:0)XK(cid:0)X(cid:0)(cid:0)(cid:0)(cid:0)V(cid:0)DHOW(cid:0)\(cid:0)(cid:0)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)V(cid:0)(cid:0)D(cid:0)UD(cid:0)H(cid:0)G(cid:0)(cid:17)(cid:0)D(cid:0)(cid:0)%(cid:0)W(cid:0)(cid:0)(cid:3)W(cid:0)(cid:0)D(cid:0)Z(cid:0) (cid:21)(cid:0)(cid:3)(cid:0)YKQ(cid:0)(cid:0)(cid:0)(cid:3)DD(cid:0)(cid:0)(cid:0)(cid:3)(cid:19)O(cid:17)(cid:3)J(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)W(cid:21)D(cid:17)(cid:17)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)OG(cid:17)W(cid:0)(cid:0)(cid:0)(cid:0)R(cid:3)W(cid:0)(cid:0)(cid:0)D(cid:0)DZ(cid:0)(cid:0)
+(cid:3)(cid:0)(cid:17)(cid:0)(cid:3)$(cid:0)(cid:0)(cid:24)(cid:0)(cid:23)(cid:0)
+(cid:0)%(cid:0)(cid:17)(cid:0)(cid:3)(cid:0)(cid:25)(cid:0)(cid:19)(cid:0)(cid:3)
+(cid:0)&(cid:0)(cid:17)(cid:0)(cid:3)(cid:0)(cid:28)(cid:0)(cid:19)(cid:0)(cid:3)
+(cid:3)(cid:3)(cid:0)(cid:0)(cid:17)(cid:27)(cid:0)(cid:0)’(cid:20)(cid:0)(cid:0)(cid:19)(cid:0)
+(cid:0)(cid:3)
+(cid:17)(cid:0)(cid:26)(cid:0) (cid:0)(cid:3) (cid:0)V(cid:0)&(cid:0)(cid:3)(cid:0)(cid:0)GD(cid:0)Q(cid:0)(cid:3)(cid:0)%(cid:0)(cid:15)(cid:0)(cid:3)(cid:0)(cid:15)(cid:0)(cid:0)$(cid:3)(cid:0)Y(cid:0)H(cid:0)U(cid:0)W(cid:0)L(cid:0)N(cid:0)D(cid:0)O(cid:0)(cid:3)(cid:0)S(cid:0)L(cid:0)S(cid:0)D(cid:0)(cid:3)(cid:0)L(cid:0)J(cid:0)D(cid:0)(cid:3)(cid:0)7 (cid:0)(cid:0).E(cid:0)(cid:0)H(cid:0)(cid:0)DZD(cid:0)(cid:0)KQ(cid:0)(cid:0)\(cid:0)D(cid:0)(cid:17)G(cid:0)(cid:0)(cid:0)(cid:3)LW(cid:0)(cid:0)(cid:0)(cid:3)HU(cid:0)(cid:0)X(cid:0)K(cid:0)(cid:0)D(cid:0)OEX(cid:0)(cid:0)L(cid:0)Q(cid:0)(cid:0)JQ(cid:0)(cid:3)(cid:0)(cid:3)J (cid:0)V(cid:0)X(cid:0)D(cid:0)W(cid:0)X(cid:0)(cid:3)(cid:0)G(cid:0)L(cid:0)L(cid:0)V(cid:0)L(cid:0)N(cid:0)(cid:0)(cid:3)D(cid:0)Q(cid:0)L(cid:0)W(cid:0)X(cid:0)(cid:3)(cid:0)(cid:0)S(cid:0)(cid:3)(cid:0)DL(cid:0)S(cid:0)V(cid:0)L(cid:0)V(cid:0)W(cid:0)(cid:0)(cid:3)H(cid:0)P(cid:0)(cid:0)(cid:0)(cid:0)G(cid:3)DD(cid:0)(cid:0)OP(cid:0)(cid:3)
+(cid:0)F(cid:0)D(cid:0)L(cid:0)U(cid:0)D(cid:0)Q(cid:0)(cid:17)(cid:0)(cid:3)(cid:0)L(cid:0)D(cid:0)S(cid:0)(cid:3)(cid:0)7(cid:0)S(cid:0)L(cid:0)S(cid:0)D(cid:0)(cid:3)(cid:0)(cid:0)LH(cid:0)(cid:0)(cid:0)OPP(cid:0)L(cid:0)N(cid:0)L(cid:0)(cid:3)(cid:0)S(cid:0)L(cid:0)V(cid:0)W(cid:0)R(cid:0)Q (cid:0)(cid:3)(cid:0)V(cid:0)H(cid:0)E(cid:0)D(cid:0)J(cid:0)D(cid:0)L(cid:0)(cid:3)(cid:0)(cid:0)SH(cid:0)Q(cid:0)X(cid:0)W(cid:0)X(cid:0)S(cid:0)(cid:3)(cid:0)(cid:0)\D(cid:0)Q(cid:0)J(cid:0)(cid:3)(cid:0)G(cid:0)D(cid:0)S(cid:0)D(cid:0)W(cid:0)(cid:3)(cid:0)E(cid:0)H (cid:0)J(cid:0)(cid:0)H(cid:0)(cid:0)UDU(cid:0)(cid:0)N(cid:3)(cid:0)Q(cid:0)(cid:0)DL(cid:0)N(cid:0)(cid:3)(cid:0)D(cid:0)W(cid:0)(cid:0)D(cid:0)X(cid:3)(cid:0)W(cid:0)X(cid:0)(cid:0)UX(cid:0)(cid:0)Q(cid:3)(cid:0)(cid:0)DW(cid:0)(cid:0)QS(cid:0)(cid:0)D(cid:3)
+(cid:3)D(cid:0)(cid:0)(cid:17)N(cid:0)(cid:0)JQH(cid:0)(cid:0)(cid:0)V(cid:0)H(cid:0)(cid:3)(cid:0)RD(cid:0)(cid:0)L5(cid:0)(cid:0)V(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)U(cid:0)HG(cid:0)(cid:0)W(cid:0)H(cid:0)P(cid:0)LD(cid:0)(cid:0)S(cid:0)L$(cid:0)(cid:0)S(cid:3)(cid:0)(cid:0)(cid:3)D(cid:0)(cid:15)(cid:0)(cid:0)(cid:3)(cid:0)%(cid:15)(cid:0)(cid:0)D(cid:0)(cid:3)G(cid:0)(cid:0)Q(cid:0)(cid:3)(cid:0)&(cid:0)GK(cid:0)(cid:0)DD(cid:0)(cid:0)O(cid:0)D(cid:3)(cid:0)(cid:0)(cid:20)(cid:0)(cid:3)(cid:0)(cid:29)(cid:3)(cid:0)(cid:0)(cid:3)(cid:0)(cid:22)(cid:0)(cid:29)(cid:3)(cid:0)(cid:0)(cid:25)(cid:0)(cid:3)(cid:0)(cid:17)(cid:0)N(cid:0)L(cid:0)-(cid:0) (cid:3)(cid:0)D(cid:0) m (cid:3)(cid:0)(cid:15)(cid:0) m (cid:3)(cid:0)(cid:15)(cid:0) m (cid:0)(cid:3)(cid:0)E(cid:0)H(cid:0)U(cid:0)W(cid:0)X(cid:0)U(cid:0)X(cid:0)W(cid:0)(cid:16)(cid:0)W(cid:0)X(cid:0)U(cid:0)X(cid:0)W(cid:0)(cid:3)(cid:0)D(cid:0)G(cid:0)D(cid:0)O(cid:0)D(cid:0)K(cid:0)(cid:3)
+A B C
+(cid:0)P(cid:0)(cid:0)DV(cid:0)(cid:0)DV(cid:0)(cid:0)(cid:3)(cid:0)EH(cid:0)(cid:0)E(cid:0)DQ(cid:0)(cid:0)(cid:3)\(cid:0)(cid:0)DQ(cid:0)(cid:0)J(cid:0)(cid:3)G(cid:0)L(cid:0)O(cid:0)(cid:0)HW(cid:0)(cid:0)DN(cid:0)(cid:0)DN(cid:0)(cid:0)Q(cid:0)(cid:3)(cid:0)$(cid:0)(cid:0)(cid:15)(cid:0)S(cid:0)(cid:0)(cid:3)DG%(cid:0)(cid:0)(cid:0)(cid:0)(cid:15)D(cid:0)(cid:3)(cid:3)S(cid:0)(cid:0)&L(cid:0)(cid:0)(cid:0)(cid:15)V(cid:0)(cid:0)(cid:3)(cid:0)(cid:0)WG(cid:0)Q(cid:0)Q(cid:0)R(cid:3)(cid:0)D(cid:3) m LL(cid:0)(cid:0)WV(cid:0)(cid:0)H(cid:3)(cid:0)(cid:0)EV(cid:3)U(cid:0)(cid:0)(cid:0)(cid:0)PV(cid:3)DD(cid:0)(cid:0)(cid:0)Q(cid:0)(cid:0)P(cid:0)NJ(cid:20)(cid:0)D(cid:3)(cid:0)(cid:0)(cid:0)H(cid:0)(cid:0)DD(cid:3)(cid:0)(cid:0)(cid:0)(cid:0)WPN (cid:0)(cid:0)(cid:0)(cid:0)(cid:3)(cid:3)(cid:3)(cid:0)(cid:0)(cid:0)«(cid:15)(cid:0)(cid:0)(cid:3)(cid:3)J(cid:0)(cid:0)(cid:0)(cid:3)J(cid:0)(cid:0)(cid:17)(cid:0)
+A
+(cid:17)(cid:0)D(cid:0) (cid:0)(cid:3) m (cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:27)(cid:0)(cid:15)(cid:0)(cid:20)(cid:0)QN(cid:0)(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)(cid:3)J(cid:0)(cid:0)G(cid:0) m (cid:21)(cid:0)(cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:15)(cid:0)(cid:27)(cid:0)(cid:3)(cid:0)J(cid:0)N(cid:0)(cid:3)(cid:0)(cid:27)(cid:0)(cid:3)(cid:0)
+B C
+(cid:0)E(cid:0)(cid:17) (cid:0)(cid:3) m (cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:15)(cid:0)(cid:22)(cid:0)QN(cid:0)(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)(cid:3)J(cid:0)(cid:0)G(cid:0) m (cid:25)(cid:3)(cid:0)(cid:0)(cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:15)(cid:0)(cid:3)(cid:0)J(cid:0)N(cid:0)(cid:3)(cid:0)
+B C
+(cid:17)(cid:0)F(cid:0) (cid:0)(cid:3) m (cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:24)(cid:0)(cid:15)(cid:0)(cid:23)(cid:0)QN(cid:0)(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)(cid:3)J(cid:0)(cid:0)G(cid:0) m (cid:20)(cid:0)(cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:15)(cid:0)(cid:27)(cid:0)(cid:3)(cid:0)J(cid:0)N(cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:3)(cid:0)
+B C
+(cid:0)G(cid:0)(cid:17) (cid:0)(cid:3) m (cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:15)(cid:0)(cid:28)(cid:0)QN(cid:0)(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)(cid:3)J(cid:0)(cid:0)G(cid:0) m (cid:22)(cid:0)(cid:3)(cid:0) (cid:0)(cid:3)(cid:0)(cid:15)(cid:0)(cid:25)(cid:0)J(cid:0)N(cid:0)(cid:3)(cid:0)(cid:3)(cid:19)(cid:0)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)
+B C
+(cid:0)(cid:3)
+(cid:0)(cid:27)(cid:0)(cid:17) (cid:0)(cid:3) X(cid:3)(cid:0)(cid:0)’D(cid:0)(cid:0)KE(cid:0)(cid:0)D(cid:3)(cid:0)X(cid:0)(cid:0)U(cid:0)XDM(cid:0)(cid:0)(cid:3)(cid:0)P(cid:0)(cid:0)U(cid:0)(cid:3)LL(cid:0)(cid:0)U(cid:0)(cid:0)GH(cid:0)(cid:0)E(cid:0)(cid:3)DHW(cid:0)(cid:0)N(cid:0)J(cid:0)(cid:0)(cid:0)G(cid:3)(cid:0)(cid:0)L(cid:0)Q(cid:0)D(cid:3)H(cid:0)(cid:0)(cid:0)SG(cid:0)(cid:0)KE(cid:0)(cid:0)D(cid:3)H(cid:0)X(cid:0)(cid:0)(cid:0)V(cid:0)QD(cid:0)(cid:0)(cid:17)HVO(cid:0)(cid:0)(cid:0)(cid:0)(cid:3)(cid:0)S(cid:0)D(cid:3)(cid:0)(cid:0)L(cid:0)W(cid:0)H(cid:0)X6(cid:0)(cid:0)U(cid:0)D(cid:0)M(cid:0) (cid:0)P(cid:0)(cid:3)(cid:0)E(cid:0)H(cid:0)U(cid:0)M(cid:0)D(cid:0)U(cid:0)D(cid:0)N(cid:0)(cid:3)(cid:0)(cid:20)(cid:0)(cid:3)(cid:0)P(cid:0)(cid:3)(cid:0)W(cid:0)H(cid:0)U(cid:0)K(cid:0)D(cid:0)G(cid:0)D(cid:0)S(cid:0)(cid:3)(cid:0)O(cid:0)H(cid:0)Q(cid:0)D(cid:0)(cid:3)(cid:0)V(cid:0)G(cid:0)D(cid:0)Q(cid:0)(cid:3)
+(cid:0)L(cid:0)(cid:0)OW(cid:0)(cid:0)HX(cid:0)(cid:0)(cid:0)QL(cid:3)(cid:0)V(cid:0)(cid:0)(cid:0)FND(cid:0)(cid:0)(cid:0)PD(cid:3)(cid:0)(cid:0)(cid:0)(cid:3)(cid:17)(cid:0)(cid:3)(cid:0)(cid:20)(cid:0)(cid:3)(cid:0)(cid:0)N(cid:0)(cid:15)M(cid:0)-(cid:0)(cid:0)X(cid:21)D(cid:0)(cid:0)(cid:0)D(cid:3)U(cid:0)(cid:0)WD(cid:0)N(cid:0)(cid:0)(cid:3)(cid:0)(cid:3)M(cid:0)(cid:0)DD(cid:0)(cid:0)QU(cid:0)(cid:0)WX(cid:0)(cid:0)DP(cid:0)U(cid:0)(cid:3) (cid:0)(cid:16) (cid:3)(cid:0)«(cid:0)(cid:3)(cid:0)K(cid:0)D(cid:0)O(cid:0)D(cid:0)G(cid:0)D(cid:0)(cid:3)(cid:0)X(cid:0)QU(cid:0)(cid:0)GDD(cid:0)(cid:0)(cid:0)H\M(cid:0)(cid:0)(cid:0)ND(cid:3)(cid:0)(cid:0)(cid:0)EQ(cid:0)(cid:0)(cid:3)DP(cid:0)(cid:0)(cid:0)DJ(cid:0)(cid:0)X(cid:0)(cid:3)(cid:0)U(cid:0)D(cid:0)W(cid:0)Q(cid:0)D(cid:0)(cid:3)(cid:0)N(cid:0)D(cid:0)U(cid:0)D(cid:0)M(cid:0)G(cid:0)(cid:3)(cid:0)(cid:15)(cid:0)L(cid:0)U(cid:0)W(cid:0)SL(cid:0)(cid:0)R(cid:0)(cid:24)(cid:0)(cid:3)(cid:0)
+(cid:3)(cid:0)(cid:17)(cid:0)P(cid:0)F(cid:0)(cid:3)(cid:0)
+(cid:17)(cid:0)D(cid:0) (cid:0)(cid:3) (cid:19)(cid:0)(cid:3)(cid:0)(cid:19)(cid:0)(cid:21)(cid:0)(cid:15)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)(cid:3)(cid:0)
+(cid:0)E(cid:0)(cid:17) (cid:0)(cid:3) (cid:0)(cid:19)(cid:0)(cid:0)(cid:15)(cid:0)(cid:21)(cid:24)(cid:0)(cid:0)(cid:3)(cid:3)
+(cid:17)(cid:0)F(cid:0) (cid:0)(cid:3) (cid:0)(cid:19)(cid:0)(cid:0)(cid:15)(cid:0)(cid:22)(cid:19)(cid:0)(cid:0)(cid:3)(cid:3)
+(cid:0)G(cid:0)(cid:17) (cid:0)(cid:3) (cid:19)(cid:0)(cid:3)(cid:0)(cid:24)(cid:0)(cid:22)(cid:0)(cid:15)(cid:0)
+(cid:0)(cid:3)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:17)(cid:0)(cid:28)(cid:0) (cid:0)(cid:3) (cid:0)6(cid:0)(cid:0)HE(cid:0)(cid:0)XD(cid:0)(cid:0)K(cid:3)(cid:0)D(cid:0)O(cid:0)(cid:0)DW(cid:0)(cid:3)(cid:0)P(cid:0)(cid:0)XV(cid:0)L(cid:0)N(cid:0)(cid:3)(cid:0)(cid:0)HP(cid:0)(cid:0)L(cid:0)PO(cid:0)L(cid:0)N(cid:0)L(cid:0)(cid:3)(cid:0)G(cid:0)(cid:0)(cid:0)(cid:0)DZDL(cid:0)(cid:3)(cid:0)G(cid:0)(cid:0)HQ(cid:0)(cid:0)JD(cid:0)(cid:0)Q(cid:3)(cid:0)S(cid:0)(cid:0)DQ(cid:0)M(cid:0)(cid:0)DQ(cid:0)(cid:0)J(cid:3)(cid:0)(cid:25)(cid:0)(cid:19)(cid:0)(cid:3)(cid:0)(cid:0)FP(cid:0)(cid:0)(cid:17)(cid:3)(cid:0)(cid:0).H(cid:0)W(cid:0)L(cid:0)N(cid:0)(cid:0)D(cid:3)(cid:0)G (cid:15)(cid:0)N(cid:0)L(cid:3)S(cid:0)(cid:0)(cid:0)WL(cid:0)(cid:0)H(cid:0)D(cid:0)SG(cid:3)(cid:0)(cid:0)(cid:0)D(cid:0)(cid:3)(cid:0)L(cid:0)DG(cid:0)(cid:0)Z(cid:0)D(cid:0)U(cid:0)HP(cid:0)(cid:0)EW(cid:0)(cid:0)P(cid:0)DD(cid:0)(cid:0)(cid:3)(cid:0)
+(cid:3)Z(cid:0)(cid:0)UD(cid:0)(cid:0)DG(cid:3)G(cid:0)(cid:0)(cid:0)(cid:0)QGVL(cid:3)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:3)DD(cid:0)(cid:0)D(cid:0)LD(cid:0)(cid:0)(cid:0)V(cid:0)HXQ(cid:0)(cid:0)(cid:0)UN(cid:0)(cid:0))H(cid:0)(cid:0)(cid:17)Q(cid:0)(cid:0)JV(cid:22)D(cid:0)(cid:0)S(cid:0)Q(cid:0)Q(cid:18)(cid:3)(cid:0)(cid:19)(cid:3)(cid:0)W(cid:0)D(cid:0)(cid:0)H(cid:0)NJ(cid:0)D(cid:0)H(cid:0)P(cid:0)(cid:22)(cid:0)(cid:0)(cid:0)D(cid:0)EQ(cid:0)F(cid:0)(cid:3)(cid:0)G(cid:0)(cid:0)(cid:3)(cid:0)(cid:0)(cid:0)P(cid:0)H(cid:3)(cid:0)(cid:0)(cid:0)R(cid:0)JO(cid:0)(cid:0)H(cid:0) (cid:17)(cid:0)K«(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)G(cid:0)O(cid:0)(cid:0)DD(cid:0)(cid:0)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:17)(cid:0)D(cid:0) (cid:0)(cid:3) (cid:0)(cid:20)(cid:0)(cid:0)(cid:28)(cid:27)(cid:0)(cid:0)(cid:3)(cid:0)+(cid:0)](cid:3)
+(cid:0)E(cid:0)(cid:17) (cid:0)(cid:3) (cid:0)(cid:21)(cid:0)(cid:0)(cid:26)(cid:24)(cid:0)(cid:0)(cid:3)(cid:0)+(cid:0)](cid:3) (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:17)(cid:0)F(cid:0) (cid:0)(cid:3) (cid:0)(cid:22)(cid:0)(cid:0)(cid:28)(cid:25)(cid:0)(cid:0)(cid:3)(cid:0)+(cid:0)](cid:3)
+(cid:0)G(cid:0)(cid:17) (cid:0)(cid:3) (cid:0)(cid:24)(cid:0)(cid:0)(cid:24)(cid:19)(cid:0)(cid:0)(cid:3)(cid:0)+(cid:0)](cid:3) (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:19)(cid:0)(cid:20)(cid:0)(cid:17)(cid:0) (cid:0)(cid:3) S(cid:3)(cid:0)(cid:0)DO(cid:0)(cid:0).(cid:0)(cid:3)D(cid:0)(cid:0)DWO(cid:0)(cid:0)(cid:0)X(cid:0)SR(cid:0)(cid:0)U(cid:3)(cid:0)(cid:0)WL(cid:0)(cid:0)DO(cid:0)(cid:0)\(cid:0)Q(cid:0)D(cid:3)Q(cid:0)(cid:0)(cid:0)JD(cid:0)(cid:0)G(cid:3)(cid:0)(cid:0)HJV(cid:0)(cid:0)(cid:0)G(cid:0)(cid:3)(cid:0)PDD(cid:0)(cid:0)(cid:0)LDNF(cid:0)(cid:0)(cid:0)(cid:0)QU(cid:3)H(cid:0)P(cid:0)(cid:0)(cid:0)(cid:0)Q(cid:0)PD(cid:0)(cid:0)G(cid:0)X(cid:0)(cid:3)(cid:0)D(cid:0)(cid:3)(cid:0)SD(cid:0)(cid:0)V(cid:0)O(cid:0)XDX(cid:0)(cid:0)(cid:0)U(cid:0)W(cid:0)O(cid:0) (cid:0)V(cid:0)R(cid:0)(cid:0)QL(cid:0)N(cid:0)(cid:3)(cid:0)G(cid:0)(cid:0)H(cid:0)QJ(cid:0)(cid:0)D(cid:0)Q(cid:0)(cid:3)L(cid:0)Q(cid:0)W(cid:0)(cid:0)H(cid:0)UY(cid:0)(cid:0)DO(cid:0)(cid:3)(cid:0)(cid:0)ZD(cid:0)(cid:0)NW(cid:0)X(cid:0)(cid:3)(cid:0)(cid:0)(cid:20)(cid:19)(cid:0)(cid:3)(cid:0)V(cid:0)(cid:3)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+XX(cid:0)(cid:3)(cid:0)W(cid:0)(cid:0)NQ(cid:0)(cid:0)(cid:3)(cid:0)QL(cid:0)(cid:0)DDHV(cid:0)(cid:3)(cid:0)(cid:0)(cid:0)NN(cid:0)JUWQ(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)HHH(cid:0)(cid:0)G(cid:0)P(cid:0)(cid:0)XH(cid:0)K(cid:0)SUE(cid:0)(cid:0)(cid:0)(cid:0)DH(cid:0)(cid:3)(cid:0)(cid:0)V(cid:0)D(cid:3)(cid:0)NS(cid:0)(cid:0)(cid:0)O(cid:0)D(cid:0)(cid:17)\(cid:0)(cid:0)QD(cid:0)(cid:3)Q(cid:0)D(cid:0)(cid:0)O(cid:0)(cid:0)H(cid:0)(cid:3)D(cid:0)(cid:0)WS(cid:0)(cid:0)H(cid:0)&(cid:0)W(cid:0)DU(cid:0)(cid:0)E(cid:3)D(cid:0)(cid:0)(cid:0)P(cid:0) (cid:0)S(cid:0)X(cid:0)O(cid:0)V(cid:0)D(cid:0)(cid:3)(cid:0)X(cid:0)O(cid:0)W(cid:0)U(cid:0)D(cid:0)V(cid:0)R(cid:0)Q(cid:0)L(cid:0)N(cid:0)(cid:3)(cid:0)(cid:0)GL(cid:0)(cid:3)(cid:0)X(cid:0)G(cid:0)D(cid:0)U(cid:0)D(cid:0)(cid:3)(cid:0)D(cid:0)G(cid:0)D(cid:0)O(cid:0)D(cid:0)K(cid:0)(cid:3)
+(cid:0)(cid:22)(cid:0)(cid:0)(cid:23)(cid:0)(cid:19)(cid:3)(cid:0)(cid:0)(cid:18)(cid:0)PV(cid:0)(cid:0)(cid:17)(cid:3)(cid:0)-(cid:0)L(cid:0)N(cid:0)(cid:0)D(cid:3)(cid:0)(cid:0)SX(cid:0)O(cid:0)V(cid:0)(cid:0)D(cid:3)(cid:0)S(cid:0)(cid:0)(cid:0)D(cid:0)QXW(cid:0)(cid:0)(cid:3)O(cid:0)P(cid:0)(cid:0)D(cid:0)V(cid:0)QL(cid:0)J(cid:0)(cid:0)(cid:16)P(cid:0)(cid:0)DV(cid:0)L(cid:0)Q(cid:0)J(cid:0)(cid:3)(cid:0)W(cid:0)(cid:0)(cid:0)HUG(cid:0)(cid:0)HW(cid:0)(cid:0)HN(cid:0)(cid:0)L(cid:0)V(cid:3)(cid:0)(cid:24)(cid:0)(cid:3)(cid:0)V(cid:0)(cid:3)(cid:0)(cid:0)GD(cid:0)(cid:0)Q(cid:3)(cid:0)(cid:25)(cid:0)(cid:3)(cid:0)V (cid:3)(cid:0)K(cid:0)D(cid:0)(cid:3)OH(cid:0)(cid:0)(cid:0)HW(cid:0)(cid:0)V(cid:0)(cid:15)N(cid:0)(cid:0)QU(cid:0)(cid:0)(cid:3)FDS(cid:0)(cid:0)(cid:0)(cid:0)DQL(cid:0)(cid:0)(cid:0)GD(cid:0)(cid:0)(cid:3)(cid:0)X(cid:0)M(cid:0)D(cid:0)O(cid:0)S(cid:0)OD(cid:0)(cid:0)ND(cid:0)(cid:0)(cid:3)(cid:0)
+(cid:0)Q(cid:0)O(cid:0)D(cid:0)\(cid:0)H(cid:0)D(cid:0)Q(cid:0)(cid:3)(cid:0)D(cid:0)P(cid:0)D(cid:0)(cid:3)(cid:0)V(cid:0)H(cid:0)Q(cid:0)G(cid:0)(cid:17)(cid:0)J(cid:0)D(cid:0)Q(cid:0)(cid:3)(cid:0)«(cid:0)(cid:3)(cid:0)P(cid:0)(cid:18)(cid:0)V(cid:0)(cid:3)
+(cid:17)(cid:0)D(cid:0) (cid:0)(cid:3) (cid:0)(cid:27)(cid:0)(cid:0)(cid:15)(cid:0)(cid:24)(cid:0)(cid:3)(cid:3)
+
+<<<PAGE 3>>>
+b. 11
+c. 17
+d. 34
+PILIHAN 1234
+11. Sebuah benda bermassa 5 kg ditembakkan vertikal dari suatu landasan. Energi kinetik benda pada
+ketinggian 0 m sampai 5 m terhadap landasan ditunjukkan pada tabel.
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) Posisi terhadap landasan (m) Energi kinetik (J)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) 0 400
+1 355
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+2 310
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+3 265
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+4 220
+5 175
+Pernyataan berikut berkaitan dengan gerak benda tersebut:
+1. Percepatan benda sebesar 9,8 m/s2.
+2. Posisi 8,9 m di atas landasan adalah posisi tertinggi benda.
+3. Ketika energi kinetik benda sama dengan 355 J, energi potensialnya sama dengan 220 J.
+4. Energi potensial terbesar yang dapat dimiliki benda adalah 400 J.
+Pernyataan yang benar adalah pernyataan nomor ….
+A. 1 dan 3
+B. 2 dan 3
+C. 1 dan 4
+D. 2 dan 4
+12. Seorang anak mengendarai sepeda dengan kecepatan tetap. Suatu saat anak tersebut melempar
+sebutir telur vertikal ke arah atas relatif terhadapnya. Pernyataan berikut berkaitan dengan gerak
+tersebut:
+1. Telur jatuh mengenai anak.
+2. Gaya yang bekerja pada telur sama dengan berat telur.
+3. Percepatan telur ketika naik dan ketika turun berlawanan arah.
+4. Ketika telur bergerak turun, arah kecepatannya vertikal ke bawah relatif terhadap pohon di
+pinggir jalan.
+Pernyataan yang benar adalah pernyataan nomor ….
+A. 1 dan 2
+B. 1, 2, dan 3
+C. 2, 3, dan 4
+D. 4
+13. Berikut in(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) i merupakan satuan panjang atau jarak yang biasa digunakan:
+1. mile
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+2. inch
+3. foot
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+4. meter
+Satuan jarak yang merupakan sistem metrik atau sistem satuan internasional ditunjukkan oleh nomor
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+….
+A. 4 (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+B. 1 dan 3
+C. 2 dan 4
+D. 1, 2, 3 dan 4
+
+<<<PAGE 4>>>
+14. Zat cair X dan Y bermassa sama, bersuhu T dan T , ditempatkan secara terpisah. Perbandingan
+X Y
+kalor jenis kedua zat tersebut adalah 2 : 3.
+1. JikaT = T kemudian keduanya diberi sejumlah kalor yang sama, kenaikkan suhu X lebih kecil
+X Y
+dari kenaikan suhu Y.
+2. Jika T < T kemudian keduanya dicampur, kenaikan suhu X sama dengan penurunan suhu Y.
+X Y
+3(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) . JikaT = T , agar diperoleh suhu akhir yang sama, X harus menyerap kalor yang lebih besar dari
+X Y
+kalor yang diserap Y.
+4 (cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) . JikaT < T kemudian keduanya dicampur, suhu akhir X sama dengan suhu akhir Y.
+X Y
+Pernyataan yang benar adalah pernyataan nomor ….
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+A. 4
+B(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) . 1 dan 3
+C. 2 dan 4
+D(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) . 1, 2, 3 dan 4
+15. Diketahui beberapa besaran fisika sebagai berikut:
+1. luas keping sejajar
+2. jarak antara dua keping sejajar
+3. permeabilitas magnetik bahan
+4. permitivitas listrik bahan
+5. konduktivitas listrik bahan
+Besaran yang dapat mempengaruhi nilai kapasitansi sebuah kapasitor keping sejajar adalah ....
+A. 1, 2 dan 3
+B. 2, 3 dan 5
+C. 1 , 2 dan 4
+D. 2, 4 dan 5
+16. Perhatikan gambar magnet batang, kawat kumparan, dan galvanometer di bawah ini.
+Pernyataan berikut berkaitan dengan gerak magnet batang di atas:
+1. saat m(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) agnet digeser ke kiri, arus induksi mengalir dari A ke B
+2. saat magnet digeser ke kiri, arus induksi mengalir dari B ke A
+3. saat m(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) agnet digeser ke kanan, arus induksi mengalir dari A ke B
+4. saat magnet digeser ke kanan, arus induksi mengalir dari B ke A
+5. saat m(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) agnet digeser ke atas, arus induksi mengalir dari B ke A
+6. saat magnet digeser ke bawah, arus induksi mengalir dari A ke B
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+Pernyataan yang benar adalah ....
+A. 1 dan 3
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+B. 2 dan 3
+C. 1 dan 5
+D. 4 dan 6
+
+<<<PAGE 5>>>
+17. Sebuah pipa U diisi air. Kedua ujung kaki pipa U itu, sebut saja kaki A dan kaki B, dibiarkan terbuka.
+Apabila sedikit di atas kaki A ditiupkan udara secara mendatar dan konstan,
+(1) tekanan udara di permukaan air di kaki A dan kaki B sama besar,
+(2) permukaan air di kaki A dan B bergerak naik turun bergantian,
+(3) permukaan air di kaki A lebih tinggi dari permukaan air di kaki B,
+(4) pada ketinggian yang sama, tekanan air di kaki B dan di kaki A sama besar.
+Pern(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) yataan yang benar adalah ….
+a. (1), (2), dan (3)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+b. (1) dan (3)
+c. (2) dan (4)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+d. (3) dan (4)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+18. Seberkas cahaya putih merambat di udara, kemudian menembus sebuah kaca planparalel dengan
+sudu(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) t datang tidak nol, selanjutnya keluar ke udara.
+(1) Cahaya keluar dari kaca planparalel dalam keadaan terurai dalam banyak warna.
+(2) Arah rambat cahaya yang masuk ke kaca planparalel dan keluar dari kaca planparalel saling
+sejajar.
+(3) Panjang gelombang cahaya di udara dan di dalam kaca planparalel tidak berbeda.
+(4) Di dalam kaca planparalel cahaya terurai dalam banyak warna.
+Pernyataan yang benar adalah ….
+a. (1), (2), dan (3)
+b. (1) dan (3)
+c. (2) dan (4)
+d. (3) dan (4)
+19. Berikut ini pernyataan mengenai gelombang:
+1) arah getar di udara sejajar dengan arah rambat,
+2) makin dekat dengan sumber, maka makin kuat intensitasnya,
+3) lebih cepat merambat pada zat padat daripada zat cair dan gas,
+4) gelombang dapat terpolarisasi.
+Pernyataan yang benar tentang gelombang bunyi adalah ….
+a. 1, 2, dan 3
+b. 1, 3, dan 4
+c. 2, 3, dan 4
+d. 1, 2, dan 4
+20. Per(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)nyataan berikut berkaitan dengan efek Doppler:
+1) Efek Doppler adalah pergeseran frekuensi gelombang akibat gerak relatif antara sumber
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+gelombang dan pengamat.
+2) Efek Doppler dapat terjadi pada gelombang bunyi, namun tidak pada gelombang cahaya.
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+3) Saat sumber gelombang dan pengamat bergerak saling menjauh, frekuensi gelombang yang
+teramati lebih kecil
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+4) Saat sumber gelombang dan pengamat bergerak saling mendekat, frekuensi gelombang yang
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)teramati lebih kecil
+Pernyataan yang benar adalah ….
+a. 1, 2, dan 3
+b. 1 dan 3
+c. 1 dan 4
+d. 2 dan 4
+
+<<<PAGE 6>>>
+SEBAB-AKIBAT
+21. Gambar berikut merupakan kurva jarak tempuh terhadap waktu dari seorang anak yang berangkat
+ke sekolah dengan mengendarai sepeda.
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+Grafik tersebut menunjukkan bahwa selama keberangkatan ke sekolah, anak tersebut pernah
+berhenti sebelum sampai sekolah.
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+SEBAB
+Ga(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)ris-garis lurus pada kurva tersebut menunjukkan kecepatan sepeda sama dengan nol.
+Jawab: C
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+22. Saat direbus sampai matang, cairan kuning dan putih telur berubah wujud menjadi padat. Perubahan
+sep(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) erti ini merupakan perubahan fisika.
+SEBAB
+Membeku merupakan perubahan fisika yang terjadi saat suatu benda berubah wujud dari cair
+menjadi padat dengan menyerap kalor.
+Jawab: D
+23. Gerhana bulan yang terjadi saat posisi bulan berada di daerah penumbra bayangan bumi dinamakan
+gerhana bulan total
+SEBAB
+Pada saat gerhana bulan total, sinar matahari yang menuju bulan sepenuhnya tertutup oleh bumi
+Jawab : C
+24. Gelombang cahaya putih merupakan gabungan banyak gelombang cahaya dengan berbagai panjang
+gelombang.
+SEBAB
+Cepat rambat gelombang cahaya di udara tidak bergantung pada panjang gelombang.
+Jawab: B
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+25. Perubahan warna langit dari biru pada siang hari menjadi jingga pada sore hari merupakan contoh
+peris(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) tiwa hamburan cahaya.
+SEBAB
+Ham(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) buran cahaya mahatari pada atmosfer bumi disebabkan oleh interaksi gelombang cahaya
+dengan partikel-partikel di atmosfer.
+Jawa(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) b: B
+
+<<<PAGE 7>>>
+IS(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)IAN SINGKAT
+26. Sebuah balok bermassa 5 kg yang sedang bergerak dengan kecepatan 8 m/s menumbuk balok lain
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) bermassa 3 kg yang diam pada permukaan horisontal dan licin. Jika setelah tumbukan kedua balok
+tersebut saling menempel satu sama lain, kecepatan kedua balok sesaat setelah tumbukan sama
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+dengan … m/s.
+Jawab: (5 kg)(8 m/s)+(3 kg)(0 m/s)(cid:13)L ( 5 kg+3 kg)(cid:7)R (cid:0)˘ (cid:7) R (cid:13) L(cid:3) w m/s
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+27.(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) Pada setiap sentimeter kubik awan cumulus dapat berisi 210 tetes air berdiameter 20 (cid:0)P m. Jika awan
+cumulus setebal 200 m menutupi kawasan seluas 1 km2, massa air yang terkandung di dalamnya
+adalah … kg. Gunakan nilai (cid:0)S = 22/7 dan massa jenis air 1 kg/liter.
+Jawab: 176000
+28. Perhatikan rangkaian hambatan listrik berikut ini.
+Hambatan pengganti antara ujung A dan B adalah ...ohm.
+Jawab: 8
+29. Dua cermin divergen A dan B disusun saling berhadapan, sehingga sumbu keduanya segaris. Panjang
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+fokus kedua cermin tidak sama. Sebuah benda ditaruh tepat di tengah-tengah di antara kedua cermin.
+Besar bayangan oleh cermin A 0,5 kali besar benda. Jika besar bayangan oleh cermin B 1,6 kali besar
+(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18)
+bayangan oleh cermin A, panjang fokus cermin B sama dengan … kali panjang fokus cermin A
+J(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) awab: 4
+30. S(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) ebuah sumber titik bunyi memancar dengan daya keluaran 0,16π watt. Jika intensitas ambang
+pendengaran manusia adalah 10-12 watt/m2, maka pada jarak 2 m dari sumber:
+a(cid:0)K(cid:0)W(cid:0)W(cid:0)S(cid:0)V(cid:0)(cid:29)(cid:0)(cid:18)(cid:0)(cid:18)(cid:0)Z(cid:0)Z(cid:0)Z(cid:0)(cid:17)(cid:0)F(cid:0)D(cid:0)O(cid:0)R(cid:0)Q(cid:0)J(cid:0)X(cid:0)U(cid:0)X(cid:0)(cid:17)(cid:0)F(cid:0)R(cid:0)P(cid:0)(cid:18) . intensitas bunyi sama dengan …watt/m2,
+b. taraf intensitas bunyi sama dengan … dB.
+Jawab: a. 0,01 b. 100

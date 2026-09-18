@@ -1,0 +1,469 @@
+{
+ "id": "2021-mat-pembahasan",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Tenda A dan tenda B seperti dalam gambar memiliki lebar 3 m dan tinggi 2m. Luas bahan\nyang digunakan untuk membuat tenda A dan tenda B sama. Jika panjang tenda A adalah\n6 m, maka nilai p sama dengan….\n1,5 √2 0,5 m 2,5\n2m 1,5 m 2m 2\n1,5 m 1,5 𝑝 m\n6m\n3m 3m\nTenda A Tenda B\n3",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0001.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0002.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0003.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0004.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0005.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0006.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0007.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0008.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0009.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0010.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0011.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0012.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0013.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0014.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0015.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0016.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0017.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p1_0018.png"
+   ],
+   "key": "C",
+   "pemb": "Luas tenda A = 2 kali luas depan + Luas atap 3 = 2×(3×0,5+ ×1,5)+(2×0,5+2×(1,5√2))×6 2 9 = (3+ )+(6+18√2) 2 15 = ( )+(6+18√2) 2 Luas tenda B = 2 kali luas depan + Luas atap 1 = 2× ×3×2+(2×2,5)×𝑝 2 = 6+5𝑝 Luas tenda B = luas tenda A 15 6+5𝑝 =( )+(6+18√2) 2 15 3 18 5𝑝 = +18√2 ⇔ 𝑝 = + √2 2 2 5 Najamuddin- MGMP Matematika SMP Kota Makassar 1",
+   "isian": false,
+   "options": {
+    "A": "+4√2 2",
+    "B": "6 3 18",
+    "C": "+ √2 2 5",
+    "D": "8"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Misalkan (𝑝,𝑞,𝑟,𝑠) adalah pasangan 4 bilangan dari himpunan (2,3,4,5) yang tidak harus\nberbeda sehingga 𝑝×𝑞−𝑟×𝑠 adalah bilangan ganjil. Banyaknya pasangan bilangan\nyang memenuhi adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "𝑝×𝑞−𝑟×𝑠 merupakan bilangan ganjil apabila 𝑝×𝑞 𝑔𝑎𝑛𝑗𝑖𝑙 𝑑𝑎𝑛 𝑟×𝑠 𝑔𝑒𝑛𝑎𝑝 atau sebaliknya. 𝑝×𝑞 𝑔𝑎𝑛𝑗𝑖𝑙 apabilan 𝑝 𝑑𝑎𝑛 𝑞 kedua-duanya ganjil (3,3), (3,5), (5,3) dan (5,5) sebanyak 4 cara. Sementara 𝑟×𝑠 𝑔𝑒𝑛𝑎𝑝 apabila salah satu atau kedua bilangannya merupakan bilangan genap (2,2), (2,3), (2,4), (2,5), (3,2), (3,4), (4,2), (4,3), (4,4), (4,5), (5,2), dan (5,4) sebanyak 12 cara. Jadi, banyak cara yang memenuhi adalah 2×4×12 = 96",
+   "isian": false,
+   "options": {
+    "A": "48",
+    "B": "64",
+    "C": "96",
+    "D": "128"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Diketahui persamaan kuadrat 𝑎𝑥2+𝑏𝑥+𝑐 =0 tidak mempunyai akar bilangan real,\ntetapi Dina mendapatkan akar −3 dan −6 karena salah menulis nilai dari 𝑎. Sedangkan\n3𝑏+4𝑐\nToni mendapatkan akar −1 dan 2 karena salah menuliskan tanda dari 𝑎. Nilai dari\n𝑎\nadalah….",
+   "images": [],
+   "key": "D",
+   "pemb": "−𝑎𝑥2+𝑏𝑥+𝑐 = 0 mempunyai akar-akar −1 dan 2. 𝑏 𝑥 +𝑥 = − = −1+2 =1,sehingga diperoleh 𝑏 = 𝑎 1 2 −𝑎 𝑐 𝑥 ×𝑥 = = −1×2 =−2,sehingga diperoleh 𝑐 =2𝑎 1 2 −𝑎 3𝑏+4𝑐 3𝑎+4(2𝑎) 11𝑎 = = =11 𝑎 𝑎 𝑎",
+   "isian": false,
+   "options": {
+    "A": "−5",
+    "B": "5",
+    "C": "8",
+    "D": "11"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Perbandingan panjang kaki sudut siku-siku sebuah segitiga siku-siku adalah 2 : 3. Jika\npanjang sisi miring segitiga tersebut 5√13, maka luas segitiga siku-siku tersebut\nadalah….",
+   "images": [],
+   "key": "D",
+   "pemb": "Najamuddin- MGMP Matematika SMP Kota Makassar 2 Dengan teorema Pythagoras diperoleh: 2 (2𝑎)2+(3𝑎)2 =(5√13) ⇔ 13𝑎2 = 25×13 ⇔ 𝑎2 =25 5√13 1 𝐿𝑢𝑎𝑠 𝑠𝑒𝑔𝑖𝑡𝑖𝑔𝑎 = ×(2𝑎)×(3𝑎) =3𝑎2 3a 2 = 3×25 = 75 satuan 2a",
+   "isian": false,
+   "options": {
+    "A": "12",
+    "B": "27",
+    "C": "48",
+    "D": "75"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Hasil kali tiga bilangan bulat positif yang berurutan adalah enam belas kali hasil\npenjumlahan ketiga bilangan tersebut. Jumlah kuadrat bilangan tersebut adalah….",
+   "images": [],
+   "key": "B",
+   "pemb": "Misalkan ketiga bilangan tersebut adalah 𝑎−1.𝑎,𝑎+1 (𝑎−1)×𝑎×(𝑎+1) = 16[(𝑎−1)+𝑎+(𝑎+1)] 𝑎(𝑎2−1) = 48𝑎 𝑎2−1 = 48 ⇔ 𝑎2 =49 ⇔ 𝑎 =7 Jadi, ketiga bilangan tersebut adalah 6, 7, dan 8 sehingga jumlah kuadrat ketiga bilangannya adalah 62+72+82 =36+49+64 = 149",
+   "isian": false,
+   "options": {
+    "A": "21",
+    "B": "149",
+    "C": "194",
+    "D": "441"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Diketahui 𝑥𝑦 =15 dan (2𝑥−𝑦)4 =1. Misalkan 𝑧 adalah jumlah dari kuadrat semua nilai\n𝑦 yang mungkin, maka 𝑧 =….",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p3_0019.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p3_0020.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p3_0021.png"
+   ],
+   "key": "D",
+   "pemb": "15 𝑥𝑦 = 15 ⇔ 𝑥 = 𝑦 (2𝑥−𝑦)4 =1 ⇔ 2𝑥−𝑦 =1 atau 2𝑥−𝑦 =−1 15 2𝑥−𝑦 = 1 ⇔ 2( )−𝑦 = 1⇔ 30−𝑦2 =𝑦 ⇔ 𝑦2+𝑦−30 =0 𝑦 ⇔ (𝑦+6)(𝑦−5) = 0 Diperoleh nilai 𝑦 =−6 dan 𝑦 =5 15 2𝑥−𝑦 = −1 ⇔ 2( )−𝑦 = −1⇔ 30−𝑦2 = −𝑦 ⇔ 𝑦2−𝑦−30 = 0 𝑦 ⇔ (𝑦+5)(𝑦−6) =0 Diperoleh nilai 𝑦 =−5 dan 𝑦 =6 Jadi, jumlah kuadrat semua nilai 𝑦 yang mungkin adalah (−5)2+62+(−6)2+52 = 25+36+36+25 = 122 Najamuddin- MGMP Matematika SMP Kota Makassar 3",
+   "isian": false,
+   "options": {
+    "A": "0",
+    "B": "30,5",
+    "C": "100",
+    "D": "122"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Suatu system pencatat kuantitas stok otomatis mengalami gagal desain yang cukup fatal,\nyaitu tidak terdefinisinya angka 4 dan 6 di system tersebut. Jadi, setelah menampilkan 3,\nsystem akan menampilkan 5 dan setelahnya 7. Hal ini terjadi untuk seluruh nilai tempat.\nSehingga, setelah menampilkan 399, system akan menampilkan 500 sebagai nilai\nselanjutnya. Jika system tersebut menyampaikan bahwa tersedia stok tepung sebanyak\n1578 bungkus, maka banyak stok tepung yag sesungguhnya tersedia adalah…bungkus.",
+   "images": [],
+   "key": "A",
+   "pemb": "Dari 1 sampai 10 terdapat 8 bilangan yakni 1, 2, 3, 5, 7, 8, 9, 10 Berarti, dari 1 sampai 100 terdapat 82 =64 bilangan, dan dari 1 sampai 1000 terdapat 83 = 512 bilangan. Dari 1 sampai 500 terdapat 4×82 = 256 bilangan Dari 1 sampai 70 terdapat 5×8 =40 bilangan Dari 1 sampai 8 terdapat 6 bilangan. Jadi bilangan 1578 seharusnya 83+4×82+5×8+6 =512+256+40+6 =814.",
+   "isian": false,
+   "options": {
+    "A": "814",
+    "B": "896",
+    "C": "1456",
+    "D": "1467"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Lima data bilangan asli tidak lebih dari sepuluh mempunyai modus 5 dan rata-rata 6.\nJika terhadap lima data tersebut ditambah satu data bilangan asli yang tidak lebih dari\n10, maka salah satu median yang mungkin dari enam data adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "atau D Misalkan kelima data tersebut adalah 𝑎,5,5,𝑏,𝑐 dengan 𝑎 ≤5 ≤𝑏 <𝑐 Jika 𝑐 = 10 maka 𝑎+𝑏 =10 dipenuhi oleh (2,8),(3,7),(4,6),(5,5) Jika 𝑐 = 9 maka 𝑎+𝑏 =11 dipenuhi oleh (3,8),(4,7),(5,6) Jika 𝑐 = 8 maka 𝑎+𝑏 =12 dipenuhi oleh (5,7) Dari 8 kemungkinan tersebut, apabila ditambahkan sebuah bilangan yang tidak lebih dari 5, maka mediannya adalah 5. Namun, jika ditambahkan dengan bilangan tidak kurang dari 5 dan tidak lebih dari 10, maka mediannya di atas 5. Pilih data 2, 5, 5, 8, 10 dan data tambahannya 9, maka data baru yang terbentuk adalah 5+8 2, 5, 5, 8, 9, 10 dengan median =6,5 2 Najamuddin- MGMP Matematika SMP Kota Makassar 4",
+   "isian": false,
+   "options": {
+    "A": "4",
+    "B": "4,5",
+    "C": "5",
+    "D": "6,5"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Sebuah bilangan bulat yang terdiri atas empat digit akan disusun sedemikian sehingga\nberupa bilangan genap dengan digit pertama (paling kiri) bernilai genap serta tidak ada\nangka yang berulang. Banyaknya cara menyusun bilangan tersebut adalah….",
+   "images": [],
+   "key": "B",
+   "pemb": "Misalkan bilangan tersebut adalah 𝑎𝑏𝑐𝑑 dengan 𝑎,𝑑 bilangan genap, maka kemungkinan nila 𝑎 adalah 2, 4, 6, 8 (4 bilangan) dan kemungkinan nilai 𝑑 adalah 0 atau salah satu dari 3 bilangan yang tidak mewakili 𝑎 (4 bilangan). Nilai b kemungkinannya adalah 1, 3, 5, 7, 9, atau salah satu dari 3 bilangan yang tidak mewakili 𝑎 dan 𝑏 (8 bilangan). Sedangkan 𝑐 adalah salah satu dari 7 bilangan yang tidak mewakili 𝑏. Jadi banyak bilangan yang dapat disusun adalah 4×8×7×4 =896",
+   "isian": false,
+   "options": {
+    "A": "120",
+    "B": "896",
+    "C": "1120",
+    "D": "5040"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Perhatikan gambar.\nP\nU\nQ T\nX\nR\nS\nSetiap 12 menit Bus-A dapat menempuh rute P-X-S-X-P. setiap 20 menit, Bus-B dapat\nmenyelesaikan rute Q-X-T-X-Q. setiap 28 menit Bus-C dapat menyelesaikan rute R-X-U-\nX-R. Pukul 1 siang (13.00), Bus-A berangkat dari P, Bus-B berangkat dari Q, dan Bus-C\nberangkat dari R, menempuh rutenya masing-masing dengan kecepatan konstan dan\nmengulangi perjalanan sepanjang rutenya hingga oukul 11 malam (23.00). Diantara\npukul 5 sore hingga pukul 10 malam (17.00 – 22.00), berapa kali 2 atau lebih bus tiba di X\nsecara bersamaan?",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0022.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0023.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0024.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0025.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0026.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0027.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p5_0028.png"
+   ],
+   "key": "A",
+   "pemb": "Memulai dari titik P, bus A melalui titik X untuk ke-𝑛 kalinya setelah 6𝑛−3 menit. Memulai dari titik Q, bus B melalui titik X untuk ke-𝑚 kalinya setelah 10𝑚−5 menit Memulai dari titik R, bus C melalui titik X untuk ke-𝑝 kalinya setelah 14𝑝−7 menit Najamuddin- MGMP Matematika SMP Kota Makassar 5 Pertemuan bus A dan bus B di X 6𝑛−3 =10𝑚−5⇔ 6𝑛+2 =10𝑚 dipenuhi oleh 𝑛 = 3 dan 𝑚=2 Untuk 𝑛 =3 diperoleh 6𝑛−3 =15. Hal ini berarti bahwa bus A dan B pertama kali bertemu di X pada menit ke 15 dan selanjutnya bertemu kembali setelah KPK(6, 10) =30 menit, atau bentuk umumnya 15+30(𝑘−1) = 30𝑘−15 Antara pukul 17.00 – 22.00, bus A dan B bertemu pada pukul 17.15, 17.45, 18.15, 18.45, 19.15, 19.45, 20.15, 20.45, 21.15, 21.45, sebanyak 10 kali Pertemuan bus B dan bus C di X 10𝑚−5 =14𝑝−7 ⇔ 10𝑚+2 =14𝑝 dipenuhi oleh 𝑚 =4 dan 𝑝 =3 Untuk 𝑚 =4 diperoleh 10𝑚−5 =35. Hal ini berarti bahwa bus B dan C pertama kali bertemu di X pada menit ke 35 dan selanjutnya bertemu kembali setelah KPK(10, 14) = 70 menit, atau bentuk umumnya 35+70(𝑡−1) = 70𝑡−35 Antara pukul 17.00 – 22.00, bus B dan C bertemu pada pukul 17.05, 18.15, 19.25, 20.35, 21.45, sebanyak 5 kali Pertemuan bus A dan bus C di X 6𝑛−3 =14𝑝−7 ⇔ 6𝑛+4 =14𝑝 dipenuhi oleh 𝑛 = 4 dan 𝑝 =2 Untuk 𝑛 =4 diperoleh 6𝑛−3 =21. Hal ini berarti bahwa bus A dan C pertama kali bertemu di X pada menit ke 21 dan selanjutnya bertemu kembali setelah KPK(6, 14) =42 menit, atau bentuk umumnya 21+42(𝑠−1) =42𝑠−21 Antara pukul 17.00 – 22.00, bus A dan C bertemu pada pukul 17.33",
+   "isian": false,
+   "options": {
+    "A": "18",
+    "B": "19",
+    "C": "20",
+    "D": "21"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Misalkan bilangan pecahan dapat dinyatakan sebagai\n5\n27 1\n= 𝐴+\n5 1\n𝐵+\n𝐶 +1\ndengan 𝐴,𝐵,𝐶 adalah bilangan bulat. Nilai 𝐴×𝐵×𝐶 adalah….",
+   "images": [],
+   "key": "B",
+   "pemb": "27 2 1 1 1 = 5+ =5+ =5+ =𝐴+ 5 5 1 1 1 2+ 2+ 𝐵+ 2 1+1 𝐶 +1 Jadi, nilai dari 𝐴×𝐵×𝐶 = 5×2×1 = 10 Najamuddin- MGMP Matematika SMP Kota Makassar 6",
+   "isian": false,
+   "options": {
+    "A": "9",
+    "B": "10",
+    "C": "15",
+    "D": "20"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Di suatu fasilitas kesehatan, empat pasang suami istri sedang mengantri untuk disuntik\nvaksin satu per satu. Jika setiap suami menghendaki istrinya untuk disuntik terlebih\ndahulu daripada dirinya dan setiap pasang suami istri tidak harus disuntik berurutan,\nbanyak urutan penyuntikan vaksin berbeda yang mungkin adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "Misalkan a, b, c, d kelompok istri dan A, B, C, D kelompok suami, maka setiap susunan yang terbentuk a di kiri A, b di kiri B, c di kiri C dan d di kiri D, sehingga banyak urutan vaksin berbeda yang mungkin adalah: 8! 8×7×6×5×4×3×2 = = 7×6×5×4×3= 2520 cara. 2!2!2!2! 2×2×2×2",
+   "isian": false,
+   "options": {
+    "A": "24",
+    "B": "576",
+    "C": "2520",
+    "D": "40260"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Pada ∆𝐴𝐵𝐶, ∠𝐴𝐶𝐵 = 120°. Titik 𝐸 dan 𝐹 berturut-turut berada pada sisi 𝐴𝐵 dan 𝐴𝐶. Jika\n𝐴𝐹 = 𝐹𝐸 =𝐸𝐶 = 𝐶𝐵, maka ∠𝐴𝐵𝐶 =….",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0029.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0030.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0031.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0032.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0033.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0034.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0035.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0036.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0037.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0038.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0039.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0040.png"
+   ],
+   "key": "B",
+   "pemb": "Perhatikan gambar. a D ∠𝐷𝐶𝐸 = ∠𝐷𝐸𝐶 ⇔ 2𝑎−60 = 120−2𝑎 a ⇔ 4𝑎 = 180 ⇔ 𝑎 =45° 60-a 180-2a Jadi, ∠𝐴𝐵𝐶 =45° 2a-60 120-2a 60-a C A E",
+   "isian": false,
+   "options": {
+    "A": "15𝑜",
+    "B": "30𝑜",
+    "C": "36𝑜",
+    "D": "45𝑜"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Sebuah lantai berbentuk persegi dilapisi dengan ubin berbentuk persegi dengan panjang\nsisi p satuan sebanyak n buah. Untuk 𝑛 = 4 dapat dilihat seperti gambar berikut.\nq\np\nNajamuddin- MGMP Matematika SMP Kota Makassar 7\nDiketahui 𝑞 adalah jarak antar ubin pada satu baris dan kolom serta jarak ubin terluar\ndengan sisi lantai. Jika 𝑛 =81 maka persentase luas seluruh ubin dibandingkan luas\nlantai adalah 64%. Perbandingan nilai 𝑝 dan 𝑞 adalah….",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0041.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p7_0042.png"
+   ],
+   "key": "A",
+   "pemb": "Jika 𝑛 =81 maka luas ubin =81𝑝2, dan ukuran sisi lantai =9𝑝+10𝑞 luas ubin (9𝑝)2 64 82 = = = ⇔ 90𝑝 = 8(9𝑝+10𝑞) luas lantai (9𝑝+10𝑞)2 100 102 ⇔ 90𝑝 =72𝑝+80𝑞 ⇔ 18𝑝 =80𝑞 𝑝 80 40 ⇔ = = 𝑞 18 9",
+   "isian": false,
+   "options": {
+    "A": "40 : 9",
+    "B": "40 : 3",
+    "C": "8 : 6",
+    "D": "8 : 3"
+   }
+  },
+  {
+   "num": 15,
+   "text": "A mendapat giliran ronda malam setiap 4 hari, B mendapat giliran ronda setiap 5 hari,\ndan C mendapat giliran ronda setiap 6 hari. Jika A dan B muai ronda bersama pada\ntanggal 1 Januari 2021, sedangkan C ronda dua hari kemudian, maka mereka bertiga\nakan ronda bersama-sama untuk ke-3 kalinya pada tanggal….",
+   "images": [],
+   "key": "C",
+   "pemb": "A dan B mendapat giliran ronda setiap KPK(4,5) = 20 hari C mendapat giliran ronda setiap 6 hari. A dan B bersama-sama ronda tanggal 1 Januari dan C ronda 2 hari kemudian. Hal ini berarti A, B dan C pertama kali ronda bersama- sama pada tanggal 21 Januari 2021. A, B, dan C bersama-sama ronda setiap KPK(4,5,6) = 60 hari, setelah 21 Januari 2021. Pertemuan kedua terjadi pada tanggal 22 Maret 2021, dan pertemuan ketiga terjadi pada tanggal 21 Mei 2021",
+   "isian": false,
+   "options": {
+    "A": "1 Mei 2021",
+    "B": "3 Mei 2021",
+    "C": "21 Mei 2021",
+    "D": "23 Mei 2021"
+   }
+  },
+  {
+   "num": 16,
+   "text": "𝑃 adalah titik minimum grafik fungsi kuadrat yang melalui (2a, 0), (4a, 0), dan (0, 3a)\ndengan a > 0. Agar jarak 𝑃 ke sumbu-𝑥 lebih dari 3 satuan, maka nilai a adalah….",
+   "images": [],
+   "key": "D",
+   "pemb": "Fungsi kuadrat yangmelalui titik (2𝑎,0) dan (4𝑎,0) adalah 𝑦 = 𝑚(𝑥−2𝑎)(𝑥−4𝑎) Fungsi melalui titik (0,3𝑎), sehingga: 3𝑎 = 𝑚(0−2𝑎)(0−4𝑎) 3 3a 3𝑎 = 𝑚(−2𝑎)(−4𝑎) ⇔ 𝑚 = 8𝑎 3a 3 Jadi, fungsi kuadrat tersebut adalah 𝑦 = (𝑥−2𝑎)(𝑥−4𝑎) 8𝑎 2a 4a Untuk 𝑥 = 3𝑎 diperoleh: t • 3 P 𝑡 = (3𝑎−2𝑎)(3𝑎−4𝑎) 8𝑎 3 3𝑎 = (𝑎)(−𝑎) = − 8𝑎 8 Agar supaya jarak P ke sumbu 𝑥 lebih dari 3, maka 𝑡 < −3, sehingga: 3𝑎 − < −3 ⇔ 3𝑎 > 24 ⇔ 𝑎 >8 8",
+   "isian": false,
+   "options": {
+    "A": "0 < a < 3",
+    "B": "0 < a < 8",
+    "C": "a > 3",
+    "D": "a > 8 Najamuddin- MGMP Matematika SMP Kota Makassar 8"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Diketahui koordinat titik 𝐴 dan 𝐵 berturut-turut adalah (−3,0) dan (0,−1). Persegi\npanjang 𝐴𝐵𝐶𝐷 dengan titik 𝐶 dan 𝐷 terletak di dua kuadran berbeda memiliki luas\ndaerah 20 satuan luas. Jika persegi panjang 𝐴𝐵𝐶𝐷 dicerminkan terhadap sumbu−𝑥, maka\nhasil pencerminan salah satu sisinya akan memotong sumbu−𝑥 di titik (𝑚,0) dan hasil\npencerminan salah satu sisinya yang lain akan memotong sumbu−𝑦 di titik(0,𝑛). Nilai\ndari 3(𝑚+𝑛) yang mungkin adalah ….",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0043.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0044.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0045.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0046.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0047.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0048.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0049.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0050.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0051.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0052.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0053.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0054.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0055.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0056.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0057.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0058.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0059.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0060.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p9_0061.png"
+   ],
+   "key": "A",
+   "pemb": "1 𝑚 =− . Karena 𝐴𝐵 ⊥ 𝐵𝐶, maka 𝑚 = 3. 𝐴𝐵 𝐵𝐶 3 y Persamaan garis BC, 𝑦 = 3𝑥+𝑐, melalui (0,−1), D Sehingga BC ; 𝑦 =3𝑥−1 3a-1 C Titik potong BC ke sumbu x adalah (𝑚,0), sehingga 1 0= 3𝑚−1 ⇔ 𝑚 = 3 Misalkan kordinat 𝐶(𝑎,3𝑎−1) A a x -3 m Panjang 𝐴𝐵 =√12+32 = √10 -1 B Karena luas ABCD = 20, maka panjang 𝐵𝐶 =2√10 𝐵𝐶 =√(3𝑎)2+𝑎2 =𝑎√10 = 2√10 ⇔ 𝑎 =2 Garis 𝐶𝐷 melalui C(2, 5) dan sejajar AB, sehingga n 1 2 17 CD; 𝑦 =− 𝑥+𝑐 ⇔ 5= − +𝑐 ⇔ 𝑐 = 3 3 3 17 Garis CD memotong sumbu y di titik (0, ) dan penceriman titik itu terhadap sumbu x 3 17 17 1 17 adalah (0,− ) sehingga 𝑛 =− . Jadi, 3(𝑚+𝑛) =3( +(− )) =−16 3 3 3 3 Najamuddin- MGMP Matematika SMP Kota Makassar 9",
+   "isian": false,
+   "options": {
+    "A": "−16",
+    "B": "−15",
+    "C": "1",
+    "D": "18"
+   }
+  },
+  {
+   "num": 18,
+   "text": "Suatu keluarga memiliki lima anak dengan anak sulung bernama Andy. Ayah memberi\nuang saku bulanan kepada kelima anaknya tersebut dengan ketentuan berikut. Uang\nsaku Andy adalah dua kali lipat uang saku anak kedua, tiga kali lipat uang saku anak\nketiga, empat kali lipat uang saku anak keempat, serta lima kali lipat uang saku anak\nkelima. Besaran uang saku anak-anak tersebut adalah bilangan bulat kelipatan ribuan\nrupiah. Bendy dan Cindy adalah adik dari Andy. Bendy mengeluh bahwa uang saku\nyang diterima adalah Rp20.000 lebih sedikit dibanding Cindy. Besaran terkecil uang saku\nAndy yang mungkin adalah …,",
+   "images": [],
+   "key": "C",
+   "pemb": "Misalkan Andy mempunyai uang sebanyak 𝑎 dan keempat adiknya berturut-turut 𝑏,𝑐,𝑑,dan 𝑒, maka diperoleh hubungan 1 1 1 1 𝑏 = 𝑎,𝑐 = 𝑎,𝑑 = 𝑎,𝑒 = 𝑎 2 3 4 5 Semua uang merupakan bilangan bulat kelipatan ribuan. Misalkan 𝑎 =60.000𝑘, maka kelima anak tersebut memiliki uang berturut-turut: 60.000𝑘,30.000𝑘,20.000𝑘,15.000𝑘 𝑑𝑎𝑛 12.000𝑘 Bendy dan Cindy mempunyai selisih uang sebesar Rp20.000 Untuk 𝑘 = 1 tidak terdapat dua anak yang selisih uangnya Rp20.000 Untuk 𝑘 = 2, uang mereka: 120.000, 60.000, 40.000, 30.000, 24.000 terdapat dua anak yang selisih uangnya Rp20.000, sehingga besaran terkecil uang Andy adalah Rp120.000",
+   "isian": false,
+   "options": {
+    "A": "Rp60.000",
+    "B": "Rp80.000",
+    "C": "Rp120.000",
+    "D": "Rp240.000"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Jika (𝑥,𝑦) adalah pasangan bilangan bulat positif yang memenuhi persamaan\n𝑥2021 +𝑦2 = 4𝑦−3,\nMaka banyak pasangan (𝑥,𝑦) yang memenuhi persamaan tersebut adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "𝑥2021 +𝑦2 = 4𝑦−3 ⇔ 𝑦2−4𝑦+(𝑥2021 +3) = 0 Persamaan di atas memiliki solusi bilangan bulat apabila 𝐷 ≥ 0,𝑑𝑎𝑛 𝐷 =𝑚2 𝐷 = (−4)2−4(𝑥2021 +3) = 4(1−𝑥2021) ≥ 0 Karena 𝑥 merupakan bilangan bulat positif, maka nilai 𝑥 yang memenuhi hanya 𝑥 =1, sehingga persamaan kuadrat yang memenuhi adalah 𝑦2−4𝑦+4 = 0 ⇔ (𝑦−2)2 = 0 ⇔ 𝑦 =2 Jadi banyak pasangan (𝑥,𝑦) yang memenuhi hanyalah 1 yaitu (2,1) Najamuddin- MGMP Matematika SMP Kota Makassar 10",
+   "isian": false,
+   "options": {
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Misalkan B menyatakan barisan bilangan bulat yang suku-sukunya 𝑏 ,𝑏 ,𝑏 ,𝑏 ,… dan\n1 2 3 4\n𝑓(𝐵) menyatakan barisan bilangan bulat yang suku-sukunya 𝑏 −𝑏 ,𝑏 −𝑏 ,𝑏 −𝑏 ,….\n1 2 2 3 3 4\nJika semua suku dari barisan 𝑓(𝑓(𝐵)) adalah bilangan bulat 𝑐, dengan 𝑐 =3, dan\ndiketahui 𝑏 ×𝑏 = 𝑏 +𝑏 = 0, maka nilai dari 𝑏 adalah….\n21 42 21 42 2",
+   "images": [],
+   "key": "C",
+   "pemb": "𝑓(𝐵) adalah barian yang terbentuk dari selisih setiap dua suku berurutan dari 𝐵, maka 𝑓(𝑓(𝐵)) merupakan barisan yang terbentuk dari selisih dua suku berurutan dari 𝑓(𝐵). Karena 𝑓(𝑓(𝐵)) = 𝑐 = 3, maka 𝐵 merupakan barisan berderajat 2. Misalkan 𝐵 = 𝑎𝑛2+𝑏𝑛+𝑐 atau 𝐵 = 𝑎(𝑛−𝑛 )(𝑛−𝑛 ) 𝑛 𝑛 1 2 𝐵: 𝑎+𝑏+𝑐 4𝑎+2𝑏+𝑐 9𝑎+3𝑏+𝑐 16𝑎+4𝑏+𝑐 𝑓(𝐵): −3𝑎−𝑏 −5𝑎−𝑏 −7𝑎−𝑏 𝑓(𝑓(𝐵)): 2𝑎 =3 2𝑎 =3 3 Diperoleh 𝑎 = 2 Karena 𝑏 ×𝑏 =𝑏 +𝑏 =0, maka 𝑏 =0 dan 𝑏 =0, sehingga: 21 42 21 42 21 42 3 𝐵 = (𝑛−21)(𝑛−42) 𝑛 2 3 3 Jadi, 𝐵 = (2−21)(2−42) = (−19)(−40) =1140 2 2 2",
+   "isian": false,
+   "options": {
+    "A": "90",
+    "B": "760",
+    "C": "1140",
+    "D": "1230"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Diketahui 𝑛 adalah bilangan tiga digit yang jika dibagi 7 dan 9 masing-masing\nmemberikan sisa 1 dan 2. Jumlah nilai maksimum dan minimum dari 𝑛 adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "𝑛 ≡1 (𝑚𝑜𝑑7) ⇔ 9𝑛 ≡ 9 (𝑚𝑜𝑑63) ⇔ 27𝑛 ≡27 (𝑚𝑜𝑑63)……..1) 𝑛 ≡2 (𝑚𝑜𝑑9) ⇔ 7𝑛 ≡14 (𝑚𝑜𝑑63) ⇔ 28𝑛 ≡56 (𝑚𝑜𝑑63)……..2) Dari 2) – 1) diperoleh: 𝑛 ≡ 29 (𝑚𝑜𝑑63) Dengan demikian, 𝑛 dapat dituliskan ke dalam bentuk 𝑛 =63𝑥+29 𝑛 maksimum diperoleh untuk 𝑥 =15, sehingga 𝑛 =63(15)+29 =974 𝑛 minimum diperoleh untuk 𝑥 =2, sehingga 𝑛 = 63(2)+29 = 155 Jadi, jumlah nilai maksimum dan minimum dari 𝑛 adalah 155+974 = 1129 Najamuddin- MGMP Matematika SMP Kota Makassar 11",
+   "isian": false,
+   "options": {
+    "A": "974",
+    "B": "1003",
+    "C": "1129",
+    "D": "1130"
+   }
+  },
+  {
+   "num": 22,
+   "text": "Berikut adalah data penjualan dari lima perusahaan A, B, C, D, dan E dalam lima tahun\n(2010 hingga 2014). Data diberikan dalam persentase terhadap total penjualan A. B, C,\nD, dan E, serta hanya tiga perusahaan teratas yang disebutkan untuk setiap tahun yang\nditentukan.\n2010 2011 2012 2013 2014\nB (35%) A (30%) D (40%) A (38%) A (42%)\nE (25%) C (28%) C (25%) B (22%) D (18%)\nD (18%) B (18%) E (15%) C (21%) E (15%)\nDiketahui bahwa tidak ada perusahaan yang memiliki persentase yang sama dalam satu\ntahun dan setidaknya persentase masing-masing perusahaan 1% dari total penjualan\nkelima perusahaan di tahun tersebut.\nJika total penjualan kelima perusahaan adalah sama setiap tahunnya, banyaknya\nperusahaan yang penjualannya pasti lebih besar dari perusahaan E selama lima tahun\nadalah….",
+   "images": [],
+   "key": "B",
+   "pemb": "2010 2011 2012 2013 2014 B (35%) A (30%) D (40%) A (38%) A (42%) E (25%) C (28%) C (25%) B (22%) D (18%) D (18%) B (18%) E (15%) C (21%) E (15%) 5 – 17% 7 – 17% 6 – 14% 1 – 18% 11 – 14% Penjualan 𝐸 =25+17+15+18+15 =90 𝑚𝑎𝑘𝑠𝑖𝑚𝑢𝑚 Penjualan 𝐴 = 5+30+6+38+42 =121 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 Penjualan 𝐵 = 35+18+6+22+11 = 92 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 Penjualan 𝐶 = 5+28+25+21+11 = 90 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 Penjualan 𝐷 = 18+7+40+1+18 =84 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 Berdasarkan hasil penjualan perusahaan A, B, C, D, dan E, maka banyak perusahaan yang penjualannya pasti lebih besar dari perusahaan E adalah 2 yaitu perusahaan A dan perusahaan B. Najamuddin- MGMP Matematika SMP Kota Makassar 12",
+   "isian": false,
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   }
+  },
+  {
+   "num": 23,
+   "text": "Survei Penghasilan\ndan Instrumen Investasi Pilihan\n700\n600\ng 500\nn\na 269\nr O 400\nk a 300 131\ny\nn\na 200\nB 336\n100 264\n0\nEmas Reksadana\nInstrumen Investasi Pilihan\nKurang dari Rp4.000.000\nSetidaknya Rp4.000.000\nDiagram tersebut mempresentasikan hasil survei penghasilan dan instrument investasi\npilihan 1000 orang di suatu wilayah. Jika dari 1000 orang tersebut dipilih 1 orang secara\nacak untuk diwawancarai dan diketahui bahwa orang tersebut memiliki penghasilan\nkurang dari Rp4.000.000, maka peluang orang tersebut lebih memilih instrumen investasi\nreksadana adalah…%.",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0062.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0063.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0064.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0065.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0066.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0067.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0068.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0069.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0070.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0071.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0072.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0073.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0074.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0075.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0076.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0077.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0078.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0079.png"
+   ],
+   "key": "C",
+   "pemb": "Banyak orang yang berpenghasilan kurang dari Rp4.000.000 adalah 336 + 264 = 600 orang. Dari ke 600 orang tersebut, yang memilih investasi reksadana sebanyak 264 orang. Jadi peluang orang tersebut lebih memilih instrument investasi reksadana adalah 264 𝑃 = ×100% = 44% 600",
+   "isian": false,
+   "options": {
+    "A": "26",
+    "B": "40",
+    "C": "44",
+    "D": "67"
+   }
+  },
+  {
+   "num": 24,
+   "text": "Diberikan persegi panjang 𝐴𝐵𝐶𝐷 dengan 𝐴𝐵 =12 dan 𝐵𝐶 =6. Titik 𝐸,𝐹,𝐺,𝐻 dipilih\nsehingga 𝐵𝐸 = 𝐵𝐹 = 𝐷𝐺 =𝐷𝐻 =𝑝. Jika ruas garis 𝐹𝐻 dan 𝐸𝐺 berpotongan di tengah-\ntengah persegi panjang, dan luas daerah yang diarsir adalah 12,5% dari luas 𝐴𝐵𝐶𝐷, maka\nnilai 𝑝 adalah…. G\nD C",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0080.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0081.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0082.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0083.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0084.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0085.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0086.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0087.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p13_0088.png"
+   ],
+   "key": "C",
+   "pemb": "A B E Najamuddin- MGMP Matematika SMP Kota Makassar 13 Perhatikan gambar! Luas arsiran =[𝑂𝐺𝐷𝐻]+[𝑂𝐸𝐵𝐹] p G D C =2[𝑂𝐺𝐻𝐷] p =2([𝑂𝐺𝐷]+[𝑂𝐷𝐻]) 3 H 1 O 6 =2( 𝑝(3+6)) 2 6 =9𝑝 F 3 Luas Arsiran =12,5%[𝐴𝐵𝐶𝐷] p 125 A 9𝑝 = ×6×12 p B 1000 E 1 72 𝑝 = × =1 8 9",
+   "isian": false,
+   "options": {
+    "A": "1/3 H",
+    "B": "1/2 O",
+    "C": "1 F",
+    "D": "3/2"
+   }
+  },
+  {
+   "num": 25,
+   "text": "Bintang menuliskan angka 1, 2, 3, 4, 5, 6, 7, dan 8 di baris pertaman table berikut\n1 2 3 4 5 6 7 8\nBintang ingin melakukan hal yang serupa pada baris kedua dengan suatu urutan\ntertentu. Setiap bilangan pada baris ketiga adalah jumlah dua bilangan di atasnya.\nBanyaknya cara Bintang mengisi baris kedua sehingga semua bilangan pada baris ketiga\nmerupakan bilangan genap adalah….",
+   "images": [
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0089.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0090.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0091.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0092.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0093.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0094.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0095.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0096.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0097.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0098.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0099.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0100.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0101.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0102.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0103.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0104.png",
+    "img2/2021-mat-pembahasan/2021-mat-pembahasan_p14_0105.png"
+   ],
+   "key": "D",
+   "pemb": "Agar jumlah baris pertama dan kedua bernilai genap, maka kedua baris tersebut harus kedua-duanya ganjil atau kedua-duanya genap. Pada baris ke dua berikut di isi dengan banyak kemungkinan angka yang bisa dituliskan di bawah angka pada baris pertama. 1 2 3 4 5 6 7 8 4 4 3 3 2 2 1 1 (1,3,5,7) (2,4,6,8) Jadi, banyaknya cara Bintang mengisi baris kedua sehingga semua bilangan pada baris ketiga merupakan bilangan genap adalah 42×32 ×22×12 =242 =576 Najamuddin- MGMP Matematika SMP Kota Makassar 14",
+   "isian": false,
+   "options": {
+    "A": "8",
+    "B": "16",
+    "C": "48",
+    "D": "576"
+   }
+  }
+ ]
+}

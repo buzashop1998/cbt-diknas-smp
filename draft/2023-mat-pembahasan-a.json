@@ -1,0 +1,708 @@
+{
+ "id": "2023-mat-pembahasan-a",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Di samping kolam ikan berbentuk segitiga, dibangun jalan berbentuk L dengan panjang 3 meter dan\nlebar x meter, seperti yang terlihat pada gambar berikut\nJika luas segitiga tersebut sama dengan luas daerah yang berbentuk L, maka nilai x adalah .... meter",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p2_0006.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "√",
+    "B": "√",
+    "C": "√",
+    "D": "√"
+   }
+  },
+  {
+   "num": 2,
+   "text": "A bergerak mendekati B yang berjarak 55 km dengna kecepatan 5 km/jam. Satu jam kemudian, B bergerak menuju A dengan kecepatan km/jam, dengan dalah waktu (dalam jam) ketika B berangkat sampai bertemu A. Grafik yang menyatakan hubungan antar waktu (t) yang dibutuhkan A bertemu B dengan jarak (S) A dan B adalah.... MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p2_0007.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p2_0008.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Misalkan dan adalah bilangan-bilangan bulat positif yang berbeda sehingga dan\nbilangan ganjil sekaligus bilangan kuadrat. Nilai terkecil yang mngkin adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "33",
+    "B": "67",
+    "C": "81",
+    "D": "83"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Diketahui\n√\n√\nJumlah semua nilai √ yang mungkin adalah......",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "14",
+    "B": "27",
+    "C": "44",
+    "D": "62"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Diketahui sebuah dadu seimbang bersisi 6 semula memiliki mata dadu 2, 3, 4, 5, 6, dan 7. Dadu\ntersebut dilambungkan satu kali dan diamati hasilnya. Jika yang muncul angka ganjil, maka angka\ntersebut diganti dengan angka 8. Namun, Jika yang muncul angka genap, maka angka tersebut diganti\ndengan angka 1, kemudian dadu yang mata dadunya telah diganti tersebut dilambungkan kembali,\npeluang munculnya mata dadu ganjil adalah....\nMIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481\nupdate terakhir 18 Mei 2023, 16:45",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p3_0009.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p3_0010.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1/3",
+    "B": "2/3",
+    "C": "1/2",
+    "D": "1"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Seorang milliarder sedang membangun hote. Kamar-kamar hotel tersebut diberi nomor secara\nberurutan dengan menggunakan bilangan asli mulai dari angka 1. Nomor kamar dibuat sari plat besi\nseharga Rp. 8.000 per digit. Sebagai contoh No. 7 perlu biaya Rp. 8.000 dan No. 11 perlu biaya Rp.\n16.000. Jika hotel tersebut menghasikan biaya sebesar Rp. 33.416.000 untuk membuat seluruh nomo\nkamar, maka banyaknya kamar pada hotel tersebut adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1.288",
+    "B": "1.321",
+    "C": "2.700",
+    "D": "4.177"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Aima mendapatkan kesempatan makan malam gratis di suatu resto dari tanggal 1 hingga 10 juni\n2023. Aima boleh memilih lebih dari satu tanggal kedatangan pada periode tersebut selama bukan\ntanggal berurutan. Jika Aima berencana datang setidaknya satu kali, maka banyaknya kemungkinan\njadwal kedatangan yang dapat dibuat oleh Aima adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "45",
+    "B": "143",
+    "C": "144",
+    "D": "2025"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Suatu bak penampungan air berbentuk kerucut terbalik (seperti gambar) berisi air dengan volume 1\nliter. Jika bak penampungan tersebut ditambahkan air sebanyak 331 mililiter, maka perbandingan\nantara tinggi air di dalam bak penampungan mula-mula dan setelah ditambahkan air adalah...",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p4_0011.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "10 : 11",
+    "B": "11 : 13 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+    "C": "331 : 1000",
+    "D": "1000 : 1331"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Perhatikan gambar berikut !\nDi dalam persegi ABCD terdapat dua setenagn lingkaran dengan diameter AD dan BC. Ruas garis Ef\ndan GH sejajar AB. Jika EK = 3 cm, LH = 6 cm, dan EG = 9 cm, maka luas daerah persegi ABCD adalah\n..... cm2.",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p5_0012.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "180",
+    "B": "360",
+    "C": "90",
+    "D": "150"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Diketahui dua buah segitiga OAB dan OCB dengan ( ) ( ) ( ) dan ( ). Jika segitiga\nOCB digeser searah sumbu- sehingga titik O terletak di tengah sisi OA, maka perbandingan antara\nluas irisan kedua segitiga mula-mula dan luas irisan kedua segitiga setelah segitiga OCB digeser\nadalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "3 : 2",
+    "B": "2 : 1",
+    "C": "3 : 1",
+    "D": "4 : 1"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Misalakn populasi ikan A semula adalah dan populasi ikan B semula adalah . Sekarang, populasi\nikan A meningkat dan populasi B berkurang 28 , sehngga rasio populasi ikan A dan B menjadi\n. Persentase perubahan populasi keseluruhan ikan sekarang dibandingakan total populasi ikan\nsemula adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "0%",
+    "B": "4%",
+    "C": "28%",
+    "D": "33% MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Diketahui merupakan bilangan bulat positif dengan dan\nNilai terbesar yang mungkin dari adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Segitiga ABC terletak pada setengah lingkaran berdiameter AB dengan ABC = 30 . Titik E terletak\npada AB sehingga AB = 4 EB dan EC = 14 cm. Luas segitiga BEC sama dengan ...... cm2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "√",
+    "B": "√",
+    "C": "√",
+    "D": "√"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Segitiga ABC siku-siku di A dan ADEC adalah persegi panjang. Titik H terletak pada DE dan lingkaran\ndengan pusat H menyinggung ketiga sisi segitiga ABC.\nJika FG = 2 cm dan EF = 4 cm, maka luas segitiga ABC adalah .... cm2",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p6_0013.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "8",
+    "B": "27",
+    "C": "54",
+    "D": "108"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Empat orang siswa dipilih mewakili suatu sekolah untk OSK SMP 2023. Peluang ada siswa yang lahir\ndi bulan yang sama adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "0,4271",
+    "B": "0,5729 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+    "C": "0,2747",
+    "D": "0,4115"
+   }
+  },
+  {
+   "num": 16,
+   "text": "Dua kapal memiliki tempat bersandar (berlabuh) yang sama di suatu pelabuhan. Diketahui bahwa\nwaktu kedatangan kedua kapalsaling bebas dan memiliki kemungkinan yang sama untuk bersandar\npada suatu hari Minggu (jam 00.00-24.00). Jika waktu bersandar kapal pertama adalah 2 jam dan\nwaktu bersandar kapal kedua adalah 4 jam, peluang bahwa satu kapal harus menunggu sampai\ntempat bersandar dapat digunakan adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "67/44",
+    "B": "1/4",
+    "C": "67/288",
+    "D": "23/144"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Perhatikan kedua persamaan berikut.\n( )\nJika , maka nilai adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "14"
+   }
+  },
+  {
+   "num": 18,
+   "text": "Diketahui barisan bilangan bulat yang memenuhi tiga syarat berikut\n( )\n( )\nuntuk\nNilai terkecil yang mungkin untuk adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "-100",
+    "B": "-71",
+    "C": "-51",
+    "D": "-16"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Suatu bilangan prima disebut “prima kanan” jika dapat diperoleh bilangan prima dengan\nmenghilangkan setidaknya satu angka di sebelah kiri. Sebagai contoh. adalah “prima kanan”\nsebab setelah menghilangkan angka 2 paling kiri, bilangan yang tersisa adalah 23 yang merupakan\nbilangan prima. Contoh lainnya 127. Dengan menghilangkan 2 angka paling kiri maka angka yang\nMIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481\nupdate terakhir 18 Mei 2023, 16:45\ntersisa adalah 7 yang merupakan bilangan prima. Banyaknya bilangan prima antara 10 dan 200\nyang merupakan “prima kanan” adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "24",
+    "B": "26",
+    "C": "28",
+    "D": "30"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Jika\nmaka hasil penjumlahan semua faktor prima dari M adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "10",
+    "B": "17",
+    "C": "30",
+    "D": "36"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Jika ( ) adalah pasangan bilangan bulat positif yang memenuhi\ndengan . Banyaknya ( ) yang mungkin adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "0",
+    "B": "2",
+    "C": "4",
+    "D": "Tak hingga"
+   }
+  },
+  {
+   "num": 22,
+   "text": "Jika . / , dengan dan , maka nilai dari deret berikut adalah... ( ) . / . / . / . / . . / A. B. C. D.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 23,
+   "text": "Banyaknya himpunan bagian dari * + yang berisi 3 bilangan dan memuat tepat dua\nbilangan ganjil adalah .....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "40 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+    "B": "84",
+    "C": "30",
+    "D": "48"
+   }
+  },
+  {
+   "num": 24,
+   "text": "Banyaknya bilangan asli tujuh digit yang disusun dari 0 atau 1 saja serta habis dibagi 6 adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "11",
+    "B": "17",
+    "C": "21",
+    "D": "22"
+   }
+  },
+  {
+   "num": 25,
+   "text": "Diketahui suatu konstanta . Garis dengan persamaam meotong parabola dengan persamaan pada titik P di kuadran I dan Q di kuadran II. Jika koordinat O( ) dan luas daerah segitiga POQ adalah 48 satuan luas, maka kemiringan garis adalah.... A. B. C. D. MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 Bagi Bapak/Ibu yang berkenan menitipkan putra-putri/anak didiknya untuk dibimbing persiapan Olimpiade Matematika SD, SMP, dan SMA kami (MMR) siap melayani dan membimbing dengan sepenuh hati. MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 SOAL DAN",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p10_0014.png"
+   ],
+   "key": null,
+   "pemb": "OSK SMP 2023",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Di samping kolam ikan berbentuk segitiga, dibangun jalan berbentuk L dengan panjang 3 meter dan\nlebar x meter, seperti yang terlihat pada gambar berikut\nJika luas segitiga tersebut sama dengan luas daerah yang berbentuk L, maka nilai x adalah .... meter",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p11_0015.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p11_0016.png"
+   ],
+   "key": null,
+   "pemb": "uas biru luas kuning luas merah luas persegi besar ( )( ) ( ) ( ) karena maka √ diperoleh √ .",
+   "isian": false,
+   "options": {
+    "A": "√",
+    "B": "√",
+    "C": "√",
+    "D": "√"
+   }
+  },
+  {
+   "num": 2,
+   "text": "A bergerak mendekati B yang berjarak 55 km dengna kecepatan 5 km/jam. Satu jam kemudian, B bergerak menuju A dengan kecepatan km/jam, dengan dalah waktu (dalam jam) ketika B MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 berangkat sampai bertemu A. Grafik yang menyatakan hubungan antar waktu (t) yang dibutuhkan A bertemu B dengan jarak (S) A dan B adalah.... MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p12_0017.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p12_0018.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p13_0019.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p13_0020.png"
+   ],
+   "key": null,
+   "pemb": "Untuk 1 jam pertama, persamaan jarak ( ) antara A dan B adalah . Setelah 1 jam pertama, karena bergerak dengan kecepatan km/jam dan adalah waktu ketika B berangkat sampai ketemu A, maka persamaan jarak (S) antara A dan B adalah ( )( ) ( ) Persamaan ini setara dengan ( ) . Ini adalah kurva parabola terbuka ke bawah. Jadi, { ( ) √ Jadi grafik yang cocok adalah pilihan jawaban B.",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Misalkan dan adalah bilangan-bilangan bulat positif yang berbeda sehingga dan\nbilangan ganjil sekaligus bilangan kuadrat. Nilai terkecil yang mngkin adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "Karena yang ditanyakan bilangan terkecil maka kita pilih bilangan kuadrat ganjil terkecil berbeda yang lebih dari 1. Jadi, ilai maksimum dari saat ( )",
+   "isian": false,
+   "options": {
+    "A": "33",
+    "B": "67",
+    "C": "81",
+    "D": "83"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Diketahui\n√\n√\nJumlah semua nilai √ yang mungkin adalah......",
+   "images": [],
+   "key": null,
+   "pemb": "Misal √ , maka persamaan (2) pada soal menjadi , lalu dikuadratkan kedua ruas, maka ( ) Dari persamaan (1) pada soal diperoleh : , lalu disubtitusikan ke persamaan (3), MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 ( )( ) Diperoleh √ , atau √ , . Jumlah semua nilai √ .",
+   "isian": false,
+   "options": {
+    "A": "14",
+    "B": "27",
+    "C": "44",
+    "D": "62"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Diketahui sebuah dadu seimbang bersisi 6 semula memiliki mata dadu 2, 3, 4, 5, 6, dan 7. Dadu\ntersebut dilambungkan satu kali dan diamati hasilnya. Jika yang muncul angka ganjil, maka angka\ntersebut diganti dengan angka 8. Namun, Jika yang muncul angka genap, maka angka tersebut diganti\ndengan angka 1, kemudian dadu yang mata dadunya telah diganti tersebut dilambungkan kembali,\npeluang munculnya mata dadu ganjil adalah",
+   "images": [],
+   "key": null,
+   "pemb": "Porsi ganjil dan genap pada dadu semula adalah sama (3 ganjil, 3 genap). Jika pada pelemparan pertama muncul ganjil maka angka tersebut diganti genap (dalam hal ini angka 8). Sebaliknya, Jika pada pelemparan pertama muncul genap maka angka tersebut diganti ganjil (dalam hal ini angka 1). Inipun porsi ganjil dan genap sama (ganjil diganti genap, genap diganti ganjil). Jadi, pada pelemparan kedua, Peluang munculnya mata dadu ganjil = Peluang munculnya mata dadu genap = 1/2.",
+   "isian": false,
+   "options": {
+    "A": "1/3",
+    "B": "2/3",
+    "C": "1/2",
+    "D": "1"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Seorang milliarder sedang membangun hote. Kamar-kamar hotel tersebut diberi nomor secara\nberurutan dengan menggunakan bilangan asli mulai dari angka 1. Nomor kamar dibuat sari plat besi\nseharga Rp. 8.000 per digit. Sebagai contoh No. 7 perlu biaya Rp. 8.000 dan No. 11 perlu biaya Rp.\n16.000. Jika hotel tersebut menghasikan biaya sebesar Rp. 33.416.000 untuk membuat seluruh nomo\nkamar, maka banyaknya kamar pada hotel tersebut adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "1 s/d 9 ----> Biaya = (9)(8000) = Rp. 72.000 10 s/d 99 ----> Biaya = 2(99-9)(8000) = Rp. 1.440.000 100 s/d 999 ----> Biaya = 3(999-99)(8000) = Rp. 21.600.000 1000 s/d x ----> Biaya = 4(x-999)(8000) Total biaya Rp. 33.416.000, maka 4(x-999)(8000)+72000+1440000+21600000 = 33416000 maka x = 1321. Jadi, ada 1321 kamar. MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "isian": false,
+   "options": {
+    "A": "1.288",
+    "B": "1.321",
+    "C": "2.700",
+    "D": "4.177"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Aima mendapatkan kesempatan makan malam gratis di suatu resto dari tanggal 1 hingga 10 juni\n2023. Aima boleh memilih lebih dari satu tanggal kedatangan pada periode tersebut selama bukan\ntanggal berurutan. Jika Aima berencana datang setidaknya satu kali, maka banyaknya kemungkinan\njadwal kedatangan yang dapat dibuat oleh Aima adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "Karena tidak boleh datang dalam hari yang berurutan maka maksimimal kedatangan Aima dalah 5 hari. Perhatikan banyaknya cara memilih bilangan berbeda * + dengan ( ) syarat dan , , ..... , adalah . /, sehingga banyaknya kemungkinan jadwal kedatangan yang dapat dibuat oleh Aima adalah . / . / . / . / . /",
+   "isian": false,
+   "options": {
+    "A": "45",
+    "B": "143",
+    "C": "144",
+    "D": "2025"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Suatu bak penampungan air berbentuk kerucut terbalik (seperti gambar) berisi air dengan volume 1\nliter. Jika bak penampungan tersebut ditambahkan air sebanyak 331 mililiter, maka perbandingan\nantara tinggi air di dalam bak penampungan mula-mula dan setelah ditambahkan air adalah...",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p16_0021.png"
+   ],
+   "key": null,
+   "pemb": "Perbandingan volume 2 kerucut yang sebangun = pangkat 3 dari perbandingan tinggi-tinginya maka, perbandingan tinggi air di dalam bak penampungan mula-mula dan setelah ditambahkan air √ √ . MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "isian": false,
+   "options": {
+    "A": "10 : 11",
+    "B": "11 : 13",
+    "C": "331 : 1000",
+    "D": "1000 : 1331"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Perhatikan gambar berikut !\nDi dalam persegi ABCD terdapat dua setenagn lingkaran dengan diameter AD dan BC. Ruas garis Ef\ndan GH sejajar AB. Jika EK = 3 cm, LH = 6 cm, dan EG = 9 cm, maka luas daerah persegi ABCD adalah\n..... cm2.",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p17_0022.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p17_0023.png"
+   ],
+   "key": null,
+   "pemb": "Dengan kesimetrisan maka MF = EK = 3, dengan pythagoras segitiga OMF dan segitiga OLH, maka diperoleh : ( ) diperoleh dan . Luas persegi = cm",
+   "isian": false,
+   "options": {
+    "A": "180",
+    "B": "360",
+    "C": "90",
+    "D": "150"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Diketahui dua buah segitiga OAB dan OCB dengan ( ) ( ) ( ) dan ( ). Jika segitiga\nOCB digeser searah sumbu- sehingga titik O terletak di tengah sisi OA, maka perbandingan antara\nMIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481\nupdate terakhir 18 Mei 2023, 16:45\nluas irisan kedua segitiga mula-mula dan luas irisan kedua segitiga setelah segitiga OCB digeser\nadalah...",
+   "images": [],
+   "key": null,
+   "pemb": "OCB digeser searah sumbu- sehingga titik O terletak di tengah sisi OA (Titik E) terbentuk CED. , - sehingga berlaku . arena maka ( ) . , - Jadi, perbandingan antara luas irisan kedua segitiga mula-mula dan luas irisan kedua segitiga setelah segitiga OCB digeser adalah 4 : 1.",
+   "isian": false,
+   "options": {
+    "A": "3 : 2",
+    "B": "2 : 1",
+    "C": "3 : 1",
+    "D": "4 : 1"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Misalakn populasi ikan A semula adalah dan populasi ikan B semula adalah . Sekarang, populasi\nikan A meningkat dan populasi B berkurang 28 , sehngga rasio populasi ikan A dan B menjadi\n. Persentase perubahan populasi keseluruhan ikan sekarang dibandingakan total populasi ikan\nsemula adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "maka diperoleh dapat ditulis dan , untuk suatu bilangan positif , sehingga total populasi ikan semula adalah , dan total populasi sekarang adalah ( ) ( ) . ersentase perubahan populasi ( )( ) .",
+   "isian": false,
+   "options": {
+    "A": "0%",
+    "B": "4%",
+    "C": "28%",
+    "D": "33%"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Diketahui merupakan bilangan bulat positif dengan dan\nMIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481\nupdate terakhir 18 Mei 2023, 16:45\nNilai terbesar yang mungkin dari adalah...",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p18_0024.png"
+   ],
+   "key": null,
+   "pemb": "diperoleh . Karena bilangan asli, maka . Jika , maka pasangan ( ) ( ), tidak ada yang memenuhi. Jika , maka pasangan ( ) ( ), maka . Jika , maka pasangan ( ) ( ), maka . Jika , maka pasangan ( ) ( ) maka . Jika , maka pasangan ( ) ( ) maka . Jadi, nilai maksimum adalah 5.",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Segitiga ABC terletak pada setengah lingkaran berdiameter AB dengan ABC = 30 . Titik E terletak\npada AB sehingga AB = 4 EB dan EC = 14 cm. Luas segitiga BEC sama dengan ...... cm2",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p19_0025.png"
+   ],
+   "key": null,
+   "pemb": "Dengan Stewart segitiga ACE, maka ( )( ) ( )( ) ( )( ) ( )( )( ) diperoleh sehingga , - , - ( )( )( √ ) √ . MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "isian": false,
+   "options": {
+    "A": "√",
+    "B": "√",
+    "C": "√",
+    "D": "√"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Segitiga ABC siku-siku di A dan ADEC adalah persegi panjang. Titik H terletak pada DE dan lingkaran\ndengan pusat H menyinggung ketiga sisi segitiga ABC.\nJika FG = 2 cm dan EF = 4 cm, maka luas segitiga ABC adalah .... cm2",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p20_0026.png",
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p20_0027.png"
+   ],
+   "key": null,
+   "pemb": "Jelas bahwa CEF HIF (sudut-sudutnya sama dan satu sisi sama), sehingga FI = FE = 4 cm. Dengan pyhtagoras HIF, maka ( ) , diperoleh . Karena CE sejajar AB, maka ABC = ECF sehingga ABC ECF dan berlaku : diperoleh , - ( )( ) ( )( ) cm . MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+   "isian": false,
+   "options": {
+    "A": "8",
+    "B": "27",
+    "C": "54",
+    "D": "108"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Empat orang siswa dipilih mewakili suatu sekolah untk OSK SMP 2023. Peluang ada siswa yang lahir\ndi bulan yang sama adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "Jika dikerjakan dengan komplemen, maka peluangnya eluang semuanya lahir di bulan berbeda ( )( )( )( ) .",
+   "isian": false,
+   "options": {
+    "A": "0,4271",
+    "B": "0,5729",
+    "C": "0,2747",
+    "D": "0,4115"
+   }
+  },
+  {
+   "num": 16,
+   "text": "Dua kapal memiliki tempat bersandar (berlabuh) yang sama di suatu pelabuhan. Diketahui bahwa\nwaktu kedatangan kedua kapalsaling bebas dan memiliki kemungkinan yang sama untuk bersandar\npada suatu hari Minggu (jam 00.00-24.00). Jika waktu bersandar kapal pertama adalah 2 jam dan\nwaktu bersandar kapal kedua adalah 4 jam, peluang bahwa satu kapal harus menunggu sampai\ntempat bersandar dapat digunakan adalah....",
+   "images": [
+    "img2/2023-mat-pembahasan-a/2023-mat-pembahasan-a_p21_0028.png"
+   ],
+   "key": null,
+   "pemb": "Kondisi diatas dapat kita gambarkan kedalam grafik berikut Dengan menyatakan waktu kapal 1 berlabuh dan menyatakan waktu kapal 2 berlabuh. Keduanya tepat bertemu pada garis . Kapal 1 menunggu 2 jam, maka garis digeser ke kana 2 satuan MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 dan kapal 2 menunggu 4 jam, maka digeser ke atas sebesar 4 satuan. Dari 00.00-24.00 ada 24 jam dengan waktu bebas, maka dibikin persegi 24 x 24, sehingga peluang satu kapal harus menunggu luas merah ( ) sampai tempat bersandar dapat digunakan . luas persegi",
+   "isian": false,
+   "options": {
+    "A": "67/44",
+    "B": "1/4",
+    "C": "67/288",
+    "D": "23/144"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Perhatikan kedua persamaan berikut.\n( )\nJika , maka nilai adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "14 Perhatikan bahwa : ( ) ( ) ( ) Perhatikan juga bahwa : ( ) ( ) ( ) ( ) ( ) ( ) sehingga . Selain itu kita juga punya ( ) ( ) ( ) ( ) ( ) sehingga ( ) ( ) . adi ( ) ."
+   }
+  },
+  {
+   "num": 18,
+   "text": "Diketahui barisan bilangan bulat yang memenuhi tiga syarat berikut\n( )\n( )\nuntuk\nNilai terkecil yang mungkin untuk adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "Persamaan pada soal dapat diubah menjadi Karena bulat dan , maka * + untuk . Misalkan dan berturut-turut dalah banyaknya yang bernilai dan , maka dan . Kedua persamaan di atas menjadi ( ) ( ) Misal , agar T minimum maka haruslah maksimum. Persamaan(2) persamaan (1), maka 6 , nilai maksimum saat dan . Sehingga nilai minimum T = -71.",
+   "isian": false,
+   "options": {
+    "A": "-100",
+    "B": "-71 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+    "C": "-51",
+    "D": "-16"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Suatu bilangan prima disebut “prima kanan” jika dapat diperoleh bilangan prima dengan\nmenghilangkan setidaknya satu angka di sebelah kiri. Sebagai contoh. adalah “prima kanan”\nsebab setelah menghilangkan angka 2 paling kiri, bilangan yang tersisa adalah 23 yang merupakan\nbilangan prima. Contoh lainnya 127. Dengan menghilangkan 2 angka paling kiri maka angka yang\ntersisa adalah 7 yang merupakan bilangan prima. Banyaknya bilangan prima antara 10 dan 200\nyang merupakan “prima kanan” adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "Perhatikan bahwa semua bilangan prima > 10 yang angka satuannya 3 atau 7 adalah “prima kanan”. Dari 10 sampai 200 ada 22 yang memenuhi sifat ini, yaitu 13, 17, 23, 37, 43, 47, 53, 67, 73, 83, 97, 103, 107, 113, 127, 137, 157, 163, 167, 173, 193, 197. Sisanya bilangan 3 digit < 200 yang angka satuannya 1 atau 9 dan 2 angka terakhirnya prima, ada 2, yaitu 131 dan 179. Jadi, total ada 24.",
+   "isian": false,
+   "options": {
+    "A": "24",
+    "B": "26",
+    "C": "28",
+    "D": "30"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Jika\nmaka hasil penjumlahan semua faktor prima dari M adalah....\nMIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481\nupdate terakhir 18 Mei 2023, 16:45",
+   "images": [],
+   "key": null,
+   "pemb": ". / . / . / . / . / . / . / . / . / . / . / . / . / . . / Jumlah semua faktor prima dari M adalah .",
+   "isian": false,
+   "options": {
+    "A": "10",
+    "B": "17",
+    "C": "30",
+    "D": "36"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Jika ( ) adalah pasangan bilangan bulat positif yang memenuhi dengan . Banyaknya ( ) yang mungkin adalah.... E. 0 F. 2 G. 4 H. Tak hingga",
+   "images": [],
+   "key": null,
+   "pemb": "kalikan kedua ruas dengan 4, maka ( ) ( ) ( ) ( ) ( ( ) ))( ( ) )) ( ) Karena dan bulat positif maka ( ) dan ( ) Akibatnya, ( ) ( )( ) (kontradiksi). Jadi, banyaknya solusi ( ) adalah 0.",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 22,
+   "text": "Jika . / , dengan dan , maka nilai dari deret berikut adalah... ( ) . / . / . / . / . . / A. B. MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45 C. D.",
+   "images": [],
+   "key": null,
+   "pemb": "Perhatikan bahwa . / ( ) . / ( ) ( ( )) ( ) Dari binomial newton ( ) . / . / . / . / . / . . / Jika diambil maka . / . / . / . / . / . . / . Karena . / , maka . / . / . / . / . . / . sehingga . / . / . / . / . . / . / . / . / . / . . / ( . / . / . / . / . . /) .",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 23,
+   "text": "Banyaknya himpunan bagian dari * + yang berisi 3 bilangan dan memuat tepat dua\nbilangan ganjil adalah .....",
+   "images": [],
+   "key": null,
+   "pemb": "Bilangan ganjil 1, 3, 5, 7, 9 (ada 5), karena memuat tepat 2 bilangan ganjil, maka banyaknya cara meilih 2 bilangan ganjil adalah . /. Sisanya 1 bilangan dipilih dari 2, 4, 6, 8, banyaknya cara memilih adalah 4. Jadi, Banyaknya himpunan bagian dari * + yang berisi 3 bilangan dan memuat tepat dua bilangan ganjil adalah . / .",
+   "isian": false,
+   "options": {
+    "A": "40",
+    "B": "84",
+    "C": "30",
+    "D": "48"
+   }
+  },
+  {
+   "num": 24,
+   "text": "Banyaknya bilangan asli tujuh digit yang disusun dari 0 atau 1 saja serta habis dibagi 6 adalah...",
+   "images": [],
+   "key": null,
+   "pemb": "Misalkan ̅̅ ̅̅ ̅̅ ̅ ̅̅ ̅̅ ̅ adalah bilangan 7 digit yang memenuhi syarat pada soal, maka , dan * +. Karena ̅̅ ̅̅ ̅̅ ̅ ̅̅ ̅̅ ̅, maka , sehingga tuple ( ) adalah ( ) ( ) dan permutasinya. Banyaknya ada .",
+   "isian": false,
+   "options": {
+    "A": "11",
+    "B": "17 MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481 update terakhir 18 Mei 2023, 16:45",
+    "C": "21",
+    "D": "22"
+   }
+  },
+  {
+   "num": 25,
+   "text": "Diketahui suatu konstanta . Garis dengan persamaam meotong parabola dengan persamaan pada titik P di kuadran I dan Q di kuadran II. Jika koordinat O( ) dan luas daerah segitiga POQ adalah 48 satuan luas, maka kemiringan garis adalah.... A. B. C. D.",
+   "images": [],
+   "key": null,
+   "pemb": "Garis dan berpotongan maka ( )( ) , maka Titik P ( ) dan titik Q( ). Luas segitiga POQ adalah 48, dengan rumus tali sepatu | | ( ) diperoleh Kemiringan garis adalah . MIFTAH MATHEMATICS REVOLUTION (MMR) 083831611481",
+   "isian": false,
+   "options": {}
+  }
+ ]
+}

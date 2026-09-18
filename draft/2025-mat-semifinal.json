@@ -1,0 +1,153 @@
+{
+ "id": "2025-mat-semifinal",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Terdapat bilangan empat digit abcd dengan a+b = c+d dan (10a+b)−(10c+d) = 36 Jika bilangan empat digit abcd adalah kelipatan dari 9, jumlah semua bilangan empat digit abcd yang mungkin adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Suatu bilangan bulat disebut bilangan palindrom jika urutan digit penyusunnya sama saat dibaca dari depan maupun dari belakang. Sebagai contoh, 5225 adalah bilangan palindrom. Misalkan x dan y, dengan x > y, adalah dua bilangan palindrom berbeda yang terdiri dari empat digit, yaitu bernilai dari 1001 sampai 9999. Banyaknya pasangan bilangan palindrom sedemikian sehingga x − y merupakan kelipatan 55 adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Dalam rangka memperingati Hari Kemerdekaan 17 Agustus 2025, empat tim, yaitu Tim Merah, Tim Putih, Tim Hijau, dan Tim Kuning ikut berpartisipasi dalam satu lomba. Skor keempat tim tersebut memenuhi ketentuan sebagai berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Skor setiap tim adalah bilangan bulat positif.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Jumlah kuadrat skor keempat tim adalah 50.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Jumlah kuadrat skor Tim Putih dan Tim Kuning sama dengan 24 ditambah jumlah kuadrat skor Tim Merah dan Tim Hijau.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Skor Tim Putih sama dengan jumlah skor tiga tim lainnya.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Perkalian skor Tim Merah dan Tim Hijau sama dengan perkalian skor Tim Putih dan Tim Kuning.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Skor Tim Merah lebih kecil dari skor Tim Hijau.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "Skor Tim Putih lebih besar dari skor Tim Kuning. Hasil penjumlahan skor Tim Merah dan Tim Putih adalah .... 4. Diketahui a dan b adalah bilangan rasional positif yang memenuhi: dan Jika nilai dapat dinyatakan dalam bentuk paling sederhana , maka selisih m dan n adalah .... Kumpulan Soal OSN 153 Soal OSN Semi Final Matematika 5. Perhatikan gambar berikut. Lingkaran L1 dengan jari-jari 8 cm dan berpusat di titik P berada di dalam lingkaran L2 yang berjari-jari 20 cm. Kedua lingkaran bersinggungan di titik Q. Titik R dan S terletak pada lingkaran L1 sehingga garis QR yang melalui titik P merupakan diameter dari lingkaran L1 dan garis SP tegak lurus garis QR. Titik T, U, V, dan W terletak pada lingkaran L2 dan membentuk persegi panjang dengan TU sejajar PS dan UV sejajar QR. Jika luas persegi panjang TUVW adalah A cm dan luas segitiga RVW sama dengan luas segitiga SUV, nilai dari A adalah …. 6. Diberikan sebuah limas tegak segitiga ABCD dengan alas segitiga sama sisi BCD. Rusuk AB, AC, dan AD memiliki panjang yang sama. Sudut antara bidang ABC dan bidang BCD adalah 60°. Titik O adalah titik tengah rusuk AB dan panjang OC sama dengan jari-jari lingkaran luar segitiga alas BCD. Jika OC = 12 cm, volume limas OBCD adalah … cm . 7. Terdapat N orang yang akan bermain CircleWin. Setiap orang diberi nomor berbeda, mulai dari 1 sampai N. Mereka akan duduk berurutan sesuai nomor secara melingkar di mana orang nomor 2 duduk tepat di kiri nomor 1, orang nomor 3 duduk tepat di kiri nomor 2, dan begitu seterusnya sampai orang nomor 1 duduk tepat di kiri peserta nomor N. Setiap orang secara berurutan akan berhitung dengan hanya menyebutkan 1, 2, atau 3 sesuai dengan gilirannya. Orang yang menyebutkan angka selain 1 akan keluar dari permainan. Kumpulan Soal OSN 154 Soal OSN Semi Final Matematika Permainan dimulai dari orang nomor 1 menyebutkan 1. Kemudian, dilanjutkan orang yang di kirinya (nomor 2) menyebutkan 2. Lalu, dilanjutkan oleh orang di kirinya (nomor 3), menyebutkan 3. Pemain di kiri orang nomor 3 (orang nomor 4), kembali menyebut 1, dan begitu seterusnya berlanjut ke kiri sampai hanya tersisa 1 orang pemain yang disebut sebagai pemenang. Sebagai contoh, jika ada 4 orang yang bermain CircleWin. Pemenangnya adalah orang nomor 4. Orang 1: “1”; Orang 2: “2”; Keluar. Orang 3: “3”; Keluar. Orang 4: “1”; Orang 1: “2”; Keluar. Jika ada 2025 orang yang bermain CircleWin, pemenangnya adalah orang nomor ....",
+   "images": [
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p2_0002.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p2_0003.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p2_0004.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p3_0005.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p3_0006.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p3_0007.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p3_0008.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Himpunan lima bilangan ganjil positif disebut SALSA jika setiap anggotanya lebih dari 2 dan hasil perkalian semua anggotanya berbentuk bilangan lima digit SALSA dengan S ≠ A dan L = 0. Banyaknya SALSA dengan 9 bukan salah satu anggotanya adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 9,
+   "text": "Dua belas kartu bernomor 1 sampai dengan 12 disusun mulai dari atas ke bawah. Susunan kartu ini akan disusun ulang dengan prosedur bagi dua sebagai berikut.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Bagi susunan kartu ini menjadi 2 susunan, yaitu susunan I (kartu mulai urutan 1 sampai dengan urutan 6) dan susunan II (kartu mulai urutan 7 sampai dengan urutan 12).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Susun kembali kartu pada susunan I dan susunan II menjadi satu susunan mulai\nurutan 1 sampai dengan urutan 12 dengan aturan sebagai berikut.",
+   "images": [
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p4_0009.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p4_0010.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p4_0011.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p5_0012.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p5_0013.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p5_0014.png",
+    "img2/2025-mat-semifinal/2025-mat-semifinal_p5_0015.png"
+   ],
+   "key": null,
+   "pemb": "sistem persamaan dengan https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html KUNCI JAWABAN https://www.defanNtrio.c.om/2023/05/kumpulanJa-swoaabl-aonsn-matematika-smp.html https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html 1 40689 https://www.defantr2i.com/2023/05/kumpulan-s8o0a5l-osn-matematika-smp.html https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html 3 8 4 43873 https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html https://www.defantri.com/2023/05/kumpulan-soal-osn-matematika-smp.html 5 512 6 324 7 1945 8 19 9 50 10 (22, 6, 22) dan (4, 0, 0) Kumpulan Soal OSN 156",
+   "isian": false,
+   "options": {
+    "A": "Kartu urutan 1 diambil dari kartu susunan II yang paling atas.",
+    "B": "Kartu urutan 2 diambil dari kartu susunan I yang paling atas.",
+    "C": "Kartu urutan 3 diambil dari kartu susunan II yang paling atas.",
+    "D": "Kartu urutan 4 diambil dari kartu susunan I yang paling atas.",
+    "E": "Kartu urutan 5 sampai dengan 12 diambil dengan cara yang sama sampai kartu habis. Jika prosedur bagi dua dilakukan berulang sebanyak 2025 kali, tentukan banyaknya faktor positif dari hasil perkalian semua nomor kartu mulai urutan 1 sampai dengan urutan 6. Kumpulan Soal OSN 155 Soal OSN Semi Final Matematika 10. Tentukan semua tripel bilangan bulat (a, b, c) yang merupakan"
+   }
+  }
+ ]
+}

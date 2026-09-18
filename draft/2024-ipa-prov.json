@@ -1,0 +1,688 @@
+{
+ "id": "2024-ipa-prov",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Perhatikan gambar piramida penduduk di bawah ini!\nPernyataan yang sesuai dengan piramida di atas adalah… .",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p1_0001.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Pertumbuhan penduduknya stabil",
+    "B": "Tingkat ketergantungan penduduk tinggi",
+    "C": "Penduduk usia produktif lebih mendominasi",
+    "D": "Angka kematian lebih tinggi dibandingkan angka kelahiran"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Proses transportasi zat pada sel dapat terjadi seperti di bawah ini:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Perpindahan molekul secara acak dari mengikuti gradien konsentrasi secara langsung atau melalui bantuan protein pembawa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Perpindahan molekul Air dari larutan hipotonis ke kehipertonis melalui membran sel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Perpindahan molekul melawan gradien konsentrasi melalui bantuan protein pembawa atau\nmembuat kantung membran.\nNama mekanisme seseuai dengan nomor urutan di atas adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Osmosis, difusi dan transport aktif",
+    "B": "Difusi, transport aktif dan osmosis",
+    "C": "Difusi, Osmosis dan transport aktif",
+    "D": "Transport aktif, Difusi dan osmosis 3. Diketahui gen “A” memberikan warna merah dan gen “a” memberikan warna putih pada bunga. Gen “A” bersifat dominan terhadap gen “a”. Jika F1 hasil perkawinan bunga merah (AA) dan bunga putih (aa) dikawinkan sesamanya dan menghasilkan anakan tumbuhan dengan bunga warna putih berjumlah 50, maka jumlah tumbuhan dengan bunga warna merah heterozigot adalah … ."
+   }
+  },
+  {
+   "num": 4,
+   "text": "Sel pada jaringan xylem mengalami penebalan sehingga memiliki berlapis-lapis dinding sel. Hal\ntersebut menyebabkan …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "ukuran sel mengecil; ruang sitoplasma tetap",
+    "B": "ukuran sel sel membesar; ruang sitoplasma tetap",
+    "C": "ukuran sel tetap; ruang sitoplasma mengecil",
+    "D": "ukuran sel tetap; ruang sitoplasma membesar"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Yang bukan merupakan contoh bioteknologi dalam bidang reproduksi adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "bayi tabung",
+    "B": "hibridoma",
+    "C": "inseminasi buatan",
+    "D": "kloning"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Organel sel yang tidak masuk ke dalam sistem endomembran adalah …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "badan Golgi",
+    "B": "lisosom",
+    "C": "ribosom",
+    "D": "retikulum endoplasma"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Di bawah ini adalah ciri-ciri yang menunjukkan pegelompokan kingdom. Ciri yang paling sesuai dengan kingdom Protista adalah … . Organisasi Cara memperoleh Ciri-ciri lain makanan a Sel tunggal sederhana, Menyerap makanan dan Prokariotik, aseksual, motil terkadang dalam untaian beberapa ada yang dan bergerak dengan flagela fotosintesis b Sel tunggal komplek, Menyerap makanan dan Eukariotik, seksual, aseksual, terkadang dalam bentuk beberapa ada yang mempunyai flagel dan cilia filament atau koloni fotosintesis dan menyerap makanan c Kebanyakan multiseluler Heterotroph dengan Tidak memiliki flagel, dan berbentuk filamen menyerap makanan berspora untuk dengan sel-sel komplek perkembangbiakan seksual dan aseksual d Multiseluler dan sel Autotroph dengan cara Eukariotik dengan jaringan komplek fotosintesis berkembang baik, terjadi pergiliran keturunan, dinding sel mengandung selulosa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Hormon di bawah ini merupakan fitohormon untuk merangsang diferensiasi, adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Auksin, anthokalin, dan Asam traumalin",
+    "B": "Anthokalin, Filokalin dan rhizokalin",
+    "C": "Filokalin, Giberelin, sitokini",
+    "D": "Rhizokalin, Auksin, giberelin"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Komponen yang terlibat dalam system imun adaptif adalah …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Sel B, antibody, leukosit",
+    "B": "Sel T, antibody, eosinifil",
+    "C": "Sel B, limfosit, interleukin",
+    "D": "Neutrofil, Interferon, histamin"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Penyakit yang tergolong non-infeksius adalah …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Anemia, Polio, DBD",
+    "B": "Leukimia, pneumonia, diare",
+    "C": "Stroke, hepatitis, diabetes",
+    "D": "Policitemia, Alzheimer, hipertensi"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Kondisi yang mengalami kekurangan gizi dan gangguan dalam pertumbuhan disebut …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Kwashiorkor",
+    "B": "Stunting",
+    "C": "Malnutrisi",
+    "D": "Retardasi"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Perhatikan gambar histologi jaringan otot di bawah ini.\nBagian yang berfungsi untuk kontraksi otot adalah …",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p3_0002.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 2",
+    "B": "2 dan 3",
+    "C": "3 dan 4",
+    "D": "4 dan 1"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan gambar histologi jaringan berikut ini.\nBagaian kulit yang memiliki sifat regeneratif ditunjuk oleh struktur no …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3, 4",
+    "B": "3, 4, 5, 6",
+    "C": "3, 4, 5, 6, 7, 8",
+    "D": "7 dan 8"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Perhatikan gambar berikut ini.\nBagian yang berperan untuk menghantarkan sinyal ke otot adalah …",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p4_0004.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3, 4",
+    "B": "2, 3, 4, 6",
+    "C": "1, 2, 3, 5",
+    "D": "1, 4, 5, 6"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Beberapa kondisi yang memungkinkan sapi perah dapat menghasilkan susu setiap sehari antara lain:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Susu dapat diperoleh dari sapi yang sedang menyusui",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Hormon progesteron yang berperan dalam produksi susu.",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p4_0003.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Susu diproduksi sebagai respons terhadap rangsangan penyusuan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Hormon oksitosin yang berperan dalam refleks pengeluaran susu\nKondisi di atas yang benar adalah …",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p5_0005.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 4",
+    "C": "1, 2, dan 3",
+    "D": "1, 2, 3, dan 4 16. Perhatikan gambar dan ciri-ciri jaringan di bawah ini! I. Jaringan meristematik pada tumbuhan yang sel-selnya aktif membelah II. Ditemukan pada batang dan akar. III. Hanya ditemukan pada tumbuhan dikotil dan gymnospermae IV. Bertanggung jawab atas pertumbuhan sekunder Berdasarkan ciri-ciri di atas, maka pernyataan yang paling sesuai dengan jaringan nomor 3 adalah … ."
+   }
+  },
+  {
+   "num": 1,
+   "text": "kultur hibridoma penghasil antibodi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "kultur bakteri penghasil insulin",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "padi penghasil metabolit sekunder bersifat insektisida alami",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "sapi perah penghasil susu yang lebih banyak\nYang tidak termasuk Genetically Modified Organisms (makhluk hidup hasil proses rekayasa\ngenetika) adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 3",
+    "B": "1, 4",
+    "C": "2, 3",
+    "D": "2, 4 20. Berikut merupakan filum pada kerajaan hewan:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Cnidaria",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Echinodermata",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Platyhelminthes",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Porifera\nFilum yang hanya memiliki 2 lapisan tubuh, yaitu endodermis dan epidermis adalah … .",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p7_0006.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 3",
+    "B": "1, 4",
+    "C": "2, 3",
+    "D": "2, 4 21. Hewan diurnal lebih banyak tidur pada malam hari . SEBAB Kelenjar pineal akan mensekresikan hormon melatonin pada malam hari Kedua pernyataan di atas adalah …"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Terjadinya pergantian musim",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Terjadinya rasi bintang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Terjadinya siang dan malam",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Terjadinya berbedaan lamanya siang dan malam\nJawaban yang benar adalah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2,3",
+    "B": "1,3,4",
+    "C": "1, 2,4",
+    "D": "2,3,4 30. Pada 300 ml air bersuhu 55 C dimasukkan 100 gram es. Kalor jenis air 4,2 kJ/kgC, kalor jenis es 2,1 kJ/kgC dan kalor lebur es 336 kJ/kg. Jika suhu campuran 27 C, suhu awal es adalah … C."
+   }
+  },
+  {
+   "num": 1,
+   "text": "di dalam pipa tidak terdapat air,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "tekanan udara di dalam dan di luar pipa sama,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "apabila ujung tertutup pipa diinginkan, air masuk ke dalam pipa,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "gaya untuk memasukkan pipa ke dalam air sebanding dengan panjang pipa yang berada di\ndalam air,\npernyataan yang benar adalah ….",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p9_0007.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 36. Berdasarkan posisi sebuah titik terhadap lingkaran berarus i dan berjari-jari a seperti pada gambar. Jika a = 3 cm, r = 5 cm, i =2 A, maka besarnya kuat medan magnet di titk P adalah…"
+   }
+  },
+  {
+   "num": 1,
+   "text": "massa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "percepatan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "panjang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "waktu\nBesaran yang dijadikan dasar untuk menentukan energi potensial adalah nomor …",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "1, 2 dan 3",
+    "C": "1, 3 dan 4",
+    "D": "1, 2, 3 dan 4 40. Sebuah lensa konvergen memiliki panjang fokus 20 cm. Di depan lensa tersebut sejauh 25 cm ditaruh sebuah benda. Di belakang lensa itu sejauh 40 cm diletakkan sebuah cermin konvergen, dengan panjang fokus 20 cm. Bayangan akhir terbentuk sejauh … di belakang lensa dengan sifat …."
+   }
+  },
+  {
+   "num": 1,
+   "text": "saat 5 s, perpindahan sejauh 125 m.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "perlambatan sebesar 2 m/s2.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "saat berhenti, perpindahan sejauh 300 m.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "saat 5 s, energi kinetik berkurang sebesar 75%.\nJawabannya adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 4",
+    "C": "1, 2, dan 3",
+    "D": "1, 2, 3 dan 4 42. Dua buah lampu sejenis tertulis masing-masing 60W/220 V dan 15W/110V jika keduanya dipasang pada tegangan 110 volt maka…"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Dayanya memiliki perbandingan 1 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Nilai hambatannya 1 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Nilai hambatannya 2 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Dayanya memiliki pebandingan 2 : 1\nJawabannya adalah….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2",
+    "B": "1,3",
+    "C": "2.4",
+    "D": "3.4 43. Berikut ini adalah faktor-faktor yang mempengaruhi besarnya tegangan induksi pada generator…."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Kecepatan putar generator",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Banyaknya lilitan kawat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Bahan magnet",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Luas penampang kumparan\nJawabannya adalah…",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p11_0008.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2,3",
+    "B": "1,2,4",
+    "C": "1,3,4",
+    "D": "2,3,4 44. Dua lensa konvergen identik disusun berurutan dengan sumbu keduanya saling berimpit. Panjang fokus lensa adalah f dan jarak antar lensa 2f. Sebuah benda diletakkan sejauh f di depan salah satu lensa. Jika dinyatakan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "bayangan akhir terbentuk tepat di antara kedua lensa,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "bayangan akhir terbalik terhadap benda,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "bayangan yang dibentuk lensa pertama bersifat nyata,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "bayangan yang dibentuk lensa kedua bersifat maya,\npernyataan yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 45. Sebuah bandul berayun sambil dijatuhkan vertikal secara bebas dari suatu ketinggian. Anggaplah gesekan udara dapat diabaikan. Jika dinyatakan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "bandul berayun makin lama makin cepat,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "energi kinetik bandul di simpangan terkecil tiap kali bertambah,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "amplitudo ayunan bandul makin lama makin besar,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "energi potensial bandul di simpangan terbesar tiap kali berkurang,\npernyataan yang benar adalah ….",
+   "images": [
+    "img2/2024-ipa-prov/2024-ipa-prov_p14_0009.png",
+    "img2/2024-ipa-prov/2024-ipa-prov_p14_0010.png"
+   ],
+   "key": "A",
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 46. Apabila sebuah benda digerakkan terus mendekati sebuah cermin konvergen, bayangannya selalu bersifat nyata. SEBAB Cahaya yang jatuh pada cermin konvergen dengan lintasan sejajar sumbu cermin selalu dipantulkan menuju fokus cermin. Kedua pernyataan di atas adalah …."
+   }
+  }
+ ]
+}

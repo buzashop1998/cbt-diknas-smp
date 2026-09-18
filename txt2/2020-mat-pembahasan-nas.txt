@@ -1,0 +1,895 @@
+<<<PAGE 1>>>
+Soal dan Pembahasan
+Kompetisi Sains Nasional
+Hari Pertama
+SMP/MTs Sederajat
+Wildan Bagus Wicaksono
+Updated 4 Nopember 2020
+
+<<<PAGE 2>>>
+PEMBERITAHUAN
+Soal KSN SMP Hari Pertama pada file ini belum tentu sama dengan soal aslinya. Karena
+fileyangdidapatkanberupatulisankasaranatautulisantangansehinggatidakdapatdijamin
+sama persis dengan soal aslinya. File ini dapat disebar atau dicetak tanpa mengubah atau
+menghilangkan identitas penulis. Ucapan terima kasih kepada Rizky Maulana Hakim, M.
+Faikar Mustafidz Alhabibi, dan I Putu Dickson Partha Hartopo untuk koreksinya. Koreksi,
+kritik, maupun saran akan sangat berharga bagi saya dan dapat disampaikan melalui
+instagram atau facebook saya.
+
+<<<PAGE 3>>>
+I
+Soal
+3
+
+<<<PAGE 4>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 1. Terdapat sebuah rapat yang terdiri dari 40 kursi yang dihadiri oleh 16 tamu undangan.
+Untuk menghindari penularan COVID-19, maka setiap tamu undangan harus dibatasi minimal
+dengan 1 kursi. Tentukan banyaknya susunan mereka duduk.
+Soal 2. Misalkan AB sebagai diameter lingkaran dan P titik diluar lingkaran. Garis PQ dan
+PR menyinggung lingkaran di titik Q dan R. Garis PH berpotongan tegak lurus dengan garis
+AB di H dan PH berpotongan AR di S. Jika ∠QPH = 40◦ dan ∠QSA = 30◦, tentukan
+∠RPS.
+P
+40◦
+Q
+S R
+30◦
+A O H B
+Soal 3. Diberikan grafik fungsi f : R → R dan g : R → R, tentukan banyak nilai x agar
+(f(x))2 −2g(x)−x
+merupakan anggota himpunan {−10,−9,··· ,0,1,2,··· ,10}.
+y
+y = g(x)
+y = f(x)
+1
+x
+2
+−1 1
+−1
+4
+
+<<<PAGE 5>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 4. Pada teka-teki silang berikut, masing-masing kotak hanya boleh diisi dari angka 1
+sampai 9 dengan ketentuan:
+Mendatar: Menurun:
+1. Faktor komposit dari 1001. 1. a−1 dan b−1, a (cid:54)= b dan a,b prima.
+3. Bilangan bukan palindrom. 2. Kelipatan 9.
+5. p × q3 dengan p dan q merupakan dua 4. p3 × q, dengan p dan q merupakan dua
+bilangan prima yang berbeda. bilangan prima yang berbeda.
+1 2
+3 4
+5
+Soal 5. Di suatu kebun yang berbentuk segiempat di setiap titik sudut terdapat menara
+pengawas dan di dalam kebun tersebut terdapat menara pemantau. Akan dibuat daerah-daerah
+kecil yang tersebentuk segitiga sehingga titik sudutnya merupakan menara (bebas menara
+pemantau dan atau pengawas). Misalkan k(m,n) banyaknya daerah kecil yang dibuat jika ada
+m menara pengawas dan n menara pemantau.
+(a). Nilai k(4,1),k(4,2),k(4,3), dan k(4,4).
+(b). Rumus umum k(m,n) dengan m dan n bilangan asli.
+5
+
+<<<PAGE 6>>>
+II
+Soal dan Pembahasan
+6
+
+<<<PAGE 7>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 1. Terdapat sebuah rapat yang terdiri dari 40 kursi yang dihadiri oleh 16 tamu undangan.
+Untuk menghindari penularan COVID-19, maka setiap tamu undangan harus dibatasi minimal
+dengan 1 kursi. Tentukan banyaknya susunan mereka duduk.
+.............................................................................................
+Solusi. Jawabannya adalah 16!×C(25,16) .
+Beri nomor kursi-kursi tersebut dengan nomor 1,2,3,4,··· ,39, dan 40 (misalkan) dari ujung
+kiri ke ujung kanan dalam urutan tersebut. Misalkan a ,a ,a ,··· ,a adalah nomor-nomor
+1 2 3 16
+kursi yang diduduki oleh 16 orang tersebut dimana a ∈ {1,2,3,··· ,40} untuk setiap bilangan
+i
+asli 1 ≤ i ≤ 16, lalu pandang himpunan {a ,a ,a ,··· ,a }. Definisikan pula w = a −a
+1 2 3 16 j j j−1
+dimana w ≥ 2 untuk setiap bilangan asli 2 ≤ j ≤ 16. Perhatikan bahwa
+j
+a +w +w +···+w = a ≤ 40
+1 2 3 16 16
+Maka terdapat bilangan asli k sehingga
+a +w +w +···+w = 41−k ⇐⇒ a +w +w +···+w +k = 41
+1 2 3 16 1 2 3 16
+Misalkan w = x +1 dimana x bilangan asli. Maka kita punya
+j j j
+a +w +w +···+w +k = 41
+1 2 3 16
+a +(x +1)+(x +1)+···+(x +1)+k = 41
+1 2 3 16
+a +x +x +···+x +k = 26 (∗)
+1 2 3 16
+Kita tahu bahwa a bijektif dengan x , sehingga banyak himpunan {a ,a ,··· ,a } sama dengan
+j j 1 2 16
+menentukan banyak solusi dari (∗). Dengan star and bar theorem, maka ada
+C(26−1,17−1) = C(25,16)
+Karena posisi 16 orang tersebut dapat ditukar-tukar (dipermutasi), maka banyaknya posisi
+duduk yang dapat disusun adalah 16!×C(25,16).
+7
+
+<<<PAGE 8>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 2. Misalkan AB sebagai diameter lingkaran dan P titik diluar lingkaran. Garis PQ dan
+PR menyinggung lingkaran di titik Q dan R. Garis PH berpotongan tegak lurus dengan garis
+AB di H dan PH berpotongan AR di S. Jika ∠QPH = 40◦ dan ∠QSA = 30◦, tentukan
+∠RPS.
+P
+40◦
+Q
+S R
+30◦
+A O H B
+.............................................................................................
+Solusi. Jawabannya adalah 20◦ .
+P
+40◦
+Q
+S R
+30◦
+A O H B
+8
+
+<<<PAGE 9>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Perhatikan bahwa ∠ORP = ∠OQP = 90◦ dan panjang OR = OQ. Sehingga kita punya
+(cid:52)ORP kongruen dengan (cid:52)OQP. Demikian panjang PQ = PR.
+Klaim — (cid:52)PSR segitiga sama kaki.
+Bukti. Kita punya
+∠HAS = 90◦ −∠HSA = 90◦ −∠RSP
+Karena panjang AO = OR, maka
+∠ARO = ∠OAR = ∠HAR = ∠HAS
+Tinjau bahwa
+∠PRS = 90◦ −∠ARO = 90◦ −∠HAS = 90◦ −(90◦ −∠RSP) = ∠RSP
+Akibatnya, ∠PRS = ∠RSP yang menyimpulkan (cid:52)PSR segitiga sama kaki.
+Karena panjang QP = PR = PS ⇒ QP = PS, maka
+180◦ −∠QPS 180◦ −40◦ 140◦
+∠PQS = ∠PSQ = = = = 70◦
+2 2 2
+Perhatikan bahwa ∠PSA+∠PSR = 180◦. Kita punya
+∠PSR = 180◦ −∠PSA = 180◦ −(30◦ +70◦) = 180◦ −100◦ = 80◦
+Karena panjang PS = PR, akibatnya ∠PRS = ∠PSR = 80◦. Maka kita peroleh
+∠RPS = 180◦ −∠PSR−∠PRS = 180◦ −80◦ −80◦ = 20◦
+9
+
+<<<PAGE 10>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 3. Diberikan grafik fungsi f : R → R dan g : R → R, tentukan banyak nilai x agar
+(f(x))2 −2g(x)−x
+merupakan anggota himpunan {−10,−9,··· ,0,1,2,··· ,10}.
+y
+y = g(x)
+y = f(x)
+1
+x
+2
+−1 1
+−1
+.............................................................................................
+Solusi. Banyak nilai x yang memenuhi adalah 28 .
+Karena fungsi kuadrat g(x) memotong sumbu-x di titik (−1,0) dan (1,0), maka −1 dan 1
+merupakan akar-akar dari g(x). Akibatnya,
+g(x) = a(x−1)(x+1), a (cid:54)= 0
+Grafik g(x) melalui titik (0,−1), maka
+−1 = g(0) = a(0−1)(0+1) = a·(−1)·1 = −a ⇐⇒ a = 1
+Maka g(x) = x2 −1. Tinjau fungsi linier f(x) memotong sumbu-x di titik (−1,0) dan (0,1).
+Misalkan f(x) = ax+b. Maka kita punya
+0 = f(−1) = −a+b dan 1 = f(0) = b
+Kita peroleh bahwa a = b = 1 sehingga f(x) = x+1. Kita definisikan fungsi h : R → R dimana
+h(x) = (f(x))2 −2g(x)−x. Kita punya
+(cid:0) (cid:1)
+h(x) = (x+1)2 −2 x2 −1 −x = x2 +2x+1−2x2 +2−x = −x2 +x+3
+Kita ingin mencari banyak nilai x sehingga h(x) = c dimana c ∈ {−10,−9,··· ,9,10}. Sehingga
+kita punya
+0 = h(x)−c = −x2 +x+3−c ⇐⇒ 0 = x2 −x+(c−3)
+10
+
+<<<PAGE 11>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Agar persamaan kuadrat tersebut memiliki penyeleseain bilangan real, maka diskriminannya
+harus ∆ ≥ 0. Kita punya
+13
+∆ = (−1)2 −4(1)(c−3) = 1−4c+12 = 13−4c ≥ 0 ⇐⇒ ≥ c
+4
+Sehingga nilai c = −10,−9,··· ,3 yang berarti ada 14 kemungkinan. Karena c bilangan bulat,
+akibatnya ∆ (cid:54)= 0 sehingga terdapat dua solusi bilangan real berbeda untuk setiap −10 ≤ c ≤ 3.
+Maka banyak nilai x yang memenuhi adalah 14×2 = 28.
+11
+
+<<<PAGE 12>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 4. Pada teka-teki silang berikut, masing-masing kotak hanya boleh diisi dari angka 1
+sampai 9 dengan ketentuan:
+Mendatar: Menurun:
+1. Faktor komposit dari 1001. 1. a−1 dan b−1, a (cid:54)= b dan a,b prima.
+3. Bilangan bukan palindrom. 2. Kelipatan 9.
+5. p × q3 dengan p dan q merupakan dua 4. p3 × q, dengan p dan q merupakan dua
+bilangan prima yang berbeda. bilangan prima yang berbeda.
+1 2
+3 4
+5
+.............................................................................................
+Solusi. Jawabannya adalah sebagai berikut.
+7 7
+2 9 5
+2 4
+Misalkan a dan b merupakan angka dari 1 sampai 9 yang diisi pada petak berikut.
+1 G 2 F
+3 E A 4 D
+5 C B
+12
+
+<<<PAGE 13>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Dari (1) posisi mendatar, faktorisasi 1001 adalah 1001 = 7×11×13. Dilihat dari kotak mendatar
+yang hanya boleh diisi dari posisi (1) hanya dua kotak, maka angka yang terletak pada kotak
+1 dan kotak 2 merupakan angka pembentuk dari bilangan dua angka yang merupakan faktor
+komposit dari 1001. Sehingga kemungkinannya adalah 77 atau 91.
+Sekarang, kita tinjau poin (1) posisi menurun.
+• Jika GF = 91 sehingga G = 9 dan F = 1. Maka GE − 1 = 9E − 1 dan GE + 1 =
+9E +1 keduanya harus bilangan prima sehingga E harus genap. Dengan mencoba semua
+kemungkinan nilai 9E yaitu 92,94,96,98, tidak ada kemungkinan nilai E yang memenuhi
+kondisi tersebut.
+• Jika GF = 77 sehingga G = F = 7. Maka GE − 1 dan GE + 1 keduanya merupakan
+bilangan prima sehingga E harus genap. Dengan mencoba semua kemungkinan nilai dari
+GE yaitu 72,74,76,78, maka hanya akan dipenuhi ketika GE = 72. Demikian E = 2.
+Dari poin (3) mendatar, karena EAD bukan bilangan palindrom, maka D (cid:54)= E = 2. Dari poin
+(4) menurun, bilangan dua digit DB = p3×q. Sedangkan, dari poin (5) menurun, bilangan dua
+digit CB = p×q3. Jika salah satu dari p,q bernilai lebih dari 3, maka salah satu dari DB atau
+CB bernilai lebih dari 99. Sehingga tidak mungkin bilangan dua digit. Maka (p,q) = (3,2)
+atau (2,3). Maka kemungkinan nilai untuk DB dan CB adalah 24 dan 54. Karena D (cid:54)= E,
+maka DB = 54 dan CB = 24. Demikian B = 4,C = 2, dan D = 5.
+Dari poin (2), maka FAD kelipatan 9. Sehingga
+F +A+C = 7+A+2 = 9+A ≡ 0 (mod 9) ⇐⇒ A ≡ 0 (mod 9)
+Sehingga A = 9. Maka kita peroleh susunan angka pada teka-teki silang tersebut sebagai
+berikut.
+7 7
+2 9 5
+2 4
+13
+
+<<<PAGE 14>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+Soal 5. Di suatu kebun yang berbentuk segiempat di setiap titik sudut terdapat menara
+pengawas dan di dalam kebun tersebut terdapat menara pemantau. Akan dibuat daerah-daerah
+kecil yang tersebentuk segitiga sehingga titik sudutnya merupakan menara (bebas menara
+pemantau dan atau pengawas). Misalkan k(m,n) banyaknya daerah kecil yang dibuat jika ada
+m menara pengawas dan n menara pemantau.
+(a). Nilai k(4,1),k(4,2),k(4,3), dan k(4,4).
+(b). Rumus umum k(m,n) dengan m dan n bilangan asli.
+.............................................................................................
+Solusi. Jawabannya adalah k(4,1) = 4 , k(4,2) = 6 , k(4,3) = 8 , dan k(4,4) = 10 , dan
+k(m,n) = m+2n−2 .
+Misalkan titik-titik A ,A ,A ,··· sebagai menara pengawas dan B ,B ,B ,··· , sebagai menara
+1 2 3 1 2 3
+pemantau.
+(a). Perhatikan gambar berikut.
+A A A
+3 3 3
+A A A
+4 4 4
+B B B
+2 2 3
+B B B
+1 1 1
+A A A A A A
+1 2 1 2 1 2
+A
+3
+A
+4
+B
+4
+B B
+2 3
+B
+1
+A A
+1 2
+• Untukk(4,1). Darigambartersebut,kitadapatkandaerahtersebutadalah(cid:52)A B A ,
+1 1 2
+(cid:52)A B A ,A B A , dan (cid:52)A B A . Maka k(4,1) = 4.
+2 1 3 3 1 4 1 1 4
+• Untukk(4,2). Darigambartersebut,kitadapatkandaerahtersebutadalah(cid:52)A A B ,
+1 2 1
+(cid:52)A B A ,(cid:52)B A B ,(cid:52)B A A ,(cid:52)A B A , dan (cid:52)A B B . Maka k(4,2) = 6.
+2 1 3 1 3 2 2 3 4 1 2 4 1 1 2
+14
+
+<<<PAGE 15>>>
+KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020
+• Untukk(4,3). Darigambartersebut,kitadapatkandaerahtersebutadalah(cid:52)A B A ,
+1 1 2
+(cid:52)A B B ,(cid:52)A B A ,(cid:52)B B B ,(cid:52)B B A ,(cid:52)A B A ,(cid:52)A B A ,dan(cid:52)A B B . Ma-
+2 1 3 2 3 3 2 1 3 2 3 3 4 2 3 1 2 4 1 1 2
+ka k(4,3) = 8.
+• Untukk(4,4). Darigambartersebut,kitadapatkandaerahtersebutadalah(cid:52)A A B ,
+1 2 1
+(cid:52)A B B ,(cid:52)A B A ,(cid:52)B B B ,(cid:52)B B B ,(cid:52)B B A ,(cid:52)B B A ,(cid:52)B B A ,(cid:52)A B A ,
+2 1 3 2 3 3 1 2 2 2 3 1 3 4 3 3 4 3 2 4 3 4 2 3
+dan (cid:52)A B A . Maka k(4,4) = 10.
+1 2 4
+(b). MisalkanmenarapengawasdarikebuntersebutadalahA ,A ,A ,··· ,A danB ,B ,B ,··· ,B
+1 2 3 m 1 2 3 n
+sebagai menara pemantau. Pilih B sehingga tidak ada B yang berada di dalam
+n k
+(cid:52)A B A dengan bilangan asli 1 ≤ k < n.
+i n i+1
+A
+m−1
+A
+m
+A
+1
+···
+B
+n
+A A
+2 i+2
+···
+B
+n+1
+A A
+i i+1
+Banyak daerah pada konfigurasi ini adalah k(m,n). Buat titik B yang terletak di dalam
+n+1
+(cid:52)A B A . Dengan menghubungkan titik A ,A , dan B , maka akan terbentuk tiga
+i n i+1 i i+1 n+1
+daerah pada (cid:52)A B A . Karena terdapat satu daerah yang telah terhitung, sehingga
+i n i+1
+akan terbentuk dua daerah baru.
+Sehingga kita dapat simpulkan bahwa
+k(m,n+1) = k(m,n)+2 ⇐⇒ k(m,n+1)−k(m,n) = 2
+Sehingga
+k(m,2)−k(m,1) = 2
+k(m,3)−k(m,2) = 2
+.
+.
+.
+k(m,n)−k(m,n−1) = 2
+Dengan menjumlahkan semuanya, maka
+k(m,n)−k(m,1) = 2(n−1) ⇐⇒ k(m,n) = 2n−2+k(m,1)
+Mudah ditinjau bahwa k(m,1) = m. Sehingga k(m,n) = m+2n−2.
+15
+
+<<<PAGE 16>>>
+Soal dan Pembahasan
+Kompetisi Sains Nasional
+Hari Kedua
+SMP/MTs Sederajat
+Wildan Bagus Wicaksono
+Updated 5 Nopember 2020
+
+<<<PAGE 17>>>
+PEMBERITAHUAN
+Soal KSN SMP Hari Kedua pada file ini belum tentu sama dengan soal aslinya. Karena
+fileyangdidapatkanberupatulisankasaranatautulisantangansehinggatidakdapatdijamin
+sama persis dengan soal aslinya. File ini dapat disebar atau dicetak tanpa mengubah atau
+menghilangkan identitas penulis. Ucapan terima kasih kepada Rizky Maulana Hakim,
+Miftahus Saidin, dan Muhammad Afifurrahman karena telah memberikan koreksi kepada
+saya. Ucapan terima kasih juga kepada Marley D’lailano Putra yang telah memberikan
+alternatif penyelesaian pada soal tertentu. Koreksi, kritik, maupun saran akan sangat
+berharga bagi saya dan dapat disampaikan melalui instagram atau facebook saya.
+
+<<<PAGE 18>>>
+I
+Soal
+3
+
+<<<PAGE 19>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 1. Diberikan barisan a ,a ,a ,··· dan a = 1. Untuk setiap bilangan asli 2 ≤ n ≤ 2020,
+1 2 3 1
+berlaku
+a = 1+a a a ···a
+n 1 2 3 n−1
+Buktikan bahwa
+1 1 1 1
++ + +···+ < 2
+a a a a
+1 2 3 2019
+Soal 2. Dalam ekspresi
+(cid:38)(cid:114) (cid:39)
+(cid:113) √
+a = 2020+ 2020+ 2020+···
+dan
+(cid:36)(cid:114) (cid:37)
+(cid:113) √
+b = 1442+ 1442+ 1442+···
+bilangan 2020 muncul sebanyak 1442 kali dan bilangan 1442 muncul sebanyak 2020 kali, serta
+(cid:100)x(cid:101) dan (cid:98)y(cid:99) berturut-turut menyatakan bilangan bulat terkecil yang lebih besar daripada x dan
+bilangan bulat terbesar yang lebih kecil daripada y. Tentukan nilai dari c = a−b.
+Soal 3. Diberikan dua buah lingkaran yang berpusat di titik yang sama, yaitu titik O
+yang memiliki jari-jari 10 cm dan 5 cm. Titik A,B,C,D,E,F masing-masing terletak pada
+keliling lingkaran besar sehingga membagi busur lingkaran besar menjadi enam bagian sama
+panjang. Titik P,Q, dan R masing-masing terletak pada keliling lingkaran kecil sehingga
+panjang PA = PF,QB = QC, dan RE = RD. Tentukan luas daerah yang diarsir.
+A B
+P Q
+O
+F C
+R
+E D
+Soal 4. Fahmi akan membeli sepasang ikan koi yang berada di dalam akuarium. Saat ia
+mengambil secara acak, peluang dia mendapatkan ikan dengan jenis kelamin yang sama adalah
+1
+. Buktikan bahwa banyak ikan koi di dalam akuarium tersebut merupakan bilangan kuadrat
+2
+sempurna.
+Soal 5. Seorang apoteker ingin memasukkan cairan sebanyak 155 ml ke dalam tiga botol. Ada
+tiga pilihan botol, yaitu
+4
+
+<<<PAGE 20>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+(a). Botol A:
+• Berkapasitas 5 ml,
+• Harga satu botol adalah Rp10.000,00,
+• Bila membeli botol selanjutnya, mendapat potongan harga 20%, hingga pembelian
+keempat atau bila membeli empat botol akan mendapatkan satu botol A secara
+gratis.
+(b). Botol B:
+• Berkapasitas 8 ml,
+• Harga satu botol adalah Rp15.000,00,
+• Bila membeli dua botol, maka botol kedua mendapat potongan harga 20%,
+• Bila membeli tiga botol, maka akan mendapatkan satu botol lagi secara gratis.
+(c). Botol C:
+• Berkapasitas 14 ml,
+• Harga satu botol adalah Rp25.000,00,
+• Jika membeli dua botol, maka akan mendapatkan satu botol A secara gratis,
+• Jika membeli tiga botol, maka akan mendapatkan satu botol B secara gratis.
+Jika dalam satu kali pembelian, hanya boleh membeli maksimal sebanyak empat botol, maka
+carilah kemungkinan apoteker memasukkan ke dalam botol-botol agar biaya minium (botol
+tidak harus diisi sesuai kapasitas).
+5
+
+<<<PAGE 21>>>
+II
+Soal dan Pembahasan
+6
+
+<<<PAGE 22>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 1. Diberikan barisan a ,a ,a ,··· dan a = 1. Untuk setiap bilangan asli 2 ≤ n ≤ 2020,
+1 2 3 1
+berlaku
+a = 1+a a a ···a
+n 1 2 3 n−1
+Buktikan bahwa
+1 1 1 1
++ + +···+ < 2
+a a a a
+1 2 3 2019
+.............................................................................................
+Solusi 1. Kita perumum, dengan membuktikan bahwa
+1 1 1 1 1
++ + +···+ ≤ 2−
+a a a a a −1
+1 2 3 n n+1
+untuk setiap bilangan asli n. Akan kita buktikan dengan induksi. Mudah didapatkan bahwa
+a = 2. Untuk n = 1, maka
+2
+1 1 1
+= 1 ≤ 2− = 2− = 2−1 = 1
+a a −1 2−1
+1 2
+yang berarti benar. Asumsikan untuk setiap n = 1,2,3,··· ,k juga berlaku benar. Untuk
+n = k +1, maka
+1 1 1 1 1 1 1
++ + +···+ ≤ 2− + = 2−
+a a a a a −1 a a (a −1)
+1 2 3 k+1 k+1 k+1 k+1 k+1
+Tinjau bahwa
+a −1 = a a a ···a
+k+1 1 2 3 k
+a (a −1) = a a a ···a a
+k+1 k+1 1 2 3 k k+1
+a (a −1) = a −1
+k+1 k+1 k+2
+Kita dapatkan bahwa
+1 1 1 1 1 1
++ + +···+ ≤ 2− = 2−
+a a a a a (a −1) a −1
+1 2 3 k+1 k+1 k+1 k+2
+yang menyimpulkan
+1 1 1 1 1
++ + +···+ ≤ 2−
+a a a a a −1
+1 2 3 k+1 k+2
+sehingga juga benar untuk n = k +1. Maka menurut induksi terbukti.
+Maka
+1 1 1 1 1
++ + +···+ ≤ 2− < 2
+a a a a a −1
+1 2 3 n n+1
+Dengan mengambil n = 2019, maka
+1 1 1 1
++ + +···+ < 2
+a a a a
+1 2 3 2019
+7
+
+<<<PAGE 23>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+(cid:4)
+.............................................................................................
+Solusi 2. (Oleh Marley D’lailano Putra). Misalkan Arin(n) menyatakan
+1 1 1 1
+Arin(n) = + + +···+
+a a a a
+1 2 3 n
+Ingin dibuktikan bahwa jika Arin(n) < 2. Perhatikan bahwa
+1 1 1 1
+Arin(n) = + +···+ +
+a a a a
+1 2 n−1 n
+1 1 1 1
+= + +···+ +
+a a a 1+a a ···a
+1 2 n−1 1 2 n−1
+1 1 1 1
+< + +···+ +
+a a a a a ···a
+1 2 n−1 1 2 n−1
+Misalkan
+1 1 1 1
+X(n) = + +···+ +
+a a a a a ···a
+1 2 n−1 1 2 n
+Klaim — X(n) = X(n+1) untuk setiap bilangan asli n.
+Bukti. Ingin dibuktikan bahwa X(n) = X(n + 1). Misalkan F = a a a ···a . Perhatikan
+1 2 3 n
+bahwa
+1 1 1
+= +
+F F(F +1) F +1
+1 1 1
+= +
+a a ···a a a ···a a a
+1 2 n 1 2 n n+1 n+1
+1 1 1 1
+Dengan menjumlahkan kedua ruas dengan + + +···+ , maka
+a a a a
+1 2 3 n
+1 1 1 1 1 1 1 1 1 1
++ + +···+ + = + + +···+ +
+a a a a a a ···a a a a a a a ···a a
+1 2 3 n 1 2 n 1 2 3 n+1 1 2 n n+1
+Diperoleh X(n) = X(n+1).
+Dengan itu diperoleh
+X(1) = X(2) = X(3) = ··· = X(n−1) = X(n)
+1 1
+Karena X(1) = + = 2, diperoleh Arin(n) < 2. Subtitusi n = 2019, didapat
+a a
+1 1
+1 1 1 1
+Arin(2019) = + +···+ + < 2
+a a a a
+1 2 n−1 2019
+(cid:4)
+8
+
+<<<PAGE 24>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 2. Dalam ekspresi
+(cid:38)(cid:114) (cid:39)
+(cid:113) √
+a = 2020+ 2020+ 2020+···
+dan
+(cid:36)(cid:114) (cid:37)
+(cid:113) √
+b = 1442+ 1442+ 1442+···
+bilangan 2020 muncul sebanyak 1442 kali dan bilangan 1442 muncul sebanyak 2020 kali, serta
+(cid:100)x(cid:101) dan (cid:98)y(cid:99) berturut-turut menyatakan bilangan bulat terkecil yang lebih besar daripada x dan
+bilangan bulat terbesar yang lebih kecil daripada y. Tentukan nilai dari c = a−b.
+.............................................................................................
+Solusi. Jawabannya adalah 8 .
+Tinjau bahwa
+(cid:118) (cid:114)
+(cid:113) √ (cid:117) (cid:113) √ (cid:113) √
+2020+ 2020 < (cid:117)2020+ 2020+···+ 2020 < 2020+ 2020+ 2020+···
+(cid:116)
+(cid:124) (cid:123)(cid:122) (cid:125)
+2020munculsebanyak1442kali
+Perhatikan bahwa
+(cid:113) √
+(cid:112) (cid:112)
+2020+ 2020 ≈ 2020+44,9 ≈ 2064,9 ≈ 45,441
+Misalkan
+(cid:114)
+(cid:113) √
+k = 2020+ 2020+ 2020+···
+Maka
+(cid:114)
+(cid:113) √ √
+k = 2020+ 2020+ 2020+··· = 2020+k
+√
+yang berarti k = k +2020 dimana k ≥ 0. Dengan mengkuadratkan kedua ruas, kita dapatkan
+k2 −k −2020 = 0. Maka
+√
+(cid:112)
+−(−1)± (−1)2 −4(1)(−2020) 1± 8081
+k = =
+1,2
+2(1) 2
+Karena k ≥ 0, maka
+√
+1+ 8081 1+89,89
+k = ≈ ≈ 45,445
+2 2
+Demikian 45,441 < a < 45,445 yang berarti (cid:100)a(cid:101) = 46.
+Dengan cara yang sama, tinjau
+(cid:118) (cid:114)
+(cid:113) √ (cid:117) (cid:113) √ (cid:113) √
+1442+ 1442 < (cid:117)1442+ 1442+···+ 1442 < 1442+ 1442+ 1442+···
+(cid:116)
+(cid:124) (cid:123)(cid:122) (cid:125)
+1442munculsebanyak2020kali
+9
+
+<<<PAGE 25>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Perhatikan bahwa
+(cid:113) √
+(cid:112)
+1442+ 1442 ≈ 1442+37,97 ≈ 38,470
+Misalkan
+(cid:114)
+(cid:113) √
+m = 1442+ 1442+ 1442+···
+Maka
+(cid:114)
+(cid:113) √ √
+m = 1442+ 1442+ 1442+··· = 1442+m
+√
+yang berarti m = 1442+m. Dengan mengkuadratkan kedua ruas, kita dapatkan m2 −m−
+1442 = 0. Maka
+√
+(cid:112)
+−(−1)± (−1)2 −4(1)(−1442) 1± 5769
+m = =
+1,2
+2 2
+Karena m ≥ 0, maka
+√
+1+ 5769 1+75,95
+m = ≈ = 38,476
+2 2
+Demikian 38,470 < b < 38,476 yang berarti (cid:98)b(cid:99) = 38.
+Sehingga c = a−b = 46−38 = 8.
+10
+
+<<<PAGE 26>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 3. Diberikan dua buah lingkaran yang berpusat di titik yang sama, yaitu titik O
+dan memiliki jari-jari 10 cm dan 5 cm. Titik A,B,C,D,E,F masing-masing terletak pada
+keliling lingkaran besar sehingga membagi busur lingkaran besar menjadi enam bagian sama
+panjang. Titik P,Q, dan R masing-masing terletak pada keliling lingkaran kecil sehingga
+panjang PA = PF,QB = QC, dan RE = RD. Tentukan luas daerah yang diarsir.
+A B
+P Q
+O
+F C
+R
+E D
+.............................................................................................
+Solusi. Jawabannya adalah 25(3+π) cm2 .
+A B
+L M
+P Q
+O
+F C
+R
+E N D
+KarenaA,B,C,D,E,danF membagibusurlingkaranbesarmenjadienambagiansamapanjang,
+artinya lingkaran besar terbagi menjadi enam bagian yang kongruen. Sehingga kita punya
+∠FOA = ∠AOB = ∠BOC = ∠COD = ∠DOE = ∠EOF = 60◦
+Karena ∠FOE+∠EOD+∠DOC = 180◦, artinya F,O,C segaris. Begitu juga dengan E,O,B
+segaris dan D,O,A segaris.
+11
+
+<<<PAGE 27>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Klaim — Titik P,Q,R dilalui oleh garis tinggi (cid:52)FOA,(cid:52)OBC, dan (cid:52)OED.
+180◦ −60◦
+Bukti. Karena panjang OF = OA, maka besar sudut ∠OFA = ∠FAO = = 60◦
+2
+yang berarti (cid:52)FOA sama sisi. Begitu juga dengan (cid:52)OCB dan (cid:52)OED. Tarik garis tinggi
+dari titik R ke ED dan memotong ED di titik N(cid:48). Karena panjang RD = RE, maka panjang
+EN(cid:48) = N(cid:48)D. Tarik garis tinggi dari titik O ke ED dan memotong ED di titik N. Karena
+panjang OE = OD, maka panjang EN = ND. Hal ini menyimpulkan N(cid:48) = N yang berarti
+O,R,N segaris. Dengan cara yang serupa, jika OL dan OM berturut-turut garis tinggi (cid:52)OFA
+dan (cid:52)OCB, maka O,P,L segaris dan O,Q,M segaris.
+Perhatikan sektor FOA. Luas dari sektor lingkaran besar adalah
+1 100
+L = π ×102 = π cm2
+1/6L.besar
+6 6
+Sedangkan, luas sektor dari lingkaran kecil adalah
+1 25
+L = π ×52 = π cm2
+1/6L.kecil
+6 6
+Luas tembereng dari sektor tersebut adalah luas sektor lingkaran besar dikurangi dengan segitiga
+sama sisi (cid:52)OFA.
+1 (cid:18) 10 (cid:19)2√ (cid:18) 100 √ (cid:19)
+L = π ×102 − 3 = π −25 3 cm2
+tembereng
+6 2 6
+Perhatikan bahwa ∠FOL = 30◦,∠OFL = 60◦, dan ∠FLO = 90◦. Akibatnya, perbandingan
+√
+√ 3 √
+panjang FL : OL : FO = 1 : 3 : 2. Maka panjang OL = × FO = 5 3 cm. Tinjau
+2
+OP merupakan jari-jari lingkaran kecil, maka panjang OP = 5 cm. Demikian panjang PL =
+√
+(cid:0) (cid:1)
+OL−OP = 5 3−5 cm. Demikian luas segitiga APF adalah
+1 1 (cid:16) √ (cid:17) (cid:16) √ (cid:17)
+L = ×AF ×LP = ×10× 5 3−5 = 25 3−25 cm2
+(cid:52)APF
+2 2
+Maka luas daerah yang diarsir pada sektor FOA adalah
+L = L −L −L −L
+arsirsektorFOA 1/6L.besar 1/6L.kecil tembereng (cid:52)APF
+100 25 (cid:18) 100 √ (cid:19) (cid:16) √ (cid:17)
+= π − π − π −25 3 − 25 3−25
+6 6 6
+100 25 100 √ √
+= π − π − π +25 3−25 3+25
+6 6 6
+150−25π
+= cm2
+6
+Karena terdapat dua sektor lain yang sama dengan luas arsir sektor OFA, yaitu sektor OBC
+dan sektor ODE, maka jumlah luas daerah yang diarsir pada tiga sektor ini adalah
+150−25π 150−25π
+L +L +L = 3× = cm2
+arsirsektorFOA arsirsektorCOB arsirsektorDOE
+6 2
+12
+
+<<<PAGE 28>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Sekarang perhatikan sektor OBA. Luas arsir dari sektor tersebut adalah
+100 25 75
+L = L −L = π − π = π cm2
+arsirsektorOBA 1/6L.besar 1/6L.kecil
+6 6 6
+Karena terdapat dua sektor sektor lain yang sama dengan luas arsir sektor OBA, yaitu sektor
+OCD dan sektor OEF, maka jumlah luas daerah yang diarsir pada tiga sektor ini adalah
+75 75
+L +L +L = 3× π = π cm2
+arsirsektorOBA arsirsektorOCD arsirsektorOEF
+6 2
+Sehingga luas daerah yang diarsir seluruhnya adalah
+150−25π 75 150+50π 50(3+π)
+L = + π = = = 25(3+π) cm2
+arsir
+2 2 2 2
+Jadi, luas daerah yang diarsir adalah 25(3+π) cm2.
+13
+
+<<<PAGE 29>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 4. Fahmi akan membeli sepasang ikan koi yang berada di dalam akuarium. Saat ia
+mengambil secara acak, peluang dia mendapatkan ikan dengan jenis kelamin yang sama adalah
+1
+. Buktikan bahwa banyak ikan koin di dalam akuarium tersebut merupakan bilangan kuadrat
+2
+sempurna.
+.............................................................................................
+Solusi. Misalkan banyaknya ikan koi dengan jenis kelamin jantan dan betina berturut-turut
+adalah j dan b dimana n = b+j. Diketahui bahwa peluang dia mendapatkan ikan koi dengan
+1
+jenis kelamin sama adalah . Banyak cara memilih dua ikan berjenis kelamin jantan adalah
+2
+C(j,2), sedangkan dua ikan berjenis kelamin betina adalah C(b,2). Maka peluangnya adalah
+C(j,2)+C(b,2) 1
+=
+C(b+j,2) 2
+j(j−1) + b(b−1) 1
+2 2 =
+(b+j)(b+j−1) 2
+2
+j2 −j +b2 −b 1
+=
+b2 +j2 +2bj −b−j 2
+2j2 −2j +2b2 −2b = b2 +j2 +2bj −b−j
+j2 +b2 −2bj = b+j
+(b−j)2 = n
+yang menyimpulkan n kuadrat sempurna. (cid:4)
+14
+
+<<<PAGE 30>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+Soal 5. Seorang apoteker ingin memasukkan cairan sebanyak 155 ml ke dalam tiga botol. Ada
+tiga pilihan botol, yaitu
+(a). Botol A:
+• Berkapasitas 5 ml,
+• Harga satu botol adalah Rp10.000,00,
+• Bila membeli botol selanjutnya, mendapat potongan harga 20%, hingga pembelian
+keempat atau bila membeli empat botol akan mendapatkan satu botol A secara
+gratis.
+(b). Botol B:
+• Berkapasitas 8 ml,
+• Harga satu botol adalah Rp15.000,00,
+• Bila membeli dua botol, maka botol kedua mendapat potongan harga 20%,
+• Bila membeli tiga botol, maka akan mendapatkan satu botol lagi secara gratis.
+(c). Botol C:
+• Berkapasitas 14 ml,
+• Harga satu botol adalah Rp25.000,00,
+• Jika membeli dua botol, maka akan mendapatkan satu botol A secara gratis,
+• Jika membeli tiga botol, maka akan mendapatkan satu botol B secara gratis.
+Jika dalam satu kali pembelian, hanya boleh membeli maksimal sebanyak empat botol, maka
+carilah kemungkinan apoteker memasukkan ke dalam botol-botol agar biaya minium (botol
+tidak harus diisi sesuai kapasitas).
+.............................................................................................
+Solusi. Jawabannya adalah Rp225.000,00 .
+Kita tinjau satu per satu untuk menentukan harga per mililiter.
+1. Jika membeli satu botol A, maka harganya adalah Rp10.000,00 yang berkapasitas sebanyak
+5 ml. Sehingga harga botol A adalah Rp2.000,00/ml.
+2. Jika membeli dua botol A, maka botol kedua mendapatkan potongan harga 20%. Sehingga
+harga dari botol kedua adalah 100%−20% = 80% dari harga botol A aslinya. Maka total
+15
+
+<<<PAGE 31>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+pembelian dua botol ini adalah
+80
+10.000+ ×10.000 = 10.000+8.000 = 18.000
+100
+yang berkapasitas 10 ml. Sehingga harga botol A adalah Rp1.800,00/ml.
+3. Jika membeli tiga botol A, maka pembelian botol pertama adalah Rp10.000,00, pembelian
+botol kedua dan ketiga adalah
+80
+×10.000 = 8.000
+100
+Sehingga total harganya adalah Rp26.000,00 berkapasitas 15 ml. Maka harga botol A
+adalah Rp1733,33/ml.
+4. Jika membeli empat botol A, maka ada dua kemungkinan:
+• Mendapatkan diskon hingga pembelian keempat. Harga botol A pada pembelian
+pertama adalah Rp10.000,00. Maka harga botol A pada pembelian kedua, ketiga,
+dan keempat adalah
+80
+×10.000 = 8.000
+100
+Total harga keempat botol ini adalah Rp34.000,00 berkapasitas 20 ml. Maka harga
+botol A adalah Rp1.700,00/ml.
+• Pada pembelian keempat mendapatkan satu botol A secara gratis. Maka harga
+keempat botol tersebut totalnya adalah Rp40.000,00 lalu mendapatkan satu botol
+A secara gratis, yang artinya berkapasitas 25 ml. Maka harga botol A adalah
+Rp1600,00/ml.
+5. Jika membeli sebuah botol B dengan harga Rp15.000,00 berkapasitas 8 ml, maka harganya
+Rp1.875/ml.
+6. Jika membeli dua botol B, maka botol kedua mendapat potongan harga 20%. Sehingga
+total harga untuk pembelian dua botol ini adalah
+80
+15.000+ ×15.000 = 24.000
+100
+berkapasitas 16 ml. Maka harga botol B adalah Rp1500/ml.
+7. Jika membeli tiga botol B, maka akan mendapatkan satu botol B secara gratis. Artinya,
+total harganya adalah Rp45.000,00 berkapasitas 32 ml. Maka harga botol B adalah
+Rp1.406,25/ml.
+16
+
+<<<PAGE 32>>>
+KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020
+8. Jika membeli satu botol C dengan harga Rp25.000,00 berkapasitas 14 ml, maka harga
+botol C adalah Rp1.785,71/ml.
+9. Jika membeli dua botol C, maka akan mendapatkan satu botol A secara gratis. Maka
+total pembeliannya adalah Rp50.000,00 berkapasitas 33 ml yang berarti Rp1.515,15/ml.
+10. Jika membeli tiga botol C, maka akan mendapatkan satu botol B secara gratis. Maka
+total pembeliannya adalah Rp75.000,00 berkapasitas 50 ml yang berarti Rp1500,00/ml.
+Dari hal-hal diatas, harga termurah pada nomor 7, yaitu Rp1406,25/ml dengan membeli tiga
+botol B (dan mendapatkan satu botol B secara gratis). Kita memerlukan beberapa botol
+sehingga dapat menampung 155 ml. Maka pembayaran minimum dapat tercapai jika kita
+melakukan pembelian pada nomor 7 sebanyak 5 kali (sehingga diperoleh kapasitas 160 ml).
+Karena jika terdapat satu botol saja yang harganya lebih dari Rp1.406,25/ml, maka harganya
+dapat dipastikan lebih dari Rp225.000,00.
+Jadi, pembayaran minimumnya adalah Rp225.000,00.
+17

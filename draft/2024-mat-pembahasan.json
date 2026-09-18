@@ -1,0 +1,351 @@
+{
+ "id": "2024-mat-pembahasan",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Atlet bulu tangkis Anthony Ginting menjalani pertandingan persahabatan dengan Jonathan Chris-\ntie, rekan sesama timnya. Pertandingan berakhir jika salah satu pemain menang dua set langsung\nI\natau menang dua set dari tiga set permainan (rubber set).\n\nTim pelatih Ginting menyatakan bahwa peluang Ginting dapaRt memenangkan suatu set adalah 1,6\nkali lipat peluang Ginting memenangkan pertandingan.\nMisalkan tidak ada pertandingan yang berakhir imbang/seri. Berdasarkan pernyataan tim pelatih\nGinting, peluang Jonathan memenangkan pertandingan adalah ...\nA\n1 3 5 27",
+   "images": [],
+   "key": "D",
+   "pemb": "3 2 3 2",
+   "isian": false,
+   "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "4 4 32 32 Solusi: MisalkanpeluangGintingmenangsuatupertaTndinganadalahx,makapeluangGintingmemenangk- ansuatusetadalah 8x. DisaatyangsamapeluangJonathanmemenangkansuatusetadalah1−8x. 5 5 Sekarang,kitamaucariduluberapakahnilaixnya. Tinjaubahwaalurmemenangkansuatupertan- A dinganbadmintonadalahmenang2kalilangsung,kalahdululalumenang2kali,ataumenangkalah menang. Maka peluang untuk ginting bisa memenangkan pertandingan dapat dinyatakan sebagai 2 2 2 8 8 8 8 8 x +B1− x x + 1− x x =x 5 5 5 5 5 Akan ekuivalen dengan 1 x(32x−25)(32x−5)=0 O 125 Dapatdicekxyangmungkinadalahx=0,25, 5 . Karenanilai 8x<1,makaxyangmungkinadalah 32 32 5 5 . Makajikapeluanggintingmemenangkanpertandinganadalah 5 ,makapeluangJonatanuntuk 32 32 5 = 2 7 memenangkan pertanSdingan adalah 1− ."
+   }
+  },
+  {
+   "num": 2,
+   "text": "Diketahui sistem persamaan sebagai dengan a,b dan c adalah bilangan real positif\na=bc\nk\nb=c(a+2)\nc=b(a−2)\ni\nNilai dalri a2+b2+c2 adalah ...\n\ni √ √",
+   "images": [],
+   "key": null,
+   "pemb": "Tinjau bahwa dari persamaan kedua dan ketiga di atas, jika kita kalikan dapat kita peroleh bc=cb(a+2)(a−2) 2 OSKaMatematikSMP 2024 Halaman 3 dari 20 Karena b;c positif, amak 1 = ( a +2)( a 2) = ) a 2 = 5, di saat angy sama arenak a positif juga, p p p amak a = 5. anDimasukkek persamaan 1, dapat diperoleh a = bc = c 2 ( 5+2) = 5, didapat p p p p c 2 = p 5 = ) 5 2 5. Dengan cara angy sama, b 2 = p 5 = ) 5+2 5. aMak 5+2 5 2 p p a 2 + b 2 + c 2 =5+5 2 5+5+2 5=15 aMakayabannwjaadalah A",
+   "isian": false,
+   "options": {
+    "A": "15",
+    "B": "15−4 15",
+    "C": "225",
+    "D": "15+4 5 M"
+   }
+  },
+  {
+   "num": 3,
+   "text": "uietahDiksuatu erucutk dengan titik puncak T , pusat sisi alas O , dan diameter alas AB . Titik C\nberada pada ruas garis AT dengan AC = OC = 11 cm. Titik D anmerupak titik potong taraan\ngaris OT dan BC dengan DC = 7 cm. olumeVerucutk tersebut adalah ...cm 2 .",
+   "images": [],
+   "key": null,
+   "pemb": "Kitaanakbargamayerucutnkdari tampakaysampingn Karena T adalah tinggi erucut,k amak dapat kita aypun TA = TB . Dari soal, kita aypun AC = OC , sehingga didapat \\ TBA = \\ TAB = \\ CAO = \\ COA angy anmengakibatk CO jj TB . Dari esebangunank 4 ACO dan 4 ATB kita bisaaypun AC AO = =1 )( OC = AC = CT =11 CT OB anerhatikPawbah O dan C masing masing midptoindari AB dan AT , snggaehi kita bisaaypun D ARIN anmerupak titik berat segitiga ABT . Dari fakta garis berat, didapat BD = 2 CD = 14. arangSek SOBAtinjauawbah TD garis bagi dari <CTB , sehingga atdidap T Milik TD 2 = CT BT CD BD =11 22 7 14= ) TD =12 3 OSKaMatematikSMP 2024 Halaman 4 dari 20 p Disaatangysama2 DO = TD . aMak OT =18DenganytagorasPhdidapat OB 2 = BT 2 OT 2 = p p 22 2 18 2 = 160 Sehingga olumeverucutkanaksama saja dengan 1 OT OB 2 =960 3 aMakolumev dariayerucutnkadalah 960 atau sama dengan B",
+   "isian": false,
+   "options": {
+    "A": "196",
+    "B": "960",
+    "C": "1960",
+    "D": "9600"
+   }
+  },
+  {
+   "num": 4,
+   "text": "anMisalk N ( a;b;c )anatakymenayaknybanelipatank a angy lebih besar dari b dan rangku dari c .\nSebagai toh,con N (3 ; 5 ; 10) = 2 arenak terdapat uad bilangan taraan 5 dan 10 angy anmerupak\nelipatank 3. Nilai dari N (6 3 ; 6 4 ; 6 6 ) adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "Tinjauawbahdengandenisisoal,amakkitamaucariberapaakybannilai k angygkinunmsehingga 6 4 < 6 3 k < 6 6 , angy mana anakalenekuiv dengan 6 < k < 216, auat 7 k 215 sebab k bulat. aMakayaknybannilai k angyungkinm adalah 215 7+1=209. ayabannwJaalahad C",
+   "isian": false,
+   "options": {
+    "A": "216",
+    "B": "215",
+    "C": "209",
+    "D": "208"
+   }
+  },
+  {
+   "num": 5,
+   "text": "anerhatikPbargam berikut\n\n\n\nuietahDikpanjang BD = CD;BE = DE;AJ = JD dan DG sejajar CF .\naJik perbandingan luas daerah segitiga ADH dan segitiga ABC anatakydindalam btuken paling\nsederhana m : n ,amaknilai dari m + n adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "SOBA TTinjauawbahluas[ ADH ]=[ AED ] [EDH ],[ EDH ]= DH [GED ]. Darisoalkitabisaaypunawbah GD Milik[AED ]= 1 [ABC ]. Dengan menalaus di segitiga BFC dengan ersaltransv AD , dapat ipderoleh 4 BF AJ DC =1 AF JD BC 4 OSKaMatematikSMP 2024 Halaman 5 dari 20 Didapat BF =2 AF , dengan esebangunanktaraan segitiga BGD dan BFC , didapat BG BD = =1 GF DC aMak BG = BF = GF , didapat [ GED ]=[ BGE ]= BG BE [ABC ]= [ABC ] , menalausaliseklagi AB BC 12 di segitiga ABE dengan ersaltransv DG , didapat BE DH GA DH 3 =1= ) = DE GH BA GH 2 anMemanfaatkini 3 1 [DEH ]= [DEG ]= [ABC ] 5 20 aMak 1 1 1 [ADH ]=[ AED ] [EDH ]= [ABC ]= [ABC ] 4 20 5 Didapat m + n =1+5=6,amakabanwjasoal adalah B",
+   "isian": false,
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8 ARIN"
+   }
+  },
+  {
+   "num": 6,
+   "text": "aJik x 3 + 1 =18 dan x 6=0,amaknilai dari\nx 3\n\n1\nx 7 + +7\nx 7\nadalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "Tinjauawbahbtuken soal atdap kita ubah menjadi 1 3 1 1 x + 3 x x + =18 x x x anMisalk x + 1 = a ,amak a 3 3 a =18. Tinjauawbah x a 3 3 a 18=0 ( a 3)( a 2 +3 a +6)=0 ! 3 2 15 ( a 3) a + + =0 2 4 Karena jelas angy btuken 1 ayn lebih dari 0, amak a = x + 1 = 3. Tinjau awbah x 2 + 1 = x x 2 x + 1 2 2=7, disaat angy sama x 4 + 1 = x 2 + 1 2 2=47. anerhatikPawbah ARINx 4 x 2 SOBA 1 T x 4 x 3 + =18 x 4 = ) x 7 =18 x 4 x::: (1) x 3 Milik 1 1 18 1 18 1 x 3 + = = ) = ::: (2) x 4 x 3 x 4 x 7 x 4 x 5 OSKaMatematikSMP 2024 Halaman 6 dari 20 anMenjumlahk(1) dan (2), didapat 1 1 1 x 7 + =18 x 4 + x + x 7 x 4 x 1 x 7 + =18 47 3=843 x 7 aMak x 7 + 1 +7=843+7=850, didapatayabannwjaadalah B x 7 Catatan. soal juga dapatandiselesaikanmenggunakBinomial Newton unnam urangk efektif",
+   "isian": false,
+   "options": {
+    "A": "845",
+    "B": "850",
+    "C": "855",
+    "D": "860"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Suatu segi delapan ABCDEFGH dibtukendari suatu persegi ABCD dan persegi angpanj EFGH\nangy anjangpaysisi-sisinanmerupakbilangan bulat positif.\ntohCon segi delapan tersebut andiberikpada bargam berikut.\n\n\n\naJik luas persegi adalah x cm 2 , luas persegi panjang adalah y cm 2 , x > y , dan xy = 98, amak\nelilingk segi delapan ABCDEFGH angyungkinm adalah ...cm.",
+   "images": [],
+   "key": null,
+   "pemb": "p Tinjau awbah dari soal, laini xy = 98, dan x > y . aMak haruslah xy = 98 < x 2 = ) x 98. anerhatikPa,wbaharenakpanjangsisipersegiadalahbilanganbulat,amakungkinanemk x alahyhan 49,aytinarpanjangsisipersegiadalah7. Disaatangysamaamakayartinluaspersegipanjangadalah 2, dananakada 2asuskaituyaetikkaypanjangn2 laluaylebarn1, atauaypanjangn1 laluaylebarn 2. ayLebarn1,aypanjangn2. aMakayelilingnkanaksamadengan AB + BC + CD + DE + EF + FG + GH + AH = 21+ AD HE + GF +2+2 = 21+7+2+2 = 32 (TM) tidak ada di ARIN pilihan SOBA T ayLebarn2,aypanjangn1. aMakayelilingnkanaksamadengan AB + BC + CD + DE + EF + MilikFG + GH + AH =21+ AD HE + GF +1+1=21+7+1+1=30, ada di pilihan aMakayabannwjaadalah A 6 OSK Matematika SMP 2024 Halaman 7 dari 20 N",
+   "isian": false,
+   "options": {
+    "A": "30",
+    "B": "33",
+    "C": "34",
+    "D": "51"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Jika bilangan real positif p,q,r,s memenuhi sistem persamaan\n\np2+q2 =r2+s2,\np2+s2−ps=q2+r2+qr I\n R\nnilai dari\npq+rs\nps+qr\nadalah ...\nA\np p p p",
+   "images": [
+    "img2/2024-mat-pembahasan/2024-mat-pembahasan_p7_0002.png"
+   ],
+   "key": null,
+   "pemb": "Perhatikan gambar berikut. T A B O S Konstruksi segiempat siklis ABCD dengan \\ ABC =\\ ADC =90 , \\ BAD =60 . Misalkan AB =p, BC =q, CD =r, AD =s k Solusi 1. Menggunakan dua sudut pandang luas. Kita tahu bahwa [ABCD]=[ABC]+[ACD]=[ABD]+[BCD]. Perhatikan bahwa i pq+rs l [ABC]+[ACD]= 2 i Di sisi lain, √ M 3 [ABD]+[BCD]= ×(ps+qr) 4 Sehingga didapatkan √ pq+rs 3 = ×(ps+qr) 2 4 √ pq+rs 3 = ps+qr 2 7 OSK Matematika SMP 2024 Halaman 8 dari 20 Solusi 2. Dengan tembak jawaban. N Konstruksi AC merupakan garis bagi sudut dalam \\ BCD dan \\ BAD. Sadari bahwa \\ ACB = 60 =2\\ BAC, sehingga kita punya √ I AC AC 3 q =BC = , p= 2 2R Analog, kita juga punya √ AC AC 3 r = , s= 2 2 A Untuk mempermudah, WLOG BC =1 sehingga didapatkan √ √ pq+rs 3+ 3 = ps+qr 3+1 √ pq+rs 3 = ps+qTr 2 Maka jawaban dari soal ini adalah D *Catatan. Ini diperoleh dari hukum ko A sinus, sudut 60 dan 120 diperoleh dari persamaan kedua, sedangkan persamaan pertama memberikan sudut yang 90 .",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "2",
+    "C": "3",
+    "D": "3 3 2 3 2"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Suatu bilangan bulat positif n disebut bilangan JUMPAT jika jumlah n bilangan bulat positif\nB\n pertamadapatdinyatakansebagaipenjumlahanempatbilanganbulatpositifberurutan. Banyaknya\nbilangan JUMPAT yang kurang dari 2024 adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "Kita tahu bahwa jumlah n bilangan bulat positif pertama adalah n (n +1). Lalu penjumlahan 4 S 2 bilangan bulat positif berurutan berbentuk 4a + 6 dengan a bilangan bulat positif. Perhatikan bahwa n(n+1) =4a+6 2 k n(n+1)=8a+12 n(n+1)≡4 (mod 8) i l Sehingga didapatkan i n≡3,4 (mod 8). M Kita tahu bahwa untuk n = 3 bukan bilangan JUMPAT. Misalkan n = 8k+3 atau n = 8k+4 untuk suatu k bilangan bulat nonnegatif. Untuk n=8k+3 (k ≥1), kita punya 8k+3<2024 k ≤252 8 OSK Matematika SMP 2024 Halaman 9 dari 20 Untuk n=8k+4, kita punya N 8k+4<2024 k ≤252 I R SehinggabanyaknyabilanganJUMPATadalah252+253=505, makajawabanyangtepatadalah D",
+   "isian": false,
+   "options": {
+    "A": "252 (OB) 253",
+    "C": "504",
+    "D": "505"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Diketahui persamaan\nA\nx4+ax3+54x2−108x+81=0\ndengan a bilangan real, memiliki 4 akar berbeda, yaitu r ,r ,r ,r .\n1 2 3 4\nJika  \nr +r +r +r 4\nr ×r ×r ×r = 1 2 3 4 ,\n1 2 3 4 T4\nmaka nilai dari a adalah ...\n(Disclaimer : also awal 4 akaralerda,eerbb namun enulisp meyakini yang dimaksud juri adalah 4\n akardaeerbb ) A",
+   "images": [],
+   "key": null,
+   "pemb": "Dengan teorema vieta dapat kita peroleh O r ·r ·r ·r =81 1 2 3 4 r +r +r +r =−a 1 2 3 4 Sr r r +r r r +r r r +r r r =108 1 2 3 1 2 4 2 3 4 1 3 4 r r +r r +r r +r r +r r +r r =54 1 2 1 3 1 4 2 3 2 4 3 4 r +r +r +r 4 a 4 Karena di soal r ×r ×r ×r = 1 2 3 4 , akibatnya 81= − . k 1 2 3 4 4 4 Makaharuslaha=±12. Tinjaubahwa(x−3)4 =x4−12x3+54x2−108x+81,jelasuntuka=−12 tidakmemenuhikarenasemuaakarharusberbeda,makaharuslaha=12. Akibatnyajawabanyang i tepat adalah D l",
+   "isian": false,
+   "options": {
+    "A": "-12",
+    "B": "-8",
+    "C": "3",
+    "D": "12 B"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Sepuluhpersegipanjangkecildenganukuran1 cm×2 cmakandigunakanuntukmembentukpersegi\n panja i ng besar dengan ukuran 10 cm×2 cm. Banyaknya cara membentuk persegi panjang besar\nMtersebut adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "Misalkan f(n) adalah banyaknya cara membentuk persegi panjang n×2 dengan persegi panjang 1×2. Tinjau 2 kasus sebagai berikut. 9 OSK Matematika SMP 2024 Halaman 10 dari 20 Kasus 1. persegi 2×2 di paling ujung kanan diisi dengan 2 persegi N panjang 2×1. Untuk kasus 1, terdapat f(n−2) cara untuk mengisi ruang (n−2)×2 di sebelah kiri dan 1 cara untuk mengisi persegi 2×2 di paling ujung kanan dengan 2 persegi panjang 2×1. Jadi untuk kasus ini, ada f(n−2) I Kasus 2. persegi panjang 1×2 di paling ujung kanan diisi dengan persegi panjang 1×2. R Untuk kasus 2, terdapat f(n−1) cara untuk mengisi ruang (n−1)×2 di sebelah kiri dan 1 cara untuk mengisi persegi panjang 1×2 di paling ujung kanan dengan persegi panjang 1×2. Jadi untuk kasus ini, ada f(n−1) A Sehinggadapatdisimpulkanf(n)=f(n−2)+f(n−1). Bisadihitungbahwaf(1)=1danf(2)=2. Sehingga kita punya barisan 1,2,3,5,8,13,21,34,55,89, dimana f(10) = 89. Maka jawaban yang tepat adalah B",
+   "isian": false,
+   "options": {
+    "A": "78",
+    "B": "89",
+    "C": "144",
+    "D": "233"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Diketahui segitiga sama kaki ABC dengan AB = BC = 8 cm dan \\ ABC = 120 . Titik tengah\nT\nAB dan BC masing-masing adalah D dan E. Garis DF tegak lurus AB dan EF tegak lurus BC.\nMisalkan garis EF dan DE memotong garis AC berturut turut di titik J dan K. Luas △FJK\nadalah ...cm2.\nA\n\np p √ √",
+   "images": [],
+   "key": null,
+   "pemb": "Perhatikan gambar berikut. O S k i MisalkangarisBF danACberpotonganpadatitikG. MudahdidapatbahwasegitigaADK,CEJ,FDB, dan FElB merupakan segitiga siku-siku yang membentuk perbandingan sudut 30 , 60 , 90 . Per- √ √ 1 4 3 16 3 1 √ hatikain bahwa LADK +LCEJ = 2· ·4· = dan LABC = ·8·8·sin120 = 16 3. 2 3 √3 2 32 3 M Sehingga, LDBEJK =LABC −(LADK +LCEJ )= . 3 √ √ 1 √ 32 3 16 3 Sekarang, LFKJ =LFDBE −LDBEJK =2LFDB −LDBEJK =2· ·4·4 3− = . Jadi, 2 3 3 jawaban yang benar adalah B .",
+   "isian": false,
+   "options": {
+    "A": "8 3",
+    "B": "16 3",
+    "C": "8 3",
+    "D": "16 3 3 3 B"
+   }
+  },
+  {
+   "num": 13,
+   "text": "DarisegilimaABCDE dipilih21titikyangberbeda. SatutitikdarisisiAB,duatitikdarisisiBC,\ntiga titik dari sisi CD, empat titik dari sisi DE, lima titik dari titik sudut A,B,C,D,E, dan enam\n10\n\nOSK Matematika SMP 2024 Halaman 11 dari 20\nN\ntitik dari sisi AE. Banyaknya segitiga yang dapat dibentuk dari seluruh titik yang dipilih adalah\n\n...",
+   "images": [],
+   "key": null,
+   "pemb": "R Tinjau bahwa, dari 21 titik, cara kita bisa memiliki tiga titik adalah 21 A 3 Di sisi lain, agar terbentuk segitiga, maka 3 titik yang terpilih tidak boleh dari 1 sisi yang sama, maka kita harus kurangkan dengan penumpukan di sisi AB,BC,CD,DE dan AE. Tinjau bahwa banyak kemungkinan cara milih 3 yang segaris adalah T 8 6 5 4 3 + + + + 3 3 3 3 3 Maka total banyak segitiga akan ekuivaAlen dengan 21 8 6 5 4 3 − + + + + =1239 3 3 3 3 3 3 B Maka jawaban soal ini adalah C",
+   "isian": false,
+   "options": {
+    "A": "560",
+    "B": "770",
+    "C": "1239",
+    "D": "1330 I"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Diketahuixmerupakanbilanganbulatpositifkelipatan2yangkurangdari50,ymerupakanbilangan\nO\nbulat positif kelipatan 3, dan y−x = 10. Jika A adalah himpunan semua faktor prima dari x, B\n\nadalahhimpunansemuafaktorprimadariy,danjumlahsemuaanggotadariA∪B adalah10,maka\nnilai dari x+y adalah ...\nS",
+   "images": [],
+   "key": null,
+   "pemb": "Perhaikan bahwa, dari soal kita bisa peroleh 2 bilangan prima yang jelas membagi antara x dan y k yaitu 2 dan 3, maka penjumlahan dari nilai anggota yang sudah ada adalah 2+3 = 5. Maka dari faktor prima yang membagi x dan y hanya boleh ada tambahannya 5. Tinjau bahwa karena y juga i habis dibagi oleh 2, maka y dapat dinyatakan sebagai 6k =2·3·k, artinya x=6k−10=2(3k−5). Maka klita mau bahwa, pembagi diantara k dan 3k −5 harus ada 5 dan sisanya hanya 2 dan 3. Observasi bahwa nilai x = 6k−10 < 50 =⇒ k < 10. Tinjau bahwa gcd(k,3k−5) = 1 atau 5 Jika i gcd(k,3k−5) = 1, tidak mungkin ada pembagi 5, maka haruslah k = 5, artinya x = 20,y = 30, M didapat x+y =20+30=50=⇒ D",
+   "isian": false,
+   "options": {
+    "A": "14",
+    "B": "26",
+    "C": "38",
+    "D": "50"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Ginabermainangkadenganmengisikanbilanganbulat1, 2, ..., 9padatabel3×3. Sehingga, hasil\nkali ketiga bilangan pada setiap baris adalah bilangan yang terdapat di kanan tabel dan hasil kali\nketiga bilangan pada setiap kolom adalah bilangan yang terdapat di bawah tabel, seperti terlihat\nsebagai berikut.\n11\nOSK Matematika SMP 2024 Halaman 12 dari 20\n\nN\n96\nN 84\n\n45\n24 144 105 I\nNilai N adalah ... R",
+   "images": [],
+   "key": null,
+   "pemb": "Bisadilihatbahwa,satu-satunyasusunanyangmungkinuntukhasilperkalian105hanyalah3×5×7. Disaat yang sama penyusunan yang mungkin adalah 5 di kanan bawah, 7 ditengahnya, dan 3 di kanan atas. Maka tabel kita sekarang menjadi : T 3 96 N 7 84 5 45 A 24 144 105 Daridatayangkitapunyasekarang, tinjaubahwa45=5×9×1, makaharuslah9ditengahbawah dan 1 di kiri bawah, disaat yangBsama artinya perkalian di kolom tengah tersisa 16 atau 8×2, dan jelas 8 tidak mungkin di kolom baris tengah artinya 2. Maka N = 84 =6. Akibatnya semua tabel 2 7 akan terisi dan akan jadi seperti dibawah ini O 4 8 3 96 6 2 7 84 1 9 5 45 S 24 144 105 Maka jawaban untuk soal ini adalah D",
+   "isian": false,
+   "options": {
+    "A": "1",
+    "B": "3",
+    "C": "4",
+    "D": "6 A"
+   }
+  },
+  {
+   "num": 16,
+   "text": "Sekelompok bilangan berbeda terdiri dari 6 bilangan genap dan 4 bilangan ganjil. Dari kelompok\nk\nbilangan tersebut diperoleh informasi sebagai berikut.\n Jangkauan data = 24.\ni\n Jangkauan antar kuartil = 14.\nl\n Bilangan ke-3, 5, 6 dan 8 adalah bilangan ganjil.\ni\nM  Median= 2024. \n Rata-rata bilangan ganjil adalah 2022.\nRata-rata terbesar yang mungkin dimiliki oleh kelompok bilangan tersebut adalah ...\n\n12\n\nOSK Matematika SMP 2024 Halaman 13 dari 20\nN",
+   "images": [],
+   "key": null,
+   "pemb": "Misalkan x < x < ··· < x adalah semua angka tersebut. Maka,Iberdasarkan soal x ,x ,x ,x 1 2 10 3 5 6 8 ganjil dan sisanya genap. R x +x Perhatikan bahwa mediannya adalah 2024 = 5 6, namun keduanya ganjil. Setelah itu, perha- 2 tikanbahwakuartilketiganyaadalahx dankuartilpertamanyax ,makakarenarata-ratabilangan 8 3 ganjilnya 2022 dan ada 4 bilangan ganjil, diperoleh x +x +x +x =4·2022=8088. Dari nilai 3 5 6 8 A median, diperoleh: x +x = 8088−4048 = 2040. Tetapi oleh informasi jangakauan antarkuartil, 3 8 x −x =14, sehingga x =2027 dan x =2013. 8 3 8 3 Sehingga x ≤ 2025, dan x ≥ 2023. Terpaksa kesamaan harus terjadi. Sekarang semua bilangan 6 5 ganjil sudah ditentukan. Selain itu, tinjau bahwa x =2026 secara terpaksa. 7 Untukbilangangenapnya,pilihsajayangpalinTgbesarsetiapkalimemungkinkan(urutanlogisuntuk memilih angka tersebut juga seperti uraian berikut): x =2012, x =2010, x =2022, x =2034, 2 1 4 10 sehingga x =2032. 9 A Makajumlahsemuabilangangenapmaksimalnya2010+2012+2022+2026+2032+2034=12136, sehingga rata-rata maksimumnya adalah 12136+8088 =2022,4. Jadi pilihan yang benar adalah B . 10",
+   "isian": false,
+   "options": {
+    "A": "2022",
+    "B": "2022,4",
+    "C": "2024",
+    "D": "2024,4"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Jumlah semua bilangan ratusan yang ketiga digitnya berbeda dan tidak memuat 0 adalah ...\nB",
+   "images": [],
+   "key": null,
+   "pemb": "Misalkan bilangan 3 angka tersebut adalah xyz, di mana x,y,z ̸=0 dan saling berbeda. Kita akan tinjau per posisi x,y,z nya. S Ketika nilai x nya adalah Kemungkinan (y,z) Kemungkinan xyz 9 (8,7) 56 8 (8,7) 56 k 7 (8,7) 56 ... ... ... i 1 (8,7) 56 l Jumlah semua nilai yang ada di posisi ratusan adalah 100·(1+2+3+...9)·56 i MKetika nilai y nya adalah Kemungkinan (x,z) Kemungkinan xyz 9 (8,7) 56 8 (8,7) 56 7 (8,7) 56 ... ... ... 1 (8,7) 56 13 OSK Matematika SMP 2024 Halaman 14 dari 20 N Penjumlahan semua nilai yang mungkin untuk posisi puluhan adalah 10·(1+2+3+···+9)·56 Ketika nilai z nya adalah Kemungkinan (x,y) Kemungkinan xyz 9 (8,7) I 56 8 (8,7) 56 R 7 (8,7) 56 ... ... ... 1 (8,7) 56 A Penjumlahan untuk semua nilai satuan yang mungkin adalah (1+2+3+···+9)·56. Maka jumlah semua nilai xyz dapat diperoleh dengan menjumlahkan jumlah penjumlahan per posisi x, y dan z yaitu 45×56×111=279720=⇒ B T",
+   "isian": false,
+   "options": {
+    "A": "359640",
+    "B": "279720",
+    "C": "277200",
+    "D": "252000 O"
+   }
+  },
+  {
+   "num": 18,
+   "text": "Diberikan4bolapejalberukuransamadengandiameter22cmdansebuahsilinderdengandiameter\n46 cm. Dua bola diletakkan di dasar silinder dengan jarak pusat keduanya 24 cm. Dua bola\nsisanyajugadimasukkankedalamsilindAerdenganjaratantarpusatkeduanya24cmdangarisyang\nmenghubungkan kedua pusat bola ini tegak lurus dengan garis yang menghubungkan kedua pusat\nbolasebelumnya. Jikaairdimasukkankedalamsilindersehinggamenutupiseluruhpermukaanbola,\n\nmaka volume minimum air yang dimasukkan adalah ...cm3.\nB",
+   "images": [],
+   "key": null,
+   "pemb": "O Perhatikan gambar berikut. S k i l i M 14 OSK Matematika SMP 2024 Halaman 15 dari 20 N Dimana: O1 dan O2 adalah titik pusat dua bola yang ada di dasar silinder. O3 dan O4 adalah titik pusat dua bola yang ada di atasnya a gar air minimal. Maka bola I dengan pusat O3 dan O4 menyinggung bola dengan pusat O1 dan O2 . R C adalah titik proyeksi O3 terhadap dasar silinder B adalah titik proyeksi O3 terhadap permukaan air. A titik dimana ketinggiannya sama dengan O1 terhadap dasar silinder. A D0 adalah titik tengah O3 O4 . D adalah titik proyeksi D0 terhadap O1 O2 . X adalah refleksi titik A terhadap titik D. Teorema Phytagoras, bisa diperoleh bahwa T √ AO1 = (DO1 )2 +(DA)2 = 122 +122 =12 2 A √ AO3 = (O1 O3 )2 −(AO1 )2 = 222 −(12 2)2 =14 Didapat ketinggian air adalah B BC =BO3 +AO3 +AC =11+14+11=36 Sehingga volume minimum air adalah O 4 35836π 2 3 π×23 ×36−4× ×π×11 = 3 3 S",
+   "isian": false,
+   "options": {
+    "A": "3071π",
+    "B": "5291π",
+    "C": "1694π",
+    "D": "70982π 2 3 3"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Empatbilanganaslikurangdarisepuluhmemilikirata-rata,mediandanmodustunggalyangmem-\nbentuk tiga bilangan asli berurutan. Jika A adalah jumlah terkecil yang mungkin dari empat\nbilangan tersebut dan B adalah jumlah terbesar yang mungkin dari empat bilangan tersebut, maka\nnilai dari A+B adalah ...\nk",
+   "images": [],
+   "key": "B",
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "36",
+    "B": "40",
+    "C": "42",
+    "D": "44 i Solusi: l Misalkan keempat bilangan tersebut adalah a,b,c,d dimana a ≤ b ≤ c ≤ d. Definisikan x,ϕ,Φ i berturut turut rata rata, median, dan modus dari keempat bilangan tersebut. Akan dibagi menjadi M beberapa kasus Kasus 1 a,b,c,d bernilai sama semua. Maka diperoleh x=ϕ yang tidak mungkin Kasus 2 Terdapat tepat 3 bilangan yang sama dari a,b,c,d, maka ϕ = Φ = k dimana k meru- pakan bilangan yang sama. Jelas tidak mungkin 15 OSK Matematika SMP 2024 Halaman 16 dari 20 N Kasus 3 Terdapat tepat 2 bilangan yang sama dari a,b,c,d. Akan dibagi menjadi beberapa subka- sus berdasarkan bilangan mana yang sama. Perhatikan bilangan yang sama harus berurutan (a,b, b,c, dan c,d) karena apabila tidak, akan diperoleh 3 bilangan yang saIma R Subkasus 3.1 Jika a=b Maka bilangan bilangannya adalah a,a,c,d dimana a < c < d. Dapat diperoleh x = 2 a + c + d ,ϕ = 4 a + c , dan Φ = a. Perhatikan bahwa karena a < cA< d =⇒ a < a + c < 2 a + c + d , sehingga 2 2 4 a+2 = a + c +1 = 2 a + c + d =⇒ 4a+8 = 2a+2c+4 = 2a+c+d. Persamaan tersebut akan 2 4 ekuivalen dengan c=a+2 dan d=c+4, dapat diperoleh (a,b,c,d)=(a,a,a+2,a+6), sehingga nilai terkecil dan terbesar jumlah berturut turut adalah 12 dan 24 Subkasus 3.2 Jika b=c T Maka bilangan bilangannya adalah a,b,b,d dimana a<b<d. Dapat diperoleh x= a +2 b + d ,ϕ=b, 4 A dan Φ=b, maka tidak mungkin Subkasus 3.3 Jika c=d B Makabilanganbilangannyaadalaha,b,c,cdimanaa<b<c. Dapatdiperolehx= a + b +2 c ,ϕ= b + c , 4 2 and Φ = c. Perhatikan bahwa a < b < c =⇒ a + b +2 c < b + c < c, sehingga a + b +2 c +2 = b + c +1 = 4 2 4 2 c ⇐⇒ a+b+2c+8 =O2b+2c+4 = 4c. Persamaan tersebut akan ekuivalen dengan a+4 = b b+2 = c. Dapat diperoleh (a,b,c,d) = (a,a+4,a+6,a+6), sehingga nilai terbesar dan terkecil jumlah berturut turut adalah 20 dan 28 S Kasus 4 Tidak terdapat a,b,c,d yang bernilai sama. Maka, x = a + b + c + d ,ϕ = b + c , dan Φ = d. 4 2 Karena max(x,ϕ,Φ)=Φ, akan dibagi menjadi 2 subkasus. Subkasus 4.1 x<Φ<ϕ k Dapat diperoleh a + b + c + d +2= b + c +1=d ⇐⇒ a+b+c+d+8=2b+2c+4=4d. Ingat bahwa 4 2 i d>c>b,makad≥c+1dand≥b+2. Diperoleh2b+2c+4=4d>(2c+2)+(2b+4) ⇐⇒ 4>6, kontradliksi. i Subkasus 4.2 x<ϕ<Φ M Dapat diperoleh a + b + c + d +2=d+1= b + c ⇐⇒ a+b+c+d+8=4d+4=2b+2c. Ingat bahwa 4 2 d>c>b,makad≥c+1dand≥b+2. Diperoleh2b+2c=4d+4>(2c+2)+(2b+4)+2 ⇐⇒ 0>8, kontradiksi. Dari semua kasus yang diatas, dapat diperoleh jumlah terkecil dan terbesar dari keempat bilang- 16 OSK Matematika SMP 2024 Halaman 17 dari 20 N an tersebut berturut turut adalah 12 dan 32, sehingga jumlahnya adalah 12 + 28 = 40. Maka"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Bilangan-bilangan 4, 5, 6, 9, 11, 12, 18, 20 dan 24 akan diletakkan pada 4 lingkaran dan 5 persegi\nI\nyang disusun dalam satu baris sebagai berikut.\n\nR\nA\nSetiapbilanganharusdigunakantepatsatukalidandiletakkanditempatyangberbeda. Selainitu,\nbilangan pada setiap lingkaran harus merupakan hasil penjumlahan dari dua bilangan pada persegi\nyangberadatepatdisebelahkiridankanannya. Jikaxadalahbilanganpadapersegipalingkiridan\ny adalah bilangan pada persegi paling kanan, maka nilai terbesar yang mungkin dari x+y adalah\nT\n...",
+   "images": [],
+   "key": null,
+   "pemb": "Karena semua bilangan tersebut bilangan asli, bilangan 24 pasti terletak pada suatu lingkaran. Maka,pilihan(C)dan(D)mustaBhil(sebab44=24+20dan42=24+18saja,tidakadacaralain). Andai pilihan (B) benar, maka dua angka yang di ujung adalah 18 dan 20. Namun, hanya ada 24 (1 bilangan) yang lebih besar dari dua-duanya, serta keduanya memengaruhi nilai pada lingkaran yang berbeda. Ini mustahOil juga. Jadi pilihan A satu-satunya yang mungkin, salah satu cara pengisiannya sebagai berikut: 20 (24) 4 (9) 5 (11) 6 (18) 12 S Catatan. Kita tidak bisa mencapai bilangan yang lebih besar dari 32, tetapi lebih kecil dari 38; tidak ada 2 bilangan yang keduanya bukan 24; yang jumlahnya di antara 32 dengan 38. Jadi, solusi di atas juga sudah menunjukkan bahwa 32 maksimal. k",
+   "isian": false,
+   "options": {
+    "A": "32",
+    "B": "38",
+    "C": "42",
+    "D": "44 A"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Diketahui A={0,1,2,...,9} dan rstu adalah bilangan empat digit dengan r,s,t,u adalah anggota\nA yang berbeda. Jika rstu+stu = vwxyz, dengan r,s,t,u,v,w,x,y,z adalah anggota A yang\ni\nberbeda, maka anggota A yang tidak digunakan dalam operasi penjumlahan tersebut adalah ...\nl",
+   "images": [],
+   "key": null,
+   "pemb": "Jelas bahwa stu<1000 dan vwxyz ≥10000. Maka rstu>9000 yang berakibat r =9. Lalu, jelas juga bahwa rstu < 10000 dan stu < 1000. Maka vwxyz < 11000 yang berakibat v = 1 dan w =0. Sehingga, kita punya 9stu+stu=10xyz. Perhatikan bahwa karena 1,0,9 sudah digunakan, xyz ≥ 234, atau stu≥617. Perhatikan juga bahwa z harus genap. Sehingga, kita punya 3 kasus: 17 OSK Matematika SMP 2024 Halaman 18 dari 20 s=6, maka u̸=8 sebab 2u≡z ≡6 (mod 10). Selain itu, x≤3. N Jikax=2,berartiterpaksau=4sehinggaz =8. Diperoleh9604+604+20t=10208+10y ⇐⇒ y =2t. Tapi kita kehabisan bilangan genap (digit yang sesuai untuk t tidak bisa ditemukan). I Jika x=3, berarti u=2 atau u=4. Kalau u = 2, berarti z = 4. 9602+602+20t = 10304+10y ⇐⇒ 20t = 100+10y yang R disederhanakan menjadi 2t = y +10. Nilai y harus genap maka y = 8, tetapi t = 9, sudah digunakan. Kalau u = 4, berarti z = 8, maka 10208+20t = 10308+10y ⇐⇒ 2t = y+10. Maka y = 2, A tetapi t=6, sudah digunakan. Tidak ada solusi di kasus ini. s=7, kita tahu kalau z harus genap dan bilangan yang tersisa 2,3,4,5,6,8 Jika z =2, maka u=6. Perhatikan bahwa y ganjil, karena memiliki digit dari 2t+1. Karena bilangan ganjil tersisa 3 dan 5, maka tidak ada solusi untuk z =2. Jika z = 4, maka u = 2. Perhatikan bTahwa y genap, karena memiliki digit dari 2t. Maka y =6,t=8, dan x=5. Sehingga hanya 3 yang tidak terpakai. Jika z = 6, maka u = 3 atau u = 8. Jika u = 3, tinjau bahwa y harus genap, maka y = 8 A artinya t=4, akibatnya x=4 (TM). Jika z = 8, maka u = 4. Tinjau ",
+   "isian": false,
+   "options": {
+    "A": "2i",
+    "B": "3",
+    "C": "5",
+    "D": "8 M"
+   }
+  },
+  {
+   "num": 22,
+   "text": "Banyaknya faktor dari 2024 yang lebih besar dari 2024 adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "i Tinjau bahwa M 2024=23×11×23 Dapatdisadaribahwa2024memiliki(3+1)×(1+1)×(1+1)=4×2×2=16faktorpositif. Dapat √ disadarijugabahwafaktoryangkurangdari 2024adalah{1,2,4,8,11,22,44}. Ada8faktor,maka √ yang lebih dari 2024 ada 16−8=8 faktor. Maka jawaban soal di atas adalah B 18 OSK Matematika SMP 2024 Halaman 19 dari 20 N",
+   "isian": false,
+   "options": {
+    "A": "4 i",
+    "B": "8",
+    "C": "12",
+    "D": "16 l"
+   }
+  },
+  {
+   "num": 23,
+   "text": "Diketahui pertidaksamaan √ √ x−3+ 6−x≤p memiliki",
+   "images": [],
+   "key": null,
+   "pemb": "untuk x∈R . Nilai p terbesar yang mungkin adalah ... I √ √ √ (A) 6 (B) 3 (C) 6+ 3 (D) 6 R Solusi: Pada soal ini mencari P maksimum dapat diartikan sebagai mencari nilai maksimum dari A √ √ x−3+ 6−x √ √ √ Akan dibuktikan nilai maksimum P = x−3+ 6−x= 6 Menurut ketaksamaan T QM ≥AM r √ √ x−3+6−x x−3+ 6−x ≥ 2 2 r A 9 √ √ √ 2 = 6≥ x−3+ 6−x 2 √ P maksimum= 6=⇒ A (Terbukti). Dapatdicekbahwakesamaandapattercapaiketikax−3= B 6−x=⇒x= 9 2",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 24,
+   "text": "SegienamberaturanABCDEF memilikipanjangsisi2024mm. TitikGadalahtitiktengahABdan\ntitikH adalahtitiktengahOEG. PerbandinganluasdaerahsegitigaCDH dansegienamABCDEF\nadalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "Perhatikan gambar berikut ini. k i l i M Untuk memudahkan perhitungan, akan dimisalkan panjang sisi dari segienam beraturan tersebut adalah 2x. Definisikan titik J sebagai perpotongan garis BD dengan garis HC. Dari △BJC, 19 OSKaMatematikSMP 2024 Halaman 20 dari 20 p didapat awbah JC = x dan BJ = JD = x 3. Lalu, dari trapesium siku-siku GBDE , arenak H GB + DE 3 x dan J anmerupaktitiktengah GE dan BD berturut-turut,amak HJ = = . Sehingga, 2 2 p ( 3 x + x ) x 3 L 2 5 CDH = 2 p = = ) B L 3 4 x 2 3 24 ABCDEF 2",
+   "isian": false,
+   "options": {
+    "A": "4:24",
+    "B": "5:24",
+    "C": "6:24",
+    "D": "7:24 S"
+   }
+  },
+  {
+   "num": 25,
+   "text": "uietahDik a , b dan c adalah bilangan ratusan angy aynsatuan sama dengan a.yratusann aJik b =\n2 a +1 dan c =2 b +1,amakayaknybanungkinanemktripel ( a;b;c ) angy berbeda adalah ...",
+   "images": [],
+   "key": null,
+   "pemb": "anMisalk a = xyx . Sehingga, a dapat anatakydin sebagai a = 101 x +10 y . a,Mak b = 2 a +1=202 x +20 y +1 dan c =2 b +1=404 x +40 y +3. arang,Sekanaknjauditi batas nilai x dari c . Karena c anmerupak bilangan ratusan, amak 404 x +40 y +3 6 999. Lalu, arenak x anmerupak bilangan asli,amaknilai x angyungkinmalahyhan1 dan 2. Kasus 1 : x =1 adaPasuskini, didapatawahb c = 407+40 y . Lalu, dengan meninjau nilai modulo 10 dari c , didapatawbahdigit satuan dan ratusan dari c adalah 7. a,Makdidapatawbah 700 6 407+40 y 6 799 = ) 7 <y < 10 Sehingga, nilai y angyungkinmalahyhan8 dan 9. { Saat y =8,amak a =181, b =363, dan c =727 dan uhimemen soal. { Saat y =9,amak a =191, b =383, dan c =767 dan uhimemen soal. Kasus 2 : x =2 adaP asusk ini, didapat awbah c = 811+40 y . un,Nam arenak c 1 (mod 10), amak digit ratusan dari c haruslah 1 angy jelas tidak ungkin.m Darieduakasusktersebut, apatdidawbahterdapat2tripel( a;b;c )angyuhi.memen Jadi,aban-wja aynadalah B . ARIN SOBA T Milik 20",
+   "isian": false,
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   }
+  }
+ ]
+}

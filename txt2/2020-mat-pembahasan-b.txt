@@ -1,0 +1,200 @@
+<<<PAGE 1>>>
+Halaman 1 dari 13
+SOAL DAN SOLUSI
+KOMPETISI SAINS NASIONAL TINGKAT KOTA 2020
+BIDANG MATEMATIKA SMP
+MIFTAH MATHEMATIC S REVOLUTION (MMR)
+SURABAYA
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+2020
+083831611481
+
+<<<PAGE 2>>>
+Halaman 2 dari 13
+SOAL DAN SOLUSI KSNK SMP 2020
+Solusi Oleh : Miftahus Saidin
+PILIHAN GANDA
+1.
+2
+Karena AF dan DE garis berat segitiga ABD maka DG = DE. Karena D titik tengah AC dan E
+3
+1
+titik tengah AB, maka 𝐷𝐸 = 𝐵𝐶 = 6, sehingga DG = 4.
+2
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 3>>>
+Halaman 3 dari 13
+2.
+(𝑛−2)2 𝑛2−4𝑛+4 25
+Agar = = 𝑛−7+ bulat maka 𝑛+3 haruslah faktor dari 25. Karena 𝑛
+𝑛+3 𝑛+3 𝑛+3
+bilangan asli, maka 𝑛+3 = 5 atau 25, diperoleh 𝑛 = 2 atau 22. Jumlahnya 24.
+3.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 4>>>
+Halaman 4 dari 13
+232020 +244037 ≡ (−1)2020+0 ≡ 1 (mod 3), maka tidak mungkin 𝑛 habis dibagi 3. Angka
+satuan dari 232020 +244037 = 5, maka pasti habis dibagi 5. Salah satu kemungkinan 𝑛 adalah 5.
+232020 +244037 ≡ (1)2020 +(−1)4037 ≡ 0 (mod 47), maka minimal punya 3 faktor prima,
+sehingga minimal ada 8 nilai 𝑛 berbeda. Jadi 𝑛 tidak mungkin 553
+4.
+𝑟 2𝑎−𝑎 1
+RUMUS CEPAT MIFTAH : = = . Perbandingan luasnya 1:9.
+𝑅 2𝑎+𝑎 3
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 5>>>
+Halaman 5 dari 13
+5.
+𝒖 = 𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟏
+𝒖 = 𝟏+𝟑𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟐
+𝒖 = 𝟒+𝟗𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟑
+𝒖 = 𝟏𝟑+𝟐𝟕𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟒
+𝒖 = 𝟒𝟎+𝟖𝟏𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟓
+𝒖 = 𝟏𝟐𝟏+𝟐𝟒𝟑𝒂 = 𝟖𝟓𝟎 (𝒐𝒌𝒆 𝒂 𝒃𝒖𝒍𝒂𝒕)
+𝟔
+𝒖 = 𝟑𝟔𝟒+𝟕𝟐𝟗𝒂 dan seterusnya 𝒂 < 𝟏. Jadi, ada 6 kemungkinan.
+𝟕
+6.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 6>>>
+Halaman 6 dari 13
+5 5
+Jumlah keliling = 4(10+5√2+5+ √2+ ) = 70+30√2. Jadi,𝑚−𝑛 = 70−30 = 40.
+2 2
+7.
+𝑥+𝑦+𝑧
+2𝑥 +2𝑦+2𝑧 = 6𝑚+36,maka = 𝑚+6
+3
+8.
+𝑦 𝑦 𝑦 𝑦 𝑦 𝑦 𝑦 𝑦 1 1 1 1 1
+7×5×3×2 = 2101 = 210 − 𝑎 − 𝑘 − 𝑠 − 𝑛 → − − − − = 1 → + + + + = 0
+𝑎 𝑘 𝑠 𝑛 𝑦 𝑎 𝑘 𝑠 𝑛
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 7>>>
+Halaman 7 dari 13
+9.
+1 1 202
+π102t = 500π → t = 15,volume limas persegi = ( )(15) = 1000
+3 3 2
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 8>>>
+Halaman 8 dari 13
+10.
+10
+𝑑 = 9 → 𝑎+𝑏 +𝑐 = 9 → ( )
+2
+9
+𝑑 = 8 → 𝑎 +𝑏+𝑐 = 8 → ( ) 𝑑𝑠𝑡
+3
+10 9 2
+( )+( )+⋯+( ) = 165
+2 2 2
+11.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 9>>>
+Halaman 9 dari 13
+2𝑥2 +𝑥𝑦−3𝑦2 = 45 → (2𝑥 +3𝑦)(𝑥−𝑦) = 45 → 2𝑥 +3𝑦 = 5 → 2(9+𝑦)+3𝑦 = 5
+13 32
+Diproleh 𝑦 = − = −2,6 dan 𝑥 = = 6,4, maka 𝑎 = 6,𝑏 = −3 dan 𝑎𝑏 = −18.
+5 5
+12.
+999+111
+111, 112, 113, ......, 997, 998, 999, 𝑥 = Median = = 555,𝑦 = jangkauan = 999−111 =
+2
+888, maka 𝑦−𝑥 = 333
+13.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 10>>>
+Halaman 10 dari 13
+𝑎 +𝑎 = 𝑎 +𝑎 = 𝑎 +𝑎 = 2𝑎 = 𝑎 = 14𝑏 → 𝑎 = 7𝑏
+2 8 3 7 4 6 5 12 5
+(𝑎 ,𝑎 ,𝑎 ) = (3𝑏,6𝑏,12𝑏) 𝑜𝑘𝑒 𝑏𝑜𝑧, (𝑎 ,𝑎 ,𝑎 ) = (4𝑏,6𝑏,9𝑏) 𝑜𝑘𝑒 𝑏𝑜𝑧,
+1 4 10 2 4 7
+(𝑎 ,𝑎 ,𝑎 ) = (5𝑏,10𝑏,17𝑏) 𝑤𝑎𝑑𝑜𝑜 𝑔𝑎𝑘 𝑜𝑘𝑒 𝑐𝑎𝑘, (𝑎 ,𝑎 ,𝑎 ) = (4𝑏,6𝑏,9𝑏) 𝑜𝑘𝑒 𝑏𝑜𝑧
+3 7 15 2 4 7
+14.
+6 6 6
+( )+( )+( )
+11
+2 1 4
+=
+26 32
+15.
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 11>>>
+Halaman 11 dari 13
+20202020 = 24040 ×52020 ×1012020 → 𝑝 = 40,𝑞 = 20
+𝑚𝑎𝑘𝑠 𝑚𝑎𝑘𝑠
+4×𝑠(2𝑝)×𝑠(5𝑞) = 4×𝑠(240)×𝑠(520) = 4(20 +21 +⋯+240)(50 +51 +⋯+520)
+4(241 −1)(521 −1)
+= = (241 −1)(521 −1)
+4
+16.
+1
+OC+CD = keliling = 8,
+2
+62 = OA2 = OD2 = OC2 +CD2 = (OC2 +CD2)−2OC∙CD = 64−2OC∙CD → OC∙CD = 14
+1
+Luas kuning = Luas seperempat lingkaran OAB−luas OCDE = 𝜋(6)2 −14 = 9 𝜋−14
+4
+𝑎 = 9,𝑏 = −14,maka 𝑎+𝑏 = −5
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 12>>>
+Halaman 12 dari 13
+17.
+2020 = 22 ×5×101, karena setiap pasang a, b, c, d FPB nya 1 maka (𝑎,𝑏,𝑐,𝑑) = (1,4,5,101)
+dan permutasinya, cek yang memenuhi 𝑑 = 𝑏𝑐2 +𝑎 adalah (𝑎,𝑏,𝑐,𝑑) = (1,4,5,101), maka 𝑎+
+𝑏+𝑐 +𝑑 = 111.
+18.
+𝑥 𝑥
++2 = −3, maka 𝑥 = −10, +2 = 3, maka 𝑥 = 2 → 𝑥 < 𝑥 , 𝑥 −2𝑥 = 2−2(−10) = 22
+1 2 2 1
+2 2
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481
+
+<<<PAGE 13>>>
+Halaman 13 dari 13
+19.
+8! 7!
+− = 7560
+2!2! 2
+20.
+𝑥2 −4𝑥 +3+(𝑥+1)√𝑥2 −9
+𝑥2 +4𝑥 +3+(𝑥−1)√𝑥2 −9
+(𝑥−1)(𝑥−3)+(𝑥+1)√𝑥2−9
+=
+(𝑥+1)(𝑥+3)+(𝑥−1)√𝑥2−9
+√𝑥 −3((𝑥−1)√𝑥−3+(𝑥+1)√𝑥+3)
+=
+√𝑥 +3((𝑥+1)√𝑥+3+(𝑥−1)√𝑥−3)
+√𝑥 −3 √𝑥2 −9
+= =
+√𝑥 +3 𝑥 +3
+MIFTAH MATHEMATICS REVOLUTION (MMR)
+083831611481

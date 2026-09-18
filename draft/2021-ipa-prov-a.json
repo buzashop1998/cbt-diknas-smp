@@ -1,0 +1,100 @@
+{
+ "id": "2021-ipa-prov-a",
+ "meta": [
+  "IPA",
+  "Provinsi",
+  "Paket A"
+ ],
+ "questions": [
+  {
+   "num": 1,
+   "text": "Membran yang berfungsi untuk melindungi paru-paru dari gesekan saat mengembang dan mengempis adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 2,
+   "text": "Perhatikan tabel hasil uji makanan di bawah ini!\n\n\nNomor Sampel\n Warna setelah diuji larutan\n lugol\n biuret\n Benedict\n 1\n Biru tua\n Ungu\n Biru\n 2\n Biru\n Ungu\n Biru\n 3\n Coklat\n Biru\n Merah bata\n 4\n Biru tua\n Ungu\n Biru\n 5\n Biru tua\n Kuning\n Merah bata\n\n\nBerdasarkan tabel hasil percobaan di atas, nomor sampel yang mengandung amilum dan glukosa adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 3,
+   "text": "Perhatikan gambar di bawah ini!\n\n\n\n\n\n\nBerdasarkan tipe perhiasan bunga, bunga di atas termasuk kedalam jenis… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 4,
+   "text": "Keluarga Bapak Lutfi memiliki 4 orang anak yang terdiri atas:\n 1. Dewa bergolongan darah AB\n 2. Harun bergolongan darah A\n 3. Anggi bergolongan darah O\n 4. Evita bergolongan darah O\nDiketahui bahwa bapak lutfi memiliki golongan darah B, maka istri pa lutfi mempunyai golongan darah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 5,
+   "text": "Gangguan yang terjadi akibat kerusakan nefron oleh infeksi bakteri didalam glomerulus disebut… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 6,
+   "text": "Seorang anak mengendarai sepeda dengan kecepatan konstan. Di satu titik pada permukaan ban belakang sepeda disemprotkan cat berwarna terang. Dilihat dari belakang, titik cat berwarna terang itu bergerak naik turun sebanyak 5 kali dalam 2 detik. Jika radius roda belakang 32 cm, besar kecepatan sepeda itu adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 7,
+   "text": "Sebuah bola kecil dari plastik mula-mula ditahan di dasar sebuah bejana berisi air, kemudian dilepaskan. Bola itu bergerak dari dasar bejana sampai di ketinggian 25 cm dalam waktu 0,5 detik sejak dilepaskan. Percepatan gravitasi di tempat itu 10 m/s2. Jika massa bola itu 5 g dan gesekan oleh air dapat diabaikan, maka volume bola sama dengan … …..",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 8,
+   "text": "Perhatikan gambar rangkaian listrik di bawah ini!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBesar beda potensial antara ujung-ujung baterai adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 9,
+   "text": "Sebuah balok A dengan massa 2 kg mulai bergerak ke arah kanan pada t = 0 detik dari keadaan diam oleh gaya sebesar 10 N. Balok B ditempatkan pada jarak 20 meter di kanan balok A. Pada t = 2 detik dikerjakan sebuah gaya konstan F pada balok A, sehingga balok A tepat berhenti sebelum menabrak balok B. Besar dan arah gaya F tersebut adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 10,
+   "text": "Sebuah bola diluncurkan dari sebuah pegas vertikal dengan k = 10 N/m, yang sebelumnya telah dimampatkan sejauh Δy = 5 cm dari keadaan setimbang pegas. Ketinggian maksimum bola yang dicapai setelah pegas dilepaskan adalah 20 cm. Percepatan gravitasi di tempat itu 10 m/s2. Jika massa dudukan bola dan pegas diabaikan, maka massa bola sama dengan … .\n\n\n\n\n\n\n\n\n SOAL KSN IPA BABAK PENYISIHAN TAHUN 2021 PAKET A",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  }
+ ]
+}

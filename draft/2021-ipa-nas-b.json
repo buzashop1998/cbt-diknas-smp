@@ -1,0 +1,460 @@
+{
+ "id": "2021-ipa-nas-b",
+ "meta": [
+  "IPA",
+  "Nasional",
+  "Paket B"
+ ],
+ "questions": [
+  {
+   "num": 1,
+   "text": "Perhatikan gambar di bawah ini!\n\n\n\n\nPenyumbatan pada daerah B akan mengganggu proses ... .\n 1. transportasi gamet",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 2,
+   "text": "pematangan gamet",
+   "images": [],
+   "key": "B",
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 3,
+   "text": "pembuangan sisa metabolisme melalui uretra",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 4,
+   "text": "produksi hormon seks\n\n\n2. Perhatikan hasil pencatatan spinogram di bawah ini!\n\n\n\n Volume pernapasan tidal adalah … .\n 1. 0,5 liter\n 2. 1,0 liter\n 3. 3,0 liter\n 4. 3,5 liter\n\n\n3. Alergi akibat terpapar serbuk sari ditandai dengan mata berair dan timbul bintik-bintik merah di permukaan kulit akibat pelepasan ... .\n 1. antigen oleh sel darah merah\n 2. enzim oleh platelet\n 3. histamin oleh sel-sel mast\n 4. mukus oleh sel-sel eksokrin\n\n\n4. Pada pernafasan manusia, pemasukan udara (inspirasi) terjadi dengan cara … .\n1. otot tulang rusuk berkontraksi, diafragma relaksasi, dan rongga dada membesar\n2. otot tulang rusuk dan otot diafragma berkontraksi\n3. otot tulang rusuk berkontraksi dan rongga perut membesar\n4. otot tulang rusuk relaksasi, otot diafragma berkontraksi, dan rongga dada membesar",
+   "images": [],
+   "key": "A",
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 5,
+   "text": "Perhatikan gambar berikut ini!\n\n\n\n\n\n\nPencernaan protein berlangsung pada bagian ... .\n1. A dan B\n2. B dan C\n3. C dan D\n4. D dan A",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 6,
+   "text": "Berikut ini adalah zat yang terdapat di dalam plasma darah:\n1. Urea\n2. Air\n3. Glukosa\n4. Protein\n5. Antibodi\n6. Ion hidrogen\n\n\nZat yang direabsorbsi di ginjal adalah… .\n 1. I, II dan III\n 2. I, IV dan V\n 3. II, III dan IV\n 4. II, IV dan VI",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 7,
+   "text": "Apabila seorang siswa memiliki fungsi sel-ß pulau-pulau Langerhans yang rendah, maka apa yang akan terjadi pada konsentrasi glukosa darah, insulin dan glukagon siswa tersebut setelah mengkonsumsi makanan yang mengandung banyak karbohidrat?\n\n\nGlukosa Insulin Glukagon\n 1. tinggi rendah tinggi\n 2. tinggi rendah rendah\n 3. rendah tinggi tinggi\n 4. rendah tinggi rendah",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 8,
+   "text": "Perhatikan tabel data percobaan pengukuran pertumbuhan dengan auksanometer di bawah ini!\n\n\nHari ke-\n Tinggi Tanaman (cm)\n 0\n 25\n 2\n 28\n 4\n 34\n 6\n 43\n 8\n 60\n\n\n\n\n\n\nLaju pertumbuhan tanaman di atas adalah… .\n1. 0,18 cm/jam\n2. 1.8. cm/jam\n3. 3.0 cm/ jam\n4. 4.4 cm/jam",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 9,
+   "text": "Dilakukan percobaan dengan mencampurkan Asam Nitrat dengan Natrium Hidroksida. Hasil reaksi menunjukkan adanya endapan. Senyawa endapan yang dihasilkan adalah… .\n1. H2O\n2. CaNO3\n3. NaNO3\n4. H2O dan NaNO3",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 10,
+   "text": "Pada saat Anda memotong sebuah cabang pohon dan memeriksa permukaan potongan cabang tersebut dengan kaca pembesar. Anda dapat mengamati jaringan pembuluh yang menunjukkan timbulnya tetesan cairan yang semakin lama semakin banyak keluar dari permukaan potongan cabang tersebut. Cairan tersebut adalah… .\n1. getah floem\n2. getah xylem\n3. cairan gutasi\n4. cairan transpirasi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 11,
+   "text": "Gerak yang terjadi akibat rangsangan luar. Seluruh tubuh tumbuhan akan bergerak, dan arah geraknya ditentukan oleh arah rangsangan zat kimia. Gerakan tersebut adalah… .\n1. nasti\n2. reotaksis\n3. kemotropisme\n4. kemotaksis",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 12,
+   "text": "Pada siklus asam trikarboksilat (TCA), asam oksaloasetat akan berubah menjadi ... .\n1. asam isositrat\n2. asam fumarat\n3. asam sitrat\n4. asam suksinil Ko-A",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan gambar mekanisme transportasi zat pada sel di bawah ini!\n\n\n\n\nPernyataan yang benar tentang mekanisme transportasi zat berdasarkan gambar diatas adalah… .\n1. mekanisme transportasi nomor 1,2,3, 6 dan 7 adalah mekanisme transport aktif.\n2. mekanisme transportasi nomor 1,2,3,4 dan 5 adalah mekanisme transport pasif\n3. mekanimse transportasi nomor 1,2,3, dan 7 adalah mekanisme transportasi aktif\n4. mekanisme transportasi nomor 1,2,3, 4, 5 dan 6 adalah mekanisme transportasi\n pasif",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 14,
+   "text": "Laju fotosintesis dipengaruhi oleh beberapa factor, salah satunya adalah panjang gelombang cahaya. Jika kita memberikan variabel panjang gelombang cahaya sebagai variabel bebas dan laju fotosintesis sebagai variabel terikat, maka kemungkinan grafik yang dihasilkan dari percobaan tersebut adalah… .\n\n\nA.\n\n\n B.\n\n\n C.\n\n\n D.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 15,
+   "text": "Perhatikan gambar sel di bawah!\n\n\n\n\nOrganel yang berfungsi sebagai tempat memodifikasi, mengemas, menyortir dan mentransportasikan molekul yang ada di dalam sel maupun dikeluarkan ke luar sel ditunjukkan oleh nomor… .\n\n\n1. 1\n2. 2\n3. 3\n4. 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 16,
+   "text": "Dilakukan percobaan sel bawang merah dimasukkan sel ke dalam larutan yang tidak diketahui konsentrasinya. Berikut ini merupakan gambar sesudah dan sebelum sel bawang merah tersebut dimasukkan ke dalam larutan.\n\n\n\n\n\n\n\n\nKesimpulan yang dapat diambil bahwa larutan yang digunakan merendam sel bawang merah tersebut bersifat…\n\n\n1. hipotonik\n2. hipertonik\n3. hipotonik dan hipertonik\n4. isotonik",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 17,
+   "text": "Organel yang terdapat pada bakteri Lactobacillus casei adalah… .\n1. ribosom\n2. mitokondria\n3. kloroplast\n4. badan golgi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 18,
+   "text": "Susunan yang tepat pada sistem organisasi kehidupan dari yang sederhana menuju kompleks adalah… .\n1. sel - organ - jaringan – sistem organ – organisme\n2. sel - jaringan - organ – sistem organ – organisme\n3. sel - jaringan - organisme - organ – sistem organ\n4. organisme – sistem organ - organ - jaringan –sel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 19,
+   "text": "Mikroorganisme yang berperan dalam pembuatan tempe adalah... .\n1. Rhizopus sp.\n2. Lactobacilles casei\n3. Acetobacter xylinum\n4. Sacharomyces cereviceae",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 20,
+   "text": "Ridwan sedang melakukan sebuah eksplorasi ke sebuah hutan di pedalaman Sumatera. Pada saat perjalanannya dia menemukan sebuah spesies tumbuhan langka dan sudah termasuk kedalam kategori tumbuhan yang terancam punah. Ridwan berencana ingin melestarikan jenis tumbuhan tersebut. Cara yang tepat untuk mengembangkan jenis tumbuhan tersebut adalah … .\n1. melakukan kultur in vivo pada putik dan benang sari tumbuhan tersebut\n2. memanfaatkan sifat totipotensi yang dimiliki oleh tumbuhan tersebut\n3. menggabungkan gen dari tumbuhan tersebut dengan gen dari jenis tumbuhan yang lain\n4. mengubah susunan gen dari tumbuhan tersebut sehingga tumbuhan tersebut tahan terhadap hama",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 21,
+   "text": "Di bawah ini yang merupakan dampak negatif dari perkembangan bioteknologi adalah ... .\n1. mikroorganisme pathogen akan bertambah banyak\n2. menurunkan produktivitas tanaman akibat hama\n3. organisme transgenik dapat mempengaruhi keseimbangan lingkungan\n4. meningkatkan pencemaran lingkungan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 22,
+   "text": "Pengelompokan organisme dengan memperhatikan persamaan dan perbedaan morfologi disebut... .\n1. determinasi\n2. klasifikasi\n3. nomenklatur\n4. taksonomi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 23,
+   "text": "Tabel berikut menunjukkan ukuran populasi untuk 6 spesies di empat area yang berbeda.\nAREA\n Spesies U\n Spesies V\n Spesies W\n Spesies X\n Spesies Y\n Spesies Z\n I\n 3\n 7\n 2\n 2\n 2\n 4\n II\n 0\n 6\n 8\n 0\n 6\n 6\n III\n 0\n 0\n 2\n 0\n 0\n 2\n IV\n 4\n 3\n 11\n 1\n 6\n 0\n\n Berdasarkan tabel di atas area yang mempunyai biodiversitas terbesar adalah area nomor…\n1. I\n2. II\n3. III\n4. IV",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 24,
+   "text": "Sifat pada keturunan yang merupakan perpaduan sifat kedua induknya disebut… .\n1. resesif\n2. dominan\n3. heterozigot\n4. intermediet",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 25,
+   "text": "Rambut hitam pada marmut bersifat dominan sedangkan rambut putih bersifat resesif. Jika marmut hitam homozigot disilangkan dengan marmut putih, berapakah peluang marmot berambut hitam yang heterozigot pada F2?\n1. 1/4\n2. 1/2\n3. 3/4\n4. 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 26,
+   "text": "Sebuah lempeng logam berukuran 30 cm x 30 cm. Pada lempeng itu terdapat sebuah lubang. Lempeng logam itu dipanaskan, sehingga ukurannya menjadi 30,03 cm x 30,03 cm. Jika radius mula-mula lubang 1 cm, maka setelah pemanasan radius lubang menjadi … cm.\n1. 1,030\n2. 1,010\n3. 1,003\n4. 1,001",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 27,
+   "text": "Dua bejana A dan B masing-masing berisi 2 kg air pada suhu 10 °C. Sebuah benda dengan suhu T0 dimasukkan ke dalam air di bejana A. Setelah kesetimbangan termal tercapai pada suhu 14 °C, benda itu dikeluarkan dan segera dimasukkan ke dalam air di bejana B. Jika kesetimbangan termal benda dan air di wadah B tercapai pada suhu 12 °C, nilai T0 sama dengan … °C.\n1. 16\n2. 17\n3. 18\n4. 19",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 28,
+   "text": "Dua batang logam A dan B memiliki luas penampang sama besar. Panjang batang A dua kali panjang batang B. Konduktivitas termal logam A setengah kali konduktivitas termal logam B. Batang logam A disambung secara seri dengan batang logam B. Jika selisih suhu antara ujung bebas batang A dan ujung bebas batang B adalah 20 °C, maka selisih suhu antara ujung bebas batang A dan titik sambung kedua batang adalah ... °C.\n1. 15\n2. 16\n3. 18\n4. 20",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 29,
+   "text": "Sebuah balok diikatkan pada ujung sebuah pegas, sedangkan ujung lain pegas diikatkan pada dinding, sehingga pegas mendatar. Massa pegas dapat diabaikan dan konstanta pegas bernilai 1,2 kN /m. Balok berada di bidang datar kasar. Mula-mula balok digeser, sehingga pegas tertekan 1 cm. Kemudian balok dilepaskan, sehingga bergerak di bidang datar. Jika energi kinetik balok ketika melewati titik seimbang adalah 58,5 mJ, maka balok berhenti pada jarak … cm dari sejak dilepaskan.\n1. 40\n2. 42\n3. 45\n4. 48",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 30,
+   "text": "Sebuah bola 500 g jatuh bebas dari ketinggian H. Ketika mencapai ketinggian 1,25 m, sebuah gaya konstan vertikal ke atas 10 N bekerja pada bola, sehingga bola berhenti di ketinggian 50 cm. Jika percepatan gravitasi di tempat itu 10 m/s2, nilai H sama dengan … m.\n1. 4,0\n2. 3,5\n3. 2,5\n4. 2,0",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 31,
+   "text": "Sebuah mesin listrik dengan daya 200 W dapat memindahkan beban 16 kg secara vertikal dari lantai ke ketinggian 10 m dalam waktu 10 detik. Percepatan gravitasi di tempat itu 10 m/s2. Kemudian, mesin itu dipakai untuk mendorong sebuah beban di bidang datar licin dari keadaan diam selama 2 detik. Energi kinetik akhir beban itu adalah … J.\n1. 290\n2. 300\n3. 320\n4. 350",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 32,
+   "text": "Sebuah panci listrik tertutup 250 W dapat menaikkan suhu suatu larutan sebanyak 500 cc dari 25 °C menjadi 50 °C dalam waktu 300 detik. Kalor jenis larutan tersebut 5400 J·kg-1·K-1. Kemudian, panci itu dipakai untuk memanaskan 200 cc air dari 30 °C menjadi 60 °C. Kalor jenis air 4200 J·kg-1·K-1. Lama pemanasan air itu adalah … detik.\n1. 105\n2. 112\n3. 117\n4. 124",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 33,
+   "text": "Andi berdiri pada posisi (1,1), kemudian berlari menuju lokasi (13,6), dan berhenti di posisi (13,1). Jarak yang ditempuh Andi adalah…\n1. 18\n2. 13\n3. 12\n4. 5",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 34,
+   "text": "Seseorang memacu mobilnya pada lintasan lurus. Perpindahan mobil terhadap waktu ditunjukkan oleh grafik. Gerak mobil dengan kelajuan terbesar ditunjukkan pada bagian ….\n\n\n1. OA\n2. AB\n3. BC\n4. OC",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 35,
+   "text": "Seekor gajah sedang berjalan dengan kecepatan 7,2 km/jam. Tiba-tiba seekor kuda melintas dengan kecepatan tetap 108 km/jam, searah kecepatan gajah. Percepatan gajah agar dapat menyusul kuda dalam selang waktu 4 s sejak kuda melintas adalah … m/s2.\n1. 1,8\n2. 14,0\n3. 25,2\n4. 27,0",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 36,
+   "text": "Seorang anak dengan berat 400 N berada di dalam lift yang sedang bergerak ke atas. Sebelum mencapai lantai yang dituju, lift memperlambat gerakannya dari kecepatan 14 m/s menjadi 2 m/s dalam waktu 3 s. Percepatan gravitasi di tempat itu 10 m/s2. Gaya yang dikerjakan lantai lift pada anak tersebut saat perlambatan adalah … N.\n1. 160\n2. 240\n3. 400\n4. 560",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 37,
+   "text": "Seorang pemanah melepaskan anak panah dengan kecepatan 20 m/s ke arah pohon tersebut dengan sudut 45° dan ketinggian 1,5 m dari tanah. Angin berhembus mendatar dengan kecepatan m/s searah dengan arah gerak anak panah. Percepatan gravitasi di tempat itu 10 m/s2. Jika anak panah menancap di pohon pada ketingggian 9 m, maka jarak pemanah ke pohon adalah … m.\n 1. 36\n 2. 30\n 3. 24\n 4. 20",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 38,
+   "text": "Toni memindahkan sebuah peti seberat 200 N menggunakan papan yang disandarkan pada dua penumpu. Jarak antar kedua penumpu adalah 4 m. Tinggi salah satu penumpu 0,5 m. Jika gaya dorong yang dkerjakan Toni sebesar 120 N, maka tinggi penumpu lain adalah … m.\n 1. 4,5\n 2. 4,0\n 3. 3,5\n 4. 3,0",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 39,
+   "text": "Seorang murid SMP melakukan percobaan mengukur massa jenis. Hasil eksperimen menunjukkan bahwa sepotong kayu dengan massa jenis 560 kg/m3 terapung di suatu larutan. Kayu yang terendam adalah 0,7 bagian. Sebuah benda kedua dimasukkan ke larutan tersebut. Jika yang terendam adalah 0,8 bagian, maka massa jenis benda kedua adalah … kg/m3.\n 1. 640\n 2. 620\n 3. 600\n 4. 580",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 40,
+   "text": "Sebuah ransel kedap udara dan air memiliki volume 100 liter dan massa 1 kg. Jika ransel tersebut digunakan sebagai pelampung di air, maka beban maksimal yang dapat diapungkan oleh ransel tanpa beban tersebut terendam adalah … kg. Percepatan gravitasi di tempat itu 10 m/s2.\n 1. 1000\n 2. 990\n 3. 100\n 4. 99",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 41,
+   "text": "Sebuah desa memiliki air terjun setinggi 50 m, yang mampu mengalirkan air sebanyak 2,4 juta liter tiap 1 menit untuk digunakan sebagai pembangkit listrik tenaga air. Jika menggunakan generator dengan efisiensi 20%, daya output yang dihasilkan generator tersebut adalah … kW. Percepatan gravitasi di tempat itu 10 m/s2.\n 1. 40\n 2. 400\n 3. 4000\n 4. 40000",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 42,
+   "text": "Bayangkan sebuah pensil dipasang pada ujung pegas, yang berosilasi secara horizontal, sehingga membuat goresan pada selembar kertas, yang bergerak dengan kecepatan konstan 30 cm/s. Pada kertas tergambar gelombang, dengan panjang gelombang 3 cm. Frekuensi osilasi pegas sama dengan … Hz.\n 1. 1/10\n 2. 10\n 3. 1/90\n 4. 90",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 43,
+   "text": "Suara nyamuk dihasilkan oleh getaran sayapnya. Cepat rambat bunyi di udara 340 m/s. Jika sayap nyamuk itu bergetar dengan frekuensi 3000 getaran per menit, maka panjang gelombang suara yang dihasilkan sama dengan … m.\n 1. 1,7\n 2. 3,4\n 3. 5,1\n 4. 6,8",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 44,
+   "text": "Sebuah pipa organa tertutup dengan panjang 40 cm menghasilkan nada dasar dengan frekuensi 200 Hz. Frekuensi nada atas 1 yang dihasilkan sebuah pipa organa tertutup dengan panjang 60 cm sama dengan … Hz.\n 1. 200\n 2. 320\n 3. 400\n 4. 480",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 45,
+   "text": "Seorang pencari ikan di sungai melemparkan tombak ke arah ikan buruannya, namun seringkali meleset. Salah satu penyebab hal tersebut adalah … cahaya.\n 1. pembiasan\n 2. pemantulan\n 3. difraksi\n 4. interferensi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 46,
+   "text": "Dua buah lensa konvergen identik disusun secara berurutan. Jarak antara kedua lensa adalah 3f, dengan f adalah panjang fokus lensa. Sebuah benda ditaruh pada jarak X di depan lensa pertama. Jika bayangan benda terbentuk pada jarak X di belakang lensa kedua, maka pernyataan di bawah ini yang benar adalah ….\n 1. 2f > X > f\n 2. X = 2f\n 3. X = 3f\n 4. f > X > 0",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 47,
+   "text": "Sebuah benda bergerak mendekati lensa konvergen dengan kecepatan tetap 5 cm/s. Pada saat t = 0, benda berada di 40 cm di depan lensa. Jika setelah t = 2 s perbesaran benda sebesar 4x, maka jarak fokus lensa sebesar …. cm.\n 1. 14\n 2. 20\n 3. 24\n 4. 30",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 48,
+   "text": "Sebuah pemanas air digunakan untuk menaikkan suhu 15 l air dari suhu 25 °C sampai 85 °C . Kalor jenis air 4200 J·kg-1·K-1. Biaya listrik yang harus dikeluarkan Rp 6300. Jika harga listrik Rp 1500 per kWh, maka efisiensi pemanas air itu sama dengan ....\n 1. 80\n 2. 65\n 3. 50\n 4. 25",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 49,
+   "text": "Dari gambar di bawah, jika diketahui besar muatan Q1, Q3, Q4 dan Q5 adalah 10 µC, 20 µC, -20 µC, dan 50 µC, maka besar muatan Q2 agar gaya Coulomb yang bekerja di muatan Q3 sama dengan nol adalah …. µC\n\n\n\n\n\n\n 1. 20\n 2. -20\n 3. 10\n 4. -10",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 50,
+   "text": "Perhatian diagram rangkaian arus searah di bawah ini!\n\n\n\n\nDari gambar rangkaian di atas, jika E sebesar 3 Volt, maka besarnya beda potensial di R7 adalah ….. Volt\n 1. 6\n 2. 8\n 3. 10\n 4. 12\n\n\n\n\n\n\n 2. ISIAN SINGKAT\nJawablah pertanyaan dibawah ini dengan singkat dan tepat\n\n\n 1. Jika seorang pria buta warna menikah dengan seorang wanita normal dan melahirkan anak pertama mereka seorang laki-laki buta warna, maka tentukanlah:\n 1. Genotipe pria dan wanita tersebut\n 2. Berapa persen peluang anak kedua yang lahir adalah perempuan buta warna?",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  }
+ ]
+}

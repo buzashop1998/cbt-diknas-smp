@@ -1,0 +1,555 @@
+{
+ "id": "2021-ipa-kabkota-a",
+ "meta": [
+  "IPA",
+  "Kabupaten/Kota",
+  "Paket A"
+ ],
+ "questions": [
+  {
+   "num": 1,
+   "text": "Perhatikan gambar sel dibawah ini!\nOrganel yang berperan dalam pembentukan energi adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "isian": false
+  },
+  {
+   "num": 2,
+   "text": "Perhatikan gambar di bawah ini!\n\n\n\n\nUrutan pembelahan sel yang benar adalah… .\n1. 1 – 2 – 3 – 4 – 5\n2. 1 – 3 – 4 – 5 – 2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 3,
+   "text": "2 – 4 – 3 – 1 – 5",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 4,
+   "text": "2 – 4 - 3 – 5 - 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3. Perhatikan gambar di bawah ini\n\n\nInteraksi predasi ditunjukkan interaksi oleh… .\n1. Spesies A dan B\n2. Spesies B dan C\n3. Spesies B dan D\n4. Spesies C dan D\n\n\n4. Dibawah ini adalah jaringan penyusun akar:\n1. epidermis\n2. endodermis\n3. korteks\n4. silinder pusat\nUrutan jaringan penyusun akar dari dalam keluar adalah... .\n 1. 1-2-3-4\n 2. 1-3-2-4\n 3. 2-3-4-1\n 4. 4-2-3-1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 5,
+   "text": "Apabila kita melakukan pengamatan sayatan daun Rhoeo discolor yang dipaparkan air laut, maka hasil pengamatan akan tampak seperti… .\n\n\nA\n\n\n\n\n\n\n B\n\n\n\n\n\n\n C\n\n\n\n\n\n\n D",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 6,
+   "text": "Untuk mengukur laju transpirasi melalui daun dilakukan percobaan dengan menggunakan fotometer. Hasil percobaan pengukuran kecepatan transpirasi didapatkan data sebagai berikut:\n\n\nLuas Daun\n(cm2)\n Volume air yang hilang (mL)\n Waktu (menit)\n 10\n 20\n 30\n 40\n 50\n 60\n 70\n 80\n 90\n 10\n 2\n 4\n 8\n 16\n 32\n 64\n 124\n 248\n 496\n 20\n 5\n 9\n 15\n 36\n 68\n 120\n 212\n 490\n 989\n\n\nBerdasarkan data di atas maka kecepatan transpirasi tanaman adalah… .\n1. 0,36 mL/ cm2. menit\n2. 0,55 mL/cm2. menit\n3. 3,6 mL/ cm2. menit\n4. 5,5 mL/cm2. menit",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 7,
+   "text": "Amatilah gambar hewan-hewan di bawah ini!\n\n\n https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeckel_Arachnida.jpg/250px-Haeckel_Arachnida.jpg",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 8,
+   "text": "Diperoleh data percobaan dari pengujian keasaman larutan sebagai berikut:\n\n\nNo\n Larutan\n pH\n 1\n Larutan obat maag\n 9,2\n 2\n Sari belimbing\n 4,7\n 3\n Larutan gula\n 7,2\n 4\n Larutan cuka\n 3,2\n 5\n Air sumur\n 6,9\n\n\nDari tabel data tersebut, larutan yang bersifat asam adalah … .\n1. larutan obat maag dan larutan gula\n2. larutan gula dan larutan cuka\n3. larutan sari belimbing dan larutan cuka\n4. larutan gula dan air sumur",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 9,
+   "text": "Respirasi pada tumbuhan berlangsung pada … .\n1. siang hari\n2. malam hari\n3. sore hari\n4. siang dan malam",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 10,
+   "text": "Respirasi pada kelompok hewan amfibia berlangsung melalui organ … .\n1. hidung\n2. paru-paru\n3. kulit\n4. kulit dan paru-paru",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 11,
+   "text": "Kontraksi otot polos diperintah oleh … .\n1. sistem saraf pusat\n2. sistem saraf simpatik\n3. sistem saraf otonom\n4. sistem saraf tangga tali",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 12,
+   "text": "Gerak tumbuh tanaman yang mendekati sumber cahaya disebut … .\n1. fototropisme\n2. foto nasti\n3. fototaksis positif\n4. fotoperiodisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 13,
+   "text": "Fungsi sistem peredaran darah yang tidak terdapat pada serangga adalah… .\n1. transportasi nutrisi\n2. transportasi oksigen\n3. untuk pertahanan tubuh terhadap pathogen\n4. mengangkut sisa metabolisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 14,
+   "text": "Faktor yang tidak mempengaruhi transportasi mineral dan unsur hara dari akar menuju daun adalah… .\n1. daya isap daun\n2. kapilaritas pembuluh\n3. kesuburan tanah\n4. tekanan akar",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 15,
+   "text": "Migrasi burung pelikan dari benua Australia ke daratan Asia dipicu olek faktor… .\n1. kerusakan hutan\n2. musim kemarau panjang\n3. iklim\n4. perburuan liar",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 16,
+   "text": "Kelelawar berburu mangsa pada malam hari menggunakan indra… .\n1. penciuman\n2. pendengaran\n3. penglihatan\n4. alat peraba",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 17,
+   "text": "Ritmisitas denyut jantung pada mamalia diinisiasi oleh… .\n1. atrio-ventricular node\n2. sistem saraf parasimpatik\n3. sino-atrial node\n4. jaringan Purkinje",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 18,
+   "text": "Untuk mengetahui asal usul kehidupan, Lazzaro Spallanzani melakukan pengujian dengan memanaskan air kaldu daging di dua wadah. Setelah dipanaskan, masing-masing wadah diberikan kondisi yang berbeda dimana satu wadah ditutup, sementara wadah lainnya dibiarkan tetap terbuka. Pada air kaldu di dalam wadah tertutup tidak ditemukan mikroorganisme, sementara pada air kaldu di dalam wadah terbuka ditemukan mikroorganisme. Hasil percobaan tersebut membuktikan bahwa... .\n1. teori biogenesis benar karena di wadah yang tertutup udara tidak dapat masuk sehingga mikroorganisme tidak dapat tercipta\n2. teori abiogenesis benar karena mikroorganisme yang ditemukan di wadah yang terbuka tercipta dari udara\n3. teori abiogenesis salah karena udara yang ada di wadah sebelum ditutup ternyata tidak bisa menjadi mikroorganisme\n4. udara teori biogenesis salah karena mikroorganisme yang ditemukan di wadah yang terbuka tercipta dari daging yang direbus",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 19,
+   "text": "Ciri makhluk hidup yang utama dalam membedakan Plantae dan Animalia pada sistem klasifikasi 2 kingdom adalah … .\n1. bergerak\n2. bereproduksi\n3. butuh energi\n4. beradaptasi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 20,
+   "text": "Berdasarkan teori sel, virus bukan merupakan makhluk hidup karena …\n1. virus tidak memiliki materi genetik\n2. virus memiliki kapsid yang tersusun atas protein\n3. virus merupakan organisme aselular\n4. virus dapat bereproduksi di dalam sel hidup\n\n\nPerhatikan gambar di bawah ini untuk menjawab pertanyaan no. 22 dan 23.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 21,
+   "text": "Jaringan yang ditunjuk huruf A dan B adalah … .\n1. epidermis dan endodermis\n2. korteks dan floem\n3. epidermis dan perisikel\n4. korteks dan xylem",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 22,
+   "text": "Gambar di atas merupakan potongan melintang organ …\n1. akar\n2. batang\n3. bunga\n4. daun",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 23,
+   "text": "Selain mikroorganisme dan serangga, penyakit pada tumbuhan juga dapat disebabkan oleh cacing yang masuk ke dalam filum … .\n1. Annelida\n2. Arthropoda\n3. Nematoda\n4. Platyhelminthes",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 24,
+   "text": "Diketahui warna merah (M) pada bunga bersifat intermediet pada keadaan heterozigot, jika persilangan bunga bergenotipe Mm dengan sesamanya menghasilkan keturunan berjumlah 1200 maka banyaknya keturunan dengan bunga berwarna merah muda adalah … .\n1. 300\n2. 450\n3. 600\n4. 900",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 25,
+   "text": "Anemia sel sabit dan sindron down secara berturut-turut merupakan contoh penyakit yang disebabkan karena adanya kelainan atau penyakit genetik pada tingkatan … .\n1. gen dan DNA\n2. gen dan kromosom\n3. genom dan DNA\n4. kromosom dan genom",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 26,
+   "text": "Tino mendefinisikan skala baru termometer, dengan satuan °T. Ditentukan bahwa temperatur 10 °C sama dengan 0 °T dan 40 °C sama dengan 60 °T. Dengan demikian, pada tekanan 1 atm air mendidih pada temperatur … °T.\n 1. 120\n 2. 150\n 3. 180\n 4. 200",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 27,
+   "text": "Sebuah neraca memiliki nilai skala terkecil 0,1 gram. Contoh penulisan yang benar hasil pengukuran massa benda menggunakan neraca tersebut adalah … gram.\n1. 23,7 ± 0,1\n2. 15,20 ± 0,05\n3. 7,25 ± 0,01\n4. 5,0 ± 0,1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 28,
+   "text": "Amin dan Iman berjalan searah secara konstan 2 langkah per detik. Mula-mula mereka berdampingan. Setelah 20 detik Amin berada 2 meter di depan Iman. Jika lebar langkah Amin 32 cm, lebar langkah Imam … cm.\n1. 22\n2. 24\n3. 25\n4. 27",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 29,
+   "text": "Di sebuah taman terdapat bangku kayu dan bangku besi. Pada tengah malam yang dingin, temperatur bangku kayu … temperatur bangku besi.\n1. sama dengan\n2. kurang dari\n3. lebih dari\n4. berbeda dari",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 30,
+   "text": "Dalam suatu wadah tertutup, es dapat mencair apabila tekanan udara di dalam wadah dinaikkan pada temperatur tetap, Titik lebur es pada tekanan udara 0,9 atm adalah ….\n 1. lebih dari 0 °C\n 2. sama dengan 0 °C\n 3. kurang dari 0 °C\n 4. tidak sama dengan 0 °C dan bergantung pada massanya",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 31,
+   "text": "Dua tongkat lurus sama panjang A dan B terbuat dari bahan yang sama. Beda temperature kedua ujung tongkat A adalah ΔT dan beda temperatur kedua ujung tongkat B adalah 2ΔT. Luas penampang tongkat A setengah kali luas penampang tongkat B. Dalam 1 detik mengalir kalor sebanyak Q di tongkat A. Dalam dua detik mengalir kalor sebanyak … di tongkat B.\n1. 0,25Q\n2. 0,5Q\n3. 4Q\n4. 8Q",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 32,
+   "text": "Sebuah beban berada di lantai kasar dan diikatkan pada ujung pegas mendatar, dengan konstanta pegas k. Ujung lain pegas diikatkan pada dinding. Beban ditarik ke kanan sejauh A, kemudian dilepas. Gaya gesek antara beban dan lantai dianggap tetap sebesar f. Supaya beban berhenti tepat di titik setimbang tanpa sempat berosilasi, nilai A harus sama dengan ….\n1. f/k\n2. 2f/k\n3. 3f/k\n4. 4f/k",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 33,
+   "text": "Sebuah benda dengan massa 100 g bergerak konstan ke kanan dengan kecepatan 2 m/s. Kemudian, sebuah gaya konstan F dengan arah ke kiri bekerja pada benda, sampai benda bergerak ke kiri dengan kecepatan 1 m/s. Total usaha yang dilakukan gaya F adalah … mJ.\n1. 250\n2. 150\n3. -150\n4. -250",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 34,
+   "text": "Sebuah mesin listrik mengangkat sebuah beban 20 kg vertikal ke atas dengan kecepatan tetap 0,8 m/s selama 5 detik. Percepatan gravitasi di tempat itu 10 m/s2. Jika efisiensi mesin 80%, daya listrik mesin tersebut adalah … W.\n1. 220\n2. 200\n3. 180\n4. 160",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 35,
+   "text": "Perhatikan gambar! Dua buah benda yang berada di lantai licin saling dihubungkan oleh seutas tali. Masing-masing benda memiliki massa m1 = 7 kg dan m2 = 3 kg. Benda kedua ditarik ke kanan oleh gaya F = 50 N. Besar gaya tegangan tali T adalah … N.\n Hukum Newton pada Gerak Benda yang Dihubungkan dengan Tali\n\n\n\n1. 15\n2. 20\n3. 25\n4. 35",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 36,
+   "text": "Sebuah peluru ditembakan dengan kecepatan awal 20 m/s dan sudut elevasi 30° (sin 30° = ½, cos 30° = ½√3). Jika besar percepatan gravitasi di tempat itu 10 m/s2, ketinggian maksimum yang dicapai peluru adalah … m.\n1. 2,5\n2. 5\n3. 7,5\n4. 10",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 37,
+   "text": "Perbandingan kecepatan sudut jarum penunjuk menit dan jarum penunjuk detik pada jam dinding adalah ….\n1. 1 : 60\n2. 60 : 1\n3. 1 : 360\n4. 360 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 38,
+   "text": "Berdasarkan gambar berikut, jika luas penampang A1 = 0,5 m2, A2 = 1,5 m2, dan besar gaya F2 = 30 N, maka besar gaya F1 adalah … N.\n C:\\Users\\Wawan Purnama\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\CE2175AA.tmp\n\n\n\n1. 10\n2. 15\n3. 20\n4. 25",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 39,
+   "text": "Perhatikan aliran fluida yang ditunjukkan gambar berikut.\n\n\n Debit Aliran dan Persamaan Kontinuitas | Fisika Sekolah\n\nJika perbandingan diameter pipa A1 dan A2 adalah 1 : 4, serta besar kecepatan fluida pada pipa A2 = 20 m/s, maka besar kecepatan fluida pada pipa A1 … m/s.\n1. 80\n2. 120\n3. 160\n4. 320",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 40,
+   "text": "Permukaan Raksa (Hg) di dalam pipa kapiler berbentuk ….\n1. cekung, karena adhesi > kohesi\n2. cembung, karena adhesi < kohesi\n3. cekung, karena adhesi < kohesi\n4. cembung, karena adhesi > kohesi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 41,
+   "text": "Sebuah partikel berosilasi harmonik sederhana seperti ditunjukkan oleh gambar berikut.\n\n\n\n\nJika waktu tempuh partikel dari titik A ke C adalah 1 detik, maka frekuensi osilasi harmonilk partikel tersebut adalah … Hz.\n1. 1/12\n2. 1/8\n3. 1/6\n4. 1/3",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 42,
+   "text": "Salah satu fungsi SONAR pada kapal adalah untuk mendeteksi kedalaman laut. Diketahui cepat rambat bunyi di air laut 1500 m/s. Jika bunyi pantul diterima kembali oleh kapal 2 detik setelah bunyi asal dilepaskan, maka kedalaman laut dapat dinyatakan sebesar … m.\n1. 750\n2. 1500\n3. 3000\n4. 6000",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 43,
+   "text": "Cepat rambat suatu gelombang sebesar 500 m/s. Jika perioda gelombang tersebut 2 detik, maka panjang gelombangnya sebesar … m.\n1. 250\n2. 500\n3. 750\n4. 1000",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 44,
+   "text": "Sebuah lensa cembung memiliki panjang fokus 10 cm. Sebuah benda kecil ditempatkan pada jarak 5 cm di depan lensa itu. Bayangan benda yang dibentuk oleh lensa tersebut ….\n1. bersifat nyata dan berada pada jarak 10 cm di belakang lensa\n2. bersifat maya dan berada pada jarak 10 cm di depan lensa\n3. bersifat maya dan berada pada jarak 3,33 cm di depan lensa\n4. bersifat nyata dan berada pada jarak 3,33 cm di belakang lensa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 45,
+   "text": "Seberkas laser merah dengan panjang gelombang λ dan frekuensi f merambat dari udara memasuki medium transparan dengan indeks bias 5/3. Saat di medium transparan tersebut, panjang gelombang, frekuensi dan cepat rambat dinyatakan berturut turut sebagai λm, fm, dan vm. Pernyataan yang tepat mengenai perambatan berkas laser itu pada medium transparan tersebut adalah ….\n1. fm < f dan vm < λf\n2. λm > λ dan vm < λf\n3. λm > λ dan fm > f\n4. vm < λf dan λm < λ",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 46,
+   "text": "Haris tidak dapat melihat pemandangan dengan jelas seperti kebanyakan temannya. Saat membaca, Haris selalu menempatkan obyek bacaan pada jarak yang sangat dekat (kurang dari 25 cm) dari matanya. Setelah diobservasi, ternyata mata Haris memiliki titik jauh 4 m. Lensa kaca mata yang sebaiknya digunakan Haris agar dapat melihat normal adalah ….\n1. lensa cembung dengan panjang fokus 4 m\n2. lensa cembung dengan kekuatan 0,25 dioptri\n3. lensa cekung dengan kekuatan − 4 dioptri\n4. lensa cekung dengan panjang fokus 400 cm",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 47,
+   "text": "Kawat besi dengan panjang LB dan kawat perak dengan panjang LP memiliki luas penampang yang sama. Masing-masing kawat dihubungkan dengan sumber tegangan 3 volt. Hambatan jenis besi dan perak berturut-turut adalah 1,2 x 10-8 ohm.m dan 1,6 x 10-8 ohm.m. Arus listrik yang mengalir pada kawat besi dan kawat perak masing-masing adalah IB dan IP. Agar IB > IP, maka LB : LP = ….\n 1. 5 : 4\n 2. 4 : 3\n 3. 3 : 2\n 4. 2 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 48,
+   "text": "Ada dua muatan titik, masing-masing Q1 = 100e dan Q2 = 200e, dengan e = 1,6 x 10−19 C. Muatan pertama berada pada jarak 4 mm dari muatan titik ketiga Q = 50e dan muatan kedua berada pada jarak 2 mm dari muatan titik ketiga. Perbandingan besar gaya listrik yang bekerja pada muatan pertama dan kedua akibat muatan ketiga adalah ….\n1. 1 : 2\n2. 1 : 4\n3. 1 : 8\n4. 1 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 49,
+   "text": "Sebuah transformator ideal digunakan untuk mensuplai arus 1 A dan tegangan 6 V pada suatu alat listrik. Setiap lilitan pada kumparan sekunder transformator tersebut memiliki hambatan sebesar 0,1 ohm. Transformator dihubungkan dengan sumber tegangan 220 volt. Jumlah lilitan yang harus ada pada kumparan sekunder dan kumparan primer adalah ….\n1. 600 dan 2200\n2. 60 dan 2200\n3. 60 dan 600\n4. 60 dan 220",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 50,
+   "text": "Bukti bahwa Bumi berbentuk bulat dapat ditunjukkan berdasarkan fenomena ….\n1. matahari terlihat bergerak dari timur ke barat\n2. adanya perbedaan waktu pada wilayah di bumi\n3. bulan dan matahari terlihat berbentuk bola\n4. adanya gerhana bulan dan gerhana matahari\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSOAL BABAK PENYISIHAN 2 PAKET A\nSOAL ISIAN\nJawablah pertanyaan dengan singkat dan benar!",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 51,
+   "text": "Membran yang berfungsi melindungi paru-paru dari gesekan saat mengembang dan mengempis adalah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 52,
+   "text": "Perhatikan tabel hasil uji makanan di bawah ini!\n\n\nNomor Sampel\n Warna setelah diuji larutan\n lugol\n biuret\n Benedict\n 1\n Biru tua\n Ungu\n Biru\n 2\n Biru\n Ungu\n Biru\n 3\n Coklat\n Biru\n Merah bata\n 4\n Biru tua\n Ungu\n Biru\n 5\n Biru tua\n Kuning\n Merah bata\n\n\nBerdasarkan tabel hasil percobaan di atas, nomor sampel yang mengandung amilum dan glukosa adalah… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 53,
+   "text": "Perhatikan gambar di bawah ini!\n\n\n\n\n\n\nBerdasarkan perhiasan bunga, bunga di atas termasuk kedalam jenis… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 54,
+   "text": "Keluarga Bapak Lutfi memiliki 4 orang anak yang terdiri atas:\n 1. Dewa bergolongan darah AB\n 2. Harun bergolongan darah A\n 3. Anggi bergolongan darah O\n 4. Evita bergolongan darah O\nDiketahui bahwa bapak lutfi memiliki golongan darah B, maka istri pa lutfi mempunyai golongan darah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 55,
+   "text": "Gangguan yang terjadi akibat kerusakan nefron oleh infeksi bakteri didalam glomerulus disebut… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 56,
+   "text": "Seorang anak mengendarai sepeda dengan kecepatan konstan. Di satu titik pada permukaan ban belakang sepeda disemprotkan cat berwarna terang. Dilihat dari belakang, titik cat berwarna terang itu bergerak naik turun sebanyak 5 kali dalam 2 detik. Jika radius roda belakang 32 cm, besar kecepatan sepeda itu adalah … ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 57,
+   "text": "Sebuah bola kecil dari plastik mula-mula ditahan di dasar sebuah bejana berisi air, kemudian dilepaskan. Bola itu bergerak dari dasar bejana sampai di ketinggian 25 cm dalam waktu 0,5 detik sejak dilepaskan. Percepatan gravitasi di tempat itu 10 m/s2. Jika massa bola itu 5 g dan gesekan oleh air dapat diabaikan, maka volume bola sama dengan … …..",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 58,
+   "text": "Dari gambar di bawah, besarnya beda potensial antara ujung-ujung baterai adalah ……",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 59,
+   "text": "Sebuah balok A dengan massa 2 kg mulai bergerak ke arah kanan pada t = 0 detik dari keadaan diam oleh gaya sebesar 10 N. Balok B ditempatkan pada jarak 20 meter di kanan balok A. Pada t = 2 detik dikerjakan sebuah gaya konstan F pada balok A, sehingga balok A tepat berhenti sebelum menabrak balok B. Besar dan arah gaya F tersebut adalah …...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 60,
+   "text": "Sebuah bola diluncurkan dari sebuah pegas vertikal dengan k = 10 N/m, yang sebelumnya telah dimampatkan sejauh Δy = 5 cm dari keadaan setimbang pegas. Ketinggian maksimum bola diukur dari titik setimbang pegas adalah 1 meter. Percepatan gravitasi di tempat itu 10 m/s2. Jika massa dudukan bola dan pegas diabaikan, maka massa bola sama dengan ….\n\n\n\n\n\n\n\n\n SOAL KSN IPA BABAK PENYISIHAN TAHUN 2021 PAKET A",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  }
+ ]
+}

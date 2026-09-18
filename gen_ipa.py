@@ -1,0 +1,45 @@
+# -*- coding: utf-8 -*-
+from build_data import build
+
+build('2025-ipa-kabkota',
+    {'title': 'OSN IPA SMP 2025 - Kabupaten/Kota', 'year': 2025,
+     'mapel': 'IPA', 'tingkat': 'Kabupaten/Kota', 'duration': 120},
+    include=[1,2,3,4,6,7],
+    draft='2025-ipa-kabkota',
+    fixes={
+        1: {'a': 'B', 'pemb': 'Urey-Miller mensintesis senyawa organik dari gas peniru atmosfer purba (metana, amonia, hidrogen, uap air) dengan loncatan listrik -> mendukung abiogenesis.'},
+        2: {'a': 'A', 'pemb': 'Rumput (biotik) menyerap air tanah (abiotik) -> interaksi biotik-abiotik; B dan D antar makhluk hidup.'},
+        3: {'a': 'D', 'o': {'A': '1, 2, 3', 'B': '2, 3, 1', 'C': '3, 2, 1', 'D': '1, 3, 2'},
+            'pemb': '1 = keanekaragaman gen (varietas jagung), 2 = ekosistem (tipe habitat), 3 = spesies (200 jenis burung) -> urutan gen, ekosistem, spesies = 1, 3, 2.'},
+        4: {'a': 'B', 'pemb': 'Prokariotik, uniseluler, hidup di ekstrim (air panas/garam) = Archaebacteria.'},
+        6: {'a': 'B', 'pemb': 'Klasifikasi berdasarkan kemiripan ciri tanpa memperhatikan kekerabatan evolusi = fenetik.'},
+        7: {'a': 'C', 'pemb': 'Jaringan palisade di bawah epidermis atas berisi kloroplas terbanyak dan tersusun rapat -> fotosintesis paling aktif.'},
+    },
+)
+
+build('2021-ipa-prov-a',
+    {'title': 'OSN IPA SMP 2021 - Provinsi (Paket A, Babak Penyisihan 2)', 'year': 2021,
+     'mapel': 'IPA', 'tingkat': 'Provinsi', 'duration': 120},
+    include=[1,2,4,5,7,10],
+    draft='2021-ipa-prov-a',
+    fixes={
+        1: {'type': 'isian', 'a': 'pleura',
+            't': 'Membran yang berfungsi untuk melindungi paru-paru dari gesekan saat mengembang dan mengempis adalah ...',
+            'pemb': 'Pleura (selaput pembungkus paru-paru) mengandung cairan pleura sebagai pelumas.'},
+        2: {'type': 'isian', 'a': '5',
+            't': 'Hasil uji makanan: sampel 1 (lugol biru tua, biuret ungu, benedict biru), sampel 2 (biru, ungu, biru), sampel 3 (coklat, biru, merah bata), sampel 4 (biru tua, ungu, biru), sampel 5 (biru tua, kuning, merah bata). Nomor sampel yang mengandung amilum dan glukosa adalah ...',
+            'pemb': 'Amilum: lugol positif (biru tua); glukosa: benedict positif (merah bata) -> sampel 5.'},
+        4: {'type': 'isian', 'a': 'A',
+            't': 'Empat anak: Dewa (AB), Harun (A), Anggi (O), Evita (O). Bapak bergolongan darah B. Golongan darah ibu adalah ...',
+            'pemb': 'Anak AB butuh alel A dari ibu; anak O butuh alel O dari ibu -> ibu = AO = golongan darah A.'},
+        5: {'type': 'isian', 'a': 'glomerulonefritis',
+            't': 'Gangguan yang terjadi akibat kerusakan nefron oleh infeksi bakteri di dalam glomerulus disebut ...',
+            'pemb': 'Peradangan glomerulus akibat infeksi = glomerulonefritis.'},
+        7: {'type': 'isian', 'a': '6',
+            't': 'Bola plastik 5 g ditahan di dasar bejana berisi air lalu dilepas; mencapai ketinggian 25 cm dalam 0,5 detik. g = 10 m/s\u00b2, gesekan air diabaikan. Volume bola = ... cm\u00b3',
+            'pemb': 's = \u00bdat\u00b2 -> 0,25 = \u00bda(0,25) -> a = 2 m/s\u00b2. Fa \u2212 w = ma -> 10000V \u2212 0,05 = 0,01 -> V = 6 cm\u00b3.'},
+        10: {'type': 'isian', 'a': '6,25',
+            't': 'Bola diluncurkan dari pegas vertikal k = 10 N/m yang dimampatkan 5 cm dari posisi setimbang. Ketinggian maksimum bola 20 cm, g = 10 m/s\u00b2, massa dudukan diabaikan. Massa bola = ... gram',
+            'pemb': '\u00bdkx\u00b2 = mgh -> \u00bd\u00b710\u00b7(0,05)\u00b2 = m\u00b710\u00b70,2 -> m = 0,00625 kg = 6,25 gram.'},
+    },
+)

@@ -1,0 +1,261 @@
+<<<PAGE 1>>>
+Nomor 1
+Misalkan 𝑝 dan 𝑞 adalah bilangan asli yang memenuhi persamaan
+𝑝(𝑝 − 70) + 𝑞(𝑞 − 70) + 2𝑝𝑞 = 2024.
+Banyaknya pasangan (𝑝,𝑞) yang mungkin adalah ….
+Nomor 2
+Mihsattlkpasn: /𝑛/w adwalwah. cbaillaonngagnu bruul.act opmos/itif tiga digit. Didefinisikan 𝑓(𝑛) adalah
+https://www.calonguru.com/
+jumlah 𝑛 dan semua digit dari 𝑛. Sebagai contoh, 𝑓(231) = 231 + 2 + 3 + 1 =
+https://www.calonguru.com/
+237. Jika 𝑎 dan 𝑏 juga bilangan tiga digit sehingga 𝑓(𝑎) = 204 dan 𝑓(𝑏) = 535,
+https://www.calonguru.com/
+maka nilai terkecil yang mungkin dari 𝑎 + 𝑏 adalah ….
+https://www.calonguru.com/
+Nomor 3
+Bilangan kaset adalah bilangan bulat positif yang seluruh digitnya prima dan
+hasil perkalian seluruh digitnya sama dengan 10 kali hasil penjumlahan seluruh
+digitnya. Banyaknya bilangan kaset adalah ….
+https://www.calonguru.com/
+https://www.calonguru.com/
+Nomor 4
+https://www.calonguru.com/
+Banyaknya bilangan bulat positif yang kurang dari 101 dan bisa dinyatakan
+https://www.calonguru.com/
+sebagai hasil penjumlahan setidaknya 4 bilangan bulat positif berurutan
+https://www.calonguru.com/
+adalah ….
+Nomor 5
+Diketahui persamaan
+1 1 1
+= +
+𝑥 − 𝑦 − 𝑧 𝑦 𝑧
+Banyaknya triple (𝑥,𝑦,𝑧) yang memenuhi persamaan di atas dimana 𝑥, 𝑦, dan 𝑧
+bilangan prima atau negatif bilangan prima adalah ….
+
+<<<PAGE 2>>>
+Nomor 6
+Diberikan dua fungsi
+𝑓(𝑥) = 𝑥3 − 𝑝𝑥2 + 189𝑥 − 𝑞
+https://www.calo𝑔n(g𝑥u)r=u𝑥.c3o−m𝑟𝑥/2 + 144𝑥 − 𝑠.
+https://www.calonguru.com/
+Akar 𝑓(𝑥) adalah 𝑎, 𝑎, dan 𝑏, sedangkan akar 𝑔(𝑥) adalah 𝑎,𝑏, dan 𝑏.
+https://www.calonguru.com/
+Jikah 𝑎tt,p𝑏,s𝑝:,/𝑞/w,𝑟w, dwan. c𝑠 abilloannggaun rbuu.lcato pmos/itif, maka nilai
+https://www.calonguru.com/
+(𝑝 + 𝑞) − (𝑟 + 𝑠) = ….
+Nomor 7
+Misalkan
+𝑝𝑞 + 2024 𝑞𝑟 + 2024 𝑟𝑠 + 2024 𝑠𝑝 + 2024
+𝑘 = + + +
+𝑝 + 2024 (𝑞 + 1) 2024 𝑟 + 2024 (𝑠 + 1) 2024
+dengan 𝑝,𝑞,𝑟,𝑠 bilangan real positif dan 𝑝𝑞𝑟𝑠 = 20242. Jika 𝑥 adalah nilai
+minimum dari 𝑘, maka nilai dari 1000𝑥 adalah ….
+https://www.calonguru.com/
+Nomor 8
+https://www.calonguru.com/
+Pada fungsi 𝑓(𝑥) berlaku persamaan
+https://www.calonguru.com/
+https://www.calongu(r𝑥u−.c1o)m∙ 𝑓/(𝑥 + 1) = (𝑥 + 2) ∙ 𝑓(𝑥)
+https://𝑓w(2w024w) .calonguru.com/
+Jika = 𝑎, maka banyaknya faktor prima 𝑎 adalah ….
+𝑓(2)
+
+<<<PAGE 3>>>
+Nomor 9
+Diketahui untuk setiap nilai 𝑎 dan 𝑏 pada fungsi 𝑓 dan 𝑔 memenuhi
+persamaan-persamaan berikut:
+2𝑓(𝑎)+ 3𝑔(𝑏) = 6
+3𝑓(𝑏) + 2𝑔(𝑎) = 7
+https://www.calon[g𝑓(u𝑎r)u]2.c+o[m𝑔(/𝑎)]2 = 1
+https://www.calonguru.com/
+𝑓(𝑎 + 𝑏) = 𝑓(𝑎) 𝑔(𝑏) + 𝑓(𝑏)𝑔(𝑎).
+https://www.calonguru.com/
+Nilai dari 𝑓(𝑎 + 𝑏) = ....
+https://www.calonguru.com/
+https://www.calonguru.com/
+Nomor 10
+Suatu fungsi kuadrat 𝑦 = 𝑓(𝑥) melalui titik (0,3) dan memenuhi
+−1 ≤ 𝑓(−2) ≤ 1 dan −2 ≤ 𝑓(2) ≤ 2.
+Jika nilai maksimum fungsi kuadrat 𝑦 = 𝑓(𝑥) adalah 𝑀, maka nilai 840𝑀 = ....
+Nomohrt t1p1s ://www.calonguru.com/
+https://www.calonguru.com/
+Perhatikan gambar dibawah ini.
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+Setengah lingkaran 𝑋 memiliki pusat 𝑂 dan diameter 𝐴𝐵. Di dalam setengah
+lingkaran 𝑋 terdapat 4 buah setengah lingkaran 𝑃,𝑄,𝑅 dan 𝑆 dengan masing-
+
+<<<PAGE 4>>>
+masing pusatnya 𝑂 ,𝑂 ,𝑂 , dan 𝑂 . Garis 𝐴𝑂 dan 𝑂𝐵 merupakan diameter
+1 2 3 4
+setengah lingkaran 𝑃 dan 𝑄.
+Garis 𝐶𝐷 adalah tali busur setengah lingkaran 𝑋 yang sejajar dengan garis 𝐴𝐵
+dan menyinggung setengah lingkaran 𝑃 dan 𝑄.
+Titik 𝐹 adalah titik tengah 𝐶𝐷. Diameter setengah lingkaran 𝑅 dan 𝑆 berada
+hpatdtpa sg:a/r/iws w𝐶𝐷w s.echainloggnag kuedruua.c soetmen/gah lingkaran tersebut bersinggungan di
+https://www.calonguru.com/
+titik 𝐹 dan menyinggung busur setengah lingkaran 𝑋.
+https://www.calonguru.com/
+Jika perbandingan luas daerah yang berwarna merah dan luas daerah yang
+https://www.calonguru.com/
+berwarna putih dapat dinyatakan dalam bentuk perbandingan yang paling
+https://www.calonguru.com/
+sederhana 𝐴:𝐵, maka nilai dari 𝐴 + 𝐵 adalah ....
+Nomor 12
+Diketahui persegi 𝐴𝐵𝐶𝐷 dengan panjang sisi 4 satuan panjang. Titik 𝐷 diputar
+https://www.calonguru.com/
+600 searah jarum jam dengan pusat putaran titik 𝐴 dan diperoleh titik 𝐷′. Titik
+https://www.calonguru.com/
+𝐴,𝐵, dan 𝐶 masing-masing dicerminkan terhadap titik 𝐷 ’ dan diperoleh
+https://www.calonguru.com/
+masing-masing titik 𝐴′,𝐵′, dan 𝐶′.
+https://www.calonguru.com/
+https://www.calonguru.com/
+Jika luas segiempat 𝐴′𝐵′𝐶′𝐷′sama dengan 𝑎 − 𝑏√3 satuan luas, maka nilai
+𝑎 × 𝑏 = ....
+
+<<<PAGE 5>>>
+Nomor 13
+Perhatikan segitiga siku-siku 𝐴𝐵𝐶 berikut.
+Diketahui lingkaran 𝐿 yang jari-jarinya 𝑟 cm dengan 𝑟 bilangan bulat,
+https://www.calonguru.com/
+mhettnpysin:g//gwunwg wk.ectiagalo snisgi usreugi.tcigoam 𝐴/𝐵𝐶 . Kemudian, digambar garis ℓ yang
+mhettlaplsui: /t/iwtikw pwus.acta lliongnkgaruarnu 𝐿.c doanm s/ejajar 𝐵𝐶. Garis ℓ memotong 𝐴𝐵 di 𝑃 dan
+https://www.calonguru.com/
+𝐴𝐶 di 𝑄, serta memotong lingkaran 𝐿 di 𝑋 dan 𝑌. Jarak 𝑋 ke AB kurang dari
+https://www.calonguru.com/
+jarak 𝑌 ke 𝐴𝐵.
+Jika 𝑃𝑋 = 1,5 cm dan 𝑄𝑌 = 4 cm, maka luas daerah lingkaran 𝐿 adalah ...𝜋 cm2.
+Nomor 14
+Shetbtupash: /p/ewruwsawh.acaan laoknang umreun.gceopamk /bola-bola dengan ukuran diameter 10 cm
+https://www.calonguru.com/
+ke dalam suatu wadah berbentuk balok dengan ukuran bagian dalam
+https://www.calonguru.com/
+50 cm× 50 cm × 60 cm.
+https://www.calonguru.com/
+Maksimum banyaknya bola yang dapat dimasukkan ke dalam wadah tersebut
+https://www.calonguru.com/
+adalah ....
+Nomor 15
+Segi enam 𝐴𝐵𝐶𝐷𝐸𝐹 memiliki sisi yang sama panjang dan semua sudutnya
+kurang dari 180∘, serta 𝐴𝐵 sejajar 𝐷𝐸, 𝐵𝐶 sejajar 𝐸𝐹, 𝐶𝐷 sejajar 𝐹𝐴. Koordinat
+𝐴 = (0,0), 𝐵 = (𝑥 ,2),𝐶 = (𝑥 ,𝑦 ),𝐷 = (𝑥 ,10),𝐸 = (0,𝑦 ),𝐹 = (𝑥 ,𝑦 ) dan,
+𝑏 𝑐 𝑐 𝑑 𝑒 𝑓 𝑓
+
+<<<PAGE 6>>>
+sudut ∠𝐹𝐴𝐵 = 120∘. Ordinat dari semua titik sudut segi enam merupakan
+elemen dari {0,2,4,6,8,10} dan tidak ada yang bernilai sama. Luas daerah
+𝐴𝐵𝐶𝐷𝐸𝐹 dapat ditulis dalam bentuk 𝑞√𝑝, dengan 𝑞 merupakan bilangan bulat
+dan 𝑝 merupakan bilangan prima. Nilai dari 𝑝 + 𝑞 = ....
+Nomor 16
+Kelompok 𝐴 terdiri atas empat bilangan bulat berbeda dengan rata-rata 76 dan
+https://www.calonguru.com/
+https://www.calonguru.com/
+jangkauan 10. Kelompok 𝐵 terdiri atas lihmttap dsa:/t/aw bwilawn.gcana lobunlgatu bruer.bceodma /
+https://www.calonguru.com/
+dengan rata-rata 80 dan jangkauan 6. Kelomhtptopks 𝐶:/ a/wdawlawh g.cabaulongnagn udrauta. cdoarmi /
+https://www.calonguru.com/
+https://www.calonguru.com/
+khetlotpmsp:o/k/w 𝐴w dawn. c𝐵a ylaonng gbuerrbue.dcao. mBa/nyaknya kemungkinan kelompok 𝐶 yang
+https://www.calonguru.com/
+mhetmtppsu:n//ywaiw rawta.-craatlao lnebgiuh rbue.scaor mda/ri rata-rata gabungan kelompok 𝐴 dan 𝐵
+adalah ....
+Nomor 17
+Diketahui rata-rata dari lima bilangan 6, 11, 9, 7, dan 𝑥 sama dengan mediannya.
+Jika jumlah semua nilai 𝑥 yang mungkin adalah 𝑅, maka 4𝑅 = ....
+Nomor 18
+https://www.calonguru.com/
+Diberikan himpunan 𝑆 = {1,2,⋯,𝑛} yang beranggotakan 𝑛 bilangan asli
+𝑛
+https://www.calonguru.com/
+pertama. Misalkan sebuah himpunan bagian akan dipilih, serta diasumsikan
+https://www.calonguru.com/
+setiap himpunan bagian tersebut memiliki peluang yang sama untuk terpilih.
+https://www.calonguru.com/
+Selhanttjputsn:y/a/w dwidwefi.ncisaikloann g𝑝(u𝑛r)u s.ecboamgai/ peluang terpilihnya himpunan bagian
+yang di antara anggotanya tidak terdapat dua bilangan bulat berjumlah 𝑛 + 1.
+Sebagai contoh, dari himpunan 𝑆 = {1,2,3,4}, terdapat 16 himpunan bagian
+4
+yang dapat dibentuk, yaitu ∅, {1}, {2}, {3}, {4}, {1,2}, {1,3}, {1,4}, {2,3}, {2,4},
+{3,4}, {1,2,3}, {1,2,4}, {1,3,4}, {2,3,4}, {1,2,3,4}.
+
+<<<PAGE 7>>>
+Terdapat 7 himpunan bagian yang di antara anggotanya adalah dua bilangan
+bhutltapt sb:/e/rwjuwmwlah.c 5al (oknargeunaru 𝑛.c+o1m=/ 4 + 1 = 5 ), yaitu {1,4}, {2,3}, {1,2,3},
+{h1t,2tp,4s},: /{/1w,3w,4}w, {.2c,3a,l4o},n {g1,u2,r3u,4.}c. oPemrh/atikan bahwa sembilan himpunan bagian
+https://www.calonguru.com/
+9
+lainnya tidak memiliki sifat tersebut, sehingga 𝑝(4) = .
+https://www.calonguru.com/ 16
+B
+h
+i
+t
+l
+t
+a
+p
+ng
+s
+a
+:
+n
+// w
+ge
+w
+na
+w
+p
+.
+𝑛
+c
+t
+a
+er
+lo
+ke
+n
+c
+g
+il
+u
+se
+r
+h
+u
+i
+.
+n
+c
+g
+o
+ga
+m
+𝑝
+/(𝑛)
+<
+1
+adalah ....
+4
+Nomor 19
+Dhatrtip sse:p/u/wluwh owra.cnag laotlnetg tuernuis. cmoemja /putra di Tim Raja Ping Pong akan dipilih
+ehmttppast :p/a/swanwgwan. cgaanldoan pguutrrau u.cnotumk d/idaftarkan mengikuti kompetisi nasional
+https://www.calonguru.com/
+2024. Liam dan Kadek adalah dua dari sepuluh atlet tersebut. Keduanya tidak
+https://www.calonguru.com/
+boleh dipasangkan karena memiliki tipe permainan yang sama. Banyaknya
+https://www.calonguru.com/
+kemungkinan empat pasangan yang didaftarkan adalah ....
+Nomor 20
+Di dalam kotak terdapat 100 buah sapu tangan merah, 80 buah sapu tangan
+hhijtatup, s6:0/ /bwuawhw sa.pcua tlaonngganu bruiru.c, doamn /40 buah sapu tangan hitam. Seorang anak
+https://www.calonguru.com/
+mengambil satu buah sapu tangan pada setiap pengambilan dengan mata
+https://www.calonguru.com/
+tertutup. banyaknya pengambilan minimum yang diperlukan untuk menjamin
+https://www.calonguru.com/
+dia memperoleh 13 pasang sapu tangan (sepasang sapu tangan terdiri dari 2
+https://www.calonguru.com/
+buah sapu tangan dengan warna yang sama) adalah ....

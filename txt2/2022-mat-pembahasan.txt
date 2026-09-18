@@ -1,0 +1,650 @@
+<<<PAGE 1>>>
+PEMBAHASAN OSN BIDANG MATEMATIKA SMP
+TINGKAT KABUPATEN/KOTA TAHUN 2022
+Dibahas oleh : Najamuddin (SMP Negeri 20 Makassar)
+PILIHAN GANDA
+1. ABCD adalah suatu persegi panjang. Dari titik C ditarik garis lurus yang memotong sisi
+AB di titik X. Garis CX memotong perpanjangan sisi AD di titik Y. Jika panjang BX
+adalah 𝑏 cm, panjang DY adalah 𝑑 cm, dan luas persegi panjang ABCD adalah 𝐿 cm2,
+maka pernyataan yang benar adalah....
+A. 𝑏 × 𝑑 = 𝐿
+B. 𝑏 × 𝑑 = 2𝐿
+C. 𝐿 < 𝑏 × 𝑑 < 2𝐿
+D C
+D. 𝑏 × 𝑑 < 𝐿
+Jawab: A
+Perhatikan bahwa ∆𝐵𝐶𝑋~∆𝐷𝑌𝐶 𝑑
+𝐵𝐶 𝐵𝑋 𝐵𝐶 𝑏
+= ⇔ = A B
+𝐷𝑌 𝐷𝐶 𝑑 𝐷𝐶 X 𝑏
+⇔ 𝑏×𝑑 =𝐵𝐶 ×𝐷𝐶
+Y
+⇔ 𝑏×𝑑 =𝐿
+2. Diketahui suatu barisan aritmetika 𝑎 ,𝑎 ,𝑎 ,… dengan semua sukunya bilangan bulat,
+1 2 3
+𝑎 habis dibagi 3, 𝑎 habis dibagi 5, dan 𝑎 habis dibagi 7. Jika 𝑎 +𝑎 +𝑎 = 405 dan
+1 2 3 1 2 3
+𝑎 >105, maka nilai 𝑘 terkecil sedemikian 𝑎 >1000 adalah….
+1 𝑘
+A. 74
+B. 75
+C. 76
+D. 77
+Jawab: B
+Karena 𝑎 ,𝑎 ,𝑎 ,… merupakan barisan aritmetika dan 𝑎 +𝑎 +𝑎 = 405, maka 𝑎 =
+1 2 3 1 2 3 2
+405
+= 135, dan 𝑎 +𝑎 = 270. Karena 𝑎 > 105 dan 𝑎 = 135, maka 105 < 𝑎 <135
+1 3 1 2 1
+3
+Agar supaya 𝑘 terkecil maka 𝑎 −𝑎 harus maksimal atau nilai 𝑎 paling kecil yang
+2 1 1
+mungkin sehingga 3|𝑎 dan 7|270−𝑎 . Dari 𝑎 ∈ {108,111,114,…,132}, diperoleh nilai
+1 1 1
+𝑎 = 123 dengan selisih 𝑎 −𝑎 =𝑏 = 135−123 = 12.
+1 2 1
+889
+𝑈 = 123+12(𝑘−1) > 1000 ⇔ 12𝑘 > 889 ⇔ 𝑘 >[ ] ⇔ 𝑘 =75
+𝑘 12
+3. Pada sebuah ujian yang dilaksanakan secara lisan oleh seorang guru digunakan aturan
+sebagai berikut.
+ Sebanyak 30 pertanyaan berbeda dimasukkan secara berpasangan pada 15 kartu.
+ Seorang siswa mengambil satu kartu secara acak. Jika dia menjawab dengan benar
+kedua pertanyaan pada kartu yang ditarik, dia dinyatakan lulus.
+ Jika dia menjawab dengan benar hanya satu pertanyaan pada kartu yang ditarik,
+dia mengambil kartu lain dan guru menentukan yang mana dari dua pertanyaan
+pada kartu kedua yang harus dijawab. Jika siswa menjawab dengan benar
+pertanyaan yang ditentukan, siswa tersebut dinyatakan lulus. Pada keadaan lainnya
+siswa dinyatakan gagal.
+1
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 2>>>
+Jika seorang siswa mengetahui jawaban dari 25 pertanyaan dan tidak tahu jawaban
+yang benar untuk 5 pertanyaan lainnya, peluang siswa tersebut lulus ujian adalah ....
+195
+A.
+203
+185
+B.
+203
+175
+C.
+203
+165
+D.
+203
+Jawab: D
+25 24 120
+Peluang siswa menjawab benar 2 soal pada kartu adalah × =
+30 29 203
+Peluang siswa menjawab benar 1 soal pada kartu pertama dan menjawab benar pada
+25 5 24 25
+kartu berikutnya adalah × × =
+30 29 28 203
+120 25 165
+Jadi, peluang siswa tersebut lulus ujian adalah + =
+203 203 203
+4. SMP Nusantara mengadakan kegiatan menanam pohon yang diikuti oleh sejumlah guru
+pria dan guru wanita. Sepertiga dari keseluruhan guru tersebut mengajak serta siswa
+dengan aturan satu guru hanya mengajak satu siswa. Terdapat 159 pohon yang
+ditanam. Jika satu orang guru pria menanam 13 pohon, satu orang guru wanita
+menanam 10 pohon, dan 1 orang siswa menanam 6 pohon, maka banyaknya guru
+wanita yang menanam pohon adalah....
+A. 5
+B. 7
+C. 9
+D. 12
+Jawab: B
+Misalkan 𝑝, 𝑤 dan 𝑠 berturut-turut menyatakan banyaknya guru pria, guru wanita dan
+siswa yang terlibat menanam pohon.
+13𝑝+10𝑤+6𝑠 =159……....1)
+1
+(𝑝+𝑤)= 𝑠 ⇔ 𝑝+𝑤 =3𝑠...2)
+3
+Subtitusi 2) ke 1) diperoleh: 15𝑝+12𝑤 =159 ⇔ 5𝑝+4𝑤 =53
+Pasangan (𝑝,𝑤) yang memenuhi pada persamaan ini adalah (1,12) dan (5,7)
+Karena 3|(𝑝+𝑤) maka pasangan (𝑝,𝑤) yang memenuhi adalah (5,7)
+Jadi, banyak guru wanita yang menanam pohon adalah 7 orang
+5. Perhatikan setengah lingkaran pusat O dan diameter AB
+berikut!
+Titik C terletak pada busur AB dan P adalah pusat lingkaran
+dalam ABC. Titik P dilalui DE yang tegak lurus AO, Jika
+𝐷𝐸 = 4 cm, maka luas daerah ∆𝑂𝐵𝐶 adalah… 𝑐𝑚2.
+A. 2
+B. 4
+C. 8
+D. 16
+Jawab: C
+2
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 3>>>
+Perhatikan gambar.
+∆𝐵𝐸𝐴 siku-siku di E, sehingga
+𝐷𝐸2 =𝐴𝐷×𝐷𝐵 ⇔ 𝑎(2𝑥−𝑎) = 16…………………………..1)
+Q
+𝑎 • Diketahui bahwa 𝐴𝑄 =𝐴𝐷 =𝑎 dan 𝐶𝑄 =𝐶𝑅 =𝐷𝑃 =𝑟
+Dengan menggunakan rumus lingkaran dalam segitiga ABC;
+𝑟 𝐿 1
+•R
+𝑟 = ⇔ 𝐿 = 𝑟𝑠 ⇔ [𝐴𝐵𝐶] = 𝑟× (𝐴𝐵+𝐵𝐶+𝐶𝐴)
+𝑥−𝑎 𝑠 2
+1
+[𝐴𝐵𝐶] = 𝑟(2𝑥+(2𝑥−𝑎+𝑟)+(𝑟+𝑎))= 𝑟(2𝑥+𝑟)..2)
+2
+Dengan cara lain;
+1 1
+𝑥 [𝐴𝐵𝐶] = ×𝐵𝐶 ×𝐴𝐶 = (2𝑥−𝑎+𝑟)(𝑎+𝑟)
+2 2
+1
+= (𝑎(2𝑥−𝑎+𝑟)+𝑟(2𝑥−𝑎+𝑟))
+2
+1
+= (𝑎(2𝑥−𝑎)+𝑎𝑟+𝑟(2𝑥+𝑟)−𝑎𝑟) ………………..3)
+2
+Dengan memasukkan 1) dan 2) pada 3) diperoleh:
+1 1 1
+[𝐴𝐵𝐶]= (16+[𝐴𝐵𝐶]) ⇔ [𝐴𝐵𝐶] =8. Jadi, [𝑂𝐵𝐶] = [𝐴𝐵𝐶] =8
+2 2 2
+6. Tiga puluh koin dengan jari-jari 3,5 cm ditumpuk menjadi 4 tingkat sehingga meyerupai
+limas tegak segi empat beraturan dengan sisi angka menghadap ke atas. Tingkat
+pertama (paling bawah) terdiri dari 16 koin, tingkat kedua terdiri dari 9 koin, tingkat
+ketiga terdiri dari 4 koin dan tingkat keempat terdiri dari 1 koin. Pada setiap tingkat,
+koin akan disusun menyerupai persegi dengan setiap koin yang berdekatan saling
+bersinggungan. Jika dilihat dari atas, total luas sisi angka yang tertutup oleh koin lainnya
+adalah… 𝑐𝑚2.
+A. 381,5
+B. 444,5
+C. 539
+D. 1155
+Jawab: B
+Model susunan koin di lihat dari atas
+2 2
+1 22 7 1 7
+𝐿 = 2( ( )( ) − ( ) )= 7
+𝑑𝑎𝑢𝑛
+4 7 2 2 2
+2
+22 7
+Luas 1 lingkaran, 𝐿 = ( ) =38,5
+7 2
+Pada bagian dasar terdapat 4 lingkaran dan 20 daun
+yang tertutup koin di atasnya.
+Pada bagian kedua terdapat 1 lingkaran dan 12 daun
+yang tertutup koin di atasnya
+Pada bagian ketiga terdapat 4 daun yang tertutup koin
+diatasnya
+Total koin yang tertutup koin diatasnya adalah 5 lingkaran dan 36 daun dengan luas:
+5×38,5+36×7 =444,5
+3
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 4>>>
+7. Diketahui persegi 𝐴𝐵𝐶𝐷 dengan panjang sisi 12 cm. Titik 𝑃 terletak pada sisi 𝐶𝐷
+dengan 𝐶𝑃:𝐷𝑃 = 1:2. Persegi ini akan dibentuk menjadi selimut tabung dengan
+cara mempertemukan sisi 𝐴𝐷 dengan sisi 𝐵𝐶. Jika jarak titik 𝐴 ke titik 𝑃 di selimut
+√𝑎+𝑏𝜋2
+tabung yang terbentuk adalah cm, maka 𝑎+𝑏 = ⋯.
+𝜋2
+A. 252
+B. 260
+C. 180
+D. 165
+Jawab: A
+Misalkan jari-jari tabung = 𝑟, maka
+6
+B A 2𝜋𝑟 = 12 ⇔ 𝑟 =
+𝜋
+Perhatikan ∆𝑂𝑃𝐷 dengan ∠𝑂𝑃𝐷 = 30°
+6√3
+𝑂𝑃:𝑃𝐷 =1:√3 ⇔ 𝑃𝐷 = 𝑂𝑃√3=
+𝜋
+12 Pada ∆𝐴𝑃𝐷, 𝐴𝑃2 =𝑃𝐷2+𝐴𝐷2
+2
+6√3 108+144𝜋2
+P 𝐴𝑃 = √( ) +122 = √
+• 𝜋 𝜋2
+• • • O
+C P Q D • Jadi, 𝑎+𝑏 =108+144 = 252
+Q
+8. Dalam suatu kotak tertutup, terdapat dua buah dadu dengan enam sisi. Dadu pertama
+memiliki satu sisi bermata 1, satu sisi bermata 2, dua sisi bermata 3, dan dua sisi bermata
+5. Sedangkan Dadu kedua memiliki satu sisi bermata 1, satu sisi bermata 2, satu sisi
+bermata 3, dan tiga sisi bermata 5.
+Suatu permainan dilakukan dengan mengambil secara acak satu dadu dari dalam kotak,
+kemudian melemparkan dadu tersebut, mengamati hasilnya, dan memasukkannya
+kembali ke dalam kotak. Permainan dapat diulang beberapa kali. Andi main dua kali
+dan mendapatkan hasil amatan mata 1 pada permainan pertama dan mata 5 pada
+permainan kedua. Peluang bahwa hanya dadu kedua yang terambil pada kedua
+permainan yang dilakukan Andi adalah...
+A. 0,4
+B. 0,3
+C. 0,2
+D. 0,1
+Jawab: B
+𝐾(1 )×𝐾(5 )
+2 2
+𝑃(1 ,5 ) =
+2 2 𝐾(1 )×𝐾(5 )+𝐾(1 )×𝐾(5 )+𝐾(1 )×𝐾(5 )+𝐾(1 )×𝐾(5 )
+1 1 1 2 2 1 2 2
+1×3
+=
+1×2+1×3+1×2+1×3
+3
+=
+2+3+2+3
+3
+=
+10
+=0,3
+4
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 5>>>
+9. Diketahui 𝑓(𝑥) = 𝑥2022 −𝑥2021 dan
+𝑔(𝑥) = 𝑥2020 −2𝑥2019 +3𝑥2018 −4𝑥2017 +⋯−2020𝑥 +2021
+Jika 𝑛 adalah nilai minimum dari 𝑓(𝑥)+𝑔(𝑥) untuk 𝑥 bilangan real, maka nilai
+𝑛+1 adalah….
+A. 1011
+B. 1012
+C. 2021
+D. 2022
+Jawab: B
+𝑥−1
+𝑓(𝑥) = 𝑥2022−𝑥2021 = 𝑥2022( ) ≥ 0 ⇔ 𝑥 <0 𝑎𝑡𝑎𝑢 𝑥 ≥1
+𝑥
+𝑔(𝑥) = 𝑥2020−2𝑥2019 +3𝑥2018 −4𝑥2017 +⋯−2020𝑥 +2021
+= 𝑥2018(𝑥2−2𝑥+1)+2𝑥2016(𝑥2−2𝑥+1)+⋯+1010(𝑥2−2𝑥+1)+1011
+= (𝑥−1)2(𝑥2018 +2𝑥2016 +3𝑥2014 +⋯+1010)+1011
+Karena (𝑥−1)2(𝑥2018+2𝑥2016 +3𝑥2014 +⋯+1010) ≥0, maka 𝑔(𝑥) ≥ 1011
+Dengan demikian, untuk 𝑥 < 0 𝑎𝑡𝑎𝑢 𝑥 ≥1, 𝑓(𝑥)+𝑔(𝑥) ≥ 1011 dan mencapai minimum
+1011 untuk 𝑥 = 1.
+Selanjutnya, untuk 0 ≤ 𝑥 <1, mudah dipahami bahwa:
+(𝑥2022 −𝑥2021)+ (𝑥−1)2(𝑥2018+2𝑥2016+3𝑥2014+⋯+1010) > 0
+Sehingga, 𝑓(𝑥)+𝑔(𝑥) > 1011
+Dengan demikian nilai 𝑛, minimum hasil dari 𝑓(𝑥)+𝑔(𝑥) adalah 1011 sehingga nilai
+dari 𝑛+1 =1012
+10. Banyaknya kemungkinan bilangan bulat positif 𝑛 yang kurang dari 95 dan
+mengakibatkan (3 √6) 200−𝑛 ( 1 ) 𝑛 bilangan bulat adalah….
+√3
+A. 14
+B. 15
+C. 16
+D. 17
+Jawab: A
+200−𝑛
+(3 √6) merupakan bilangan bulat jika 200−𝑛 merupakan bilangan kelipatan 3,
+dan ( 1 ) 𝑛merupakan bilangan rasional jika n merupakan bilangan genap.
+√3
+Perhatikan bahwa:
+200−𝑛 1 200−𝑛 𝑛 200−𝑛 200−𝑛 𝑛
+( 3 √6) ( ) 𝑛 = 6 3 ×3(− 2 ) = 2 3 ×3 3 − 2
+√3
+Merupakan bilangan bulat apabila:
+200 −𝑛 𝑛
+− ≥ 0 ⇔ 400−2𝑛−3𝑛 ≥ 0
+3 2
+⇔ 400−5𝑛 ≥ 0 ⇔ 5𝑛 ≤ 400 ⇔ 𝑛 ≤80
+Bilangan 𝑛 genap sehingga 200− 𝑛 merupakan kelipatan 3 adalah 6𝑘 −4
+untuk suatu 𝑘 bilangan asli, sehingga:
+6𝑘−4≤ 80 ⇔ 6𝑘 ≤84 ⇔ 𝑘 ≤14
+Jadi banyak bilangan positif 𝑛 yang mungkin adalah 14, (yakni 2, 8, 14,…,80)
+5
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 6>>>
+11. Doni membeli 3 pasang burung kutilang di pasar dan membawanya dalam 1 wadah
+besar. Sampai di rumah, burung-burung tersebut akan ditempatkan secara acak ke
+dalam 3 sangkar berbeda yang masing-masing berisi 2 burung. Peluang setiap burung
+akan ditempatkan di kandang bersama pasangannya yang sesuai adalah....
+1
+A.
+15
+1
+B.
+10
+1
+C.
+5
+1
+D.
+6
+Jawab: A
+Banyak cara setiap burung akan ditempatkan di kandang bersama pasangannya yang
+sesuai adalah 3! = 6
+Banyak cara menempatkan 6 burung ke dalam 3 kandang secara berpasangan adalah
+𝐶6𝐶4𝐶2 = 6! =90
+2 2 2
+2!2!2!
+Jadi, peluang setiap burung akan ditempatkan di kandang bersama pasangannya yang
+6 1
+sesuai adalah =
+90 15
+12. Banyaknya bilangan bulat positif yang habis membagi 10199 dan merupakan kelipatan
+10111 adalah...
+A. 7921
+B. 12544
+C. 32079
+D. 40000
+Jawab: A
+Diketahui bahwa 10199 =10111 ×1088
+Hal ini berarti bahwa bilangan bulat positif yang habis membagi 10199 dan merupakan
+kelipatan 10111 adalah keseluruhan faktor dari 1088 dengan bentuk kanonik 288×588,
+yakni sebanyak (88+1)(88+1) = 892 = 7192.
+13. Jika 𝑎,𝑏,𝑐,𝑑 bilangan-bilangan asli sehingga
+𝑎5 = 𝑏4,𝑐3 = 𝑑2,𝑑𝑎𝑛 𝑐 − 𝑎 = 19
+maka nilai dari 𝑑 − 𝑏 adalah ....
+A. 757
+B. 243
+C. 1000
+D. 81
+Jawab: A
+Diketahui 𝑎5 =𝑏4. Jika dimisalkan 𝑎 =𝑥4 maka tentulah 𝑏 =𝑥5. Demikian halnya
+dengan 𝑐3 =𝑑2. Jika dimisalkan 𝑐 = 𝑦2 maka tentulah 𝑑 =𝑦3.
+Diketahui juga 𝑐−𝑎 = 19, maka 𝑦2−𝑥4 = (𝑦+𝑥2)(𝑦−𝑥2) =19.
+Karena 𝑥,𝑦 bilangan-bilangan asli dan 19 merupakan bilangan prima, maka:
+𝑦+𝑥2 =19 dan 𝑦−𝑥2 =1. Dengan metode eliminasi diperoleh 𝑦 =10 dan 𝑥 =3
+Jadi, nilai dari 𝑑−𝑏 = 𝑦3−𝑥5 = 103−35 =1000−243 =757
+6
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 7>>>
+14. Diketahui barisan himpunan bilangan dengan pola berikut
+{1}, {2,3}, {4,5,6},…
+Himpunan pertama memiliki 1 anggota, yaitu bilangan bulat positif pertama.
+Himpunan berikutnya memiliki 1 anggota lebih banyak dibanding himpunan
+sebelumnya, dengan anggota adalah bilangan bulat positif pada urutan berikutnya. Jika
+𝑀 adalah rata-rata dari seluruh anggota himpunan ke-𝑛, maka 2𝑀 −2𝑀 =….
+𝑛 2022 2021
+A. 2021
+B. 2022
+C. 4043
+D. 4044
+Jawab: C
+Diketahui 𝑀 adalah rata-rata dari seluruh anggota himpunan ke-𝑛
+𝑛
+Pada barisan {1},{2,3},{4,5,6},{7,8,9,10},{11,12,13,14,15}…, diperoleh barisan bertingkat 2𝑀 ,
+𝑛
+2,5,10,17,26… dengan pola 2𝑀 =𝑛2+1
+𝑛
+Jadi, 2𝑀 −2𝑀 =(20222 +1)−(20212 +1) =2022+2021 =4043
+2022 2021
+15. Nilai ulangan harian Matematika siswa Kelas VII di SMP Harapan disajikan dalam grafik
+berikut
+Grafik tersebut memberikan frekuensi nilai kelompok siswa laki-laki (𝐿) dan siswa
+perempuan (𝑃) secara terpisah. Misalkan 𝑅 dan 𝑀 , menyatakan rata-rata dan median
+𝐿 𝐿
+nilai kelompok siswa laki- laki serta 𝑅 dan 𝑀 menyatakan rata-rata dan median nilai
+𝑃 𝑃
+kelompok siswa perempuan. Di antara pernyataan berikut, pernyataan yang benar
+adalah ....
+A. 𝑀 = 𝑀
+𝑃 𝐿
+B. 𝑀 < 𝑀
+𝑃 𝐿
+C. 𝑅 =𝑅
+𝑃 𝐿
+D. 𝑅 >𝑅
+𝑃 𝐿
+Jawab: A
+Dari grafik diperoleh bahwa banyak siswa laki-laki =9+2+4+5 =20 orang dan
+banyak siswan perempuan adalah =18+10+8+4 = 40 orang.
+70(9)+80(2)+90(4)+100(5) 1650
+𝑅 = = =82,5
+𝐿 20 20
+70(18)+80(10)+90(8)+100(4) 3180
+𝑅 = = =79,5
+𝑃 40 40
+7
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 8>>>
+𝑀 terletak antara data ke 10 dan 11, diperoleh 𝑀 =80
+𝐿 𝐿
+𝑀 terletak antara data ke 20 dan 21, diperoleh 𝑀 =80
+𝑃 𝑃
+Dengan demikian, pernyataan yang benar adalah 𝑀 = 𝑀
+𝑃 𝐿
+16. Bilangan “primus” dihasilkan dari bilangan 4 digit 𝑎̅̅𝑏̅̅𝑐̅̅𝑑̅ dengan 𝑏 =0 yang melalui 3
+langkah berikut:
+(i) Kurangi
+𝑎̅̅𝑏̅̅𝑐̅̅𝑑̅
+dengan jumlah semua digitnya
+(ii) Bagilah hasil dari langkah (i) dengan 9
+(iii) Kurangilah bilangan hasil dari langkah (ii) dengan 99 kali digit pertama bilangan
+hasil dari langkah (ii)
+Di antara bilangan berikut, yang bukan merupakan bilangan “primus” adalah….
+A. 38
+B. 59
+C. 104
+D. 117
+Jawab: B dan D
+(𝑖) 𝑎̅̅𝑏̅̅𝑐̅̅𝑑̅−(𝑎+𝑏+𝑐+𝑑) =1000𝑎+10𝑐+𝑑−𝑎−𝑐−𝑑 =999𝑎+9𝑐
+999𝑎+9𝑐 𝑎, 𝑗𝑖𝑘𝑎 𝑎 ≠9 𝑜𝑟 𝑐 =0
+(𝑖𝑖) =111𝑎+𝑐 mempunyain digit pertama {
+9 1, 𝑗𝑖𝑘𝑎 𝑎 =9 𝑑𝑎𝑛 𝑐 ≠0
+𝑗𝑖𝑘𝑎 𝑎 ≠9 𝑜𝑟 𝑐 = 0, 𝑚𝑎𝑘𝑎 ℎ𝑎𝑠𝑖𝑙𝑛𝑦𝑎 111𝑎+𝑐−99𝑎 = 12𝑎+𝑐
+(𝑖𝑖𝑖) {
+𝑗𝑖𝑘𝑎 𝑎 = 9 𝑑𝑎𝑛 𝑐 ≠0, 𝑚𝑎𝑘𝑎 ℎ𝑎𝑠𝑖𝑙𝑛𝑦𝑎 𝑎𝑑𝑎𝑙𝑎ℎ 111𝑎+𝑐−99
+Selanjutnya kita akan menyelidiki satu persatu dari opsi yang tersedia.
+38 =12(3)+2, merupakan bilangan primus untuk 𝑎 = 3 𝑑𝑎𝑛 𝑐 =2
+59 bukan bilangan primus karena tidak ada angka 𝑎,𝑑𝑎𝑛 𝑐, sehingga 12𝑎+𝑐 =59
+104 = 12(8)+8, merupakan bilangan primus untuk 𝑎 =8 𝑑𝑎𝑛 𝑐 =8
+117 bukan bilangan primus karena tidak ada 𝑎,𝑑𝑎𝑛 𝑐, sehingga 111𝑎+𝑐−99 =117
+17. Perhatikan persamaan berikut
+√𝑥+2−4√𝑥−2+√𝑥+7−6√𝑥−2 =1
+Banyaknya bilangan bulat 𝑥 yang memenuhi persamaan tersebut adalah….
+A. 1
+B. 2
+C. 4
+D. 6
+Jawab: D
+√𝑥+2−4√𝑥−2+√𝑥+7−6√𝑥−2 =1
+2 2
+√(√𝑥−2−2) +√(√𝑥−2−3) =1 ⇔ |√𝑥−2−2|+|√𝑥−2−3| = 1
+ Jika 𝑥−2 ≥9, maka 2√𝑥−2−5 = 1 ⇔ 𝑥−2 = 32 ⇔ 𝑥 = 11
+ Jika 4 < 𝑥−2 <9, maka √𝑥−2−2+3−√𝑥−2 = 1 ⇔ 1 =1 ⇔ 𝑥 = 7,8,9,10
+ Jika 𝑥−2 ≤4, maka 5−2√𝑥−2 = 1 ⇔ 𝑥−2 = 22 ⇔ 𝑥 = 6
+Jadi, banyak bilangan bulat 𝑥 yang memenuhi persamaan tersebut adalah 6
+8
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 9>>>
+18. Rio ingin bermain Sudoki pada kotak berukuran 4 x 4. Peraturan permainan Sudoki
+adalah setiap sel harus diisi dengan salah satu dari angka 1, 2, 3, atau 4 dengan syarat
+tidak boleh ada angka yang sama dalam pada setiap baris maupun kolom. Berikut
+diberikan salah satu contoh tampilan akhir permainan Sudoki yang mungkin.
+Banyak tampilan sudoki yang mungkin adalah….
+A. 50
+B. 576
+C. 432
+D. 676
+Jawab: B
+Banyak cara memilih angka pada baris pertama adalah 4! =24
+Banyak cara memilih angka pada baris kedua kolom 1 dan 2, masing-masing 3 cara
+Banyak cara memilih angka pada baris kedua kolom 3 dan 4 masing-masing 1 cara
+Jadi banyak cara memilih angka pada baris 2 adalah 3×3= 9 cara
+Dari 9 cara tersebut terdapat 3 pasangan reflektif, misalnya baris pertama (1,2,3,4), maka
+kemungkinan baris kedua (2,1,4,3), (3,4,1,2), atau (4,3,2,1)
+ Jika pada baris 1 dan 2 muncul pasangan reflektif, maka banyak cara memilih angka
+pada baris ketiga sebanyak 4 cara, sehingga diperoleh 24×3×4 =288 tampilan
+ Jika pada baris 1 dan 2 muncul bukan pasangan reflektif, maka banyak cara memilih
+angka pada baris ketiga sebanyak 2 cara, sehingga diperoleh 24×6×2= 288
+tampilan
+Jadi, banyak tampilan sudoki yang mungkin adalah 288+288 =576
+19. Perhatikan gambar setengah lingkaran dengan pusat O.
+Jika ∠𝐵𝑂𝑅 = 48° dan ∠𝑂𝑃𝐴 = 80°, maka besar ∠𝑃𝑄𝑅 =⋯°.
+A. 92
+B. 104
+C. 118
+D. 125
+Jawab: C
+Perhatikan gambar.
+Mudah dipahami bahwa ∆𝑂𝐵𝐷 dan ∆𝑂𝐴𝐶
+𝑥
+𝑦 adalah segitiga sama kaki.
+80°
+∠𝑂𝐴𝐶 +∠𝑂𝐶𝐴 = ∠𝐵𝑂𝐶 ⇔ 2𝑦 = 48 ⇔ 𝑦 =24°
+80° ∆𝑂𝐴𝑃,2𝑥+𝑦+80 = 180 ⇔ 2𝑥 = 76 ⇔ 𝑥 =38°
+∠𝑃𝑄𝑅 adalah sudut luar ∆𝑃𝑄𝐷, sehhhingga:
+𝑦 2𝑥 48° 𝑥
+∠𝑃𝑄𝑅 = 𝑥+80 =38+80 =118°
+9
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 10>>>
+20. Perhatikan urutan lima bangun datar berikut
+Urutan kelima bangun datar disebut ideal jika ketiga syarat berikut terpenuhi
+(i) Ada tepat 1 bangun diantara segilima dan segienam
+(ii) Ada lebih dari 1 bangun diantara segitiga dan segi delapan
+(iii) Segiempat tidak disebelah segienam maupun segi delapan
+Banyaknya urutan yang tidak ideal dari kelima bangun datar tersebut adalah...
+A. 1
+B. 2
+C. 118
+D. 119
+Jawab: C
+Misalkan (3,4,5,6,8) menunjukkan urutan bangun datar berdasarkan jumlah sisinya pada
+gambar di atas. Adapun urutan ideal yang memenuhi ketiga syarat di atas hanyalah
+(3,4,5,8,6) dan urutan refleksinya (6,8,5,4,3).
+Banyak urutan yang mungkin untuk menyusun bangun-bangun datar tersebut adalah
+5! =120
+Jadi, banyak urutan yang tidak ideal dari kelima bangun datar tersebut adalah 120−2=
+118
+21. Jika 𝑎 dan 𝑎 adalah 2 bilangan bulat positif terkecil berbeda yang memenuhi 𝑎9 + 2
+1 2
+habis dibagi 10 maka nilai dari 𝑎 +𝑎 adalah....
+1 2
+A. 18
+B. 22
+C. 24
+D. 26
+Jawab: D
+10|𝑎9+2 apabila angka satuan dari 𝑎9 adalah angka 8 dan tentulah digit terakhir dari 𝑎
+harus angka genap. Dari angka 0,2,4,6,8, bilangan yang menghasilkan digit terakhir
+angka 8 setelah dipangkatkan 9 hanyalah angka 8, berarti dua bilangan terkecil yang
+memenuhi adalah 8 dan 18. Jadi, 𝑎 +𝑎 = 8+18 =26
+1 2
+22. Berikut ini adalah sel 3 x 3 yang akan diisi dengan bilangan bulat positif sedemikian
+sehingga jumlah 3 bilangan dalam setiap baris, kolom, maupun diagonal sama.
+Jika 𝑛 adalah nilai terkecil yang mungkin untuk mengisi
+sel pojok kiri atas, maka jumlah semua bilangan yang
+berada di keempat sel pojok adalah..
+A. 104
+B. 105
+C. 107
+D. 110
+Jawab: A
+10
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 11>>>
+Perhatikan tabel.
+𝑛 5 41
+Jumlah bilangan pada baris I adalah 46+𝑛.
+Karena semua baris, kolom dan diagonal
+2𝑛−29 58−𝑛 17
+berjumlah sama, maka bilangan pada baris III
+75−2𝑛 2𝑛−17 𝑛−12 kolom III adalah 𝑛−12. Akibatnya bilangan pada
+baris II kolom II adalah 58−𝑛.
+Selanjutnya diperoleh baris II kolom I, baris III kolom 2 dan baris III kolom I berturut-
+turut 2𝑛−29,2𝑛−17 dan 75−2𝑛. Jadi jumlah semua bilangan yang berada di keempat
+sel pojok adalah 𝑛+41+75−2𝑛+𝑛−12 = 104
+23. Diketahui suatu persegi panjang 𝐴𝐵𝐶𝐷 dengan titik 𝑃 dan 𝑄 masing-masing berada pada
+sisi 𝐴𝐵 dan 𝐶𝐷 sedemikian sehingga 𝐴𝑃𝐶𝑄 merupakan belah ketupat. Titik 𝑅 merupakan
+titik pusat persegi panjang 𝐴𝐵𝐶𝐷. Titik 𝑆 terletak di sisi 𝐶𝐷 dan 𝑃𝑆 tegak lurus dengan
+sisi 𝐶𝐷. Jika panjang 𝐴𝐵 = 𝑎 dan panjang 𝐵𝐶 = 𝑏 selisih panjang 𝑅𝑆 dan 𝑄𝑆 adalah ....
+𝑎 2𝑎2
+A. √𝑎2 +𝑏2 −
+𝑏 𝑏
+𝑏 𝑏2
+B. √𝑎2 +𝑏2 −
+2𝑎 𝑎
+𝑏 2𝑏2
+C. √𝑎2 +𝑏2 −
+𝑎 𝑎
+2𝑎 𝑎
+D. √𝑎2 +𝑏2 −
+𝑏 𝑏2
+Jawab: B
+𝑎 𝑃 𝑥 Perhatikan gambar.
+𝐴 𝐵
+Misalkan 𝐷𝑄 = 𝑥, maka 𝐶𝑄 = 𝐶𝑃 = 𝑎−𝑥
+𝑅 Pada ∆𝐶𝐵𝑃, 𝐵𝐶2 = 𝑃𝐶2 −𝑃𝐵2
+• 𝑏 𝑏2
+𝑏2 = (𝑎−𝑥)2 −𝑥2 = 𝑎(𝑎−2𝑥) ⇔ 𝑎 −2𝑥 =
+𝑎
+𝑏2
+𝐷 𝑥 𝑄 • 𝑇 𝑆 • 𝐶 𝑄𝑆 = 𝑎−2𝑥 = 𝑎
+Pada ∆𝑅𝑇𝑆;𝑅𝑆2 = 𝑅𝑇2 +𝑇𝑆2 = ( 1 𝑏) 2 +( 1 𝑄𝑆) 2 = ( 1 𝑏) 2 +( 𝑏2 ) 2
+2 2 2 2𝑎
+2
+𝑏
+= ( ) (𝑎2 +𝑏2)
+2𝑎
+𝑏
+𝑅𝑆 = √𝑎2 +𝑏2
+2𝑎
+Jadi, selisih panjang 𝑅𝑆 dan 𝑄𝑆 adalah 𝑅𝑆−𝑄𝑆 = 𝑏 √𝑎2+𝑏 2 - 𝑏2
+2𝑎 𝑎
+24. Perhatikan persamaan berikut.
+𝑥2023−𝑥2021−𝑥2019 −⋯−𝑥3 =2𝑥
+Jumlah dari kuadrat akar-akar real persamaan tersebut adalah….
+A. 0
+B. 4
+C. 6
+D. 9
+11
+Najamuddin-MGMP Matematika SMP Kota Makassar
+
+<<<PAGE 12>>>
+Jawab: B
+𝑥2023−𝑥2021 −𝑥2019 −⋯−𝑥3 = 2𝑥
+𝑥2023−𝑥 =𝑥2021 +𝑥2019+𝑥2017 +⋯+𝑥3+𝑥
+(𝑑𝑒𝑟𝑒𝑡 𝑔𝑒𝑜𝑚𝑒𝑡𝑟𝑖 𝑑𝑒𝑛𝑔𝑎𝑛 𝑟𝑎𝑠𝑖𝑜 𝑥2,𝑛 = 1011)
+𝑥((𝑥2)1011−1)
+= ; 𝑥2 ≠1
+𝑥2−1
+(𝑥2−1)𝑥(𝑥2022−1) =𝑥(𝑥2022 −1)
+(𝑥2−2)𝑥(𝑥2022−1) =0
+(𝑥+√2)(𝑥−√2) 𝑥(𝑥2022−1) =0
+Dari persamaan tersebut diperoleh akar-akar {−√2,−1,0,1,√2}. Karena 𝑥2 ≠1, maka
+akar-akar yang memenuhi adalah −√2,0,√2. Jadi, jumlah dari kuadrat akar-akar real
+persamaan tersebut adalah 2+0+2 =4
+25. Diketahui himpunan A sebagai berikut
+(𝑛−2)2+2 (𝑛−2)3+2 (𝑛−2)4+2
+{ , , ,… }
+𝑚 𝑚 𝑚
+Semua anggota A adalah bilangan bulat positif . Jika 𝑛 adalah kelipatan dari 𝑚, maka
+jumlah semua nilai 𝑚 yang mungkin untuk 𝑛 = 2022 adalah
+A. 3
+B. 6
+C. 12
+D. 28
+Jawab: C
+2020𝑘+2
+Untuk 𝑛 = 2022, maka anggota A berbentuk untuk 𝑘 =2,3,4…
+𝑚
+Jika 𝑛 adalah kelipatan dari 𝑚 maka 𝑚 adalah faktor dari 2022, yaitu
+1,2,3,6,337,674,1011,2022.
+Agar
+2020𝑘+2
+merupakan bilangan bulat positif, maka 𝑚|2020𝑘 +2
+𝑚
+Jelas bahwa, 1|2020𝑘 +2 dan 2|2020𝑘 +2.
+2020𝑘 =(673×3+1)𝑘. Hal ini berarti bahwa 2020𝑘 ≡ 1 (𝑚𝑜𝑑 3)atau 2020𝑘 +2≡
+0 (𝑚𝑜𝑑 3). Dengan demikian 3|2020𝑘 +2, akibatnya 6|2020𝑘 +2. Sementara itu,
+337,674,1011,2022 tidak habis membagi 2020𝑘 +2 untuk 𝑘 =2.
+Jadi, jumlah semua nilai 𝑚 yang mungkin untuk 𝑛 = 2022 adalah 1+2+3+6 =12
+Catatan:
+Pembahasan ini tidak dijamin sepenuhnya benar. Kesalahan kalkulasi atau perbedaan dalam
+menfsirkan soal sangat dimungkinkan terjadi. Oleh karena itu, tugas para pembaca untuk memberi
+koreksi atau saran yang positif.(CMIIW)
+Terima kasih kepada Bapak Miftahus Saidin (Surabaya) atas segala bentuk sharing ilmunya,
+demikian juga Pengurus dan Anggota MGMP Matematika SMP Kota Makassar atas segala
+bentuk motivasinya sehingga pembahasan soal OSN Matematika SMP tingkat kabupaten/kota
+Tahun 2022 ini dapat diselesaikan.
+Jazakumullah khairan katsiiraa
+12
+Najamuddin-MGMP Matematika SMP Kota Makassar

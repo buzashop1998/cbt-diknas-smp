@@ -1,0 +1,191 @@
+{
+ "id": "2024-mat-prov",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Misalkan 𝑝 dan 𝑞 adalah bilangan asli yang memenuhi persamaan 𝑝(𝑝 − 70) + 𝑞(𝑞 − 70) + 2𝑝𝑞 = 2024. Banyaknya pasangan (𝑝,𝑞) yang mungkin adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Misalkan 𝑛 adalah bilangan bulat positif tiga digit. Didefinisikan 𝑓(𝑛) adalah jumlah 𝑛 dan semua digit dari 𝑛. Sebagai contoh, 𝑓(231) = 231 + 2 + 3 + 1 = 237. Jika 𝑎 dan 𝑏 juga bilangan tiga digit sehingga 𝑓(𝑎) = 204 dan 𝑓(𝑏) = 535, maka nilai terkecil yang mungkin dari 𝑎 + 𝑏 adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Bilangan kaset adalah bilangan bulat positif yang seluruh digitnya prima dan hasil perkalian seluruh digitnya sama dengan 10 kali hasil penjumlahan seluruh digitnya. Banyaknya bilangan kaset adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Banyaknya bilangan bulat positif yang kurang dari 101 dan bisa dinyatakan sebagai hasil penjumlahan setidaknya 4 bilangan bulat positif berurutan adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Diketahui persamaan 1 1 1 = + 𝑥 − 𝑦 − 𝑧 𝑦 𝑧 Banyaknya triple (𝑥,𝑦,𝑧) yang memenuhi persamaan di atas dimana 𝑥, 𝑦, dan 𝑧 bilangan prima atau negatif bilangan prima adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Diberikan dua fungsi 𝑓(𝑥) = 𝑥3 − 𝑝𝑥2 + 189𝑥 − 𝑞 𝑔(𝑥) = 𝑥3 − 𝑟𝑥2 + 144𝑥 − 𝑠. Akar 𝑓(𝑥) adalah 𝑎, 𝑎, dan 𝑏, sedangkan akar 𝑔(𝑥) adalah 𝑎,𝑏, dan 𝑏. Jika 𝑎,𝑏,𝑝,𝑞,𝑟, dan 𝑠 bilangan bulat positif, maka nilai (𝑝 + 𝑞) − (𝑟 + 𝑠) = ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "Misalkan 𝑝𝑞 + 2024 𝑞𝑟 + 2024 𝑟𝑠 + 2024 𝑠𝑝 + 2024 𝑘 = + + + 𝑝 + 2024 (𝑞 + 1) 2024 𝑟 + 2024 (𝑠 + 1) 2024 dengan 𝑝,𝑞,𝑟,𝑠 bilangan real positif dan 𝑝𝑞𝑟𝑠 = 20242. Jika 𝑥 adalah nilai minimum dari 𝑘, maka nilai dari 1000𝑥 adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Pada fungsi 𝑓(𝑥) berlaku persamaan (𝑥 − 1) ∙ 𝑓(𝑥 + 1) = (𝑥 + 2) ∙ 𝑓(𝑥) 𝑓(2024) Jika = 𝑎, maka banyaknya faktor prima 𝑎 adalah …. 𝑓(2)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 9,
+   "text": "Diketahui untuk setiap nilai 𝑎 dan 𝑏 pada fungsi 𝑓 dan 𝑔 memenuhi persamaan-persamaan berikut: 2𝑓(𝑎)+ 3𝑔(𝑏) = 6 3𝑓(𝑏) + 2𝑔(𝑎) = 7 [𝑓(𝑎)]2 + [𝑔(𝑎)]2 = 1 𝑓(𝑎 + 𝑏) = 𝑓(𝑎) 𝑔(𝑏) + 𝑓(𝑏)𝑔(𝑎). Nilai dari 𝑓(𝑎 + 𝑏) = ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 10,
+   "text": "Suatu fungsi kuadrat 𝑦 = 𝑓(𝑥) melalui titik (0,3) dan memenuhi −1 ≤ 𝑓(−2) ≤ 1 dan −2 ≤ 𝑓(2) ≤ 2. Jika nilai maksimum fungsi kuadrat 𝑦 = 𝑓(𝑥) adalah 𝑀, maka nilai 840𝑀 = ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 11,
+   "text": "Perhatikan gambar dibawah ini. Setengah lingkaran 𝑋 memiliki pusat 𝑂 dan diameter 𝐴𝐵. Di dalam setengah lingkaran 𝑋 terdapat 4 buah setengah lingkaran 𝑃,𝑄,𝑅 dan 𝑆 dengan masing- masing pusatnya 𝑂 ,𝑂 ,𝑂 , dan 𝑂 . Garis 𝐴𝑂 dan 𝑂𝐵 merupakan diameter 1 2 3 4 setengah lingkaran 𝑃 dan 𝑄. Garis 𝐶𝐷 adalah tali busur setengah lingkaran 𝑋 yang sejajar dengan garis 𝐴𝐵 dan menyinggung setengah lingkaran 𝑃 dan 𝑄. Titik 𝐹 adalah titik tengah 𝐶𝐷. Diameter setengah lingkaran 𝑅 dan 𝑆 berada pada garis 𝐶𝐷 sehingga kedua setengah lingkaran tersebut bersinggungan di titik 𝐹 dan menyinggung busur setengah lingkaran 𝑋. Jika perbandingan luas daerah yang berwarna merah dan luas daerah yang berwarna putih dapat dinyatakan dalam bentuk perbandingan yang paling sederhana 𝐴:𝐵, maka nilai dari 𝐴 + 𝐵 adalah ....",
+   "images": [
+    "img2/2024-mat-prov/2024-mat-prov_p3_0001.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 12,
+   "text": "Diketahui persegi 𝐴𝐵𝐶𝐷 dengan panjang sisi 4 satuan panjang. Titik 𝐷 diputar 600 searah jarum jam dengan pusat putaran titik 𝐴 dan diperoleh titik 𝐷′. Titik 𝐴,𝐵, dan 𝐶 masing-masing dicerminkan terhadap titik 𝐷 ’ dan diperoleh masing-masing titik 𝐴′,𝐵′, dan 𝐶′. Jika luas segiempat 𝐴′𝐵′𝐶′𝐷′sama dengan 𝑎 − 𝑏√3 satuan luas, maka nilai 𝑎 × 𝑏 = ....",
+   "images": [
+    "img2/2024-mat-prov/2024-mat-prov_p4_0002.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan segitiga siku-siku 𝐴𝐵𝐶 berikut. Diketahui lingkaran 𝐿 yang jari-jarinya 𝑟 cm dengan 𝑟 bilangan bulat, menyinggung ketiga sisi segitiga 𝐴𝐵𝐶 . Kemudian, digambar garis ℓ yang melalui titik pusat lingkaran 𝐿 dan sejajar 𝐵𝐶. Garis ℓ memotong 𝐴𝐵 di 𝑃 dan 𝐴𝐶 di 𝑄, serta memotong lingkaran 𝐿 di 𝑋 dan 𝑌. Jarak 𝑋 ke AB kurang dari jarak 𝑌 ke 𝐴𝐵. Jika 𝑃𝑋 = 1,5 cm dan 𝑄𝑌 = 4 cm, maka luas daerah lingkaran 𝐿 adalah ...𝜋 cm2.",
+   "images": [
+    "img2/2024-mat-prov/2024-mat-prov_p5_0003.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 14,
+   "text": "Sebuah perusahaan akan mengepak bola-bola dengan ukuran diameter 10 cm ke dalam suatu wadah berbentuk balok dengan ukuran bagian dalam 50 cm× 50 cm × 60 cm. Maksimum banyaknya bola yang dapat dimasukkan ke dalam wadah tersebut adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 15,
+   "text": "Segi enam 𝐴𝐵𝐶𝐷𝐸𝐹 memiliki sisi yang sama panjang dan semua sudutnya kurang dari 180∘, serta 𝐴𝐵 sejajar 𝐷𝐸, 𝐵𝐶 sejajar 𝐸𝐹, 𝐶𝐷 sejajar 𝐹𝐴. Koordinat 𝐴 = (0,0), 𝐵 = (𝑥 ,2),𝐶 = (𝑥 ,𝑦 ),𝐷 = (𝑥 ,10),𝐸 = (0,𝑦 ),𝐹 = (𝑥 ,𝑦 ) dan, 𝑏 𝑐 𝑐 𝑑 𝑒 𝑓 𝑓 sudut ∠𝐹𝐴𝐵 = 120∘. Ordinat dari semua titik sudut segi enam merupakan elemen dari {0,2,4,6,8,10} dan tidak ada yang bernilai sama. Luas daerah 𝐴𝐵𝐶𝐷𝐸𝐹 dapat ditulis dalam bentuk 𝑞√𝑝, dengan 𝑞 merupakan bilangan bulat dan 𝑝 merupakan bilangan prima. Nilai dari 𝑝 + 𝑞 = ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 16,
+   "text": "Kelompok 𝐴 terdiri atas empat bilangan bulat berbeda dengan rata-rata 76 dan jangkauan 10. Kelompok 𝐵 terdiri atas lima data bilangan bulat berbeda dengan rata-rata 80 dan jangkauan 6. Kelompok 𝐶 adalah gabungan data dari kelompok 𝐴 dan 𝐵 yang berbeda. Banyaknya kemungkinan kelompok 𝐶 yang mempunyai rata-rata lebih besar dari rata-rata gabungan kelompok 𝐴 dan 𝐵 adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 17,
+   "text": "Diketahui rata-rata dari lima bilangan 6, 11, 9, 7, dan 𝑥 sama dengan mediannya. Jika jumlah semua nilai 𝑥 yang mungkin adalah 𝑅, maka 4𝑅 = ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 18,
+   "text": "Diberikan himpunan 𝑆 = {1,2,⋯,𝑛} yang beranggotakan 𝑛 bilangan asli 𝑛 pertama. Misalkan sebuah himpunan bagian akan dipilih, serta diasumsikan setiap himpunan bagian tersebut memiliki peluang yang sama untuk terpilih. Selanjutnya didefinisikan 𝑝(𝑛) sebagai peluang terpilihnya himpunan bagian yang di antara anggotanya tidak terdapat dua bilangan bulat berjumlah 𝑛 + 1. Sebagai contoh, dari himpunan 𝑆 = {1,2,3,4}, terdapat 16 himpunan bagian 4 yang dapat dibentuk, yaitu ∅, {1}, {2}, {3}, {4}, {1,2}, {1,3}, {1,4}, {2,3}, {2,4}, {3,4}, {1,2,3}, {1,2,4}, {1,3,4}, {2,3,4}, {1,2,3,4}. Terdapat 7 himpunan bagian yang di antara anggotanya adalah dua bilangan bulat berjumlah 5 (karena 𝑛 + 1 = 4 + 1 = 5 ), yaitu {1,4}, {2,3}, {1,2,3}, {1,2,4}, {1,3,4}, {2,3,4}, {1,2,3,4}. Perhatikan bahwa sembilan himpunan bagian 9 lainnya tidak memiliki sifat tersebut, sehingga 𝑝(4) = . 16 1 Bilangan genap 𝑛 terkecil sehingga 𝑝(𝑛) < adalah .... 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 19,
+   "text": "Dari sepuluh orang atlet tenis meja putra di Tim Raja Ping Pong akan dipilih empat pasangan ganda putra untuk didaftarkan mengikuti kompetisi nasional 2024. Liam dan Kadek adalah dua dari sepuluh atlet tersebut. Keduanya tidak boleh dipasangkan karena memiliki tipe permainan yang sama. Banyaknya kemungkinan empat pasangan yang didaftarkan adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 20,
+   "text": "Di dalam kotak terdapat 100 buah sapu tangan merah, 80 buah sapu tangan hijau, 60 buah sapu tangan biru, dan 40 buah sapu tangan hitam. Seorang anak mengambil satu buah sapu tangan pada setiap pengambilan dengan mata tertutup. banyaknya pengambilan minimum yang diperlukan untuk menjamin dia memperoleh 13 pasang sapu tangan (sepasang sapu tangan terdiri dari 2 buah sapu tangan dengan warna yang sama) adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  }
+ ]
+}

@@ -1,0 +1,609 @@
+{
+ "id": "2021-ips-kabkota-c",
+ "meta": [
+  "IPS",
+  "Kabupaten/Kota",
+  "Paket C"
+ ],
+ "questions": [
+  {
+   "num": 1,
+   "text": "Soal terdiri dari bentuk Pilihan Ganda (60 butir);",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 2,
+   "text": "Untuk soal pilihan jamak , pilihlah salah satu jawaban yang paling tepat dengan mengklik pilihan yang tepat. Anda tidak dapat mengganti jawaban jika jawaban sudah dikirim. Semua jawaban benar akan mendapatkan skor 4, jawaban salah (skor -1) dan tidak menjawab bernilai nol (0)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 3,
+   "text": "Pilihlah jawaban yang menurut kalian paling benar",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 4,
+   "text": "Periksa kembali jawaban kalian sebelum dikirimkan kepada panitia lomba.\n________________\n\n\n\n\nSOAL KOMPETISI SAINS NASIONAL-SELEKSI TAHAPAN PENYISIHAN\n1. Salah satu yang menjadi alasan Indonesia disebut sebagai negara maritim ....\n1. Memiliki potensi barang tambang di laut\n2. Memiliki garis pantai terpanjang di dunia\n3. Memiliki keanekaragaman flora dan fauna laut\n4. Memiliki sumber daya alam kelautan yang besar\n\n\n2. Indonesia merupakan salah satu negara yang terletak pada iklim tropis, salah satu dampak dari letaknya tersebut adalah….\n1. Perbedaan suhu udara yang ekstrem saat siang dan malam hari\n2. Terjadinya musim hujan yang berkepanjangan setiap tahun\n3. Aktivitas masyarakat dapat dilakukan sepanjang tahun\n4. Aktivitas masyarakat terganggu karena musim\n\n\n\n\n3. Perhatikan gambar di bawah ini!\n\n\n\n\nAktivitas petani sawah di Indonesia yang dapat dilakukan berdasarkan gambar di atas adalah .....\n1. Membiarkan lahannya untuk tidak ditanami\n2. Memperbaiki jaring untuk memancing\n3. Mulai melakukan bercocok tanam\n4. Melakukan perawatan lahan pertanian\n\n\n4. Perhatikan pernyataan berikut ini!\n1. Waktu siang dan malam hari hampir sama\n2. Memiliki musim panas yang terasa panas dan kering\n3. Dipengaruhi angin musim yang berubah setiap periode waktu\n4. Banyak menimbulkan penguapan karena wilayah laut yang luas\nDari pernyataan di atas mana saja dari pernyataan di atas yang merupakan ciri iklim di Indonesia?\n1. 1, 2, dan 3\n2. 1, 2, dan 4\n3. 1, 3, dan 4\n4. 2, 3, dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 5,
+   "text": "Aktivitas pasca vulkanik yang dapat dilakukan oleh masyarakat untuk mendukung kehidupan keluarga yang tinggal di sekitar gunung berapi adalah .....\n1. Mengungsi di tempat saudara\n2. Membersihkan rumah dan pekarangan\n3. Menanam tanaman yang bernilai tinggi\n4. Menambang galian golongan C",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 6,
+   "text": "Perhatikan jenis-jenis flora di bawah ini!\n1. Anggrek, eboni\n2. Lumut, matoa\n3. Cengkeh, cendana\n4. Rasamala, eukaliptus\nBerdasarkan jenis flora di atas, manakah yang termasuk flora Indonesia bagian tengah/peralihan .....\n1. 1 dan 2\n2. 1 dan 3\n3. 2 dan 3\n4. 2 dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 7,
+   "text": "Wilayah Nusa Tenggara Timur didominasi oleh tanah tertier atau tanah dengan bahan induk bukan vulkanik. Tanaman yang cocok untuk dikembangkan di wilayah tersebut adalah .....\n1. Kacang tanah dan kentang\n2. Kacang tanah dan kedelai\n3. Kentang dan wortel\n4. Kedelai dan talas",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 8,
+   "text": "Perhatikan ciri-ciri tanah berdasarkan sifat batuan induknya dibawah ini!\n1. Terbentuk dari material vulkanik\n2. Terbentuk dari hasil pembusukan\n3. Warna tanah kehitaman dan basah\n4. Warna tanah cokelat kegelapan\nCiri tanah dengan bahan induk organik ditunjukkan pada nomor.....\n1. 1 dan 2\n2. 1 dan 3\n3. 2 dan 3\n4. 2 dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 9,
+   "text": "Kota A terletak pada koordinat 106o LS dan 90o BT, bergerak secara horizontal ke arah timur (kota B) sejauh 444 Km. berapakah nilai koordinat kota B?\n1. 110o LS dan 86 o BT\n2. 102o LS dan 90 o BT\n3. 106o LS dan 94 o BT\n4. 102o LS dan 86 o BT",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 10,
+   "text": "Peta yang menggambarkan wilayah provinsi seluruh Indonesia dengan skala 1:1.000.000 termasuk ke dalam peta .....\n1. Skala kecil\n2. Skala sedang\n3. Skala besar\n4. Skala kadaster",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 11,
+   "text": "Tanah aluvial umumnya ditemukan di wilayah dataran rendah, jenis tanah ini terbentuk dari yang berasal dari .....\n1. Pelapukan batuan beku\n2. Pelapukan batu pasir\n3. Sedimentasi lumpur\n4. Pembusukan organik",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 12,
+   "text": "Perhatikan gambar rumah adat di bawah ini!\n\n\n\n\nRumah adat Omo Hada merupakan salah satu bangunan tradisional yang tahan/ramah terhadap gempa bumi, rumah adat ini berasal dari .....\n1. Padang\n2. Nias\n3. Riau\n4. Papua",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan pernyataan di bawah ini!\n1. Mengurangi biaya angkut bahan mentah\n2. Meningkatkan aktivitas ekonomi di daerah\n3. Menekan biaya produksi bahan mentah\n4. Memudahkan proses distribusi barang\nManfaat yang diperoleh dari dibangunnya pelabuhan dan jalur kereta api adalah .....\n1. 1 dan 2\n2. 1 dan 3\n3. 2 dan 3\n4. 2 dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 14,
+   "text": "Dampak letak geostrategis Indonesia di bidang transportasi adalah .....\n1. Memiliki banyak armada angkutan\n2. Menjadi jalur perdagangan dunia\n3. Maraknya kendaraan mewah di jalan\n4. Mudahnya mengangkut hasil pertanian",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 15,
+   "text": "Perhatikan beberapa aktivitas penduduk di bawah ini!\n1. Membuka usaha jasa\n2. Karyawan perkantoran\n3. Berdagang hasil bumi\n4. Buruh perkebunan teh\nAktivitas penduduk yang biasanya ditemukan pada daerah dataran rendah adalah .....\n1. 1 dan 2\n2. 1 dan 3\n3. 2 dan 3\n4. 2 dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 16,
+   "text": "MPR dan DPR adalah salah satu contoh dari lembaga politik yang ada di suatu negara. Salah satu ciri utama MPR dan DPR adalah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Organisasinya bersifat sukarela",
+    "B": "Memiliki kepentingan elektoral",
+    "C": "Struktur organisasi formal",
+    "D": "Berorientasikan keuntungan ekonomi"
+   },
+   "isian": false
+  },
+  {
+   "num": 17,
+   "text": "Perhatikan pernyataan di bawah ini !\n1) Kebiasaan mabuk-mabukan, penggunaan obat-obatan terlarang,\n2) Seseorang yang menjadi pencuri\n3) Perilaku seorang pejabat yang melakukan korupsi\n4) Perilaku melanggar rambu-rambu lalu lintas, dan mengebut di jalanan\nBerdasarkan pernyataan diatas, manakah yang termasuk penyimpangan primer ?",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1, 2",
+    "B": "1, 3",
+    "C": "2, 3.",
+    "D": "3, 4"
+   },
+   "isian": false
+  },
+  {
+   "num": 18,
+   "text": "Seorang remaja merupakan siswa teladan pada saat masih bersekolah di SMA. Perilakunya berubah ketika mulai menjadi mahasiswa karena pergaulannya dengan teman-temannya yang bermasalah. Mereka berasal dari berbagai daerah yang kuliah bersamaan. Akibatnya pergaulan tersebut, remaja ini sering mabuk-mabukan dan bolos kuliah. Remaja itu kemudian memiliki prestasi yang anjlok. Berdasarkan pernyataan tersebut, faktor yang menyebabkan terjadinya penyimpangan sosial adalah…\n 1. Ketidakharmonisan orang tua\n 2. Kegagalan adaptasi norma dan nilai\n 3. Sosialisasi sub kebudayaan menyimpang\n 4. Sosialisasi tidak sempurna",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 19,
+   "text": "Pembangunan Taman Bumi (Geopark) yang sebelumya adalah lahan perbukitan memberikan dampak ekonomi berupa….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Penyerapan tenaga kerja",
+    "B": "Kerusakan lingkungan",
+    "C": "Hilangnya budaya lokal",
+    "D": "Meningkatnya kenakalan remaja"
+   },
+   "isian": false
+  },
+  {
+   "num": 20,
+   "text": "Untuk mengatasi masalah sosial yang dialami oleh masyarakat yang mengalami kesulitan interaksi warga karena merupakan kelompok disabilitas dan penyandang 11 cacat tubuh oleh pemerintah dilakukan melalui pendirian … .\n A. Panti Asuhan Bina Grahita",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "B": "Panti Sosial Bina Daksa",
+    "C": "Panti Sosial Bina Masyarakat",
+    "D": "Panti Sosial Bina Lansia"
+   },
+   "isian": false
+  },
+  {
+   "num": 21,
+   "text": "Rasisme adalah suatu golongan manusia yang mengidentifikasi dirinya dengan sesama berdasarkan….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "persamaan garis politik, ideologi dan silsilah yang berkembang dominan di masyarakat",
+    "B": "karakteristik fisik atau biologis orang yang sama dan diwariskan dari generasi ke generasi",
+    "C": "garis keturunan yang dianggap sama dengan merujuk ciri khas seperti: budaya, bangsa, bahasa, agama dan perilaku",
+    "D": "sistem kepercayaan atau doktrin yang menyatakan bahwa perbedaan biologis yang melekat pada ras manusia menentukan pencapaian budaya atau individu Infografis Ini untuk soal no 22 dan 23"
+   },
+   "isian": false
+  },
+  {
+   "num": 22,
+   "text": "Berdasarkan data dari badan pembinaan dan Pengembangan Bahasa, Kementerian Pendidikan dan Kebudayaan.Ada 11 Bahasa Lokal Yang punah, 6 dalam kondisi kritis dan 25 bahasa yang terancam punah di Indonesia.\n\n\n\n\nBerdasarkan data diatas bukti yang bisa merawat warisan bahasa daerah dari ancaman kepunahan adalah … .\n1. Manuskrip dan tradisi lisan\n2. Manuskrip, permainan tradisional, teknologi tradisional\n3. Tradisi lisan, adat istiadat, seni\n4. Olah raga tradisional, ritus, bahasa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 23,
+   "text": "Berdasarkan infografis yang disajikan di No 22 terlihat adanya bahasa sebagai kekayaan keanegaraman masyarakat Indonesia. Menurut data Badan Bahasa Kemdikbud, dari 34 provinsi di Indonesia, ada sebanyak 718 bahasa daerah yang sudah teridentifikasi per tahun 2020 ini. Keanekaragaman bahasa berdasarkan letak geografis dan persebaran budaya dapat terintegrasi dengan cara ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Penggunaan bahasa daerah melalui penetapan undang-undang",
+    "B": "Mengajukan bahasa daerah sebagai warisan budaya kepada UNESCO",
+    "C": "Menggunakan bahasa Indonesia sebagai bahasa persatuan",
+    "D": "Menumbuhkan kebanggaan bahasa etnis dan primordialisme di masyarakat"
+   },
+   "isian": false
+  },
+  {
+   "num": 24,
+   "text": "Perhatikan gambar berikut!\nBerdasarkan gambar di atas ini, peran lembaga sosial dalam pemberdayaan masyarakat adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Menyalurkan bantuan pangan kepada masyarakat korban pandemic Covid-19",
+    "B": "Memberikan bantuan dana untuk kegiatan rekonstruksi pasca bencana",
+    "C": "Memberikan pembelajaran tentang budidaya tanaman di lahan gambut",
+    "D": "Melakukan penguatan kapasitas kelembagaan organisasi masyarakat lokal"
+   },
+   "isian": false
+  },
+  {
+   "num": 25,
+   "text": "Organisasi sosial perempuan seharusnya memiliki peran yang nyata di masyarakat. Salah satunya dengan cara melakukan fungsi pemberdayaan lewat partisipasinya di bidang Pendidikan dan Ekonomi. Salah satu contoh bentuk tindakannya antara lain:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Organsasi pemudi Hindu melakukan Jambore untuk peningkatan solidaritas",
+    "B": "Organisasi pemudi Muslim memberikan pelatihan keterampilan menjahit",
+    "C": "Organisasi pemudi Kristen merayakan Paskah bersama di gerejanya",
+    "D": "Organsiasi pemudi Katolik mengikuti kegiatan Misa Natal bersama di wilayahnya"
+   },
+   "isian": false
+  },
+  {
+   "num": 26,
+   "text": "Berikut ini contoh interaksi manusia dengan alam:\n1. Nelayan asal Makassar berlayar hingga ke Laut Natuna untuk mencari ikan\n2. Penjual emas menjual emas dengan harga yang fluktuatif tergantung harga emas hari itu\n3. Petani sayur di Riau menggunakan sistem pertanian terpadu organik\n4. Pedagang dari Padang banyak menjual barangnya di Pasar Tanah Abang\nPernyataan diatas yang menunjukkan jenis pekerjaan yang memiliki tingkat ketergantungan tinggi pada alam adalah…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1,2",
+    "B": "1,3",
+    "C": "1,4",
+    "D": "2,3"
+   },
+   "isian": false
+  },
+  {
+   "num": 27,
+   "text": "Tari Seudati dari Aceh merupakan hasil akulturasi dengan budaya Islam yang dapat memperkaya budaya. Namun ada juga budaya lokal yang justru menghilang karena kelompok muda lebih memilih budaya asing. Dampak sosial jangka panjang dari adanya akulturasi ini adalah..",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Tari Seudati dianggap tidak mengakomodasi selera anak muda sekarang",
+    "B": "Budaya lokal dianggap kurang mengikuti trend yang berkembang saat ini",
+    "C": "Budaya asing dianggap komoditas yang lebih memiliki nilai ekonomi tinggi",
+    "D": "Budaya asing akan menghilangkan rasa kebanggaan identitas suku Aceh"
+   },
+   "isian": false
+  },
+  {
+   "num": 28,
+   "text": "Perhatikan pernyataan berikut ini!\n\n\n1. Krisis politik karena demokrasi tidak dilaksanakan sebagaimana mestinya\n2. Peningkatan jumlah pengangguran karena bangkrutnya perusahaan\n3. Krisis hukum karena hukum dijadikan alat pembenaran penguasa\n4. Kerusuhan sosial yang terjadi di beberapa tempat di Indonesia\n5. Krisis moneter pada tahun 1997 yang mengakibatkan kenaikan harga bahan pokok\n\n\nPernyataan yang menunjukkan faktor sosial pendorong munculnya Gerakan Reformasi di Indonesia pada tahun 1998 adalah … .\n1. 1,2, 3\n2. 1,3, 5\n3. 2,3, 4\n4. 2,4, 5",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 29,
+   "text": "Perhatikan narasi berikut ini!\nProf.Dr. Ing B.J. Habibie merupakan salah satu ilmuan Indonesia yang terkenal di dunia karena sebagai ahli pesawat terbang. Dilahirkan dari keluarga yang sederhana namun mampu menempuh pendidikan tinggi di Jamannya. Faktor pendorong mobilitas sosial yang menjadi penentu kesuksesan beliau adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Penghargaan masyarakat akan kualifikasi dirinya",
+    "B": "Akses terhadap informasi pekerjaan di luar",
+    "C": "Pilihannya untuk menetap di luar negeri",
+    "D": "Penguasaan teknologi dan ilmu pengetahuan"
+   },
+   "isian": false
+  },
+  {
+   "num": 30,
+   "text": "Fungsi yang dilakukan oleh lembaga politik dalam menghadapi tindakan anarkis yang dilakukan masyarakat adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Bekerja sama dengan masyarakat untuk meningkatkan pengendalian sosial",
+    "B": "Menjaga ketertiban di dalam masyarakat dengan cara persuasif atau represif",
+    "C": "Memberikan sanksi sosial dengan memecat yang bersangkutan dari keanggotaan lembaga politik",
+    "D": "Memilih kader partai dengan kualifikasi tinggi dengan rekam jejak organisasi yang baik"
+   },
+   "isian": false
+  },
+  {
+   "num": 31,
+   "text": "Pernyataan yang benar mengenai pola persebaran penduduk Indonesia berdasarkan perkembangan teknologi adalah….\n1. Gelombang migran Proto Melayu yang membawa budaya sawah basah ke Indonesia.\n2. Proto Melayu adalah migrasi gelombang pertama yang didukung oleh tradisi Nekara.\n3. Suku Mentawai Pedalaman di duga merupakan salah satu suku bagian dari migrasi Proto Melayu.\n4. Kapak persegi peralatan yang dibawa oleh migran Proto Melayu melalui jalur Barat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 32,
+   "text": "Jalur migrasi nenek moyang bangsa Indonesia yang dikenal dengan Deutro Melayu atau Melayu Muda. Wilayah yang dilewati jalur tersebut adalah….\n1. Filipina\n2. Taiwan\n3. Nusa Tenggara Barat\n4. Sumatera",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 33,
+   "text": "Sistem kepercayaan pada masyarakat praaksara dapat dilihat pada bukti-bukti berupa artefak, gambar atau simbol lainnya. Bukti peninggalan sejarah berikut ini yang menunjukkan sistem kepercayaan masyarakat Pra Aksara pada masa bercocok tanam adalah....\n1. Sarkofagus berfungsi sebagai peti mati.\n2. Lukisan di Gua Leang-Leang, Maros, Sulawesi Selatan.\n3. Dolmen digunakan untuk penyembahan nenek moyang .\n4. Tempayan dijadikan tempat menguburkan tulang.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 34,
+   "text": "Pembuatan alat-alat perunggu pada masa praaksara menggunakan berbagai macam teknik. Suatu teknik yang menggunakan cetakan dua setangkap terbuat dari tanah liat basah, setelah kering logam cair dituangkan kedalamnya dan didiamkan sampai dingin lalu cetakan dibuka adalah….\n1. Abris Sous Roche\n2. Bisolve\n3. A Cire Perdue\n4. Bivolve",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 35,
+   "text": "Perdagangan di Indonesia sudah terjadi pada masa Hindu-Budha sebagai bagian dari jejak perekonomian. Kerajaan Hindu-Budha yang masyarakatnya memiliki kegiatan perdagangan maritim adalah....\n1. Sriwijaya\n2. Singasari\n3. Kediri\n4. Kutai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 36,
+   "text": "Penyebaran agama Islam di Nusantara dilakukan dengan berbagai cara diantaranya melalui dakwah dan kesenian. Media yang digunakan Sunan Kalijaga untuk menyebarkan agama Islam di Nusantara adalah….\n1. Suluk Wijil dan Tembang Suluk\n2. Wayang dan Tembang Suluk\n3. Gending Asamarandana dan Permainan Jelungan\n4. Permainan Jelungan dan Suluk Wijil",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 37,
+   "text": "Bangsa Eropa mengandalkan teknik pembuatan kapal yang dapat digunakan untuk mengarungi samudra luas dan mencari wilayah potensial untuk mencari kejayaannya. Salah satu alasan bangsa Eropa datang ke Indonesia adalah…\n1. Mencari kekayaan.\n2. Letak Astronomis.\n3. Kebudayaan yang unik.\n4. Jumlah penduduk",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 38,
+   "text": "Revolusi Industri adalah perubahan besar terhadap cara manusia dalam mengolah sumber daya dan memproduksi barang yang berdampak pada kondisi sosial, ekonomi, dan budaya di dunia, termasuk Indonesia. Tiga faktor pendorong terjadinya revolusi industri fase kedua sekitar tahun 1860 adalah…\n1. Pembangunan, produksi masal besi, munculnya listrik.\n2. Letak geografis, kekayaan sumber daya alam, dan teknologi.\n3. Sistem produksi, mobilitas sosial, dan interaksi sosial.\n4. Interaksi sosial, sistem ketenagakerjaan dan pendidikan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 39,
+   "text": "Untuk menyelamatkan negeri Belanda dari bahaya kebangkrutan maka Johanes van den Bosch di tugaskan untuk mengembalikan eksistensi Belanda di negeri jajahannya dengan penerapan Sistem Tanam Paksa (STP). Jenis tanaman yang ditanamkan pada sistem tanam paksa adalah….\n1. Kopi, teh, tebu dan nila\n2. Kopi, kelapa, gula dan ayam\n3. Kopi, teh, gula dan nila\n4. Kopi, alpukat, kelapa dan tebu",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 40,
+   "text": "Perhatikan karakteristik-karakteristik organisasi pada masa Pergerakan Nasional di Indonesia berikut ini :\n1. Kaum terpelajar\n2. Semangat religius\n3. Kaum moderat\n4. Kooperatif\n5. Radikal\n6. Memobilisasi masa\nKarakteristik berikut ini yang merupakan ciri khas dari organisasi Perhimpunan Indonesia adala ....\n1. 4 – 5 – 6\n2. 1 – 3 – 5\n3. 3 – 4 – 5\n4. 2 – 3 – 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 41,
+   "text": "Pergerakan nasional dan keagamaan ditandai oleh munculnya organisasi yang diprakarsai oleh tokoh-tokoh pada saat itu. Pasangan pernyataan yang paling tepat adalah….\n1. Moh Hatta – Partai Nasional Indonesia – Bapak Kooperasi\n2. Cipto Mangunkusumo – Perhimpunan Indonesia – Anggota Volksraad\n3. Ahmad Dahlan – Pembaharuan Islam – Muhammadyah\n4. Ki Hajar Dewantara – Tut Wuri Handayani – Perguruan Kebangsaan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 42,
+   "text": "Pada masa Kabinet Hatta II, situasi ekonomi Indonesia mengalami keterpurukan seperti utang menumpuk, inflasi tinggi dan harga yang naik sehingga diambil kebijakan-kebijakan ekonomi. Ciri dari kebijakan ekonomi yang dikenal dengan “sistem ekonomi Ali-Baba” adalah….\n1. melibatkan pengusaha pribumi dan pengusaha keturunan.\n2. sanering, pemotongan nilai mata uang rupiah.\n3. peningkatan ekspor ke negara-negara Eropa.\n4. Pemberian bantuan kepada pengusaha pribumi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 43,
+   "text": "Perhatikan cerita singkat tokoh berikut ini, “ Lahir pada tanggal 13 September 1916 di kota Sawahlunto. Zaman Jepang Ia bergabung di organisasi Sendenbu,Ia penyususn rencana dan pengatur penculikan Soekarno-Hatta ke Rengasdengklok agar keduanya segera melaksanakan proklamasi”. Tokoh dimaksud dalam uraian tersebut adalah….\n1. Iwa Kusumasumantri.\n2. Chaerul Saleh\n3. Sayuti Melik.\n4. Achmad Subardjo.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 44,
+   "text": "Dengan disetujuinya hasil-hasil Konferensi Meja Bundar (KMB) pada tanggal 2 November 1949 di Den Haag, maka terbentuklah negara Republik Indonesia Serikat (RIS). Dampak terbentuknya RIS terhadap perkembangan politik di Indonesia adalah….\n1. Negara Republik Indonesia meliputi daerah menurut status quo seperti dimaksud dalam perjanjian Linggarjati.\n2. Soekarno dilantik sebagai Presiden Republik Indonesia Serikat, dengan Perdana Menterinya Ali Sastroamidjojo.\n3. Penunjukkan Mr. Asaat ditunjuk sebagai Pemangku Jabatan (Acting) Presiden Republik Indonesia yang berkedudukan di Yogyakarta.\n4. Munculnya penolakan terhadap RIS di beberapa daerah seperti pemberontak Permesta, PRRI, Andi Azis dan RMS",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 45,
+   "text": "Keberhasilan ORBA dalam swasembada pangan terutama beras pada tahun 1986 tidak sepenuhnya dapat dipandang sebagai kebenaran paradigma dalam meningkatkan kesejahteraan petani. Kehidupan para petani masih tetap tidak sejahtera. Hal ini disebabkan oleh ....\n1. sistem pengawasan yang ketat terhadap sektor pertanian sehingga para petani tidak memiliki kebebasan untuk mengolah tanah pertaniannya\n2. akses terhadap kepemilikan tanah belum dilaksanakan dengan baik karena kebijakan pemerintah lebih fokus pada produksi dan pasar\n3. kebijakan moneter tentang swasembada pangan memberikan sumbangan terbesar bagi kegagalan penerimaan devisa negara\n4. kebijakan pemerintah dalam bidang ekonomi lebih menitikberatkan pada perkembangan ekonomi dalam negeri yang berdampak pada pemborosan devisa negara",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 46,
+   "text": "Barang A merupakan barang yang sudah bisa dikonsumsi atau langsung bisa digunakan oleh konsumen. Pemenuhan kebutuhan barang tersebut bedasarkan proses pembuatannya adalah…\n1. Barang konsumsi\n2. Barang ekonomi\n3. Barang modal\n4. Barang jadi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 47,
+   "text": "Bentuk elastisitas yang tepat pada permintaan barang mewah adalah…\n1. Elastis\n2. Inelastis\n3. Elastis sempurna\n4. Inelastis sempurna",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 48,
+   "text": "Ucapan rasa syukur karena telah mampu mewujudkan mimpinya semasa kecil dilakukan dengan cara membeli mobil sport beberapa waktu yang lalu. Kemampuan pemuda mewujudkan mimpinya tersebut adalah …\n1. Permintaan pasar\n2. Permintaan efektif\n3. Permintaan individu\n4. Permintaan potensial",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 49,
+   "text": "Dalam rangka menciptakan keuntungan yang tinggi, perusahaan melakukan produksi yang beragam yang mampu memenuhi seluruh segmentasi pasar yang ada. Bentuk perluasan produksi yang dilakukan perusahaan adalah …\n1. Intensif\n2. Ekstensifikasi\n3. Diversifikasi\n4. Intensifikasi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 50,
+   "text": "Berdasarkan jaringan distribusinya ASEAN Free Trade Area adalah ….\n1. Pasar konkrit\n2. Pasar regional\n3. Pasar setempat\n4. Pasar barang konsumsi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 51,
+   "text": "Suatu negara tidak akan memproduksi barang yang dibutuhkan namun hanya akan melakukan impor barang yang dibutuhkan negaranya. Alasan negara tersebut melakukan impor adalah …\n1. Absolute advantages\n2. Competitive advantages\n3. Absolute disanvantages\n4. Comparative advantages",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 52,
+   "text": "Pada transaksi e-commerce pembayaran dilakukan dengan sistem pembayaran…\n1. Tunai\n2. Kredit\n3. Debit\n4. Non tunai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 53,
+   "text": "Perhatikan pernyataan berikut!\n 1. Letak geografis\n 2. Jumlah barang terbatas\n 3. Tingkat produktivas tinggi\n 4. Pertumbuhan penduduk rendah\n 5. Banyak orang yang membutuhkan\n\n\nFaktor yang bukan penyebab terjadinya kelangkaan adalah ….\n1. 1 dan 2\n2. 2 dan 5\n3. 3 dan 4\n4. 1 dan 5",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 54,
+   "text": "Di dalam arus lingkar, manakah kegiatan yang terjadi di pasar barang dan jasa?\n1. Rumah tangga konsumen membeli sumberdaya dari rumah tangga produsen.\n2. Rumah tangga konsumen menjual sumberdaya kepada rumah tangga produsen.\n3. Rumah tangga produsen menjual barang dan jasa kepada rumah tangga konsumen.\n4. Rumah tangga produsen menjual sumberdaya kepada rumah tangga konsumen.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 55,
+   "text": "Orang yang tidak bekerja belum tentu dapat dikategorikan ke dalam penganggur. Manakah dari individu berikut ini yang tidak termasuk dalam pengangguran?\n1. Karyawan yang di PHK akibat pandemi Covid 19\n2. Karyawan yang memasuki usia pensiun\n3. Lulusan SMA yang sedang mencari pekerjaan\n4. Sarjana yang sudah setahun mencari pekerjaan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 56,
+   "text": "Terdapat beberapa faktor yang menyebabkan kurva permintaan bergeser. Manakah faktor-faktor berikut ini yang tidak menyebabkan kurva permintaan bergeser?\n1. Harga barang tersebut\n2. Harga barang subsitusi atau komplementer\n3. Selera Konsumen\n4. Pendapatan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 57,
+   "text": "Saat harga masker medis melonjak tinggi konsumen sebenarnya masih bisa mendapatkannya di beberapa toko online namun memilih tidak membelinya. Alasan dari sisi ekonomi yang paling tepat untuk menjelaskan peristiwa tersebut adalah:\n1. Harganya terlalu mahal\n2. Konsumen lebih memilih masker non medis\n3. Masker medis tidak terlalu dibutuhkan\n4. Pendapatan masyarakat turun",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 58,
+   "text": "Kerjasama bilateral dapat meningkatkan keharmonisan hubungan antar dua negara dan juga dapat menguntungkan perekonomiannya. Dari dua negara berikut ini, manakah yang paling potensial melakukan perdagangan antar negara?\n1. Dua negara yang lokasinya berjauhan satu sama lain\n2. Dua negara yang keduanya memiliki populasi yang sama\n3. Dua negara yang keduanya berbicara dengan bahasa yang sama\n4. Dua negara yang masing-masing melakukan spesialisasi memproduksi barang yang berbeda",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 59,
+   "text": "Kegiatan ekonomi yang bermodalkan pada hasil alam, tenaga manusia dan teknik produksi yang sederhana. Sistem ekonomi yang tepat dari wacana tersebut adalah…\n1. Ekonomi pasar\n2. Ekonomi komando\n3. Ekonomi campuran\n4. Ekonomi tradisional",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 60,
+   "text": "Nilai pasar dari seluruh barang dan jasa yang diproduksi suatu negara pada triwulan I tahun 2021 US$. 396,9 M. Nilai pasar barang dan jasa tersebut disebut sebagai…\n1. Produk Domestik Bruto\n2. Produk Nasional Bruto\n3. Produk Nasional Neto\n4. Pendapatan Nasional Neto\n\n\nSelesai Waktu Ujian Pilihan Jamak 90 Menit\nLanjut Masuk Ke Soal\nUraian Hubungan Antar Konsep\nWaktu : 60 Menit\n\n\nKOMPETISI SAINS NASIONAL\nSELEKSI BABAK PENYISIHAN TAHUN 2021\nBIDANG: ILMU PENGETAHUAN SOSIAL\n\n\nSeleksi Propinsi\n\n\nWaktu Tes : 60 menit\n\n\nPetunjuk mengerjakan soal\n\n\n 1. Pada soal hubungan antar konsep, Anda diminta untuk membuat kaitan antara konsep dalam suatu analisis yang rasional. Analisis dapat berupa hubungan sebab akibat, korelasi, maupun menganalisis faktor-faktor (unsur-unsur). Setiap soal jawaban yang tepat dan komprehensif akan mendapatkan skor 5\n 2. Untuk soal uraian, jelaskan dengan uraian yang singkat dan lengkap.\n 3. Jawaban isian singkat harap diketik di dalam aplikasi KSN yang tersedia.\n 4.\n\nContoh 1:\nKonsep A\n Konsep B\n Hubungan antar konsep\n Tekanan Udara\n Angin\n Angin adalah pergerak udara dari tekanan yang tinggi ke tekanan udara yang rendah. Semakin luas wilayah dan tingginya perbedaan tekanan, angin semakin kencang dan merata\n Permintaan\n Harga\n Semakin tingggi permintaan barang, harga barang cenderung naik. Atau sebaliknya harga naik, permintaan menjadi turun.\n\n\nContoh 2:\nKonsep A\n Konsep B\n Konsep C\n Hubungan antar konsep\n Tekanan Udara\n Angin\n Padi\n Angin adalah pergerak udara dari tekanan yang tinggi ke tekanan udara yang rendah. Semakin luas wilayah dan tingginya perbedaan tekanan, angin semakin kencang dan merata. Akibat dari keadaan angin, pada sebagian daerah akan merusak tanaman padi.\n Permintaan\n Harga\n Operasi pasar\n Semakin tingggi permintaan barang, harga barang cenderung naik. Atau sebaliknya harga naik, permintaan menjadi turun. Untuk menjaga stabilitas harga agar tidak naik, biasanya pemerintah mengadakan operasi pasar.\n\n\n\n\n\n\nSOAL URAIAN : HUBUNGAN ANTAR KONSEP\n\n\nSoal No 1\n\n\n Aliran sungai Barito memiliki fungsi yang penting dalam mendukung perkembangan perekonomian\n KONSEP 1\n\n\nDistribusi barang\n KONSEP 2\n\n\nAktivitas transportasi\n JAWABAN :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 2\nTanah andosol adalah salah satu jenis tanah yang subur dan bisa digunakan untuk tanaman holtikultura\n KONSEP 1\nBahan vulkanik\n KONSEP 2\nTropika basah\n JAWABAN:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n________________\n\n\n\n\nSoal No 3\n\n\nGlobalisasi menjadi keniscayaan bagi seluruh masyarakat di dunia. Kemajuan teknologi semakin mengukuhkan terjadinya globalisasi tersebut\n\n\n KONSEP 1\n\n\nModernisasi\n KONSEP 2\n\n\nTradisi\n\n\nJAWABAN :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 4\n\n\nKerajinan seni ukir Jepara memanfaatkan kayu untuk dibuat ukiran yang memiliki nilai seni budaya tinggi\n KONSEP 1\n\n\nPemanfaatan Sumber Daya Alam\n KONSEP 2\n\n\nKekayaan Budaya sebagai Komoditas Ekonomi\n\n\nJAWABAN:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 5.\nMasa pergerakan kebangsaan Indonesia ditandai dengan berdirinya organisasi-organisasi pergerakan modern. Masa pergerakan kebangsaan tersebut dibedakan menjadi 3 masa, yakni masa awal (perkembangan), masa radikal, dan masa moderat\n KONSEP 1\n\n\nPerhimpunan Indonesia\n KONSEP 2\n\n\nIndonesia Merdeka\n JAWABAN :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 6\nPelaksanaan politik luar negeri Indonesia telah mencerminkan diplomasi yang melibatkan seluruh komponen bangsa guna mencapai kepentingan nasional Indonesia sekaligus terus berperan aktif dalam upaya perwujudan perdamaian dan keamanan dunia baik di tingkat bilateral, regional dan global\n KONSEP 1\n\n\nPolitik Bebas Aktif\n\n\n KONSEP 2\n\n\nKonferensi Asia Afrika (KAA)\n JAWABAN ;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 7.\n\n\n Kegiatan bisnis merupakan kegiatan usaha yang meningkatkan nilai tambah suatu barang yang dibutuhkan untuk memperoleh keuntungan\n\n\n KONSEP 1\n\n\nPerusahaan\n KONSEP 2\n\n\nBUMN\n\n\nJAWABAN:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoal No 8\n\n\nAnggapan bahwa hanya penjual yang dapat menentukan harga tidak sepenuhnya benar, karena pada kondisi yang berbeda pembeli pun ikut menentukan harga suatu barang.\n\n\n KONSEP 1\n\n\nBentuk pasar\n\n\n KONSEP 2\n\n\nKekuatan pasar (market power)\n JAWABAN :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ________________\n\n\nJAWABAN SOAL HUBUNGAN ANTAR KONSEP\n\n\n\n\n1. Aliran sungai Barito memiliki fungsi yang penting dalam mendukung perkembangan perekonomian\n KONSEP 1\n\n\nDistribusi barang\n\n\n KONSEP 2\n\n\nAktivitas transportasi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  }
+ ]
+}

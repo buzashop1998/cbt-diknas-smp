@@ -1,0 +1,567 @@
+{
+ "id": "2024-ipa-kabkota",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Dilakukan percobaan osmosis dengan menggunakan potongan kentang didapatkan\ndata sebagai berikut:\nNo Berat Kentang (g)\nLarutan I Larutan II Larutan III Larutan IV Larutan V\nAwal Akhir Awal Akhir Awal Akhir Awal Akhir Awal Akhir\n1 2,0 1,6 2,0 2,3 2,0 2,0 2,0 1,8 2,0 2,2\n2 2,0 1,7 2,0 2,4 2,0 2,0 2,0 1,9 2,0 2,5\nBerdasarkan hasil percobaan di atas, larutan yang hipertonis adalah larutan… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "I dan II",
+    "B": "II dan III",
+    "C": "III dan V",
+    "D": "IV dan I"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Pernikahan antara wanita dan pria yang keduanya berpenglihatan normal melahirkan\nseorang anak laki-laki yang buta warna dan dua orang anak perempuan\nberpenglihatan normal. Dari kasus ini dapat diketahui bahwa… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "ayah adalah homozigot dominan",
+    "B": "ibu adalah homozigot resesif",
+    "C": "ibu adalah carrier",
+    "D": "ayah adalah carrier"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Seorang dokter menyatakan bahwa lensa mata pasiennya tidak rata di semua bagian,\nsehingga sinar sejajar tidak dibiaskan dengan kekuatan yang sama. Kelainan ini dapat\ndiperbaiki dengan memakai kacamata berlensa silindris. Pasien tersebut mengalami\nkelainan mata yang disebut ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "miopi",
+    "B": "hipermetropi",
+    "C": "astigmatisma",
+    "D": "presbiopi"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Dalam suatu rantai makanan, makhluk hidup yang memakan produsen merupakan\nkonsumen tingkat ke- … dan akan menduduki tingkat tropik ke- ... .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "satu; satu",
+    "B": "satu; dua",
+    "C": "dua; satu",
+    "D": "dua; dua"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Kingdom berikut ini yang selnya tidak memiliki dinding sel adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "fungi",
+    "B": "bakteri",
+    "C": "tumbuhan",
+    "D": "protista"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Keanekaragaman hayati yang tinggi di daerah tropis dimungkinkan oleh adanya faktor\nberikut kecuali … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "curah hujan yang tinggi",
+    "B": "suhu yang hangat",
+    "C": "perbedaan suhu yang relatif tinggi",
+    "D": "cahaya matahari ada sepanjang tahun"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Organel sel yang berperan untuk mendetoksifikasi racun adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "lisosom",
+    "B": "mitokondria",
+    "C": "peroksisom",
+    "D": "badan Golgi"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Lapisan kulit pada epidermis sebagai berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Stratum lusidum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Stratum granulosum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Stratum germinativum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Stratum korneum\nUrutan lapisan kulit yang berfungsi sebagai penghasil protein keratin dan sel\nmelanosit adalah...",
+   "images": [
+    "img2/2024-ipa-kabkota/2024-ipa-kabkota_p4_0001.png",
+    "img2/2024-ipa-kabkota/2024-ipa-kabkota_p5_0002.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 2",
+    "B": "2 dan 3",
+    "C": "2 dan 4",
+    "D": "3 dan 4 9. Pada suatu hari Ani meminum air sebanyak 300 mL perhari, sedangkan Eni meminum air sebanyak 2 liter perhari. Berdasarkan perbandingan pernyataan tersebut maka perbedan urin yang dihasilkan Ani dan Eni pada keesokan harinya adalah ... .",
+    "E": "Ani mengeksresikan urin banyak, berwarna kuning pucat; Eni mengeksresikan urin banyak, berwarna kuning pekat 10. Saat melakukan olah raga, denyut jantung dan pernapasan menjadi semakin lebih cepat. Setelah ia melakukan istirahat, denyut jantung dan pernapasannya menjadi normal kembali. Mekanisme tersebut dimungkinkan karena adanya …."
+   }
+  },
+  {
+   "num": 1,
+   "text": "gliserol dan asam lemak menjadi lipid",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "glukosa berubah menjadi CO dan H O 2 2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "ATP menjadi ADP\nYang merupakan proses katabolisme adalah ... .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2,3",
+    "B": "1,2",
+    "C": "2,3",
+    "D": "1,3 22. Berikut merupakan alat dan bahan untuk percobaan pada tumbuhan:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "respirometer",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "alat timbang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "kertas kobalt",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "bromtimol\nTerjadinya transpirasi pada tumbuhan melalui stomata dan kutikula dapat diketahui\ndengan menggunakan… .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2,3",
+    "B": "1,2,4",
+    "C": "2,3",
+    "D": "1,4 23. Berikut ini adalah beberapa interaksi dalam suatu komunitas:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "amensalisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "kompetisi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "parasitisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "mutualisme\nJenis interaksi yang memberikan keuntungan minimal pada salah satu pihak yang\nberinteraksi adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2",
+    "B": "2, 4",
+    "C": "1, 3",
+    "D": "3, 4 24. Berikut adalah hewan yang dapat ditemukan di ekosistem mangrove:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "keong",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "kerang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "ikan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "kepiting\nDi antara hewan tersebut, yang memiliki kekerabatan paling dekat adalah … .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 2",
+    "C": "3, 4",
+    "D": "2, 4 25. Apabila seseorang makan bahan makanan yang mengandung:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "amilum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "protein",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "glukosa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "lemak",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "asam amino\nzat makanan yang mengalami pencernaan kimia adalah….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "1, 2, 4",
+    "D": "3, 4, 5 26. Sebuah benda bermassa 20 gram dilepaskan dari ketinggian 8 m di atas lantai. Percepatan gravitasi di tempat itu 10 m/s2. Pernyataan berikut berhubungan dengan keadaan benda saat satu sekon setelah dilepaskan."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Energi kinetik lebih kecil dari energi potensial.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Energi potensial menjadi 5/8 dari semula.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Benda berada 5 m di atas lantai.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Kecepatan benda 10 m/s.\nPernyataan yang benar ditunjukkan oleh nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 4",
+    "B": "1, 2 dan 4",
+    "C": "1, 2, 3 dan 4",
+    "D": "4 27. Berikut ini merupakan contoh-contoh peristiwa yang berhubungan dengan perubahan zat:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "fotosintesis pada tumbuhan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "singkong menjadi tapai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "besi berkarat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "beras menjadi nasi\nDari contoh-contoh di atas, yang merupakan perubahan kimia ditunjukkan oleh nomor\n….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 4",
+    "C": "1, 2, dan 3",
+    "D": "1, 2, 3 dan 4 28. Sebuah sumber bunyi merambatkan energi ke segala arah dalam bentuk gelombang longitudinal."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Daerah pancaran gelombangnya berbentuk bola",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Jika jaraknya di jadikan 4 kali maka intensitasnya menjadi ½ kali",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Perbandingan intensitas bunyi pada jarak 1 dan 2 meter terhadap sumber adalah 4 : 1",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Jika jaraknya di jadikan 4 kali maka energinya menjadi ¼ kali\nDari pernyataan di atas yang benar adalah nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2,3",
+    "B": "1,3",
+    "C": "2,4",
+    "D": "4 saja 29. Dari kejauhan sebuah benda bergerak konstan 10 cm/s mendekati sebuah cermin konvergen dengan panjang fokal cermin 20 cm. Pada t = 0 jarak benda ke cermin 60 cm. Jika dinyatakan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "bayangan benda bergerak mendekati cermin,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "pada t = 0 bayangan benda terbentuk 30 cm di depan cermin,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "pada t < 4 detik bayangan benda tampak pada cermin,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "pada t > 4 detik bayangan benda tampak pada cermin,\npernyataan yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 30. Sebuah benda berada di lantai kasar dan diikatkan pada ujung sebuah pegas mendatar dengan konstanta pegas 40 N/m. Ujung lain pegas diikatkan pada dinding. Benda digeser, sehingga pegas memanjang sebesar 1 cm, kemudian dilepaskan. Benda berhenti tepat di titik seimbang. Jika dinyatakan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "energi mekanik berkurang,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "besar gaya gesek antara benda dan lantai sama dengan 0,2 N,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "usaha gaya gesek sebesar energi potensial maksimum,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "usaha gaya gesek sebesar 0,001 joule,\npernyataan yang benar adalah ….",
+   "images": [],
+   "key": "C",
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 TIPE-3 (SEBAB AKIBAT) Petunjuk:"
+   }
+  }
+ ]
+}

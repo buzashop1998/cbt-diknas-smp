@@ -1,0 +1,523 @@
+<<<PAGE 1>>>
+Misalkan 𝑁(𝑎,𝑏,𝑐) menyatakan
+https://www.calonguru.com/
+banyaknya kelipatan 𝑎 yang lebih besar
+https://www.calonguru.com/
+dari 𝑏 dan kurang dari 𝑐. OSK
+https://www.calonguru.com/
+Sebagai contoh, 𝑁(3,5,10) = 2 karena
+https://www.calonguru.com/
+terdapat dua bilangan antara 5 dan 10 yang
+https://www.calonguru.com/
+merupakan kelipatan 3.
+Nilai dari 𝑁(63,64,66) adalah ….
+1
+A. 216
+B. 215
+C. 209
+D. 208
+
+<<<PAGE 2>>>
+Gina bermain angka dengan mengisikan
+bilangan bulat 1, 2, ..., 9 pada tabel 3×3.
+https://www.calonguru.com/ OSK
+Sehingga, hasil kali ketiga bilangan pada
+https://www.calonguru.com/
+setiap baris adalah bilangan yang terdapat
+https://www.calonguru.com/
+di kanan tabel dan hasil kali ketiga bilangan
+https://www.calonguru.com/
+pada setiap kolom adalah bilangan yang
+https://www.calonguru.com/
+terdapat di bawah tabel, seperti terlihat 2
+sebagai berikut.
+96
+𝑁
+84
+45
+24 144 105
+Nilai 𝑁 adalah ....
+A. 1
+B. 3
+C. 4
+D. 6
+
+<<<PAGE 3>>>
+Bilangan-bilangan 4, 5, 6, 9, 11, 12, 18, 20,
+dan 24 akan diletakkan pada 4 lingkaran
+OSK
+dan 5 persegi yang disusun dalam satu
+baris sebagai berikut.
+3
+Setiap bilangan harus digunakan tepat satu
+https://www.calonguru.com/
+kali dan diletakkan di tempat yang
+https://www.calonguru.com/
+berbeda. Selain itu, bilangan pada setiap
+https://www.calonguru.com/
+lingkaran harus merupakan hasil
+https://www.calonguru.com/
+penjumlahan dari dua bilangan pada
+https://www.calonguru.com/
+persegi yang berada tepat di sebelah kiri
+dan kanannya.
+Jika 𝑥 adalah bilangan pada persegi paling
+kiri dan 𝑦 adalah bilangan pada persegi
+paling kanan, maka nilai terbesar yang
+mungkin dari 𝑥 +𝑦 adalah ….
+A. 32
+B. 38
+C. 42
+D. 44
+
+<<<PAGE 4>>>
+Banyaknya faktor dari 2024 yang lebih
+besar dari √2024 adalah ....
+OSK
+https://www.calonguru.com/
+A. 4
+https://www.calonguru.com/
+B. 8
+4
+https://www.calonguru.com/
+hC.t tp12s ://www.calonguru.com/
+https://www.calonguru.com/
+D. 16
+
+<<<PAGE 5>>>
+Diketahui 𝑥 merupakan bilangan bulat
+positif kelipatan 2 yang kurang dari 50, 𝑦
+merupakan bilangan bulat positif kelipatan OSK
+3, dan 𝑦−𝑥 = 10.
+hJtitkpa s𝐴: //awdawlahw .hcimapluonnang usermuu.ac ofamkto/r
+prima dari 𝑥, 𝐵 adalah himpunan semua 5
+https://www.calonguru.com/
+faktor prima dari 𝑦, dan jumlah semua
+https://www.calonguru.com/
+anggota dari 𝐴∪𝐵 adalah 10, maka nilai
+https://www.calonguru.com/
+dari 𝑥 +𝑦 adalah ….
+https://www.calonguru.com/
+A. 14
+B. 26
+C. 38
+D. 50
+
+<<<PAGE 6>>>
+Suatu bilangan bulat positif 𝑛 disebut
+bilangan JUMPAT jika jumlah 𝑛 bilangan
+OSK
+bulat positif pertama dapat dinyatakan
+sebagai penjumlahan empat bilangan bulat
+https://www.calonguru.com/
+positif berurutan. Banyaknya bilangan
+https://www.calonguru.com/
+JUMPAT yang kurang dari 2024 adalah ....
+https://www.calonguru.com/
+A. 252 6
+https://www.calonguru.com/
+B. 253
+https://www.calonguru.com/
+C. 504
+D. 505
+
+<<<PAGE 7>>>
+Diketahui 𝐴 = {0,1,2,…,9} dan 𝑟̅̅𝑠̅̅𝑡̅𝑢̅ adalah
+bilangan empat digit dengan 𝑟,𝑠,𝑡,𝑢
+adalah anggota 𝐴 yang berbeda. OSK
+Jika 𝑟̅̅𝑠̅̅𝑡̅𝑢̅ + 𝑠̅̅𝑡̅̅𝑢̅ = ̅𝑣̅𝑤̅̅̅𝑥̅̅𝑦̅𝑧̅, dengan
+𝑟,𝑠,𝑡,𝑢,𝑣,𝑤,𝑥,𝑦,𝑧 adalah anggota 𝐴 yang
+https://www.calonguru.com/
+berbeda, maka anggota 𝐴 yang tidak
+https://www.calonguru.com/
+7
+digunakan dalam operasi penjumlahan
+https://www.calonguru.com/
+tersebut adalah ….
+https://www.calonguru.com/
+https://www.calonguru.com/
+A. 2
+B. 3
+C. 5
+D. 8
+
+<<<PAGE 8>>>
+Jika bilangan real positif 𝑝,𝑞,𝑟,𝑠
+memenuhi sistem persamaan
+OSK
+𝑝2 +𝑞2 = 𝑟2 +𝑠2,
+𝑝2 +𝑠2 −𝑝𝑠 = 𝑞2 +𝑟2 +𝑞𝑟,
+https://www.calonguru.com/
+nilai dari
+https://www.calonguru.com/
+𝑝𝑞 +𝑟𝑠
+8
+𝑝𝑠 +h𝑞𝑟ttps://www.calonguru.com/
+https://www.calonguru.com/
+adalah ….
+https://www.calonguru.com/
+√2
+A.
+3
+√2
+B.
+2
+√3
+C.
+3
+√3
+D.
+2
+
+<<<PAGE 9>>>
+Diketahui pertidaksamaan
+√𝑥−3+√6−𝑥 ≥ 𝑝
+OSK
+memiliki penyelesaian untuk 𝑥 ∈ 𝑅.
+Nilai 𝑝 terbesar yang mungkin adalah …
+https://www.calonguru.com/
+https://www.calonguru.com/
+A. √6
+9
+https://www.calonguru.com/
+B. 3
+C. √6+√3 https://www.calonguru.com/
+D. 6
+https://www.calonguru.com/
+
+<<<PAGE 10>>>
+Diketahui 𝑎,𝑏, dan 𝑐 adalah bilangan
+ratusan yang satuannya sama dengan
+ratusannya. OSK
+Jika 𝑏 = 2𝑎 +1 dan 𝑐 = 2𝑏+1, maka
+banyaknya kemungkinan tripel (𝑎,𝑏,𝑐)
+https://www.calonguru.com/
+yang berbeda adalah ….
+10
+https://www.calonguru.com/
+A. 1 https://www.calonguru.com/
+B. 2
+https://www.calonguru.com/
+C. 3
+D. 4 https://www.calonguru.com/
+
+<<<PAGE 11>>>
+Jika 𝑥3 + 1 = 18 dan 𝑥 ≠ 0, maka nilai
+𝑥3
+dari
+OSK
+1
+𝑥7 + +7
+𝑥7
+adalah ....
+https://www.calonguru.com/
+11
+https://www.calonguru.com/
+A. 845
+https://www.calonguru.com/
+B. 850
+C. 855 https://www.calonguru.com/
+D. 860
+https://www.calonguru.com/
+
+<<<PAGE 12>>>
+Diketahui persamaan
+𝑥4 +𝑎𝑥3 +54𝑥2 −108𝑥 +81 = 0
+OSK
+dengan 𝑎 bilangan real, memiliki 4 akar
+real berbeda, yaitu 𝑟 ,𝑟 ,𝑟 ,𝑟 .
+1 2 3 4
+https://www.calonguru.com/
+Jika
+12
+https://www.calonguru.com/
+𝑟 +𝑟 +𝑟 +𝑟 4
+𝑟 ×𝑟 ×𝑟 ×𝑟 =h(t1tps2://w3ww4 ).c alonguru.com/
+1 2 3 4 4
+https://www.calonguru.com/
+maka nilai dari 𝑎 adalah ....
+https://www.calonguru.com/
+A. −12
+B. −8
+C. 3
+D. 12
+
+<<<PAGE 13>>>
+Diketahui sistem persamaan sebagai
+berikut dengan 𝑎,𝑏, dan 𝑐 adalah bilangan
+real positif. OSK
+𝑎 = 𝑏𝑐
+𝑏 = 𝑐(𝑎+2)
+https://www.calonguru.com/
+𝑐 = 𝑏(𝑎−2)
+13
+https://www.calonguru.com/
+Nilai dari 𝑎2 +𝑏2 +𝑐2 hadtatplahs …:/./ www.calonguru.com/
+https://www.calonguru.com/
+A. 15
+https://www.calonguru.com/
+B. 15−4√5
+C. 225
+D. 15+4√5
+
+<<<PAGE 14>>>
+Suatu segi delapan 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 dibentuk
+dari suatu persegi 𝐴𝐵𝐶𝐷 dan persegi
+panjang 𝐸𝐹𝐺𝐻 yang panjang sisi-sisinya OSK
+merupakan bilangan bulat positif.
+Contoh segi delapan tersebut diberikan
+https://www.calonguru.com/
+pada gambar berikut.
+14
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+Jika luas persegi adalah 𝑥 cm2, luas persegi
+panjang adalah 𝑦 cm2, 𝑥 > 𝑦, dan 𝑥𝑦 = 98,
+maka keliling segi delapan 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻
+yang mungkin adalah … cm.
+A. 30
+B. 33
+C. 34
+D. 51
+
+<<<PAGE 15>>>
+Diketahui segitiga sama kaki 𝐴𝐵𝐶 dengan
+𝐴𝐵 = 𝐵𝐶 = 8 cm dan ∠𝐴𝐵𝐶 = 120°.
+OSK
+Titik tengah 𝐴𝐵 dan 𝐵𝐶 masing-masing
+adalah 𝐷 dan 𝐸. Garis 𝐷𝐹 tegak lurus 𝐴𝐵
+dan 𝐸𝐹 tegak lurus 𝐵𝐶.
+https://www.calonguru.com/
+15
+Luas daerah yang diarshirt atdpasla:h/ /…w cwm2w. .calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+8
+A. √3
+3
+16
+B. √3
+3
+C. 8√3
+D. 16√3
+
+<<<PAGE 16>>>
+Perhatikan gambar berikut.
+OSK
+https://www.calonguru.com/
+16
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+Diketahui panjang 𝐵h𝐷t=tp𝐶s𝐷:, //𝐵w𝐸w=w𝐷𝐸.c, alonguru.com/
+𝐴𝐽 = 𝐽𝐷 dan 𝐷𝐺 sejajar 𝐶𝐹.
+Jika perbandingan luas daerah segitiga
+𝐴𝐷𝐻 dan segitiga 𝐴𝐵𝐶 dinyatakan dalam
+bentuk paling sederhana 𝑚:𝑛, maka nilai
+dari 𝑚+𝑛 adalah ….
+A. 5
+B. 6
+C. 7
+D. 8
+
+<<<PAGE 17>>>
+Segi enam beraturan 𝐴𝐵𝐶𝐷𝐸𝐹 memiliki
+panjang sisi 2024 mm. Titik 𝐺 adalah titik
+tengah 𝐴𝐵 dan titik 𝐻 adalah titik tengah OSK
+𝐸𝐺.
+Perbandingan luas daerah segitiga 𝐶𝐷𝐻
+https://www.calonguru.com/
+dan segi enam 𝐴𝐵𝐶𝐷𝐸𝐹 adalah ....
+17
+https://www.calonguru.com/
+A. 4:24 https://www.calonguru.com/
+B. 5:24 https://www.calonguru.com/
+C. 6:24 https://www.calonguru.com/
+D. 7:24
+
+<<<PAGE 18>>>
+Diberikan 4 bola pejal berukuran sama
+dengan diameter 22 cm dan sebuah
+silinder dengan diameter 46 cm. OSK
+Dua bola diletakkan di dasar silinder
+dengan jarak pusat keduanya 24 cm. Dua
+https://www.calonguru.com/
+bola sisanya juga dimasukkan ke dalam
+18
+https://www.calonguru.com/
+silinder dengan jarak antar pusat
+https:h//twtpwsw://.wcawlown.cgaulroun.cgoumru/.com/
+keduanya 24 cm dan garis yang
+https:h//twtpwsw://.wcawlown.cgaulroun.cgoumru/.com/
+menghubungkan kedua pusat bola ini
+https:h//twtpwsw://.wcawlown.cgaulroun.cgoumru/.com/
+tegak lurus dengan garis yang
+https://www.calonguru.com/
+menghubungkan kedua pusat bola
+https://www.calonguru.com/
+sebelumnya.
+Jika air dimasukkan ke dalam silinder
+hingga menutupi seluruh permukaan bola,
+maka volume minimum air yang
+dimasukkan adalah .... cm3.
+1
+A. 307 𝜋
+3
+1
+B. 529 𝜋
+3
+C. 1694𝜋
+2
+D. 7098 𝜋
+3
+
+<<<PAGE 19>>>
+Diketahui suatu kerucut dengan titik
+puncak 𝑇, pusat sisi alas 𝑂, dan diameter
+alas 𝐴𝐵. OSK
+Titik 𝐶 berada pada ruas garis 𝐴𝑇 dengan
+𝐴𝐶 = 𝑂𝐶 = 11 cm. Titik 𝐷 merupakan titik
+potong antara garis 𝑂𝑇 dan 𝐵𝐶 dengan
+19
+𝐷𝐶 = 7 cm.
+Volume kerucut tersebut adalah … cm3.
+A. 196𝜋
+B. 960𝜋
+C. 1960𝜋
+D. 9600𝜋
+
+<<<PAGE 20>>>
+Sekelompok bilangan berbeda terdiri dari
+6 bilangan genap dan 4 bilangan ganjil.
+Dari kelompok bilangan tersebut diperoleh OSK
+informasi sebagai berikut.
+• Jangkauan data = 24.
+https://www.calonguru.com/
+• Jangkauan antar kuartil = 14.
+20
+https://www.calonguru.com/
+• Bilangan ke-3, 5, 6 dan 8 adalah
+https://www.calonguru.com/
+bilangan ganjil.
+https://www.calonguru.com/
+• Median = 2024.
+https://www.calonguru.com/
+• Rata-rata bilangan ganjil adalah 2022.
+Rata-rata terbesar yang mungkin dimiliki
+oleh kelompok bilangan tersebut adalah ….
+A. 2022
+B. 2022,4
+C. 2024
+D. 2024,4
+
+<<<PAGE 21>>>
+Empat bilangan asli kurang dari sepuluh
+memiliki rata-rata, median dan modus
+tunggal yang membentuk tiga bilangan asli OSK
+berurutan.
+Jika 𝐴 adalah jumlah terkecil yang mungkin
+https://www.calonguru.com/
+dari empat bilangan tersebut dan 𝐵 adalah
+21
+https://www.calonguru.com/
+jumlah terbesar yang mungkin dari empat
+https://www.calonguru.com/
+bilangan tersebut, maka nilai dari 𝐴+𝐵
+https://www.calonguru.com/
+adalah ....
+https://www.calonguru.com/
+A. 36
+B. 40
+C. 42
+D. 44
+
+<<<PAGE 22>>>
+Dari segi lima 𝐴𝐵𝐶𝐷𝐸 dipilih 21 titik yang
+berbeda. Satu titik dari sisi 𝐴𝐵, dua titik
+dari sisi 𝐵𝐶, tiga titik dari sisi 𝐶𝐷, empat OSK
+titik dari sisi 𝐷𝐸, lima titik sudut 𝐴, 𝐵, 𝐶, 𝐷,
+𝐸, dan enam titik dari sisi 𝐴𝐸.
+https://www.calonguru.com/
+Banyaknya segitiga yang dapat dibentuk
+22
+https://www.calonguru.com/
+dari seluruh titik yang dipilih adalah ....
+https://www.calonguru.com/
+A. 560 https://www.calonguru.com/
+B. 770 https://www.calonguru.com/
+C. 1239
+D. 1330
+
+<<<PAGE 23>>>
+Jumlah semua bilangan ratusan yang
+ketiga digitnya berbeda dan tidak memuat
+0 adalah …. OSK
+A. 359.640
+https://www.calonguru.com/
+B. 279.720
+C. 277.200 https://www.calonguru.com 2 / 3
+D. 252.000
+https://www.calonguru.com/
+https://www.calonguru.com/
+https://www.calonguru.com/
+
+<<<PAGE 24>>>
+Sepuluh persegi panjang kecil dengan
+ukuran 1 cm ×2 cm akan digunakan untuk
+membentuk persegi panjang besar dengan OSK
+ukuran 10 cm ×2 cm.
+Banyaknya cara membentuk persegi
+https://www.calonguru.com/
+panjang besar terebut adalah ....
+24
+https://www.calonguru.com/
+Keterangan: https://www.calonguru.com/
+Berikut adalah bebehratptap sc:o/n/twohw wcar.ac alonguru.com/
+membentuk persegi panjang besar yang
+https://www.calonguru.com/
+mungkin untuk dilakukan.
+A. 78
+B. 89
+C. 144
+D. 233
+
+<<<PAGE 25>>>
+Atlet bulu tangkis Anthony Ginting
+menjalani pertandingan persahabatan
+dengan Jonathan Christie, rekan sesama OSK
+timnya.
+Pertandingan berakhir jika salah satu
+https://www.calonguru.com/
+pemain menang dua set langsung atau
+25
+https://www.calonguru.com/
+menang dua set dari tiga set permainan
+https:h//twtpwsw://.wcawlown.cgaulroun.cgoumru/.com/
+(rubber set).
+https:h//twtpwsw://.wcawlown.cgaulroun.cgoumru/.com/
+Tim pelatih Ginting mhetntpyasta:hk//atwntp wbsaw:h/w/.wac awlown.cgaulroun.cgoumru/.com/
+peluang Ginting dapat mehmtetnpasng:k//awn ww.calonguru.com/
+suatu set adalah 1,6 kali liphatt tppeslu:a//nwg ww.calonguru.com/
+Ginting memenangkan pertandingan.
+Misalkan tidak ada pertandingan yang
+berakhir imbang/seri. Berdasarkan
+pernyataan tim pelatih Ginting, peluang
+Jonathan memenangkan pertandingan
+adalah ....
+1
+A.
+4
+3
+B.
+4
+5
+C.
+32
+27
+D.
+32
+
+<<<PAGE 26>>>

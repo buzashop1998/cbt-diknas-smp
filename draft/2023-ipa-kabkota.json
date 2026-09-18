@@ -1,0 +1,1002 @@
+{
+ "id": "2023-ipa-kabkota",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Pada kegiatan pembelajaran praktikum biologi dilakukan percobaan dan hasilnya ditunjukkan\nseperti pada gambar di bawah ini.\nBerdasarkan percobaan tersebut, kesimpulan yang sesuai adalah ….",
+   "images": [
+    "img2/2023-ipa-kabkota/2023-ipa-kabkota_p3_0001.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "tikus membutuhkan oksigen yang dihasilkan tumbuhan untuk respirasi",
+    "B": "tikus mengalami kematian karena tertutup oleh kaca penutup",
+    "C": "tumbuhan membutuhkan oksigen untuk menghasilkan karbohidrat",
+    "D": "tumbuhan membutuhkan karbon dioksida yang dihasilkan tikus untuk respirasi"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Jaringan yang berfungsi untuk tempat menyimpan cadangan makanan pada akar tanaman umbi-\numbian adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "korteks",
+    "B": "endodermis",
+    "C": "perisikel",
+    "D": "empulur"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Tipe ekosistem yang mempunyai kelompok organisme yang mampu berfotosintesis dalam\njumlah sedikit adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "heterotrofik",
+    "B": "autotrofik",
+    "C": "pionir",
+    "D": "stabil"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Sel makhluk hidup yang hanya mempunyai organel tanpa lapisan membran adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "jamur",
+    "B": "bakteri",
+    "C": "lumut",
+    "D": "amoeba"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Sistem imun pada serangga diperankan oleh sel ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "hemosit",
+    "B": "trombosit",
+    "C": "leukosit",
+    "D": "limfosit"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Impuls rangsang terjadi di sepanjang akson pada saat saraf dalam kondisi ….\ndepolarisasi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "b. repolarisasi",
+    "C": "hiperpolarisasi",
+    "D": "polarisasi"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Perkawinan antara ibu normal heterozigot dan ayah albino dapat menghasilkan anak\nperempuan albino dengan peluang sebesar ... %.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "100",
+    "B": "75",
+    "C": "50",
+    "D": "25"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Kromosom dengan sentromer yang terletak di median sehingga terbagi menjadi dua lengan\nyang sama dan berbentuk seperti huruf V dinamakan kromosom ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "metasentris",
+    "B": "submetasentris",
+    "C": "akrosentris",
+    "D": "telosentris"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Keanekaragaman makhluk hidup dapat ditentukan dengan menghitung jumlah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "spesies dalam suatu habitat",
+    "B": "individu dalam suatu populasi",
+    "C": "keanekaragaman morfologi dalam suatu spesies",
+    "D": "makanan yang tersedia dalam suatu lingkungan"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Perhatikan karakteristik berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "fisik",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "perilaku",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "genetik\nVariasi dalam suatu spesies adalah perbedaan dalam karakteristik nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "3",
+    "B": "1 dan 3",
+    "C": "2 dan 3",
+    "D": "1, 2, dan 3 11.Perhatikan pernyataan berikut:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "keluarnya cairan dari ujung daun jambu",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "menguncupnya daun putri malu saat disentuh",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "adanya bunga pada tanaman padi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "terdapatnya duri pada tanaman kaktus\nCiri makhluk hidup yang menunjukkan kemampuan berkembang, beradaptasi, dan peka terhadap\nrangsang secara berurutan adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "3, 4, 1",
+    "D": "4, 1, 2 12.Perhatikan ciri-ciri jaringan di bawah ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "dinding tebal",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "tidak terdapat ruang antar sel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "mengandung sel sklerenkim",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "mengandung sel parenkim\nEpidermis dan korteks tanaman jagung memiliki karakteristik yang ditunjukkan oleh ciri\njaringan nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "1, 3, 4",
+    "D": "1, 2, 4 13.Berikut ini jenis interaksi dalam suatu komunitas:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "herbivori",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "kompetisi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "parasitisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "predasi\nJenis interaksi yang memberikan keuntungan pada salah satu pihak namun merugikan pihak\nlain adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 4",
+    "B": "2, 3, 4",
+    "C": "1, 3, 4",
+    "D": "1, 2, 3, 4 14.Berikut ini tingkatan organisasi kehidupan makhluk hidup:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "sel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "organ",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "jaringan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "sistem organ\nTingkatan organisasi kehidupan yang dapat kita pelajari pada jantung manusia adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "1, 3, 4",
+    "D": "1, 2, 3, dan 4 15.Perhatikan beberapa kelenjar di bawah ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "kelenjar submaksila",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "kelenjar parotis",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "kelenjar submandibular",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "kelenjar sublingual\nSaliva yang terlibat dalam sistem pencernaan dihasilkan oleh kelenjar nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "3, 4, 1",
+    "D": "4, 1, 2 16.Pada bagian glomerulus ginjal terjadi proses filtrasi senyawa berikut ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "air",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "glukosa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "urea",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "NaCl\nSenyawa hasil filtrasi yang direabsorbsi pada tubulus proksimal adalah senyawa nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 4",
+    "C": "3, 4, 1",
+    "D": "4, 2, 1 17.Perhatikan jumlah autosom berikut:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "44 buah",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "46 buah",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "22 pasang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "23 pasang\nPada manusia jumlah autosom yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2",
+    "B": "3, 4",
+    "C": "2, 4",
+    "D": "1, 3 18.Perhatikan beberapa molekul di bawah ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "gula berupa deoksiribosa",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "pospat berupa PO 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "basa purin terdiri guanin dan adenin",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "basa pirimidin terdiri urasil dan sitosin\nMolekul penyusun DNA adalah molekul nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3",
+    "C": "2, 4",
+    "D": "1, 2, 3, 4 19.Perhatikan pernyataan berikut ini."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Fotovoltaik pada proses fotosintesis menggerakkan elektron sehingga menghasilkan energi listrik.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Termoelektrik pada reaksi kimia eksoterm bakteri menghasilkan panas yang menggerakkan elektron sehingga menghasilkan energi listrik.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Bioelektrogenesis pada bakteri elektrogenik mampu menggerakkan elektron yang dihasilkan selama metabolisme ke elektroda untuk menghasilkan arus listrik.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Fotosel yang menggunakan mikroorganisme fotosintetik menghasilkan energi listrik melalui\nproses kimiawi.\nProses pada makhluk hidup yang berpotensi menjadi sumber listrik alternatif adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3",
+    "C": "2, 4",
+    "D": "1, 2, 3, 4 20.Perhatikan pernyataan berikut."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Dua spesies berasal dari spesies yang berbeda.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Dua spesies memiliki ciri-ciri yang mirip.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Dua spesies mengalami tekanan seleksi yang serupa.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Dua spesies berasal dari habitat yang sama.\nDua spesies yang memiliki kekerabatan analogi adalah pernyataan nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3",
+    "C": "2, 3, 4",
+    "D": "1, 2, 3, 4 21.Abrasi termasuk jenis interaksi yang terjadi antar komponen abiotik SEBAB Pada abrasi terjadi pengikisan di bagian permukaan tanah bagian bawah oleh pergerakan air ataupun angin"
+   }
+  },
+  {
+   "num": 1,
+   "text": "besaran KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "satuan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "dimensi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "alat ukur\nJawaban yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3",
+    "C": "2, 4",
+    "D": "4 42.Pada tabel berikut ini diberikan informasi mengenai titik leleh dan titik beku beberapa bahan. Titik Leleh Titik Didih No Bahan (°C) (°C) 1 M - 40,0 350,0 2 N -138,4 0,5 3 O 7,0 59,0 4 P -101,0 -35,0 5 Q 55,0 160,0 6 R KWWSVZZZFDORQJXUXFRP 114,0 184,0 KWWSVZZZFDORQJXUXFRP Pada temperatur ruang, bahan:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "M danKWWSVZZZFDORQJXUXFRP O berwujud cair",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "N dan P berwujud padat KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Q berwujud padat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "R berwKWWSVZZZFDORQJXUXFRP ujud gas\nJawaban yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3",
+    "C": "2, 4",
+    "D": "4 43.Sebuah meja didorong perlahan pada salah satu sisinya sehingga bergeser ke kanan. Akibat dorongan tersebut buku yang berada di meja ikut bergeser ke kanan. Hal ini terjadi karena:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "gKWWSVZZZFDORQJXUXFRP aya tersebut juga mendorong buku secara langsung",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "gaya tersebut menimbulkan gaya gesek pada meja ke arah kiri KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "gaya tersebut menimbulkan gaya gesek pada meja ke arah kanan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "gKWWSVZZZFDORQJXUXFRP aya tersebut menimbulkan gaya gesek pada buku ke arah kanan\nJawaban yang benar adalah ….\nKWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3 KWWSVZZZFDORQJXUXFRP",
+    "C": "2, 4",
+    "D": "4 44.Perhatikan pernyataan di bawah ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "momentum sudut tetap",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "percepatan linear nol",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "gaya yang bekerja tidak tetap",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "kecepatan linear tidak tetap\nUntuk benda yang bergerak melingkar berlaku pernyataan nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "1, 3, 4",
+    "C": "1, 2, 4",
+    "D": "2, 3, 4 45.Seberkas cahaya merambat dari medium 1 ke medium 2 ke medium 3. Ketika memasuki medium 2, berkas cahaya teramati menjauhi garis normal. Ketika memasuki medium 3, berkas cahaya teramati mendekati garis normal. Dapat ditarik kesimpulan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "indeks bias medium 1 lebih kecil dari indeks bias medium 2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "frekuensi di medium 1 sama dengan frekuensi di medium 2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "cepat rambah di medium 2 lebih besar dari cepat rambat di medium 3",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "pKWWSVZZZFDORQJXUXFRPanjang gelombang di medium 2 lebih pendek dari panjang gelombang di medium 3\nPernyataan yang benar adalah ….\nKWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3 KWWSVZZZFDORQJXUXFRP",
+    "C": "2, 4",
+    "D": "3KWWSVZZZFDORQJXUXFRP, 4 46.Sebuah benda digerakkan dengan kecepatan tetap mendekati sebuah cermin cembung, dari KWWSVZZZFDORQJXUXFRP jarak yang lebih besar dari panjang fokus cermin sampai jarak yang kurang dari panjang fokus cermin. Pada proses ini:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "sifat bayangan berubah dari maya menjadi nyata",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "bayangan selalu terbentuk di belakang cermin",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "bayangan bergerak mendekati cermin dengan kecepatan tetap",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "jarak bayangan ke cermin lebih kecil dari jarak benda ke cermin\nPernyataan yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3",
+    "C": "2, 4",
+    "D": "3, 4 47.Perhatikan beberapa pernyataan di bawah ini. KWWSVZZZFDORQJXUXFRP"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Getaran adalah gerakan bolak-balik di sekitar titik setimbang.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "KWWSVZZZFDORQJXUXFRPFrekuensi getaran adalah waktu yang diperlukan untuk menempuh satu getaran penuh.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Periode adalah banyaknya getaran yang terjadi tiap detik. KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Amplitudo adalah jarak terjauh dari titik setimbang.\nPeKWWSVZZZFDORQJXUXFRPrnyataan di atas yang benar adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 4 KWWSVZZZFDORQJXUXFRP",
+    "B": "1, 2",
+    "C": "1, 3",
+    "D": "1, 2, 3 48.Perhatikan gambar gelombang transversal di bawah ini."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Besar periode gelombang adalah 4 s",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Besar panjang gelombang adalah 3 m",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Besar kecepatan gelombang adalah 3 m/s",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Besar frekuensi gelombang adalah 1/2 Hz\nPernyataan di atas yang benar adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 4",
+    "B": "2, 3",
+    "C": "KWWSVZZZFDORQJXUXFRP1, 3",
+    "D": "2, 4 KWWSVZZZFDORQJXUXFRP 49.Untuk memperbesar ggl induksi pada kumparan kawat yang berputar dalam medan magnet, dapKWWSVZZZFDORQJXUXFRP at dilakukan dengan cara:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "mempercepat laju putaran pada kumparan KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "memperbanyak lilitan pada kumparan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "memperkecil luas penampang kumparan KWWSVZZZFDORQJXUXFRP",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "memperbesar luas penampang kawat\nPernyataan yang benar adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2",
+    "B": "1, 2, 3",
+    "C": "2, 3",
+    "D": "1, 2, 3, 4 50.Faktor-faktor penyebab terjadinya gempa bumi adalah:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "pergeseran lempeng bumi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "tanah longsor",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "gletser",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "letusan gunung api",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "ledakan dinamit\nDi antara faktor di atas, yang dimungkinkan EXNDQ merupakan faktor alam adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,4",
+    "B": "2,3",
+    "C": "4,5",
+    "D": "2,5 51. Pada suatu eksperimen, termometer Celsius dan Fahrenheit digunakan secara bersamaan untuk menKWWSVZZZFDORQJXUXFRP gukur suhu sejumlah air dalam bejana tertutup. Pada saat air dipanaskan, terjadi perubahan penunjukan angka pada skala termometer. Masing-masing termometer menunjukkan angka KWWSVZZZFDORQJXUXFRP hasil pengukuran yang berbeda, tetapi perubahan suhu yang ditunjukkan oleh keduanya sama besKWWSVZZZFDORQJXUXFRPar. SEBAB KWWSVZZZFDORQJXUXFRP Perubahan suhu air pada eksperimen tersebut disebabkan oleh kalor yang diterima oleh sejumlah air yang sama. KWWSVZZZFDORQJXUXFRP"
+   }
+  }
+ ]
+}

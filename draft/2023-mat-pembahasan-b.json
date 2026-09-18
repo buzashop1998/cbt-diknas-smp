@@ -1,0 +1,508 @@
+{
+ "id": "2023-mat-pembahasan-b",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Di samping kolam ikan berbentuk segitiga, dibangun\njalan berbentuk L dengan panjang 3 meter dan lebar x\nmeter, seperti yang terlihat pada gambar berikut:\nJika luas segitiga tersebut sama dengan luas daerah yang berbentuk L, maka nilai x\nadalah…meter.",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0001.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0002.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0003.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0004.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0005.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0006.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0007.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p1_0008.png"
+   ],
+   "key": "A",
+   "pemb": "3 – x 3 – x Cara 1. Luas segitiga = Luas daerah berbentuk L 1 (3−𝑥)2 =𝑥2+2𝑥(3−𝑥) 2 ⇔ (3−𝑥)2 =2𝑥2+4𝑥(3−𝑥) ⇔ 9−6𝑥+𝑥2 =2𝑥2+12𝑥−4𝑥2 ⇔ 3𝑥2−18𝑥+9= 0 ⇔ 𝑥2−6𝑥+3 =0 ⇔ (𝑥−3)2 =6 ⇔ 𝑥−3 =±√6 ⇔ 𝑥 =3±√6 Karena 𝑥 < 3, maka 𝑥 =3−√6 1 Najamuddin-MGMP Matematika SMP Kota Makassar Cara 2. Luas Segitiga = sepertiga luas persegi = 1 ×32 =3 3 1 (3−𝑥)2 =3 ⇔ (3−𝑥)2 =6 2 ⇔ 3−𝑥 =±√6 ⇔ 𝑥 =3±√6 Karena 𝑥 < 3, maka 𝑥 =3−√6",
+   "isian": false,
+   "options": {
+    "A": "3−√6",
+    "B": "2√3−3",
+    "C": "3+√6",
+    "D": "2√3+3"
+   }
+  },
+  {
+   "num": 2,
+   "text": "A bergerak mendekati B yang berjarak 55 km dengan kecepatan 5 km/jam. Satu jam kemudian, B bergerak menuju A dengan kecepatan 𝑥 km/jam, dengan 𝑥 adalah waktu (dalam jam) ketika B berangkat sampai bertemu A. Grafik yang menyatakan hubungan antar waktu (t) yang dibutuhkan A bertemu B dengan jarak (S) A dan B adalah.... A. C. B. D. 2 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p2_0009.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p2_0010.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p2_0011.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p2_0012.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p2_0013.png"
+   ],
+   "key": "B",
+   "pemb": "Pada 1 jam pertama, jarak 𝐴 ke B; 𝑆(𝐴𝐵) dapat dinyatakan dalam fungsi 𝑆(𝐴𝐵) = 55 – 5𝑡 Pada jam berikutnya, A bergerak sejauh 5(𝑡−1) menuju B dan B bergerak sejauh (𝑡−1)𝑡 terhitung saat B bergerak menuju A, dimana 𝑥 =𝑡−1, sehingga fungsi jarak A ke B dapat dinyatakan dengan rumus fungsi: 𝑆(𝐴𝐵) =50−5(𝑡−1)−𝑡(𝑡−1) 𝑆(𝐴𝐵) =50−(5+𝑡)(𝑡−1) 𝑆(𝐴𝐵) =55−4𝑡−𝑡2 Dengan demikian, fungsi jarak A dan B yang sesuai dengan kejadian di atas adalah 55−5𝑡, 𝑢𝑛𝑡𝑢𝑘 0 ≤𝑡 ≤ 1 𝑆(𝐴𝐵) ={ 55−4𝑡−𝑡2,𝑢𝑛𝑡𝑢𝑘 𝑡 𝑙𝑎𝑖𝑛𝑛𝑦𝑎 Berdasarkan fungsi tersebut, maka grafik yang sesuai adalah pilihan B.",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Misalkan 𝑎, 𝑏, 𝑐, dan 𝑑 adalah bilangan-bilangan bulat positif yang berbeda sehingga 𝑎 +\n𝑏, 𝑎 + 𝑐, dan 𝑎 + 𝑑 bilangan ganjil sekaligus bilangan kuadrat. Nilai 𝑎 + 𝑏 + 𝑐 + 𝑑\nterkecil yang mungkin adalah….",
+   "images": [],
+   "key": "B",
+   "pemb": "Agar supaya nilai 𝑎 + 𝑏 + 𝑐 + 𝑑 terkecil, maka 𝑎 + 𝑏, 𝑎 + 𝑐, dan 𝑎 + 𝑑 haruslah bilangan kuadrat ganjil terkecil yang lebih besar dari 1 dan 𝑎 adalah nilai maksimal yang mungkin agar 𝑏+𝑐+𝑑 menjadi minimal. Ambil 𝑎 + 𝑏 =9,𝑎 + 𝑐 = 25, dan 𝑎 + 𝑑 = 49. Maksimal 𝑎 yang mungkin adalah 8 untuk nilai 𝑏 =1,𝑐 =17,𝑑 =41. Jadi, nilai 𝑎 + 𝑏 + 𝑐 + 𝑑 terkecil yang mungkin adalah 8+1+17+41 = 67",
+   "isian": false,
+   "options": {
+    "A": "33",
+    "B": "67",
+    "C": "81",
+    "D": "83"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Diketahui\n𝑥2+√𝑥𝑦+𝑦2 =168\n𝑥−√𝑥𝑦+𝑦 =10\nJumlah semua nilai 𝑥+√𝑥𝑦+𝑦 yang mungkin adalah......",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p3_0014.png"
+   ],
+   "key": "D",
+   "pemb": "Diketahui: 𝑥−√𝑥𝑦+𝑦 =10 ⇔ 𝑥+𝑦 =√𝑥𝑦+10……………….……1) 𝑥2+√𝑥𝑦+𝑦2 = 168 ⇔ (𝑥+𝑦)2−2𝑥𝑦+√𝑥𝑦 = 168……2) 3 Najamuddin-MGMP Matematika SMP Kota Makassar Misalkan √𝑥𝑦 = 𝑝 dan subtitusi 1) ke 2) diperoleh: (𝑝+10)2−2𝑝2+𝑝 =168 ⇔ 𝑝2+20𝑝+100−2𝑝2+𝑝 = 168 ⇔ 𝑝2−21𝑝+68 =0 ⇔ (𝑝−4)(𝑝−17) =0 ⇔ 𝑝 = √𝑥𝑦 =4 atau√𝑥𝑦 =17 𝑥+√𝑥𝑦+𝑦 = (𝑥−√𝑥𝑦+𝑦)+2√𝑥𝑦 = 10+2√𝑥𝑦 Jadi, Jumlah semua nilai 𝑥+√𝑥𝑦+𝑦 yang mungkin adalah 10 + 2(4) + 10 + 2(17) = 62",
+   "isian": false,
+   "options": {
+    "A": "14",
+    "B": "27",
+    "C": "44",
+    "D": "62"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Diketahui sebuah dadu seimbang bersisi 6 semula memiliki mata dadu 2, 3, 4, 5, 6, dan 7.\nDadu tersebut dilambungkan satu kali dan diamati hasilnya. Jika yang muncul angka\nganjil, maka angka tersebut diganti dengan angka 8. Namun, Jika yang muncul angka\ngenap, maka angka tersebut diganti dengan angka 1, kemudian dadu yang mata dadunya\ntelah diganti tersebut dilambungkan kembali, peluang munculnya mata dadu ganjil\nadalah....\n1",
+   "images": [],
+   "key": "C",
+   "pemb": "Kejadian untuk percobaan ini ada 2 kemungkinan. Pelemparan pertama muncul ganjil atau pelemparan pertama muncul genap. Peluang munculnya mata dadu ganjil pada pelemparan pertama dan kedua adalah 1 2 1 × = 2 6 6 Peluang munculnya mata dadu genap pada pelemparan pertama dan ganjil pada lemparan kedua adalah 1 4 1 × = 2 6 3 1 1 1 Jadi, peluang munculnya mata dadu ganjil adalah + = 6 3 2",
+   "isian": false,
+   "options": {
+    "A": "3 2",
+    "B": "3 1",
+    "C": "2",
+    "D": "1"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Seorang milliarder sedang membangun hotel. Kamar-kamar hotel tersebut diberi nomor\nsecara berurutan dengan menggunakan bilangan asli mulai dari angka 1. Nomor kamar\ndibuat dari plat besi seharga Rp8.000 per digit. Sebagai contoh No. 7 perlu biaya Rp8.000\ndan No. 11 perlu biaya Rp16.000. Jika hotel tersebut menghasikan biaya sebesar\nRp33.416.000 untuk membuat seluruh nomor kamar, maka banyaknya kamar pada hotel\ntersebut adalah....",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p4_0015.png"
+   ],
+   "key": "B",
+   "pemb": "33.416.000 Banyak angka yang dibuat dengan plat besi sebanyak =4.177 digit 8000 Bilangan 1 digit dari 1−9 sebanyak 9 digit Bilangan 2 digit dari 10−99 sebanyak 90×2 =180 digit Bilangan 3 digit dari 100−999 sebanyak 900×3 =2700 digit Jumlah digit dari bilangan 1 – 999 =9+180+2700 = 2889 digit 4177−2889 1288 Bilangan 4 digit dari 1000−𝑥 sebanyak = =322 bilangan, yaitu dari 4 4 bilangan 1000 sampai 1321. Jadi banyak kamar pada hotel tersebut adalah 1321 kamar.",
+   "isian": false,
+   "options": {
+    "A": "1.288",
+    "B": "1.321",
+    "C": "2.700",
+    "D": "4.177 4 Najamuddin-MGMP Matematika SMP Kota Makassar"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Aima mendapatkan kesempatan makan malam gratis di suatu resto dari tanggal 1 hingga\n10 juni 2023. Aima boleh memilih lebih dari satu tanggal kedatangan pada periode\ntersebut selama bukan tanggal berurutan. Jika Aima berencana datang setidaknya satu\nkali, maka banyaknya kemungkinan jadwal kedatangan yang dapat dibuat oleh Aima\nadalah ....",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p5_0016.png"
+   ],
+   "key": "B",
+   "pemb": "Banyak cara memilih 𝑘 bilangan berbeda dari 𝑎 ,𝑎 ,…,𝑎 ∈{1,2,3,…,𝑛)} dengan syarat 1 2 𝑘 𝑛−(𝑘−1) 𝑎 −𝑎 > 1 adalah ( ) 𝑘 𝑘−1 𝑘 10 Banyak cara memilih 1 jadwal kedatangan dari 1 – 10 adalah ( ) =10 1 9 Banyak cara memilih 2 jadwal kedatangan dari 1 – 10 adalah ( ) = 36 2 8 Banyak cara memilih 3 jadwal kedatangan dari 1 – 10 adalah ( ) = 56 3 7 Banyak cara memilih 4 jadwal kedatangan dari 1 – 10 adalah ( ) = 35 4 6 Banyak cara memilih 5 jadwal kedatangan dari 1 – 10 adalah ( ) = 6 5 Karena tidak boleh memilih jadwal berurutan, maka tidak mungkin memilih lebih dari 5 jadwal dari tanggal 1 sampai 10. Jadi, banyaknya kemungkinan jadwal kedatangan yang dapat dibuat oleh Aima adalah 10+36+56+35+6 = 143",
+   "isian": false,
+   "options": {
+    "A": "45",
+    "B": "143",
+    "C": "144",
+    "D": "2025"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Suatu bak penampungan air berbentuk kerucut terbalik\n(seperti gambar) berisi air dengan volume 1 liter. Jika bak\npenampungan tersebut ditambahkan air sebanyak 331\nmililiter, maka perbandingan antara tinggi air di dalam\nbak penampungan mula-mula dan setelah ditambahkan\nair adalah….",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p5_0017.png"
+   ],
+   "key": "A",
+   "pemb": "Jika perbandingan tinggi dua bangun ruang yang sebangun adalah 𝑎:𝑏, maka perbandingan volumnya adalah 𝑎3:𝑏3. Misalkan tinggi air pada kerucut dengan volume 1 liter 1000 mL adalah 𝑎 dan tinggi air pada kerucut setelah ditambahkan 331 mL adalah 𝑏, maka: 𝑎3:𝑏3 = 1000:1331 ⇔ 𝑎:𝑏 = 10:11",
+   "isian": false,
+   "options": {
+    "A": "10 ∶ 11",
+    "B": "11 ∶ 13",
+    "C": "331 ∶ 1000",
+    "D": "1000 ∶ 1331 5 Najamuddin-MGMP Matematika SMP Kota Makassar"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Perhatikan gambar berikut!\nDi dalam persegi ABCD terdapat dua setenagn\nlingkaran dengan diameter AD dan BC. Ruas garis EF\ndan GH sejajar AB. Jika EK = 3 cm, LH = 6 cm, dan EG =\n𝑐𝑚2\n9 cm, maka luas daerah persegi ABCD adalah...\n.",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0018.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0019.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0020.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0021.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0022.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0023.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0024.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0025.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0026.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0027.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0028.png"
+   ],
+   "key": "A",
+   "pemb": "2𝑟 Misalkan 𝑁 adalah titik tengah 𝐴𝐷 𝑝2+62 = (9−𝑝)2+32 ⇔ 36 =81−18𝑝+9 ⇔ 4= 9−2𝑝+1 6 M ⇔ 2𝑝 =6 ⇔ 𝑝 =3 𝑝 𝑟 𝑟2 =𝑝2+62 = 32+62 =45 N [𝐴𝐵𝐶𝐷]= 2𝑟×2𝑟 = 4𝑟2 9−𝑝 𝑟 =4×45 3 =180",
+   "isian": false,
+   "options": {
+    "A": "180",
+    "B": "360",
+    "C": "90",
+    "D": "150"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Diketahui dua buah segitiga OAB dan OCB dengan O(0, 0), A(4, 0), B(0, 3), dan C(2, 3).\nJika segitiga OCB digeser searah sumbu-𝑥 sehingga titik O terletak di tengah sisi OA,\nmaka perbandingan antara luas irisan kedua segitiga mula-mula dan luas irisan kedua\nsegitiga setelah segitiga OCB digeser adalah...",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0029.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0030.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0031.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0032.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0033.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0034.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0035.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0036.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0037.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0038.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0039.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0040.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0041.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0042.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0043.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0044.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0045.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0046.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0047.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0048.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p6_0049.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "3 : 2",
+    "B": "2 : 1",
+    "C": "3 : 1",
+    "D": "4 : 1 Jawab: 4 ∆𝑆𝐷𝐶 adalah pergeseran ∆𝑂𝐶𝐵. B C ∆𝑂𝑃𝐵 adalah irisan ∆𝑂𝐴𝐵 dan ∆𝑂𝐶𝐵 3 • D • ∆𝑆𝑅𝑄 adalah irisan ∆𝑂𝐴𝐵 dan ∆𝑆𝐷𝐶 P 2 Karena ∆𝑂𝑃𝐵 ≅ ∆𝑆𝑅𝑄 Q [𝑂𝑃𝐵] 𝑂𝐵2 = 1 R [𝑆𝑅𝑄] 𝑆𝑄2 22 S A = O 1 2 3 4 12 =4 ∶ 1 6 Najamuddin-MGMP Matematika SMP Kota Makassar"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Misalakan populasi ikan A semula adalah 𝑥 dan populasi ikan B semula adalah 𝑦.\nSekarang, populasi ikan A meningkat 28% dan populasi B berkurang 28%, sehngga rasio\npopulasi ikan A dan B menjadi 𝑦/𝑥. Persentase perubahan populasi keseluruhan ikan\nsekarang dibandingakan total populasi ikan semula adalah...",
+   "images": [],
+   "key": "B",
+   "pemb": "Perubahan populasi ikan A meningkat dari 𝑥 menjadi 128%𝑥 Perubahan populasi ikan B menurun dari 𝑦 menjadi 72%𝑦 128%𝑥 𝑦 𝑥2 72 9 𝑥 3 Rasio perubahannya; = ⇔ = = ⇔ = 72%𝑦 𝑥 𝑦2 128 16 𝑦 4 Misalkan populasi A dan B mula-mula adalah 3𝑘 dan 4𝑘 untuk suatu bilangan asli 𝑘, maka perubahan populasi keseluruhan ikan adalah |(128%(3𝑘)+72%(4𝑘))−100%(7𝑘)| =|(384+288−700)%𝑘| =28%𝑘. Persentase perubahan populasi keseluruhan ikan sekarang dibandingakan total populasi ikan semula adalah perubahan populasi ikan 28%𝑘 = ×100% =4% Total populasi ikan semula 700%𝑘",
+   "isian": false,
+   "options": {
+    "A": "0%",
+    "B": "4%",
+    "C": "28%",
+    "D": "33%"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Diketahui 𝑎,𝑏,𝑐,𝑑,𝑒 merupakan bilangan bulat positif dengan 𝑎 ≤ 𝑏 ≤ 𝑐 ≤ 𝑑 ≤ 𝑒 dan\n𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒 = 𝑎𝑏𝑐𝑑𝑒. Nilai terbesar yang mungkin dari 𝑒 adalah....",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p7_0050.png"
+   ],
+   "key": "C",
+   "pemb": "Diketahui 𝑎 ≤ 𝑏 ≤ 𝑐 ≤ 𝑑 ≤ 𝑒 sehingga 𝑎+𝑏+𝑐+𝑑+𝑒 ≤5𝑒 Karena 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒 = 𝑎𝑏𝑐𝑑𝑒, maka 𝑎𝑏𝑐𝑑𝑒 ≤ 5𝑒 ⇔ 𝑎𝑏𝑐𝑑 ≤5 Selanjutnya kita akan memilih kemungkinan nilai 𝑎,𝑏,𝑐,𝑑 dan mencari nilai 𝑒 yang sesuai. Jika 𝑎𝑏𝑐𝑑 = 1 maka 𝑎 =𝑏 =𝑐 = 𝑑 = 1, diperoleh 4+𝑒 =𝑒 ⇔ 𝑒 =∅ Jika 𝑎𝑏𝑐𝑑 = 2 maka 𝑎 =𝑏 =𝑐 = 1 𝑑𝑎𝑛 𝑑 = 2, diperoleh 5+𝑒 = 2𝑒 ⇔ 𝑒 =𝟓 Jika 𝑎𝑏𝑐𝑑 = 3 maka 𝑎 =𝑏 =𝑐 = 1 𝑑𝑎𝑛 𝑑 = 3, diperoleh 6+𝑒 = 3𝑒 ⇔ 𝑒 =3 Jika 𝑎𝑏𝑐𝑑 = 4 maka 𝑎 =𝑏 =𝑐 = 1 𝑑𝑎𝑛 𝑑 = 4, diperoleh 7+𝑒 = 4𝑒 ⇔ 𝑒 =∅, atau 𝑎 = 𝑏 =1 𝑑𝑎𝑛 𝑐 = 𝑑 = 2, diperoleh 6+𝑒 = 4𝑒 ⇔ 𝑒 =2, Jika 𝑎𝑏𝑐𝑑 = 5 maka 𝑎 =𝑏 =𝑐 = 1 𝑑𝑎𝑛 𝑑 = 5, diperoleh 8+𝑒 = 5𝑒 ⇔ 𝑒 =2. Jadi, nilai terbesar yang mungkin dari 𝑒 adalah 5 7 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Segitiga 𝐴𝐵𝐶 terletak pada setengah lingkaran berdiameter 𝐴𝐵 dengan ∠𝐴𝐵𝐶 = 30°.\nTitik 𝐸 terletak pada 𝐴𝐵 sehingga 𝐴𝐵 = 4 𝐸𝐵 dan 𝐸𝐶 = 14 cm. Luas segitiga 𝐵𝐸𝐶 sama\ndengan… 𝑐𝑚2.",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0051.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0052.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0053.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0054.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0055.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0056.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0057.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0058.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0059.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0060.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0061.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0062.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0063.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0064.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0065.png"
+   ],
+   "key": "A",
+   "pemb": "Dengan menggunakan rumus Median pada C ∆ 𝐵𝑂𝐶 diperoleh: 1 1 1 𝐸𝐶2 = 𝐵𝐶2+ 𝑂𝐶2− 𝑂𝐵2 2𝑥√3 2 2 4 1 2 1 1 14 2𝑥 2𝑥 142 = (2𝑥√3) + (2𝑥)2− (2𝑥)2 2 2 4 30° 60° 196 =6𝑥2+2𝑥2−𝑥2 B 𝑥 E 𝑥 O 2𝑥 A 196 =7𝑥2 𝑥2 = 28 1 1 1 [𝐵𝐸𝐶] = [𝐴𝐵𝐶] = × ×(2𝑥)(2𝑥√3) 4 4 2 1 = (𝑥2√3) = 14√3 2",
+   "isian": false,
+   "options": {
+    "A": "14√3",
+    "B": "16√7",
+    "C": "28√3",
+    "D": "32√3"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Segitiga ABC siku-siku di A dan ADEC adalah persegi\npanjang. Titik H terletak pada DE dan lingkaran dengan\npusat H menyinggung ketiga sisi segitiga ABC.\nJika FG = 2 cm dan EF = 4 cm, maka luas segitiga ABC\nadalah…𝑐𝑚2.",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0066.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0067.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0068.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0069.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0070.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0071.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0072.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0073.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0074.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p8_0075.png"
+   ],
+   "key": "C",
+   "pemb": "By: Naja 𝑟 Perhatikan ∆𝐶𝐸𝐹 dan ∆𝐻𝑃𝐹. 𝐶𝐸 =𝐻𝑃 =𝑟. Menurut syarat (Sd, S, SD), maka ∆𝐶𝐸𝐹 ≅∆𝐻𝑃𝐹. Akibatnya, 𝐸𝐹 = 4 𝑃𝐹 =4. Pada 𝐻𝑃𝐹, 𝐻𝐹2−𝐻𝑃2 = 𝑃𝐹2 ⇔ (𝑟+2)2−𝑟2 = 42 2 ⇔ (2𝑟+2)(2) = 16 6 ⇔ 4(𝑟+1) =16 + P ⇔ 𝑟+1= 4 𝑟 2 𝑟 ⇔ 𝑟 = 3 𝑟 1 [𝐶𝐸𝐹] = ×3×4 =6 satuan, dan 𝐴𝐶 = 2(3)+6 =12 2 [𝐴𝐵𝐶] 𝐴𝐶2 122 9 𝑟 ∆𝐴𝐵𝐶~∆𝐶𝐸𝐹,sehingga = = = [𝐶𝐸𝐹] 𝐸𝐹2 42 1 Jadi, [𝐴𝐵𝐶] =9[𝐶𝐸𝐹]= 9×6 =54 8 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {
+    "A": "8",
+    "B": "27",
+    "C": "54",
+    "D": "108"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Empat orang siswa dipilih mewakili suatu sekolah untk OSK SMP 2023. Peluang ada\nsiswa yang lahir di bulan yang sama adalah….",
+   "images": [],
+   "key": "A",
+   "pemb": "𝑃(ada siswa lahir di bulan yang sama)= 1−𝑃(Semua siswa lahir di bulan berbeda) 11 10 9 = 1−(1× × × ) 12 12 12 = 1−0,5729 = 0,4271",
+   "isian": false,
+   "options": {
+    "A": "0,4271",
+    "B": "0,5729",
+    "C": "0,2747",
+    "D": "0,4115"
+   }
+  },
+  {
+   "num": 16,
+   "text": "Dua kapal memiliki tempat bersandar (berlabuh) yang sama di suatu pelabuhan.\nDiketahui bahwa waktu kedatangan kedua kapal saling bebas dan memiliki\nkemungkinan yang sama untuk bersandar pada suatu hari Minggu (jam 00.00 - 24.00).\nJika waktu bersandar kapal pertama adalah 2 jam dan waktu bersandar kapal kedua\nadalah 4 jam, peluang bahwa satu kapal harus menunggu sampai tempat bersandar dapat\ndigunakan adalah....",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0076.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0077.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0078.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0079.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0080.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0081.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0082.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0083.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0084.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0085.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0086.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0087.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0088.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0089.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0090.png",
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p9_0091.png"
+   ],
+   "key": "C",
+   "pemb": "Perhatikan grafik berikut: Misalkan 𝑥 dan 𝑦 menyatakan waktu kapal 1 dan 2 untuk berlabuh dari pukul 00.00 – 24.00 dan garis 𝑦 = 𝑥 menunjukkan waktu kedua kapal bertemu. Garis 𝑦 =𝑥−1 adalah batas waktu kapal 1 menunggu ketika kapal 2 berlabuh dan 𝑦 =𝑥+4 merupakan batas waktu kapal 2 menunggu ketika kapal 1 berlabuh. 𝑦 Peluang kapal 1 menunggu saat kapal 2 𝑅 𝐵 𝐶 𝑦 = 𝑥 berlabuh adalah 𝑂𝑃𝑄𝐵 𝑄 [ ] = 1−[𝑃𝐴𝑄]/[𝑂𝐴𝐵] 𝑂𝐴𝐵 2 222 23 𝑙 = 1− = 𝑎 242 144 𝑝 𝑎 𝑆 Peluang kapal 2 menunggu saat kapal 1 𝐾 berlabuh adalah 𝑂𝑆𝑅𝐵 𝑥 [ ]= 1−[𝑆𝐶𝑅]/[𝑂𝐶𝐵] 𝑂𝐶𝐵 𝑂 𝑃 𝐾𝑎𝑝𝑎𝑙 1 𝐴 202 44 =1− = 242 144 Jadi, peluang bahwa satu kapal harus menunggu sampai tempat bersandar dapat digunakan adalah 23 44 67 𝑃 = + = 144 144 144 9 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {
+    "A": "67/44",
+    "B": "1/4",
+    "C": "67/288",
+    "D": "23/144"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Perhatikan kedua persamaan berikut.\n(𝑝2+𝑞2+𝑟2)2 𝑞2−𝑝𝑟\n𝐴 = dan 𝐵 =\n𝑝2𝑞2+𝑞2𝑟2+𝑟2𝑝2 𝑝2+𝑞2+𝑟2\nJika 𝑝 + 𝑞 + 𝑟 = 0, maka nilai 𝐴2 − 4𝐵 adalah....",
+   "images": [],
+   "key": "D",
+   "pemb": "Diketahui 𝑝+𝑞+𝑟 = 0 (𝑝+𝑞+𝑟)2 = 𝑝2+𝑞2+𝑟2+2(𝑝𝑞+𝑞𝑟+𝑟𝑝) =0 𝑝2+𝑞2+𝑟2 =−2(𝑝𝑞+𝑞𝑟+𝑟𝑝) (𝑝2+𝑞2+𝑟2)2 =4(𝑝𝑞+𝑞𝑟+𝑟𝑝)2 = 4(𝑝2𝑞2+𝑞2𝑟2 +𝑟2𝑝2+2𝑝𝑞𝑟(𝑝+𝑞+𝑟) =4(𝑝2𝑞2+𝑞2𝑟2+𝑟2𝑝2)+0 Sehingga: (𝑝2+𝑞2+𝑟2)2 4(𝑝2𝑞2+𝑞2𝑟2+𝑟2𝑝2) 𝐴 = = =4…………….1) 𝑝2𝑞2+𝑞2𝑟2 +𝑟2𝑝2 𝑝2𝑞2+𝑞2𝑟2+𝑟2𝑝2 Selanjutnya diketahui, 𝑝2+𝑞2+𝑟2 =−2(𝑝𝑞+𝑞𝑟+𝑟𝑝) 𝑝2+𝑞2+𝑟2 =−2(𝑞(𝑝+𝑟)+𝑟𝑝) = −2(𝑞(−𝑞)+𝑟𝑝) = 2(𝑞2−𝑝𝑟) Sehingga: 𝑞2−𝑝𝑟 𝑞2−𝑝𝑟 1 𝐵 = = = …………………………………..…2) 𝑝2+𝑞2+𝑟2 2(𝑞2−𝑝𝑟) 2 Dari 1) dan 2) diperoleh: 𝐴2−4𝐵 =42−4( 1 ) =14 2",
+   "isian": false,
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "14"
+   }
+  },
+  {
+   "num": 18,
+   "text": "Diketahui barisan bilangan bulat 𝑥 , 𝑥 , … , 𝑥 yang memenuhi tiga syarat berikut\n1 2 2023\n𝑥 +𝑥 +⋯+𝑥 = 25−(𝑥 +𝑥 +⋯+𝑥 )\n1 3 2023 2 4 2022\n𝑥 2+𝑥 2+⋯+𝑥 2 =125−(𝑥 2+𝑥 2+⋯+𝑥 2)\n1 3 2023 2 4 2022\n−2 ≤𝑥 ≤1 untuk 𝑖 =1,2,3,…,2023\n𝑖\nNilai terkecil yang mungkin untuk 𝑥 3+𝑥 3+⋯+𝑥 3 adalah….\n1 3 2023",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p10_0092.png"
+   ],
+   "key": "B",
+   "pemb": "Persamaan di atas dapat diubah sebagai berikut: 𝑥 +𝑥 +𝑥 +⋯+𝑥 =25 1 2 3 2023 𝑥 2+𝑥 2+𝑥 2+⋯+𝑥 2 = 125 1 2 3 2023 Diketahui bahwa 𝑥 ∈{−2,−1,0,1}. Misalkan 𝑝,𝑞,𝑟,𝑠 berturut-turut menyatakan 𝑖 banyaknya −2,−1,0,1 yang digunakan pada masing-masing persamaan,maka: −2𝑝−𝑞+𝑠 = 25.…....1) 4𝑝+𝑞+𝑠 =125......2) Nilai untuk 𝑥 3+𝑥 3+⋯+𝑥 3 = −8𝑝−𝑞+𝑠 =25−6𝑝 akan terkecil apabila 𝑝 1 3 2023 dengan nilai terbesar. Dengan memperkurangkan kedua persamaan di atas diperoleh: 6𝑝+2𝑞 = 100 ⇔ 3𝑝+𝑞 = 50 Nilai terbesar 𝑝 =16 untuk 𝑞 =2. Jadi, nilai terkecil yang mungkin untuk 𝑥 3+𝑥 3+ 1 3 ⋯+𝑥 3 adalah 25−6(16) = 25−96 = −71 2023 10 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {
+    "A": "−100",
+    "B": "−71",
+    "C": "−51",
+    "D": "−16"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Suatu bilangan prima disebut “prima kanan” jika dapat diperoleh bilangan prima dengan\nmenghilangkan setidaknya satu angka di sebelah kiri. Sebagai contoh. 223 adalah “prima\nkanan” sebab setelah menghilangkan angka 2 paling kiri, bilangan yang tersisa adalah 23\nyang merupakan bilangan prima. Contoh lainnya 127. Dengan menghilangkan 2 angka\npaling kiri maka angka yang tersisa adalah 7 yang merupakan bilangan prima.\nBanyaknya bilangan prima antara 10 dan 200 yang merupakan “prima kanan” adalah....",
+   "images": [],
+   "key": "A",
+   "pemb": "Perhatikan bahwa semua bilangan prima dua digit yang angka satuannya 3 atau 7 adalah “prima kanan”. Adapun bilangan yang memenuhi sifat ini, yaitu 13, 17, 23, 37, 43, 47, 53, 67, 73, 83, 97. Selanjutnya, semua bilangan prima 3 digit yang angka satuan atau 2 digit terakhir bilangan prima adalah “prima kanan”. Bilangan yang memenuhi adalah 103, 107, 113, 127, 131, 137, 157, 163, 167, 173, 179, 193, dan 197. Jadi, banyaknya bilangan prima antara 10 dan 200 yang merupakan “prima kanan” adalah 11 + 13 = 24 bilangan.",
+   "isian": false,
+   "options": {
+    "A": "24",
+    "B": "26",
+    "C": "28",
+    "D": "30"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Jika\n1 1 1\n1+ + +⋯+\n3 5 2023\n𝑀 =\n1 1 1 1\n+ + +⋯+\n1×2023 3×2021 5×2019 2023×1\nmaka hasil penjumlahan semua faktor prima dari M adalah....",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p11_0093.png"
+   ],
+   "key": "D",
+   "pemb": "1 1 1 1+ + +⋯+ 3 5 2023 𝑀 = 1 1 1 1 + + +⋯+ 1×2023 3×2021 5×2019 2023×1 1 1 1 1 1 1 1 (1+ )+( + )+( + )+⋯+( + ) 2023 3 2021 5 2019 1011 1013 𝑀 = 1 1 1 1 1 1 ( + )+( + )+⋯+( + 1×2023 2023×1 3×2021 2021×3 1011×1013 1013×1011 1 1 1 1 2024( + + +⋯+ ) 1×2023 3×2021 5×2019 1011×1013 𝑀 = =1012 1 1 1 1 2( + + +⋯+ ) 1×2023 3×2021 5×2019 1011×1013 𝑀 =1012 = 22×11×23 Jadi, hasil penjumlahan semua faktor prima dari M adalah 2+11+23 =36 11 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {
+    "A": "10",
+    "B": "17",
+    "C": "30",
+    "D": "36"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Jika (𝑥,𝑦) adalah pasangan bilangan bulat positif yang memenuhi\n𝑥2+2023𝑥+2023 =𝑦2\ndengan 𝑥 > 𝑦. Banyaknya (𝑥,𝑦) yang mungkin adalah....",
+   "images": [],
+   "key": "A",
+   "pemb": "𝑥2+2023𝑥+2023 =𝑦2 Kita akan ubah ke dalam bentuk kuadrat dengan mengalikan semua suku dengan 4; 4𝑥2+4(2023𝑥)+4(2023) = 4𝑦2 (2𝑥+2023)2−20232 +4(2023) = (2𝑦)2 (2𝑥+2023)2−(2𝑦)2 = 20232−4(2023) (2𝑥+2𝑦+2023)(2𝑥−2𝑦+2023) = 2023×2019 Karena 𝑥,𝑦 >0, maka 2𝑥+2𝑦+2023 >2023, sehingga 2𝑥−2𝑦+2023 <2019. Akibatnya: 𝑥−𝑦 < 0⇔ 𝑥 <𝑦. Hal ini bertentangan dengan syarat 𝑥 >𝑦. Dengan demikian, tidak ada pasangan (𝑥,𝑦) yang mungkin. 𝑛 𝑛!",
+   "isian": false,
+   "options": {
+    "A": "0",
+    "B": "2",
+    "C": "4",
+    "D": "Tak hingga"
+   }
+  },
+  {
+   "num": 22,
+   "text": "Jika ( )= , dengan 𝑛! =1×2×…×𝑛 dan 0! = 1, maka nilai dari deret berikut\n𝑘 𝑘!(𝑛−𝑘)!\n1 20 1 20 1 20 1 20 1 20\n( )+ ( )+ ( )+ ( )+⋯+ ( )\n1 0 2 1 3 2 4 3 21 20\nadalah….\n(221−1)",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p12_0094.png"
+   ],
+   "key": "A",
+   "pemb": "Dengan menggunakan teori binomial Newton diperoleh: 21 21 21 21 21 ( )+( )+( )+( )+⋯( ) =221 0 1 2 3 21 21 21 21 21 21 Karena ( ) =1, maka ( )+( )+( )+⋯( ) = 221−1 0 1 2 3 21 Perhatikan bahwa: 1 20 20! 1 21! 1 21 ( ) = = ( )= ( ) 𝑟 𝑟−1 𝑟(𝑟−1)!(20−(𝑟−1))! 21 𝑟!(21−𝑟)! 21 𝑟 Dengan demikian: 1 20 1 20 1 20 1 20 1 20 ( )+ ( )+ ( )+ ( )+⋯+ ( ) = 1 0 2 1 3 2 4 3 21 20 1 21 1 21 1 21 1 21 1 21 = ( )+ ( )+ ( )+ ( )+⋯+ ( ) 21 1 21 2 21 3 21 4 21 21 12 Najamuddin-MGMP Matematika SMP Kota Makassar 1 21 21 21 21 21 = (( )+( )+( )+( )+⋯( )) 21 1 2 3 4 21 1 221−1 = (221−1) = 21 21",
+   "isian": false,
+   "options": {
+    "A": "21 (220−1)",
+    "B": "21 221",
+    "C": "21 220",
+    "D": "21"
+   }
+  },
+  {
+   "num": 23,
+   "text": "Banyaknya himpunan bagian dari {1,2,3,4,5,6,7,8,9} yang berisi 3 bilangan dan memuat\ntepat dua bilangan ganjil adalah .....",
+   "images": [],
+   "key": "A",
+   "pemb": "{1,2,3,4,5,6,7,8,9} memuat 5 bilangan ganjil dan 4 bilangan genap. 5 5! Banyak cara memilih 2 bilangan ganjil dari {1,3,5,7,9} adalah ( )= =10 cara dan 2 2!.3! banyak cara memilih 1 bilangan genap dari {2,4,6,8} adalah 4 cara. Jadi, banyaknya himpunan bagian dari {1,2,3,4,5,6,7,8,9} yang berisi 3 bilangan dan memuat tepat dua bilangan ganjil adalah 10×4 =40",
+   "isian": false,
+   "options": {
+    "A": "40",
+    "B": "84",
+    "C": "30",
+    "D": "48"
+   }
+  },
+  {
+   "num": 24,
+   "text": "Banyaknya bilangan asli tujuh digit yang disusun dari 0 atau 1 saja serta habis dibagi 6\nadalah...",
+   "images": [],
+   "key": "A",
+   "pemb": "Sebuah bilangan habis dibagi 6 jika bilangan tersebut habis dibagi 2 dan habis dibagi 3. Hal ini berarti bilangan tersebut harus memuat 3 atau 6 angka 1, diawali dengan angka 1 dan berakhir dengan angka 0. 5! Banyak bilangan 7 digit yang memuat 3 angka 1 dan habis dibagi 6 adalah = 10 2!.3! Banyak bilangan 7 digit yang memuat 6 angka 1 dan habis dibagi 6 adalah 1 Jadi, Banyaknya bilangan asli tujuh digit yang disusun dari 0 atau 1 saja serta habis dibagi 6 adalah 10+1= 11",
+   "isian": false,
+   "options": {
+    "A": "11",
+    "B": "17",
+    "C": "21",
+    "D": "22"
+   }
+  },
+  {
+   "num": 25,
+   "text": "Diketahui suatu konstanta 𝑘 > 0. Garis 𝑙 dengan persamaan 𝑦 = 2𝑘𝑥 + 3𝑘2 meotong\nparabola dengan persamaan 𝑦 = 𝑥2 pada titik 𝑃 di kuadran I dan 𝑄 di kuadran II. Jika\nkoordinat 𝑂(0,0)) dan luas daerah segitiga 𝑃𝑂𝑄 adalah 48 satuan luas, maka kemiringan\ngaris 𝑙 adalah....\n2",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p13_0095.png"
+   ],
+   "key": "D",
+   "pemb": "13 Najamuddin-MGMP Matematika SMP Kota Makassar Garis 𝑦 = 2𝑘𝑥 + 3𝑘2 meotong parabola 𝑦 = 𝑥2, maka: 𝑥2 = 2𝑘𝑥 + 3𝑘2 ⇔ 𝑥2−2𝑘𝑥−3𝑘2 = 0 ⇔ (𝑥+𝑘)(𝑥−3𝑘) = 0 Untuk 𝑥 =−𝑘 diperoleh 𝑦 =𝑘2 sehingga koordinat 𝑄(−𝑘,𝑘2) Untuk 𝑥 =3𝑘 diperoleh 𝑦 = 9𝑘2 sehingga koordinat 𝑃(3𝑘,9𝑘2) Dengan kordinat 𝑂(0,0) dan luas segitiga 𝑃𝑂𝑄 =48 satuan, maka: 1 | 0 −𝑘 3𝑘 0 | = 48 ⇔ 1 (3𝑘3−(−9𝑘3)) =48 2 0 𝑘2 9𝑘2 0 2 ⇔ 6𝑘3 = 48 ⇔ 𝑘3 =8 ⇔ 𝑘 = 2 Jadi, kemiringan garis 𝑦 = 2𝑘𝑥 + 3𝑘2 adalah 2𝑘 =4 Catatan: Pembahasan ini tidak dijamin sepenuhnya benar. Kesalahan kalkulasi atau perbedaan dalam menfsirkan soal sangat dimungkinkan terjadi. Oleh karena itu, tugas para pembaca untuk memberi koreksi atau saran yang positif.(CMIIW) Terima kasih kepada:",
+   "isian": false,
+   "options": {
+    "A": "3",
+    "B": "2 4",
+    "C": "3",
+    "D": "4"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Bapak Miftahus Saidin (Surabaya)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Bapak Asra (Konawe)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Ibu Sitti Murniati (Aceh)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Bapak Muslimin (Makassar)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Pengurus dan Anggota MGMP Matematika SMP Kota Makassar Atas segala bentuk sharing ilmu dan motivasinya sehingga",
+   "images": [
+    "img2/2023-mat-pembahasan-b/2023-mat-pembahasan-b_p14_0096.png"
+   ],
+   "key": null,
+   "pemb": "soal OSN Matematika SMP tingkat kabupaten/kota Tahun 2023 ini dapat diselesaikan. Jazakumullah khairan katsiiraa. 14 Najamuddin-MGMP Matematika SMP Kota Makassar",
+   "isian": false,
+   "options": {}
+  }
+ ]
+}

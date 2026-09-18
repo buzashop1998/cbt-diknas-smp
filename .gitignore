@@ -1,0 +1,13 @@
+# artefak pengembangan berat (tidak perlu di repo)
+pages/
+img2/
+
+# python
+__pycache__/
+*.pyc
+
+# file sementara
+*.log
+
+out_extract.txt
+err_extract.txt

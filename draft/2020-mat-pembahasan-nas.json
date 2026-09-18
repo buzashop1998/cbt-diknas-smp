@@ -1,0 +1,113 @@
+{
+ "id": "2020-mat-pembahasan-nas",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Faktor komposit dari 1001. 1. a−1 dan b−1, a = b dan a,b prima. 3. Bilangan bukan palindrom. 2. Kelipatan 9. 5. p × q3 dengan p dan q merupakan dua 4. p3 × q, dengan p dan q merupakan dua bilangan prima yang berbeda. bilangan prima yang berbeda. 1 2 3 4 5 Soal 5. Di suatu kebun yang berbentuk segiempat di setiap titik sudut terdapat menara pengawas dan di dalam kebun tersebut terdapat menara pemantau. Akan dibuat daerah-daerah kecil yang tersebentuk segitiga sehingga titik sudutnya merupakan menara (bebas menara pemantau dan atau pengawas). Misalkan k(m,n) banyaknya daerah kecil yang dibuat jika ada m menara pengawas dan n menara pemantau. (a). Nilai k(4,1),k(4,2),k(4,3), dan k(4,4). (b). Rumus umum k(m,n) dengan m dan n bilangan asli. 5 II Soal dan",
+   "images": [],
+   "key": null,
+   "pemb": "6 KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020 Soal 1. Terdapat sebuah rapat yang terdiri dari 40 kursi yang dihadiri oleh 16 tamu undangan. Untuk menghindari penularan COVID-19, maka setiap tamu undangan harus dibatasi minimal dengan 1 kursi. Tentukan banyaknya susunan mereka duduk. ............................................................................................. Solusi. Jawabannya adalah 16!×C(25,16) . Beri nomor kursi-kursi tersebut dengan nomor 1,2,3,4,··· ,39, dan 40 (misalkan) dari ujung kiri ke ujung kanan dalam urutan tersebut. Misalkan a ,a ,a ,··· ,a adalah nomor-nomor 1 2 3 16 kursi yang diduduki oleh 16 orang tersebut dimana a ∈ {1,2,3,··· ,40} untuk setiap bilangan i asli 1 ≤ i ≤ 16, lalu pandang himpunan {a ,a ,a ,··· ,a }. Definisikan pula w = a −a 1 2 3 16 j j j−1 dimana w ≥ 2 untuk setiap bilangan asli 2 ≤ j ≤ 16. Perhatikan bahwa j a +w +w +···+w = a ≤ 40 1 2 3 16 16 Maka terdapat bilangan asli k sehingga a +w +w +···+w = 41−k ⇐⇒ a +w +w +···+w +k = 41 1 2 3 16 1 2 3 16 Misalkan w = x +1 dimana x bilangan asli. Maka kita punya j j j a +w +w +···+w +k = 41 1 2 3 16 a +(x +1)+(x +1)+···+(x +1)+k = 41 1 2 3 16 a +x +x +···+x +k = 26 (∗) 1 2 3 16 Kita tahu bahwa a bijektif dengan x , sehingga banyak himpunan {a ,a ,··· ,a } sama dengan j j 1 2 16 menentukan banyak solusi dari (∗). Dengan star and bar theorem, maka ada C(26−1,17−1) = C(25,16) Karena posisi 16 orang tersebut dapat ditukar-tukar (dipermutasi), mak",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Faktor komposit dari 1001. 1. a−1 dan b−1, a = b dan a,b prima. 3. Bilangan bukan palindrom. 2. Kelipatan 9. 5. p × q3 dengan p dan q merupakan dua 4. p3 × q, dengan p dan q merupakan dua bilangan prima yang berbeda. bilangan prima yang berbeda. 1 2 3 4 5 .............................................................................................",
+   "images": [],
+   "key": null,
+   "pemb": ". Jawabannya adalah sebagai berikut. 7 7 2 9 5 2 4 Misalkan a dan b merupakan angka dari 1 sampai 9 yang diisi pada petak berikut. 1 G 2 F 3 E A 4 D 5 C B 12 KSN SMP/MTs Sederajat : Hari Pertama Wildan Bagus Wicaksono, updated 4 Nopember 2020 Dari (1) posisi mendatar, faktorisasi 1001 adalah 1001 = 7×11×13. Dilihat dari kotak mendatar yang hanya boleh diisi dari posisi (1) hanya dua kotak, maka angka yang terletak pada kotak 1 dan kotak 2 merupakan angka pembentuk dari bilangan dua angka yang merupakan faktor komposit dari 1001. Sehingga kemungkinannya adalah 77 atau 91. Sekarang, kita tinjau poin (1) posisi menurun. • Jika = 91 sehingga = 9 dan = 1. Maka − 1 = 9 − 1 dan + 1 = 9 +1 keduanya harus bilangan prima sehingga harus genap. Dengan mencoba semua kemungkinan nilai 9 yaitu 92 94 96 98, tidak ada kemungkinan nilai yang memenuhi kondisi tersebut. • Jika = 77 sehingga = = 7. Maka − 1 dan + 1 keduanya merupakan bilangan prima sehingga harus genap. Dengan mencoba semua kemungkinan nilai dari yaitu 72 74 76 78, maka hanya akan dipenuhi ketika = 72. Demikian = 2. Dari poin (3) mendatar, karena bukan bilangan palindrom, maka = = 2. Dari poin (4) menurun, bilangan dua digit = 3× . Sedangkan, dari poin (5) menurun, bilangan dua digit = × 3. Jika salah satu dari bernilai lebih dari 3, maka salah satu dari atau bernilai lebih dari 99. Sehingga tidak mungkin bilangan dua digit. Maka ( ) = (3 2) atau (2 3). Maka kemungkinan nilai untuk dan adalah 24 dan 54. Karena = , maka = 54 dan =",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Jika membeli satu botol A, maka harganya adalah Rp10.000,00 yang berkapasitas sebanyak 5 ml. Sehingga harga botol A adalah Rp2.000,00/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Jika membeli dua botol A, maka botol kedua mendapatkan potongan harga 20%. Sehingga harga dari botol kedua adalah 100%−20% = 80% dari harga botol A aslinya. Maka total 15 KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020 pembelian dua botol ini adalah 80 10.000+ ×10.000 = 10.000+8.000 = 18.000 100 yang berkapasitas 10 ml. Sehingga harga botol A adalah Rp1.800,00/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Jika membeli tiga botol A, maka pembelian botol pertama adalah Rp10.000,00, pembelian botol kedua dan ketiga adalah 80 ×10.000 = 8.000 100 Sehingga total harganya adalah Rp26.000,00 berkapasitas 15 ml. Maka harga botol A adalah Rp1733,33/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Jika membeli empat botol A, maka ada dua kemungkinan: • Mendapatkan diskon hingga pembelian keempat. Harga botol A pada pembelian pertama adalah Rp10.000,00. Maka harga botol A pada pembelian kedua, ketiga, dan keempat adalah 80 ×10.000 = 8.000 100 Total harga keempat botol ini adalah Rp34.000,00 berkapasitas 20 ml. Maka harga botol A adalah Rp1.700,00/ml. • Pada pembelian keempat mendapatkan satu botol A secara gratis. Maka harga keempat botol tersebut totalnya adalah Rp40.000,00 lalu mendapatkan satu botol A secara gratis, yang artinya berkapasitas 25 ml. Maka harga botol A adalah Rp1600,00/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Jika membeli sebuah botol B dengan harga Rp15.000,00 berkapasitas 8 ml, maka harganya Rp1.875/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Jika membeli dua botol B, maka botol kedua mendapat potongan harga 20%. Sehingga total harga untuk pembelian dua botol ini adalah 80 15.000+ ×15.000 = 24.000 100 berkapasitas 16 ml. Maka harga botol B adalah Rp1500/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "Jika membeli tiga botol B, maka akan mendapatkan satu botol B secara gratis. Artinya, total harganya adalah Rp45.000,00 berkapasitas 32 ml. Maka harga botol B adalah Rp1.406,25/ml. 16 KSN SMP/MTs Sederajat : Hari Kedua Wildan Bagus Wicaksono, updated 5 Nopember 2020",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Jika membeli satu botol C dengan harga Rp25.000,00 berkapasitas 14 ml, maka harga botol C adalah Rp1.785,71/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 9,
+   "text": "Jika membeli dua botol C, maka akan mendapatkan satu botol A secara gratis. Maka total pembeliannya adalah Rp50.000,00 berkapasitas 33 ml yang berarti Rp1.515,15/ml.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 10,
+   "text": "Jika membeli tiga botol C, maka akan mendapatkan satu botol B secara gratis. Maka total pembeliannya adalah Rp75.000,00 berkapasitas 50 ml yang berarti Rp1500,00/ml. Dari hal-hal diatas, harga termurah pada nomor 7, yaitu Rp1406,25/ml dengan membeli tiga botol B (dan mendapatkan satu botol B secara gratis). Kita memerlukan beberapa botol sehingga dapat menampung 155 ml. Maka pembayaran minimum dapat tercapai jika kita melakukan pembelian pada nomor 7 sebanyak 5 kali (sehingga diperoleh kapasitas 160 ml). Karena jika terdapat satu botol saja yang harganya lebih dari Rp1.406,25/ml, maka harganya dapat dipastikan lebih dari Rp225.000,00. Jadi, pembayaran minimumnya adalah Rp225.000,00. 17",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  }
+ ]
+}

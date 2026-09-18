@@ -1,0 +1,492 @@
+{
+ "id": "2025-ipa-semifinal",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Seorang ilmuwan mensimulasikan atmosfer planet X dengan gas H2S, N2, CH4, dan\nuap air, serta disinari UV buatan. Setelah 1 minggu, terbentuk senyawa organik\nsederhana, namun tidak ditemukan DNA, RNA, atau bentuk kehidupan. Kesimpulan ilmiah\nyang paling tepat adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "kehidupan tidak mungkin terbentuk di planet X karena tidak ditemukan DNA",
+    "B": "terbentuknya senyawa organik sederhana membuktikan bahwa kehidupan sudah ada",
+    "C": "lingkungan yang ekstrem masih memungkinkan sintesis kimia awal menuju kehidupan",
+    "D": "energi UV justru menghambat pembentukan komponen kehidupan yang kompleks"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Seorang siswa melakukan pengukuran oksigen terlarut (DO), suhu, dan jumlah\nfitoplankton di sebuah danau.\nParameter Nilai\nSuhu Air (°C) 32\nOksigen Terlarut (mg/L) 30\nJumlah Fitoplankton (sel/mL) 250\nBerdasarkan data tersebut, kondisi ekosistem perairan dapat dikatakan …",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p2_0005.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Baik, karena jumlah fitoplankton masih cukup banyak",
+    "B": "Buruk, karena oksigen terlarut rendah sehingga mengancam kehidupan ikan",
+    "C": "Stabil, karena suhu tinggi meningkatkan laju fotosintesis",
+    "D": "Normal, karena nilai parameter masih dalam rentang toleransi organisme"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Di suatu kebun, suhu udara meningkat menjadi 38°C pada siang hari dan kelembapan\nmenurun menjadi 25%. Beberapa tanaman terlihat layu dan pertumbuhannya melambat.\nInteraksi faktor abiotik yang menyebabkan kondisi ini adalah …",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p2_0002.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p2_0003.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p2_0004.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Suhu tinggi menyebabkan tanah menjadi lebih basah sehingga akar tidak menyerap air",
+    "B": "Suhu tinggi meningkatkan penguapan air dari daun sehingga kelembapan udara menurun",
+    "C": "Kelembapan rendah meningkatkan suhu udara sehingga fotosintesis meningkat",
+    "D": "Tanah menjadi lebih lembap karena suhu tinggi Kumpulan Soal OSN 110 Soal OSN Semi Final IPA"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Perhatikan tabel berikut ini!\nJumlah Populasi\nSpesies Bentuk Paruh Jenis Makanan Letak Habitat\nSaat Ini\nPulau batu\nFinch A Pendek dan kuat Biji keras 1.200 ekor\nbervegetasi\nSerangga dan Pulau tropis yang\nFinch B Panjang dan tipis 5.000 ekor\nnektar lembap\nPerbedaan bentuk paruh Finch A dan Finch B menunjukkan proses evolusi melalui proses\n....",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p3_0009.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "seleksi buatan",
+    "B": "adaptasi morfologi",
+    "C": "seleksi alam",
+    "D": "evolusi konvergen"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Tahun 2020 ditemukan virus SARS-CoV-2 penyebab COVID-19. Analisis menunjukkan bahwa virus ini memiliki:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Materi genetik berupa RNA untai tunggal.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Membutuhkan inang untuk bereplikasi.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Selubung lipid dengan protein spike.\nBerdasarkan data tersebut, bagaimana posisi virus dalam sistem klasifikasi makhluk\nhidup?",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p3_0006.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p3_0007.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p3_0008.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p4_0010.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p4_0011.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p4_0012.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p4_0013.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p4_0014.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p5_0015.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p5_0016.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p5_0017.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p5_0018.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p5_0019.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p6_0020.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p6_0021.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p6_0022.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p6_0023.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p6_0024.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p7_0025.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p7_0026.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p7_0027.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p7_0028.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p7_0029.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p8_0030.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p8_0031.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p8_0032.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p8_0033.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p9_0034.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p9_0035.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p9_0036.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p9_0037.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p9_0038.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p10_0039.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p10_0040.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p10_0041.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p10_0042.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p10_0043.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p11_0044.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p11_0045.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p11_0046.png"
+   ],
+   "key": null,
+   "pemb": "terapi, organ manakah yang harus difokuskan dalam pengobatan… A. Hipotalamus B. Hipofisis C. Tiroid D. Paratiroid 22. Seorang petani menanam kacang ercis dengan warna bunga berbeda. Ia mencatat: Persilangan Hasil Fenotipe Anak Ungu × Ungu 75% ungu, 25% putih Ungu × Putih 100% ungu Kumpulan Soal OSN 118 Soal OSN Semi Final IPA Jika petani ingin merancang cara menghasilkan 50% ungu dan 50% putih, persilangan mana yang harus dilakukan… A. Ungu homozigot × Ungu homozigot B. Ungu heterozigot × Putih homozigot C. Putih homozigot × Putih homozigot D. Ungu heterozigot × Ungu heterozigot 23. Seorang ibu bergolongan darah A menikah dengan ayah bergolongan darah B. Anak mereka bergolongan darah O. Jika pasangan tersebut ingin merancang kemungkinan anak dengan golongan darah AB, kombinasi genotipe apa yang harus ada pada orang tua.. A. IAIA × IBIB B. IAIO × IBIO C. IAIO × IBIB D. IAIA × IBIO 24. Seorang petani menemukan tanaman tomat dengan mutasi warna buah kuning, padahal biasanya merah. Jika ingin menciptakan generasi dengan 50% merah dan 50% kuning, persilangan yang tepat adalah… A. Merah homozigot × Kuning homozigot B. Merah heterozigot × Merah heterozigot C. Merah heterozigot × Kuning homozigot D. Kuning × Kuning 25. Pada ayam, gen C menghasilkan warna hitam, sedangkan gen c menghasilkan putih. Gen lain (I) dapat menutup ekspresi warna sehingga ayam menjadi putih, walaupun ada gen C. Jika peternak ingin memastikan semua keturunannya berwarna hitam, kombinasi genotipe induk yang har",
+   "isian": false,
+   "options": {
+    "A": "Dimasukkan ke dalam Kingdom Monera karena materi genetik sederhana.",
+    "B": "Dikelompokkan ke dalam Domain Archaea karena tahan kondisi ekstrem.",
+    "C": "Tidak dimasukkan ke dalam klasifikasi 5 kingdom karena bersifat aseluler.",
+    "D": "Dikelompokkan ke dalam Kingdom Protista karena berukuran mikroskopis. 6. Pada tahun 2022, peneliti menemukan spesies ikan baru di Sungai Mahakam. Hasil pengamatan jumlah individu selama 3 tahun disajikan dalam tabel berikut: Tahun Spesies Ikan X Spesies Ikan Y Spesies Ikan Z 2022 50 75 100 2023 70 65 110 2024 90 50 120 Kumpulan Soal OSN 111 Soal OSN Semi Final IPA Jika tren populasi berlanjut, kesimpulan apa yang paling tepat mengenai interaksi antarspesies tersebut?"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Teknik klasifikasi makhluk hidup yang menggunakan analisis seluruh genom untuk membangun pohon filogenetik disebut …. Jawab: filogenomik",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Penelitian terbaru menunjukkan bahwa asam amino yang mengandung unsur X yang sebelumnya dianggap muncul belakangan dalam evolusi, kemungkinan telah ada sejak awal kehidupan dan berperan penting dalam pembentukan kode genetik. Unsur X tersebut adalah…. Jawab: sulfur",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Dalam sistem klasifikasi 8 kingdom menurut Cavalier-Smith, kingdom yang mencakup organisme bersel satu yang memiliki klorofil dan dapat melakukan fotosintesis adalah... Jawab: Chromista",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Perbandingan urutan DNA atau protein antarspesies untuk menilai hubungan kekerabatan disebut …. Jawab: analisis filogenetik molekuler / perbandingan sekuens.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Kerangka manusia ditemukan di sebuah ladang. Panjang tulang femur = 50 cm. Estimasi tinggi badan menggunakan rumus antropometri: Laki-laki: Tinggi = (2,32 × panjang femur) + 65,53 cm Perempuan: Tinggi = (2,47 × panjang femur) + 54,10 cm Jika kerangka tersebut milik seorang laki-laki, maka tinggi badan korban diperkirakan … cm Jawab: 182",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Seorang pasien mengalami pendarahan berat. Jika dokter diminta menambah komponen darah untuk mempercepat pembekuan, apa yang sebaiknya diberikan… Jawab: Trombosit.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "Seorang siswa terbiasa multitasking saat belajar, misalnya mendengar musik sambil membaca. Jika kamu diminta melatih bagian otak yang mengatur konsentrasi, bagian mana yang harus diperkuat… Jawab: Otak besar (cerebrum).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Ayam jantan berbulu hitam (HH) dikawinkan dengan ayam betina berbulu kuning (hh). F1 semua berbulu belang (Hh). Jika sesama F1 dikawinkan, rancangan rasio fenotipe F2? Jawab: 1 hitam : 2 belang : 1 kuning. Kumpulan Soal OSN 120 Soal OSN Semi Final IPA",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p12_0047.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p12_0048.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p12_0049.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Suatu zat memliki titik beku -10 °C dan titik didih 15 °C. Salah satu ciri zat ini pada suhu\nruang (25 °C), yaitu ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "partikel tersusun rapat dan teratur",
+    "B": "gaya tarik antar partikel sangat kuat",
+    "C": "partikel bergerak bebas",
+    "D": "mengalir ke tempat yang lebih rendah"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Zat berikut ini yang komposisi penyusunnya tetap dan memiliki sifat yang berbeda\ndengan penyusunnya adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "bensin",
+    "B": "tinta",
+    "C": "udara",
+    "D": "gula"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Perhatikan hal berikut ini:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Perubahan warna zat.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Penguapan zat.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Konduksi panas.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Pemuaian zat.\nPrinsip kerja termometer air raksa didasarkan pada hal nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 4",
+    "C": "1, 2, dan 4",
+    "D": "4 4. Sebongkah es batu bersuhu -4 °C dimasukkan ke dalam gelas yang berada di ruangan bersuhu 24 °C dan bertekanan 1 atm. Setelah beberapa saat, sebagian es batu berubah wujud menjadi air (cair). Dapat diperkirakan suhu air pada saat itu adalah … °C"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Daya adalah jumlah energi yang ditransfer atau diubah setiap satuan waktu atau laju\nusaha setiap waktu. Daya merupakan besaran turunan dari besaran pokok ….",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p13_0050.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p13_0051.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p13_0052.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "panjang, massa dan waktu.",
+    "B": "tegangan listrik dan kuat arus listrik",
+    "C": "kecepatan (kelajuan), usaha dan waktu",
+    "D": "energi, usaha dan waktu Kumpulan Soal OSN 121 Soal OSN Semi Final IPA"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Sebuah balok berada pada bidang datar yang tidak licin dalam kondisi diam. Kondisi balok saat diberi gaya sebagai berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "diam, gaya luar 4 N.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "bergerak lurus beraturan, gaya luar 6 N.\nPernyataan berikut ini yang benar adalah …",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p14_0053.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p14_0054.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p14_0055.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0056.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0057.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0058.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0059.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0060.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p15_0061.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Pada kondisi 1, gaya gesek pada balok lebih besar dari 4 N.",
+    "B": "Pada kondisi 2, gaya gesek pada balok sama dengan 6 N.",
+    "C": "Pada kondisi 2, gaya gesek pada balok kurang dari 6 N.",
+    "D": "Balok tepat akan bergerak jika diberi gaya 5 N. 7. Seorang penjual keliling mendorong gerobak dagangannya. Jika dia mendorong gerobak yang sedang diam dengan gaya sebesar X newton maka …"
+   }
+  },
+  {
+   "num": 1,
+   "text": "terjadinya rasi bintang",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "terjadinya angin musim",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "gerak semu harian matahari",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "terjadinya perubahan iklim",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "lamanya panjang siang dan malam",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "gerak semu tahunan matahsari",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "perubahan bentuk bumi\nJawaban yang benar menunjukan akibat revolusi bumi adalah…",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p16_0062.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p16_0063.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p16_0064.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p16_0065.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p17_0066.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p17_0067.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p17_0068.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "3-5-1-4",
+    "B": "6-3-4-1",
+    "C": "2-7-1-3",
+    "D": "1-5-4-6 16. Jika arus listrik 2A mengalir pada rusuk BC pada kubus ABCDEFGH yamg panjang rusuknya 4 cm Kumpulan Soal OSN 124 Soal OSN Semi Final IPA Maka sesar dan arah kuat medan magnet di titik D adalah... tesla"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Sebuah sepeda dengan ukuran roda depan dan belakang yang berbeda, bergerak pada lintasan lurus. Roda depan sepeda berjari-jari 63 cm. Setiap roda depan berputar sebanyak 4 putaran, roda belakang berputar sebanayak 3 putaran. Jarak tempuh sepeda saat roda belakang mencapai 60 putaran adalah … meter. Jawab: 316,8",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Sebuah benda ditempatkan pada jarak 4 cm dari lensa cembung. Bayangan yang tebentuk berukuran 3 kali ukuran benda, dan bersifat maya. Supaya mendapatkan bayangan yang bersifat nyata dengan perbesaran 6 kali, maka benda harus diposiikan pada jarak … cm dari lensa.. Jawab: 7",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Besarnya kuat medan listrik di titik A adalah……N/C Jawab : 0",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p18_0072.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Cepat rambat cahaya tergantung pada medium yang dilaluinya. Cepat rambat cahaya terbesar terjadi pada medium…. Jawab : Vakum=Hampa Udara",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Astreroid adalah benda langit yang berada diantara dua planet yaitu…. Jawab : Mars Dan Jupiter Kumpulan Soal OSN 126",
+   "images": [
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p18_0069.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p18_0070.png",
+    "img2/2025-ipa-semifinal/2025-ipa-semifinal_p18_0071.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  }
+ ]
+}

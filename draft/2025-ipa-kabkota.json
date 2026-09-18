@@ -1,0 +1,489 @@
+{
+ "id": "2025-ipa-kabkota",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Eksperimen yang menjelaskan asal usul kehidupan yang diujicobakan oleh Harold Urey\nadalah….",
+   "images": [],
+   "key": null,
+   "pemb": "Bersama Stanley Miller, Urey melakukan percobaan dengan menciptakan atmosfer buatan yang terdiri atas metana, amonia, hidrogen, dan uap air, lalu diberi muatan listrik untuk mensimulasikan petir di Bumi awal. Hasilnya, terbentuk senyawa organik seperti asam amino yang merupakan komponen dasar kehidupan, sehingga eksperimen ini mendukung teori abiogenesis—bahwa kehidupan bisa muncul dari zat-zat tak hidup melalui proses kimia. Pilihan lainnya tidak tepat karena lebih berkaitan dengan evolusi manusia atau pengamatan biologis, bukan asal usul kehidupan secara kimiawi.",
+   "isian": false,
+   "options": {
+    "A": "Membandingkan struktur tubuh manusia dan primata modern",
+    "B": "Menyintesis senyawa organik dari gas-gas yang menyerupai atmosfer purba",
+    "C": "Mengamati pembelahan sel bakteri di laboratorium",
+    "D": "Membandingkan fosil-fosil manusia purba di lapisan batuan terdalam"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Di padang rumput, interaksi antara makhluk hidup dan lingkungannya berlangsung\nsecara kompleks. Manakah dari pernyataan berikut yang menunjukkan interaksi biotik\ndengan abiotik?",
+   "images": [],
+   "key": null,
+   "pemb": "Karena rumput (makhluk hidup/komponen biotik) berinteraksi dengan air dan tanah (komponen abiotik). Pilihan B dan D merupakan interaksi antar makhluk hidup (biotik dengan biotik), sedangkan pilihan C adalah interaksi antara dua komponen abiotik (kelembapan dan suhu udara), bukan melibatkan makhluk hidup.",
+   "isian": false,
+   "options": {
+    "A": "Rumput menyerap air dari tanah untuk fotosintesis.",
+    "B": "Dua ekor banteng jantan bertarung untuk memperebutkan betina.",
+    "C": "Kelembapan udara menurun akibat peningkatan suhu siang hari.",
+    "D": "Ular memangsa tikus yang melintas di rerumputan."
+   }
+  },
+  {
+   "num": 3,
+   "text": "Di sebuah taman nasional, terdapat beragam jenis tumbuhan dan hewan serta berbagai tipe habitat, mulai dari hutan hujan, padang rumput, hingga sungai. Perhatikan pernyataan berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Populasi jagung di lahan pertanian memiliki berbagai varietas dengan sifat tahan kekeringan dan tahan hama.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Berbagai tipe habitat seperti hutan, sungai, dan rawa memberikan kondisi lingkungan yang berbeda bagi makhluk hidup.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Di taman nasional tersebut ditemukan lebih dari 200 jenis burung yang berbeda.\nPernyataan manakah yang menunjukkan keanekaragaman pada tingkat gen, spesies, dan\nekosistem secara berurutan?\nKumpulan Soal OSN 2\nSoal OSN Kabupaten IPA",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p2_0002.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p2_0003.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p2_0004.png"
+   ],
+   "key": null,
+   "pemb": "Keanekaragaman hayati terdiri atas tiga tingkat, yaitu genetik, spesies, dan ekosistem. Pernyataan nomor 1 menunjukkan keanekaragaman genetik, karena menggambarkan adanya varietas jagung yang berbeda dalam satu spesies berdasarkan sifat genetik (tahan kekeringan dan tahan hama). Pernyataan nomor 3 menggambarkan keanekaragaman spesies, yaitu adanya lebih dari 200 jenis burung berbeda yang merupakan spesies yang beragam. Sedangkan pernyataan nomor 2 menunjukkan keanekaragaman ekosistem, yaitu adanya berbagai tipe habitat (hutan, sungai, rawa) yang memiliki kondisi lingkungan berbeda.",
+   "isian": false,
+   "options": {
+    "A": "1, 2, 3",
+    "B": "2, 3, 1",
+    "C": "3, 2, 1",
+    "D": "1, 3, 2"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Kingdom makhluk hidup yang memiliki ciri prokariotik, uniseluler, dan hidup di kondisi\nekstrim adalah….",
+   "images": [],
+   "key": null,
+   "pemb": "Kingdom makhluk hidup yang memiliki ciri prokariotik (tidak memiliki membran inti sel), uniseluler (bersel satu), dan mampu hidup di lingkungan ekstrem seperti mata air panas, danau asam, atau tempat dengan kadar garam tinggi adalah Archaebacteria.",
+   "isian": false,
+   "options": {
+    "A": "Protista",
+    "B": "Archaebacteria",
+    "C": "Fungi",
+    "D": "Animalia"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Dalam sebuah penelitian ditemukan populasi kupu-kupu di suatu hutan yang warnanya\nbervariasi dari terang hingga gelap. Setelah beberapa generasi, kupu-kupu dengan warna\ngelap lebih banyak bertahan hidup karena sulit terlihat oleh predator di batang pohon\nyang gelap akibat polusi. Fenomena ini merupakan contoh dari proses evolusi yang\ndisebut…",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p3_0005.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p3_0006.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p3_0007.png"
+   ],
+   "key": null,
+   "pemb": "Dalam proses ini, individu dengan sifat yang lebih sesuai dengan lingkungan memiliki peluang lebih besar untuk bertahan hidup dan berkembang biak, sehingga sifat tersebut Kumpulan Soal OSN 3 Soal OSN Kabupaten IPA menjadi lebih dominan dalam populasi. Dalam kasus ini, kupu-kupu gelap lebih terseleksi secara alami karena sulit terlihat oleh predator, sehingga frekuensi warna gelap meningkat dari generasi ke generasi.",
+   "isian": false,
+   "options": {
+    "A": "Mutasi genetik",
+    "B": "Seleksi alam",
+    "C": "Migrasi populasi",
+    "D": "Rekombinasi genetik"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Sekelompok siswa melakukan survei tumbuhan di taman nasional dengan cara\nmengelompokkan jenis tumbuhan berdasarkan bentuk daun, warna bunga, dan ukuran\nbatang tanpa mempertimbangkan hubungan evolusi atau genetika. Tujuannya adalah\nuntuk memudahkan identifikasi cepat di lapangan. Metode klasifikasi yang mereka\ngunakan adalah .…",
+   "images": [],
+   "key": null,
+   "pemb": "Metode klasifikasi yang digunakan siswa tersebut adalah fenetik (jawaban B), yaitu sistem klasifikasi berdasarkan kemiripan ciri-ciri morfologi atau fisik luar seperti bentuk daun, warna bunga, dan ukuran batang, tanpa memperhatikan hubungan evolusi atau genetika.",
+   "isian": false,
+   "options": {
+    "A": "Filogenetik",
+    "B": "Fenetik",
+    "C": "Molekuler",
+    "D": "Biokimia"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Seorang siswa melakukan pengamatan jaringan daun menggunakan mikroskop. Ia\nmenemukan bahwa sebagian besar sel di jaringan palisade mengandung banyak\nkloroplas, sedangkan pada jaringan epidermis terdapat sel penjaga stomata yang dapat\nmembuka dan menutup. Pernyataan yang paling tepat mengenai hubungan antara\nstruktur dan fungsi pada sel daun adalah.... .",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p4_0008.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p4_0009.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p4_0010.png"
+   ],
+   "key": null,
+   "pemb": "Karena sel palisade yang terletak di bawah epidermis daun memiliki banyak kloroplas dan bentuk yang tersusun rapat, memungkinkan penyerapan cahaya matahari secara maksimal untuk proses fotosintesis, sehingga menghasilkan glukosa sebagai sumber energi dan bahan pertumbuhan. Kumpulan Soal OSN 4 Soal OSN Kabupaten IPA",
+   "isian": false,
+   "options": {
+    "A": "Sel palisade berfungsi menyimpan air karena bentuknya rapat dan banyak kloroplas",
+    "B": "Sel penjaga stomata mengatur masuknya air untuk mengisi vakuola sel palisade",
+    "C": ".Banyaknya kloroplas dalam sel palisade memungkinkan fotosintesis optimal, menghasilkan glukosa untuk pertumbuhan",
+    "D": "Stomata pada epidermis membantu penguapan air untuk menjaga suhu daun tetap stabil"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Pada kegiatan pengamatan ekosistem diperoleh data beberapa jenis interaksi antar\nmakhluk hidup sebagai berikut\nNomor Interaksi yang Diamati\n1 Ikan kecil memakan jentik nyamuk\n2 Burung jalak memakan kutu di tubuh kerbau\nTumbuhan benalu tumbuh menempel dan mengambil nutrisi dari\n3\npohon mangga\nDua ekor kijang jantan saling menyerang untuk memperebutkan\n4\nwilayah\nLebah menghisap nektar bunga, sementara bunga terbantu dalam\n5\npenyerbukan\nBerdasarkan data pada tabel, pasangan interaksi yang menunjukkan hubungan simbiosis\nmutualisme adalah...",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p5_0014.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p5_0015.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 5",
+    "C": "2 dan 4",
+    "D": "3 dan 5"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Seorang peneliti melakukan pengamatan terhadap empat spesies tumbuhan berbunga\ndi daerah pegunungan dan mencatat ciri-ciri morfologi utama seperti berikut:\nSpesies Ciri Daun Bentuk Bunga Buah Habitat\nTunggal, bertepi Lima kelopak, Lereng\nA Buah buni\nrata simetris terbuka\nMajemuk, bertepi Lima kelopak, Hutan\nB Buah polong\nbergerigi tidak simetris pegunungan\nTunggal, ujung Lima kelopak, Lereng\nC Buah buni\nruncing simetris berbatu\nTunggal,\nLima kelopak, Pinggir\nD pertulangan Buah kotak\nsimetris sungai\nmenyirip\nKumpulan Soal OSN 5\nSoal OSN Kabupaten IPA\nDiketahui bahwa genus Solanum (misalnya Solanum tuberosum dan Solanum\nmelongena) memiliki ciri umum:\nDaun tunggal\nBunga simetris dengan lima kelopak\nBuah buni\nTumbuh di daerah terbuka atau berbatu\nBerdasarkan data tersebut, spesies manakah yang kemungkinan besar termasuk dalam\ngenus Solanum?",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p5_0011.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p5_0012.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p5_0013.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "A saja",
+    "B": "B saja",
+    "C": "A dan C",
+    "D": "B dan D"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Sebuah lahan pertanian di daerah lereng bukit mengalami kondisi sebagai berikut:\nKondisi Tanah Keterangan\nKemiringan lereng 30°\nJenis tanah Pasir berlempung dengan struktur gembur\nCurah hujan tahunan 2000 mm\nTanaman penutup tanah Minim, hanya rumput liar yang jarang tumbuh\nAktivitas manusia Penggembalaan dan pembukaan lahan baru\nBerdasarkan data tersebut, tindakan konservasi tanah manakah yang paling tepat untuk\nmencegah erosi?",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p6_0019.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Membuat terasering dan menanam tanaman penutup yang rapat",
+    "B": "Mengganti jenis tanaman dengan tanaman akar serabut yang dangkal",
+    "C": "Memperdalam parit drainase tanpa menambah vegetasi penutup",
+    "D": "Membuat saluran irigasi terbuka untuk mempercepat aliran air"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Di sebuah daerah gurun yang sangat panas dan kering, ditemukan beberapa makhluk hidup dengan ciri-ciri berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "kaktus memiliki daun yang berubah menjadi duri dan batang yang tebal berfungsi menyimpan air.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "unta memiliki punuk yang menyimpan lemak dan bulu tebal sebagai pelindung dari panas dan dingin. Kumpulan Soal OSN 6 Soal OSN Kabupaten IPA",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p6_0016.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p6_0017.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p6_0018.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "burung hantu aktif di malam hari dan memiliki penglihatan tajam di kegelapan.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "ikan paus memiliki lapisan lemak tebal untuk menjaga suhu tubuh dalam air dingin.\nManakah pernyataan yang tepat mengenai tipe adaptasi yang dimiliki oleh makhluk hidup\ntersebut?",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p7_0020.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p7_0021.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p7_0022.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p7_0023.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p8_0024.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p8_0025.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p8_0026.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p8_0027.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p8_0028.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p9_0029.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p9_0030.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p9_0031.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p10_0032.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p10_0033.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p10_0034.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p11_0035.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p11_0036.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p11_0037.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p12_0038.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p12_0039.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p12_0040.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Semua contoh di atas merupakan adaptasi fisiologis",
+    "B": "Kaktus dan unta menunjukkan adaptasi morfologis, sedangkan burung hantu dan ikan paus menunjukkan adaptasi fisiologis",
+    "C": "Unta dan burung hantu menunjukkan adaptasi tingkah laku, sedangkan kaktus dan ikan paus adaptasi morfologis",
+    "D": "Burung hantu dan ikan paus menunjukkan adaptasi morfologis, sedangkan kaktus dan unta adaptasi fisiologis 12. Sejumlah tumbuhan ditemukan di berbagai habitat dengan kondisi lingkungan yang berbeda. Berikut adalah data mengenai struktur dan fungsi beberapa tumbuhan beserta lingkungan tempat mereka hidup: Tumbuhan Struktur Khusus Fungsi Struktur Lingkungan Daun berubah Mengurangi penguapan dan Gurun yang Kaktus menjadi duri melindungi tanaman sangat kering Daun lebar dan Memperluas permukaan Perairan Teratai berlapis lilin fotosintesis dan menolak air tergenang Akar napas Mengambil oksigen dari udara Pantai Pandan laut (pneumatophore) di lingkungan berlumpur berlumpur Menopang tanaman di tanah Akar tunjang dan Muara sungai Mangrove berlumpur dan membantu garpu dan rawa pertukaran gas Berdasarkan data tersebut, pernyataan yang paling tepat mengenai hubungan struktur dan fungsi tumbuhan dalam proses adaptasi adalah…"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Arus yang mengalir dalam pemanas 10 ampere",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Daya pemanas sebesar 2,5 kWatt",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Jika tarif listrik Rp. 50,00/kWh, selama waktu tersebut diperlukan biaya Rp. 300,00.\nPernyataan yang benar adalah…",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p13_0041.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p13_0042.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p13_0043.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p13_0044.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p13_0045.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 2",
+    "B": "1 dan 3",
+    "C": "2 dan 3https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html",
+    "D": "1, 2, dan 3 https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html 38. Berdasarkan gambar rangkaian di bawah, maka hambatan pengganti ab adalah… https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Seorangh ttspiss:w//wa wmwe.dnegfaamntarit.ic osmee/2k0o2r 6c/a0c3i/nsgo atl-aonsanhk -yipaan-gsm mp-e2n0g2g5e-ldiaatn -mjaewnajbauahn. hktemtilka\ndisentuh. Bhettrpdsa:s//awrwkawn. dpeefnagnatrmi.caotman/2 t0e2rs6e/0b3u/ts moael-nousnnjuk-kikpaan-s cmirpi--c2i0ri2 m5-adkahnlu-jka whaidbuapn….h.tml\nhttps://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "berkembang biak https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html",
+    "B": "bergerak https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html",
+    "C": "respons terhadap rangsangan https://www.defantri.com/2026/03/soal-osnk-ipa-smp-2025-dan-jawaban.html",
+    "D": "bernapas"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Alat ukur yang digunakan siswa mengukur faktor abiotik kualitas lingkungan sungai\nsecara kuantitatif adalah….",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p14_0046.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p14_0047.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p14_0048.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Jaring plankton dan lup tangan",
+    "B": "Termometer air dan DO meter",
+    "C": "Mikroskop dan kertas lakmus",
+    "D": "Kamera digital dan pH meter Kumpulan Soal OSN 14 Soal OSN Kabupaten IPA"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Seorang siswa mengamati potongan melintang sel tumbuhan menggunakan mikroskop elektron dan mencatat beberapa ciri organel berikut:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "organel terdiri atas saluran-saluran pipih yang membentang dari inti sel, permukaannya dipenuhi bintik-bintik kecil",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "organel berbentuk bulat, memiliki dua lapisan membran, dan mengandung pigmen hijau",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "organel besar berisi cairan, menekan sitoplasma ke tepi sel, dan hanya ditemukan\npada sel tumbuhan\nBerdasarkan data tersebut, pasangan organel dan fungsinya yang paling tepat adalah….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Nomor 1 adalah Ribosom – tempat sintesis protein",
+    "B": "Nomor 2 adalah Kloroplas – tempat respirasi seluler",
+    "C": ".Nomor 1 adalah Retikulum endoplasma kasar – tempat sintesis dan pengangkutan protein",
+    "D": "Nomor 3 adalah Badan Golgi – tempat modifikasi protein"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Apa yang terjadi pada sistem pencernaan ketika seseorang mengonsumsi makanan\nyang tinggi serat?",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Pencernaan makanan menjadi lebih lambat",
+    "B": "Pencernaan makanan menjadi lebih cepat",
+    "C": "Penyerapan nutrisi menjadi lebih efektif",
+    "D": "Produksi asam lambung meningkat"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Apa yang terjadi pada sistem saraf ketika seseorang mengalami stres?",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Aktivitas sistem saraf simpatik menurun",
+    "B": "Aktivitas sistem saraf parasimpatik meningkat",
+    "C": "Aktivitas sistem saraf simpatik meningkat",
+    "D": "Produksi neurotransmitter menurun"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Berikut ini adalah beberapa fungsi ginjal, kecuali:",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p15_0049.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p15_0050.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p15_0051.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Membuang racun, garam, air dan mineral berlebih",
+    "B": "Menghasilkan hormon eritropoetin",
+    "C": "Membantu mengatur tekanan darah",
+    "D": "Mengatur suhu tubuh Kumpulan Soal OSN 15 Soal OSN Kabupaten IPA"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Berdasarkan gambar berukut, jika Panjang kawat 10 cm maka besarnya gaya Lorentz\nyang bekerja pada kedua kawat adalah…",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p16_0055.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p16_0056.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "6 x 10 -6 N",
+    "B": "6 x 10 -5 N",
+    "C": "3 x 10 -6 N",
+    "D": "3 x 10 -5 N"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Mega trust adalah….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Zona subduksi yang relatif dalam dan panjang antara dua lempeng tektonik, di mana satu lempeng menunjam di bawah lempeng lainnya",
+    "B": "Zona subduksi yang relatif dangkal dan panjang antara dua lempeng tektonik, di mana satu lempeng menunjam di bawah lempeng lainnya",
+    "C": "Zona Erupsi relatif dangkal dan panjang antara dua lempeng tektonik, di mana satu lempeng menunjam di bawah lempeng lainnya",
+    "D": "Zona Erupsi relatif dangkal dan panjang antara dua lempeng tektonik, di mana satu lempeng menunjam di bawah lempeng lainnya"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Di halaman sebuah rumah terdapat sebuah tiang dari besi dan sebuah tiang lagi dari\nkayu. Pada tengah malam ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "suhu tiang besi sama dengan suhu tiang kayu",
+    "B": "suhu tiang besi lebih rendah dari suhu tiang kayu",
+    "C": "tiang kayu menyerap kalor dari udara lebih banyak daripada tiang besi",
+    "D": "tiang besi melepaskan kalor ke udara lebih banyak daripada tiang kayu"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Bayangan benda yang dibentuk oleh sebuah cermin konvergen ….",
+   "images": [
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p16_0052.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p16_0053.png",
+    "img2/2025-ipa-kabkota/2025-ipa-kabkota_p16_0054.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "selalu nyata",
+    "B": "maya, jika benda di titik fokus cermin",
+    "C": "sebesar benda, jika benda di titik fokus cermin",
+    "D": "nyata, jika benda sangat jauh dari cermin Kumpulan Soal OSN 16"
+   }
+  }
+ ]
+}

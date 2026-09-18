@@ -1,0 +1,246 @@
+{
+ "id": "2021-ipa-nas-a",
+ "meta": [
+  "IPA",
+  "Nasional",
+  "Paket A"
+ ],
+ "questions": [
+  {
+   "num": 1,
+   "text": "Perhatikan data dibawah ini!\n1. Hormon oksitosin",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 2,
+   "text": "Induk sapi pernah bunting",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 3,
+   "text": "Sedang menyusui",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 4,
+   "text": "Hormon progresteron\nFaktor yang tidak menyebabkan produksi susu pada induk sapi perah adalah nomor… .\n1. I\n2. II\n3. III\n4. IV\n\n\n2. Berikut ini adalah kurva yang menunjukkan volume dari 3 bagian saluran pencernaan.\n\n\nKurva yang menunjukkan usus besar, lambung, dan usus dua belas jari secara berturut-turut adalah... .\n 1. A-B-C\n 2. B-C-A\n 3. C-A-B\n 4. A-C-B\n\n\n3. Berikut ini adalah zat sisa metabolisme yang terdapat di dalam plasma darah:\n1. Urea\n2. Air\n3. Glukosa\n4. Protein",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 5,
+   "text": "Asam amino",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 6,
+   "text": "Ion hidrogen\nZat yang diekskresikan dan direabsorbsi di ginjal adalah nomor… .\n 1. I, II, III, IV dan V\n 2. I, II, III, IV dan VI\n 3. I, II, III, V dan VI\n 4. II, III, IV, V dan VI\n4. Rangsang pada otot yang menyebabkan otot berkontraksi antara minimum dan maksimum disebut rangsang … .\n1. minimum\n2. subminimum\n3. submaksimal\n4. maksimal\n5. Seorang meneliti tiga jenis hewan pengerat yang berkerabat dekat dan hasil penelitian menunjukkan bahwa ketiga jenis hewan pengerat memiliki panjang loop henle yang berbeda-beda. Berdasarkan penemuan tersebut hipotesis yang mungkin di bangun adalah ... .\n 1. ketiga hewan pengerat memiliki laju filtrasi ginjal yang berbeda-beda\n 2. ketiga hewan pengerat memiliki kepekatan urin yang sama\n 3. ketiga hewan pengerat menghasilkan urin dengan pH yang berbeda-beda\n 4. ketiga hewan pengerat memproduksi urin dengan volume yang berbeda-beda\n6. Pasangan hormon reproduksi wanita dan fungsinya yang tepat adalah … .\n Hormon Fungsi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "Estrogen Pembentukan ovarium",
+    "B": "FSH Perkembangan folikel pada ovarium",
+    "C": "LH Penghambat progesteron",
+    "D": "Proklatin Merangsang pembentukan endometrium"
+   },
+   "isian": false
+  },
+  {
+   "num": 7,
+   "text": "Komunikasi antar sel saraf dapat berlangsung melalui mekanisme … .\n1. Stimulus – Respons\n2. Neurotransmiter - Reseptor\n3. Gelombang elektromagnetik\n4. Ion channel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 8,
+   "text": "Populasi bakteri Z mempunyai kecepatan pertumbuhan 5% per jam dan tingkat kematian 1% per jam. Apabila populasi awal adalah 2 x 102 sel maka populasi bakteri Z setelah 10 jam adalah... .\n1. 3.08 x 102 sel\n2. 2.96 x 102 sel\n3. 2.85 x 102 sel\n4. 2.74 x 102 sel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 9,
+   "text": "Jika diketahui nomor atom P adalah 12 dan nomor atom Q adalah 8, rumus molekul yang dapat dibentuk atom P dan Q adalah… .\n1. PQ\n2. PQ2\n3. P2Q\n4. PQ3",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 10,
+   "text": "Hal-hal berikut ini yang bukan merupakan bagian mekanisme transpirasi-kohesi-tegangan untuk kenaikan cairan pada pembuluh xilem adalah… .\n1. adanya tarikan molekul air dari sel-sel sekitar dan xilem karena kehilangan air dari sel mesofil\n2. transfer tarikan transpirasi dari satu molekul air ke molekul air berikutnya akibat kohesi yang disebabkan oleh ikatan hidrogen\n3. dinding hidrofilik trakeid yang sempit dan pembuluh xilem yang membantu memelihara kolom air melawan gaya gravitasi\n4. pemompaan air secara aktif kedalam xilem akar",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 11,
+   "text": "Gerak pada tumbuhan yang diakibatkan oleh rangsangan sentuhan disebut gerak… .\n1. tropisme\n2. seismonasti\n3. reotaksis\n4. kemotropisme",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 12,
+   "text": "Berikut ini contoh tanaman yang mengikat CO2 melalui lintasan Hatch-Slack adalah... .\n1. kelapa dan papaya\n2. ketela pohon dan pepaya\n3. mangga dan rambutan\n4. sorgum dan tebu",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan gambar jalur lintas air melalui akar di bawah ini!\n\n\nJalur transportasi air a, b dan c secara berurutan yang benar adalah… .\n1. simplastik, apoplastik dan transmembran\n2. apoplastik, simplatik dan transmembran\n3. aimplastik, transmembran dan apoplastik\n4. apoplastik, transmembran dan simplastik",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 14,
+   "text": "Laju fotosintesis dipengaruhi oleh beberapa faktor dan salah satunya adalah konsentrasi karbondioksida. Jika kita memberikan variabel konsentrasi karbondioksida sebagai variabel bebas dan laju fotosintesis sebagai variabel terikat, maka kemungkinan grafik yang dihasilkan dari percobaan tersebut adalah… .\n\n\nA.\n\n\n B.\n\n\n C.\n\n\n D.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 15,
+   "text": "Perhatikan gambar sel di bawah ini!\n\n\nOrganel yang berfungsi sebagai tempat respirasi sel ditunjukkan oleh nomor… .\n1. 1\n2. 2\n3. 3\n4. 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 16,
+   "text": "Perhatikan gambar percobaan sederhana di bawah ini!\nFenomena di atas merupakan proses… .\n 1. osmosis\n 2. difusi berfasilitas\n 3. difusi\n 4. plasmolisis",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 17,
+   "text": "Organel yang terdapat pada bakteri dan jamur adalah… .\n 1. mitokondria\n 2. ribosom\n 3. kloroplast\n 4. badan golgi",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 18,
+   "text": "Perhatikan gambar penyusun bagian darah di bawah ini!\n\n\n\n\nUrutan nomor komponen darah: sel darah putih-plasma darah-keping darah-sel darah merah secara berurutan adalah… .\n 1. 1 – 2 – 3 - 4\n 2. 4 – 1 – 3 - 5\n 3. 2 – 4 - 5 - 1\n 4. 3 – 1 – 2- 5",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 19,
+   "text": "Perhatikan pernyataan mengenai bioteknologi berikut ini!\n 1. Pembuatan tempe dengan memanfaatkan kapang.\n 2. Pembuatan tape dan roti menggunakan khamir.\n 3. Perbanyakan tanaman dengan teknik stek.\n 4. Rekayasa genetika untuk menghasilkan padi tahan hama.\n 5. Menggabungkan dua sifat tanaman dengan cara okulasi.\n Pernyataan di atas yang merupakan kegiatan bioteknologi adalah… .\n 1. 1,2 dan 3\n 2. 1,2 dan 5\n 3. 1,2 dan 4\n 4. 2,3 dan 4",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 20,
+   "text": "Perhatikan tahapan kloning di bawah ini!\n 1. Morula diimplantasikan ke dalam rahim domba betina.\n 2. Inti dari sel somatik donor dimasukkan ke dalam ovum dengan sengatan listrik.\n 3. Sel somatik donor diambil intinya.\n 4. Ovum dirusak intinya dengan sinar ultraviolet.\n 5. Ovum membelah beberapa kali membentuk morula.\n 6. Induk domba bunting\n 7. Bayi domba siap dilahirkan.\nUrutan proses kloning sel domba yang benar adalah . . . .",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1 - 3 - 2 - 4 – 5 – 6 -7",
+    "B": "4 - 3 - 2 - 5 - 1 – 6 - 7",
+    "C": "4 - 2 - 3 - 1 - 5 – 6 - 7",
+    "D": "1 - 2 - 3 - 4 – 5 – 6 - 7"
+   },
+   "isian": false
+  },
+  {
+   "num": 21,
+   "text": "Gunakan informasi dari tabel berikut untuk menjawab pertanyaan.\n\n\nKategori Takson\n Hewan I\n Hewan II\n Hewan III\n Hewan IV\n Filum\n Chordata\n Chordata\n Chordata\n Chordata\n Kelas\n Amphibia\n Amphibia\n Amphibia\n Amphibia\n Ordo\n Anura\n Anura\n Anura\n Anura\n Famili\n Ranidae\n Bufonidae\n Ranidae\n Ranidae\n Genus\n Huia\n Ansonia\n Occidozyga\n Huia\n Spesies\n sumatrana\n longidigita\n sumatrana\n mansonii\n\n Berdasarkan tabel di atas, hewan yang lebih banyak memiliki kesamaan adalah:\n 1. I dan II\n 2. I dan III\n 3. I dan IV\n 4. II dan III",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 22,
+   "text": "Tabel berikut menunjukkan ukuran populasi untuk 6 spesies di empat area yang berbeda.\nAREA\n Spesies U\n Spesies V\n Spesies W\n Spesies X\n Spesies Y\n Spesies Z\n A\n 3\n 7\n 2\n 2\n 2\n 4\n B\n 0\n 6\n 8\n 0\n 6\n 6\n C\n 0\n 0\n 2\n 0\n 0\n 2\n D\n 4\n 3\n 11\n 1\n 6\n 0\n\n\nJika empat area pada tabel diatas adalah satu-satunya tempat di dunia untuk menemukan organisme ini, maka urutan spesies dari yang terancam punah terbesar ke yang terkecil adalah… .\n 1. U-Y- X-Z-W-V\n 2. X-U-Y-Z-V-W\n 3. U-X-V-Y-Z-W\n 4. X-U-Y-V-Z-W",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {},
+   "isian": true
+  },
+  {
+   "num": 23,
+   "text": "Rambut pendek (L) dominan terhadap rambut panjang (l). Rambut hitam (B)dominan terhadap rambut coklat (b). Pada persilangan antara kelinci heterozigot berambut hitam pendek dan kelinci homozigot berambut cokelat pendek, berapakah rasio genotip dan fenotip rambut pendek berwarna hitam?",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1/2",
+    "B": "1/4",
+    "C": "1/6",
+    "D": "1/8"
+   },
+   "isian": false
+  },
+  {
+   "num": 24,
+   "text": "Perhatikan struktur kimia DNA dibawah ini!\nBagian pada gambar di atas yang diberi tanda W, X, Y, dan Z adalah… .\n W\n X\n Y\n Z\n A\n Fosfat\n Ribosa\n Sitosin\n Guanin\n B\n Timin\n Urasil\n Deoksiribosa\n Fosfat\n C\n Adenin\n Timin\n Fosfat\n Ribosa\n D\n Adenin\n Timin\n Deoksiribosa\n Fosfat\nKariotipe yang ditunjukkan gambar di bawah ini terkait dengan kelainan genetik berupa… .\n 1. Turner Syndrome\n 2. Down Syndrome\n 3. Klinefelter Syndrome\n 4. Hemophilia\n 26. Pada sebuah lempeng logam terdapat sebuah lubang, dengan radius 2 cm. Setelah lempeng logam itu dipanaskan, radius lubang menjadi 2,002 cm. Jika mula-mula lempeng itu berukuran 40 cm x 40 cm, setelah dipanaskan ukurannya menjadi … .\n 1. 40,04 cm x 40,04 cm\n 2. 40,02 cm x 40,02 cm\n 3. 40,004 cm x 40,004 cm\n 4. 40,002 cm x 40,002 cm\n 27. Bayangkan 2 bejana A dan B, yang masing-masing berisi 1 kg air pada suhu 10 °C. Sebuah benda dengan suhu 19 °C dimasukkan ke dalam air di bejana A. Setelah kesetimbangan termal tercapai pada suhu T0, benda itu dikeluarkan dan segera dimasukkan ke dalam air di bejana B. Kesetimbangan termal yang baru dicapai pada suhu 11 °C. Nilai T0 sama dengan … °C.\n 1. 15\n 2. 14\n 3. 13\n 4. 12\n 28. Bayangkan dua batang logam A dan B, dengan luas penampang sama besar. Panjang batang A setengah kali panjang batang B. Konduktivitas termal logam A adalah 1,5 kali konduktivitas termal logam B. Batang logam A disambung secara seri dengan batang logam B. Jika selisih suhu antara ujung bebas batang A dan titik sambung kedua batang adalah 5 °C, maka selisih suhu antara ujung bebas batang A dan ujung bebas batang B adalah ... °C.\n 1. 15\n 2. 16\n 3. 18\n 4. 20\n 29. Sebuah balok diikatkan pada ujung sebuah pegas mendatar, dengan konstanta pegas 1 kN /m. Ujung lain pegas itu diikatkan pada dinding. Massa pegas dapat diabaikan. Balok berada di bidang datar kasar. Mula-mula balok digeser, sehingga pegas tertekan 1 cm. Kemudian balok dilepaskan, sehingga bergerak di bidang datar dan berhenti pada jarak 0,5 m dari sejak dilepaskan. Energi kinetik balok ketika melewati titik seimbang adalah … mJ.\n 1. 42\n 2. 45\n 3. 49\n 4. 50\n 30. Sebuah bola 200 g dilepaskan jatuh ke bawah dari ketinggian 2 m. Ketika mencapai ketinggian 1 m, sebuah gaya konstan vertikal ke atas bekerja pada bola, sehingga bola berhenti di ketinggian 50 cm. Jika percepatan gravitasi di tempat itu 10 m/s2, besar gaya konstan itu adalah … N.\n 1. 8\n 2. 6\n 3. 5\n 4. 4\n 31. Sebuah mesin listrik dengan daya 150 W dapat mendorong sebuah beban di bidang datar licin dari keadaan diam sampai energi kinetiknya 240 J dalam waktu 2 detik. Kemudian, mesin itu dipakai untuk memindahkan beban 18 kg secara vertikal dari lantai ke ketinggian 10 m. Jika percepatan gravitasi di tempat itu 10 m/s2, waktu yang diperlukan adalah … detik.\n 1. 12\n 2. 13\n 3. 14\n 4. 15\n 32. Sebuah panci listrik tertutup dengan daya 300 W dapat menaikkan suhu 500 cc air dari 30 °C menjadi 70 °C dalam waktu 400 detik. Kalor jenis air 4200 J·kg-1·K-1. Jika panci itu dapat menaikkan suhu suatu larutan sebanyak 400 cc dari 30 °C menjadi 60 °C dalam waktu 320 detik, maka kalor jenis larutan tersebut sama dengan … J·kg-1·K-1.\n 1. 5600\n 2. 5830\n 3. 6150\n 4. 6300\n 33. Pesawat bergerak dari koordinat asal (0,0) menuju ke koordinat (5,8), kemudian mendarat pada koordinat (9,12). Perpindahan pesawat tersebut adalah ….\n 1. 9\n 2. 12\n 3. 15\n 4. 21\n 34. Sebuah partikel bergerak sepanjang sumbu x. Posisi partikel itu terhadap waktu ditunjukkan oleh gambar.\nInterval waktu yang menunjukkan percepatan partikel positif adalah ….\n 1. dari 0 sampai tA\n 2. dari tA sampai tB\n 3. dari tD sampai tE\n 4. dari 0 sampai tF\n 35. Seekor gajah dan seekor kuda mengikuti lomba lari pada lintasan lurus sepanjang 20 km, dengan kecepatan tetap berturut-turut 20 km/jam dan 60 km/jam. Setelah menempuh jarak 6 km, kuda berhenti untuk istirahat. Agar kuda tidak disusul oleh gajah, waktu maksimal yang dapat digunakan kuda untuk beristirahat adalah … menit.\n 1. 6\n 2. 12\n 3. 18\n 4. 42\n 36. Anto mendorong mobil mainan bermassa 1 kg dengan sudut 60° terhadap bidang datar dari keadaan diam. Setelah 2 detik mobil mainan menempuh jarak 4 m. Jika gaya gesek antara mobil mainan dan lantai sebesar 1 N, maka besar gaya dorong yang dilakukan Anto adalah … N.\n 1. 2\n 2. 3\n 3. 4\n 4. 6\n 37. Seorang pemanah berdiri pada jarak 24 m dari sebuah pohon. Ia melepaskan anak panah ke arah pohon tersebut dengan sudut 45° dan ketinggian 1,5 m dari tanah. Angin berhembus mendatar dengan kecepatan m/s berlawanan dengan arah gerak anak panah. Percepatan gravitasi di tempat itu 10 m/s2. Jika anak panah dilepaskan dengan kecepatan 20 m/s, maka anak panah menancap di pohon pada ketingggian … m.\n 1. 2. 3. 4. 9\n 38. Sebuah benda dengan berat 400 N didorong Toni di sepanjang papan yang disandarkan pada dua penumpu, yang masing-masing memiliki tinggi 2 m dan 10 m. Jarak antar kedua penumpu adalah 6 m. Besar gaya yang diperlukan Toni untuk memindahkan benda tersebut adalah … N.\n 1. 344\n 2. 320\n 3. 296\n 4. 244\n 39. Sebuah eksperimen menunjukkan bahwa sepotong kayu dengan massa jenis 720 kg/m3 terapung di suatu larutan. Kayu yang terendam adalah 0,8 bagian. Jika sebuah benda dengan massa jenis 810 kg/m3 dimasukkan ke larutan tersebut, maka yang terendam sebesar … bagian.\n 1. 0,88\n 2. 0,90\n 3. 0,92\n 4. 0,94\n 40. Sebuah ransel kedap udara dan air dengan massa 2 kg dapat mengapungkan 148 kg beban tanpa beban tersebut terendam di air. Volume ransel tersebut adalah … liter. Percepatan gravitasi di tempat itu 10 m/s2.\n 1. 1,5\n 2. 15\n 3. 150\n 4. 1500\n 41. Sebuah desa memiliki air terjun setinggi 20 m dan digunakan sebagai pembangkit listrik tenaga air dengan daya output generator listrik sebesar 500 kW. Jika efisiensi generator efisiensi 25%, maka debit air yang diperlukan sama dengan … m3/s. Percepatan gravitasi di tempat itu 10 m/s2.\n 1. 20\n 2. 15\n 3. 10\n 4. 5\n 42. Bayangkan sebuah pensil dipasang pada ujung pegas, yang berosilasi secara horizontal dengan frekuensi 15 Hz, sehingga membuat goresan pada selembar kertas, yang bergerak dengan kecepatan konstan 30 cm/s. Pada kertas tergambar gelombang, dengan panjang gelombang … cm.\n 1. 3\n 2. 1/3\n 3. 2\n 4. 1/2\n 43. Seorang ibu dan seorang anak masing-masing melantunkan sebuah nada. Frekuensi nada yang dilantunkan sang ibu adalah 3,3 kHz. Panjang gelombang suara ibu tersebut 10 cm. Jika panjang gelombang suara sang anak adalah 5,5 cm, maka frekuensi nada yang dilantunkan anak tersebut adalah … kHz.\n 1. 2,2\n 2. 3,3\n 3. 5,0\n 4. 6,0\n 44. Sebuah pipa organa terbuka dengan panjang 40 cm menghasilkan nada dasar dengan frekuensi 400 Hz. Frekuensi nada atas 1 yang dihasilkan sebuah pipa organa terbuka dengan panjang 50 cm sama dengan … Hz.\n 1. 320\n 2. 400\n 3. 520\n 4. 640\n 45. Saat disinari permukaan CD (Compact Disc) terlihat mengkilat dan memiliki pola seperti pelangi. Ini merupakan contoh peristiwa…\n 1. pembiasan\n 2. pemantulan\n 3. difraksi\n 4. interferensi\n 46. Dua buah lensa konvergen identik disusun secara berurutan. Jarak antara kedua lensa adalah 4f, dengan f adalah panjang fokus lensa. Sebuah benda ditaruh pada jarak X di depan lensa pertama. Jika bayangan benda terbentuk pada jarak X di belakang lensa kedua, maka pernyataan di bawah ini yang benar adalah ….\n 1. 2f > X > f\n 2. f > X > 0\n 3. X = 3f\n 4. X = 2f\n 47. Sebuah lensa konvergen memiliki jarak fokus 20 cm. Sebuah benda bergerak mendekati lensa dengan kecepatan tetap 5 cm/s. Pada saat t = 0, benda berada di 40 cm di depan lensa. Setelah t = 2 s, perbesaran benda sebesar …kali",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4 48. Sebuah pemanas air dengan efisiensi 50% digunakan untuk menaikkan suhu 15 l air dari suhu 25 °C sampai 85 °C . Kalor jenis air 4200 J·kg-1·K-1. Jika harga listrik Rp 1500 per kWh, maka biaya listrik yang harus dikeluarkan sama dengan Rp .... 1. 1575 2. 3150 3. 6300 4. 7875 49. Dari gambar di bawah, jika diketahui besar muatan Q1, Q2, Q3, dan Q4 adalah 10 µC, -10 µC, 20 µC, dan -20 µC, maka muatan Q5 agar gaya Coulomb yang bekerja di muatan Q3 sama dengan nol adalah …. µC 1. 40 2. 45 3. 50 4. 55 50. Dari gambar rangkaian berikut, jika E sebesar 3 Volt, maka besarnya beda potensial di R4 adalah ….. Volt 1. 6 2. 5 3. 4 4. 3 II ISIAN SINGKAT 1. Seekor ikan mas dengan berat badan 100 gram, dimasukkan ke dalam bejana berisi air dengan volume 5 L. Bejana ditutup agar terisolir dari udara luar. Setelah 2 jam, hasil pengukuran O2 terlarut adalah 10 mL/ 1 L air. Volume ikan diabaikan. Bila harga konsumsi O2 ikan mas tersebut 0,1 mL/gram/jam, berapakah : 1. Banyaknya O2 terlarut dalam bejana sebelum percobaan dimulai ? 2. Berapa lama ikan dapat hidup dalam bejana tertutup tersebut ? 2. Perhatikan gambar di bawah ini Alat perkembangbiakan berupa gemma cup terdapat pada Gambar nomor… …., tumbuhan tersebut termasuk termasuk division ………. 3. Dalam proses pembuatan kue terdapat suatu proses pemberian ragi pada adonannya. Pemberian ragi ini bertujuan agar adonan kue yang digunakan dapat mengembang dengan baik. Mengembangnya adonan kue disebabkan oleh gas yang dihasilkan oleh khamir Saccharomyces cereviceae, yaitu… 4. Suatu sel abnormal memiliki pasangan kromosom yang dinyatakan dengan A1/A2 B1/B1 C1/C2 D1, dimana kromosom D tidak memiliki pasangan homolognya. Berdasarkan tipe sel kromosom penyusunnya dapat diduga jumlah maksimal dari jenis sel gamet yang dapat dihasilkan, yaitu… 5. Pada padang rumput ditemukan kelompok rusa, pohon, dan serigala. Kumpulan seluruh kelompok tersebut hidup bersama menempati padang rumput dinamakan…. 6. Terdapat tiga larutan A, B, dan C, dengan massa, suhu awal, dan kalor jenis ditunjukkan dalam tabel. Tiga larutan tersebut dimasukkan bersama-sama ke dalam sebuah wadah tertutup. Jika kalor yang diserap wadah dapat diabaikan dan tidak ada kalor yang terlepas ke lingkungan, maka suhu akhir campuran tiga larutan A, B, C sama dengan … °C. Larutan massa (g) suhu (°C) kalor jenis (J·kg-1·K-1) A 500 24 4500 B 500 40 5300 C 500 64 6200 7. Sebuah bola plastik dengan massa 4 g dan volume 5 cc ditahan di dasar kolam berisi air. Kemudian, bola plastik itu dilepaskan, sehingga bergerak naik. Antara bola plastik dan air ada gaya gesek konstan sebesar 200 dyne. Percepatan gravitasi di tempat itu 10 m/s2. Ketika energi kinetik bola plastik itu mencapai nilai 2,4 mJ, usaha yang telah dilakukan gaya Archimedes dari sejak bola plastik dilepaskan adalah … mJ. 8. Balok dengan massa 4 kg meluncur pada bidang miring yang licin dengan sudut kemiringan 45°. Benda meluncur dari ujung atas bidang miring dengan ketinggian 0,4 m dari lantai. Antara balok dan lantai bekerja gaya gesek sebesar 8 N. Balok berhenti setelah menempuh jarak … m dari dasar bidang miring. Percepatan gravitasi di tempat itu 10 m/s2. 9. Sebuah pegas dengan konstanta pegas k digantungi beban dengan massa m dan volume V. Sistem pegas dan beban itu dimasukkan ke dalam suatu cairan dengan massa jenis ρ. Percepatan gravitasi di tempat itu g. Nyatakan pertambahan panjang pegas dalam k, m, V, ρ, dan g. 10. Perhatikan gambar rangkaian arus searah berikut. Selisih potensial listrik antara titik A dan B adalah … V."
+   },
+   "isian": false
+  }
+ ]
+}

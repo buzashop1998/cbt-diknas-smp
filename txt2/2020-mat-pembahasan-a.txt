@@ -1,0 +1,539 @@
+<<<PAGE 1>>>
+SOAL KSN BIDANG MATEMATIKA SMP
+TINGKAT KABUPATEN/KOTA TAHUN 2020
+Dibahas oleh : Najamuddin (SMP Negeri 20 Makassar)
+PILIHAN GANDA
+01. Jika 𝑎,𝑏,𝑐,𝑑 adalah bilangan bulat positif berbeda sehingga 𝑎𝑏𝑐𝑑 = 2020, maka nilai
+𝑎+𝑏
+terkecil yang mungkin dari adalah….
+𝑐+𝑑
+3
+A.
+507
+5
+B.
+106
+1
+C.
+17
+1
+D.
+69
+Jawab: D
+2020 =22.5.101
+Karena 𝑎 ≠𝑏 ≠𝑐 ≠𝑑, maka a dan b adalah bilangan terkecil yang mungkin
+𝑎+𝑏 1+2 3 1
+Pilih 𝑎 =1,𝑏 = 2,𝑐 = 5,𝑑 =202 sehingga diperoleh = = =
+𝑐+𝑑 5+202 207 69
+02. Manakah di antara bilangan berikut yang merupakan bilangan prima?
+A. 2017
+B. 2019
+C. 2021
+D. 2023
+Jawab: A
+2019 = 3 x 673, 2021 = 43 x 47, 2023 = 7 x 289
+03. Jika ∆(𝑎,𝑏,𝑐) =𝑎𝑏+𝑏𝑐+𝑎𝑐, dan misalkan 𝑥 dan 𝑥 adalah bilangan yang memenuhi
+1 2
+1
+∆(𝑥+1,𝑥−2,5) =(𝑥−2)(𝑥+2), maka nilai terbesar yang mungkin dari 2𝑥 −3𝑥
+1 2
+3
+adalah….
+A. −16
+B. 13
+C. 8
+23
+D.
+2
+Jawab: D
+𝑎 = 𝑥+1,𝑏 = 𝑥−2,𝑐 = 5
+1
+((𝑥+1)(𝑥−2)+5(𝑥−2)+5(𝑥+1)) =(𝑥−2)(𝑥+2)
+3
+1
+(𝑥2+9𝑥−7) =𝑥2−4
+3
+𝑥2+9𝑥−7= 3𝑥2−12
+2𝑥2−9𝑥−5= 0 ⇔ (2𝑥+1)(𝑥−5) =0
+1 3 23
+Agar 2𝑥 −3𝑥 maksimum, pilih 𝑥 = 5, 𝑥 = − diperoleh 2𝑥 −3𝑥 = 10+ =
+1 2 1 2 1 2
+2 2 2
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 1
+
+<<<PAGE 2>>>
+04. Jumlah 𝑛 suku pertama suatu deret aritmetika adalah 450. Jika suku pertama adalah 𝑛
+dan suku ke-𝑛 adalah 3, maka selisih barisan tersebut adalah….
+13
+A.
+7
+15
+B.
+7
+13
+C.
+11
+15
+D.
+11
+Jawab: -
+Diketahui, suku pertama, 𝑎 =𝑛,𝑈 = 3 dan 𝑆 =450, selisih, 𝑏 =⋯?
+𝑛 𝑛
+𝑛 𝑛
+𝑆 = (𝑎+𝑈 ) ⇔ 450 = (𝑛+3) ⇔ 𝑛2+3𝑛−900 = 0
+𝑛 2 𝑛 2
+(tidak ada bilangan bulat n yang memenuhi)
+2
+05. Jika 𝑓(𝑥) =5𝑥−3 , maka jumlah semua 𝑥 yang memenuhi (𝑓(𝑥)) −6𝑓(𝑥) =−9
+adalah….
+A. 0
+B. 3
+3
+C.
+5
+6
+D.
+5
+Jawab: -
+(5𝑥−3)2−6(5𝑥−3) = −9⇔ 25𝑥2−30𝑥+9−30𝑥+18 =−9
+⇔ 25𝑥2−60𝑥+36 =0
+60 12
+⇔ 𝑥 +𝑥 = =
+1 2 25 5
+06. 𝑅 dan 𝑅 berturut-turut menyatakan jari-jari tabung dan jari-jari kerucut. Jika tinggi
+𝑡 𝑘
+tabung dan tinggi kerucut adalah 3600 cm, volum tabung 490𝜋 liter dan volum kerucut
+30𝜋 liter, maka hubungan antara 𝑅 dan 𝑅 adalah….
+𝑡 𝑘
+A. 7𝑅 = 3𝑅
+𝑡 𝑘
+B. 3𝑅 = 7𝑅
+𝑡 𝑘
+C. 6𝑅 = 7𝑅
+𝑡 𝑘
+D. 6𝑅 =3𝑅
+𝑡 𝑘
+Jawab: B
+𝑉 𝜋𝑅 2𝑡 490𝜋 𝑅 2 49
+𝑡 𝑡 𝑡
+= = ⇔ =
+𝑉 𝑘 1 𝜋𝑅 2𝑡 30𝜋 𝑅 𝑘 2 9
+3 𝑘
+𝑅 7
+𝑡
+⇔ = ⇔ 3𝑅 =7𝑅
+𝑅 3 𝑡 𝑘
+𝑘
+C
+07. Perhatikan bangun setengah lungkaran berikut. Jika
+D
+CA = 6 cm dan ED + DF = 8 cm, maka keliling bangun E
+yang diarsir adalah….
+A. 𝜋+36
+B. 6𝜋+12
+C. 3𝜋+36 A B
+F
+D. 3𝜋+12
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 2
+
+<<<PAGE 3>>>
+Jawab: D
+CE + DF = ED + FB = CA = 6 cm
+1
+Panjang busur BC= .2𝜋.6 =3𝜋
+4
+Jadi, keliling bangun yang diarsir adalah 3𝜋+6+6 = 3𝜋+12
+08. Di dalam sebuah kerucut terdapat sebuah balok. Volum kerucut 600𝜋 cm3 dan jari-
+jarinya 10 cm. Jika tinggi balok setengah tinggi kerucut, maka volum balok terbesar yang
+ada di dalam kerucut tersebut adalah….
+A. 72 cm3
+B. 225 cm3
+C. 450 cm3
+D. 900 cm3
+Jawab: C
+Volum Kerucut = 600𝜋 cm3
+1 𝜋×102 ×𝑡 =600𝜋 ⇔ 𝑡 =18 cm
+3
+Tinggi balok = 9 cm.
+Volum maksimum balok apabila diagonal sisi atas balok
+sama dengan diameter lingkaran pada sisi atas balok =
+10cm.
+Jadi volum balok = 1 ×10×10×9 =450 cm3
+2
+09. Pada suatu pameran seni di sekolah, akan dipajang 8 lukisan istimewa terdiri dari 3
+lukisan cat air dan 5 lukisan cat minyak. Semua lukisan tersebut saling berbeda. Untuk
+alasan artistic, maka setiap lukisan cat air akan diletakkan di antara dua lukisan cat
+minyak. Banyak kemungkinan susunan duduk para guru dan tamu tersebut adalah….
+A. 0
+B. 24
+C. 27
+D. 54
+Jawab: D
+Koreksi: mungkin pernyataan “susunan duduk para guru dan tamu” maksudnya
+adalah “susunan lukisan “.
+Banyak cara meletakkan 3 lukisan di antara 4 ruang antara 5 lukisan cat minyak adalah
+𝐶4 = 4 cara.
+3
+Banyak cara mengatur posisi 3 lukisan cat air adalah 3! = 6 cara
+Banyak cara mengatur posisi 5 lukisan cat minyak adalah 5! = 120 cara.
+Banyak kemungkinan mengatur lukisan dimana lukisan cat air selalu berada di antara 2
+cat minyak adalah 4 x 6 x 120 = 2880 cara.
+10. Sebuah dadu bersisi enam dilempar sebanyak n kali, n > 0. Jika rata-rata mata dadu yang
+1
+keluar adalah 𝑛, maka median dari seluruh nilai n yang mungkin adalah….
+4
+A. 11 B. 12 C. 13 D. 14
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 3
+
+<<<PAGE 4>>>
+Jawab: D
+1
+1 ≤ 𝑛 ≤6 ⇔ 4 ≤𝑛 ≤24
+4
+1
+Karena rata-ratadadu yang keluar adalah 𝑛 maka jumlah mata dadu dalam 𝑛
+4
+1 𝑛2
+pelemparan adalah 𝑛×𝑛 = merupakan bilangan bulat, sehingga 𝑛 yang mungkin
+4 4
+1
+adalah { 4, 6, 8, 10, 12, …, 24}. Median dari data tersebut adalah (4+24) =14.
+2
+11. Jika 25𝑛dan 52𝑚 adalah faktor dari 20202020, maka jumlah digit dari nilai maksimum
+𝑚+2𝑛 adalah….
+A. 16
+B. 18
+C. 20
+D. 22
+Jawab: A
+2020 =22.5.101
+25𝑛 ≤ (22)2020 ⇔ 5𝑛 ≤4040 ⇔ 𝑛 ≤808. Maksimum n adalah 8080
+52𝑚 ≤52020 ⇔ 2𝑚 ≤ 2020 ⇔ 𝑚 ≤ 1010. Maksimum m adalah 1010
+Nilai maksimum 𝑚+2𝑛 = 1010+2×808 =2626
+jumlah digit dari nilai maksimum 𝑚+2𝑛 adalah 2 + 6 + 2 + 6 = 16
+12. Diberikan empat bilangan bulat positif a, b, c, dan d yang memenuhi pertaksamaan
+1 1 1 1
+𝑎 <𝑏 < 𝑐 < 𝑑. Diketahui pula + + + =1.
+𝑎 𝑏 𝑐 𝑑
+Banyaknya pasangan bilangan (𝑎,𝑏,𝑐,𝑑) yang memenuhi permasalahan di atas
+adalah….
+A. 1
+B. 4
+C. 6
+D. 9
+Jawab: C
+1 1 1 1
+Jika pilih 𝑎 =3,𝑏 = 4,𝑐 =5,𝑑 =6 maka + + + <1 maka nilai a yang mungkin
+3 4 5 6
+adalah 2.
+1 1 1 1 1 1 1
+Jika a = 2 dan b = 3 maka + + + = 1 ⇔ + = ⇔ 6(𝑐+𝑑) =𝑐𝑑
+2 3 𝑐 𝑑 𝑐 𝑑 6
+⇔ (𝑐−6)(𝑑−6) =36
+Diperoleh pasangan pasangan (c,d) = {(7,42),(8,24),(9,18),(10,15)}
+1 1 1 1 1 1 1
+Jika a = 2 dan b = 4 maka + + + = 1 ⇔ + = ⇔ 4(𝑐+𝑑) =𝑐𝑑
+2 4 𝑐 𝑑 𝑐 𝑑 4
+⇔ (𝑐−4)(𝑑−4) = 16
+Diperoleh pasangan pasangan (c,d) = {(5,20),(6,12)}
+Jika a = 2 dan b > 4 tidak diperoleh nilai c dan d yang memenuhi sehingga banyak
+pasangan (a,b,c,d) yang memenuhi adalah 6 pasang
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 4
+
+<<<PAGE 5>>>
+13. Perhatikan barisan bilangan berikut.
+1, 2, 4, 8, 15, 26, ?, ?, ?, …
+Tiga bilangan selanjutnya berturut-turut adalah….
+A. 37,49,71
+B. 37,61,99
+C. 42,58,74
+D. 42,64,93
+Jawab: D
+1, 2, 4, 8, 15, 26, 42, 64, 93 ,……Perhatikan pola selisih berikut ini!
+1 2 4 7 11 16 22 29 ……….pola selisih tingkat 1
+1 2 3 4 5 6 7…………..pola selisih tingkat 2
+14. Jika 𝑥 dan 𝑥 dengan 𝑥 < 𝑥 adalah solusi yang memenuhi persamaan 𝑥(𝑥𝑥) =(𝑥𝑥)𝑥,
+1 2 1 2
+maka 25𝑥 2+4𝑥 2−10𝑥 𝑥 adalah….
+1 2 1 2
+A. 1
+B. 4
+C. 64
+D. 19
+Jawab: -
+𝑥(𝑥𝑥) = (𝑥𝑥)𝑥 dipenuhi apabila 𝑥𝑥 = 𝑥 diperoleh 𝑥 =1 atau 𝑥 = −1
+atau 𝑥𝑥𝑙𝑜𝑔𝑥 = 𝑥𝑙𝑜𝑔𝑥𝑥 ⇔ 𝑥𝑥 = 𝑥2 diperoleh 𝑥 = 2.
+Jika maksud soal adalah 𝑥 dan 𝑥 >0 maka 𝑥 =1 dan 𝑥 = 2
+1 2 1 2
+25𝑥 2+4𝑥 2−10𝑥 𝑥 =25.(1)2+4.(2)2−10.(1)(2) =25+16−20 =21
+1 2 1 2
+15. Diketahui tiga bilangan terurut (x, y, z) dengan x, y, dan z adalahbilangan bulat positif
+yang memenuhi (3𝑥+𝑦−1)𝑦+𝑧 = 729. Jika himpunan selesaiannya adalah
+{(𝑥 ,𝑦 ,𝑧 ),(𝑥 ,𝑦 ,𝑧 ),… , (𝑥 ,𝑦 ,𝑧 )}, maka nilai dari
+1 1 1 2 2 2 𝑛 𝑛 𝑛
+𝑥 + 𝑥 +⋯+𝑥 +𝑦 + 𝑦 +⋯+𝑦 +𝑧 + 𝑧 +⋯+𝑧 adalah….
+1 2 𝑛 1 2 𝑛 1 2 𝑛
+A. 17
+B. 18
+C. 24
+D. 29
+Jawab: C
+(3𝑥+𝑦−1)𝑦+𝑧 =729 =36 =93 = 272
+1. (3𝑥+𝑦−1)𝑦+𝑧 = 36 diperoleh penyelesaian (1,1,5)
+2. (3𝑥+𝑦−1)𝑦+𝑧 = 92 diperoleh penyelesaian (3,1,2)
+3. (3𝑥+𝑦−1)𝑦+𝑧 = 272 diperoleh penyelesaian (9,1,1)
+Jadi,
+𝑥 + 𝑥 +𝑥 +𝑦 + 𝑦 +𝑦 +𝑧 + 𝑧 +𝑧 =1+3+9+1+1+1+5+2+1 =24
+1 2 3 1 2 3 1 2 3
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 5
+
+<<<PAGE 6>>>
+16. Perhatikan gambar ∆ABC berikut.
+A
+E G D
+F
+C
+B
+Diketahui D titik tengah sisi AC, 𝐹 titik tengah sisi 𝐵𝐷, dan 𝐷𝐸 sejajar 𝐵𝐶. Jika 𝐺 adalah
+titik potong 𝐴𝐹 dan 𝐷𝐸, maka perbandingan 𝐵𝐶 ∶ 𝐷𝐺 adalah adalah….
+A. 12 : 1
+B. 8 : 1
+C. 6 : 1
+D. 4 : 1
+Jawab: C
+F titik tengah BD berarti BF = FD. Karena DE sejajar
+A
+BC maka ∆𝐹𝐵𝐻 ≅∆𝐹𝐷𝐺 sehingga 𝐵𝐻 = 𝐺𝐷
+Pandang AH sebagai garis transversal pada ∆𝐵𝐶𝐷.
+E G D 𝐵𝐻 𝐶𝐴 𝐷𝐹
+. . =1
+𝐻𝐶 𝐴𝐷 𝐹𝐵
+F 𝐵𝐻 2 1 𝐻𝐶 2
+C . . = 1⇔ =
+B H 𝐻𝐶 1 1 𝐵𝐻 1
+𝐻𝐶 2 𝐵𝐶 3
+Karena BH = DG maka = atau =
+𝐷𝐺 1 𝐷𝐺 1
+17. Diketahui suatu bilangan terdiri dari 6 digit. Jika digit terakhirnya sama dengan digit
+pertama, maka banyak kemungkinan bilangan tersebut adalah ….
+A. 90000
+B. 100000
+C. 900000
+D. 1000000
+Jawab: A
+Digit ke- 1 2 3 4 5 6
+Banyak kemungkinan: 9 10 10 10 10 1
+Banyak kemungkinan bilangan tersebut adalah 9x10x10x10x10x1 = 90000
+18. Siswa-siswi sebuah SMP yang menyaksikan pertandingan sepak bola, oleh panitia diberi
+Nomor Undian Doorprize (NUD) pada kertas yang terdiri atas empat digit. Panitia
+pertandingan sudah menyiapkan hadiah untuk semua NUD untung, yaitu nomor yang
+digit ke-empatnya merupakan pengurangan bilangan dua digit pertama oleh bilangan
+digit ke-tiga. Contohnya 1156  11 – 5 = 6 adalah NUD untung. Banyak hadiah yang
+harus disediakan oleh panitia adalah….
+A. 42
+B. 44
+C. 45
+D. 46
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 6
+
+<<<PAGE 7>>>
+Jawab: C
+Karena bilangan dua digit pertama dikurang digit ke-3 sama dengan digit ke-4, maka
+digit pertama harus = 1
+Digit ke-1 Digit ke-2 Digit ke-3 Digit ke-4 Banyak cara
+1 0 1,2,3,4,5,6,7,8,9 9,8,7,6,5,4,3,2,1 9
+1 2,3,4,5,6,7,8,9 9,8,7,6,5,4,3,2 8
+2 3,4,5,6,7,8,9 9,8,7,6,5,4,3 7
+3 4,5,6,7,8,9 9,8,7,6,5,4 6
+4 5,6,7,8,9 9,8,7,6,5 5
+5 6,7,8,9 9,8,7,6 4
+6 7,8,9 9,8,7 3
+7 8,9 9,8 2
+8 9 9 1
+1
+Banyak hadiah yang harus disediakan adalah ×9×10 =45 hadiah
+2
+19. A adalah himpunan semua bilangan tiga digit yang tidak memuat 0 dan semua digitnya
+berbeda. Jika 𝑥,𝑦,𝑧 berturut-turut adalah rata-rata, median, dan jangkauan dari semua
+anggota A, maka nilai dari 𝑥−𝑦+𝑧 adalah….
+A. 445
+B. 504
+C. 555
+D. 864
+Jawab: D
+Bilangan terkecil = 123 dan bilangan terbesar = 987 sehingga 𝑧 = 987−123 = 864
+Banyak bilangan yang memenuhi adalah 𝑃9 =9×8×7= 504
+3
+Setiap angka ratusan, puluhan dan satuan berulang dengan jumlah yang sama sebanyak
+504
+= 56 kali. Jumlah digit yang berulang = 1+2+…+9 = 45
+9
+5600(45)+560(45)+56(45)
+Nilai rata-rata (𝑥) = =555
+504
+Bilangan urutan ke 252 dan 253 berturut-turut adalah 549 dan 561.
+Nilai median berada di antara urutan ke 252 dan urutan ke 253, sehingga 𝑦= 549+561 =555.
+2
+Jadi, 𝑥−𝑦+𝑧 =555−555+864 =864
+𝑏 5
+20. Bilangan terbesar dengan 𝑎,𝑏 positif sedemikian sehingga +20𝑏 merupakan bilangan
+𝑎 𝑎
+kuadrat sempurna yang kurang dari 2020 adalah….
+A. 2800
+B. 5500
+C. 6400
+D. 7500
+Jawab: C
+5 1
++20𝑏 =5( +4𝑏) sehingga bilangan kuadrat yang dimaksud adalah bilangan kuadrat
+𝑎 𝑎
+kelipatan 5.
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 7
+
+<<<PAGE 8>>>
+Bilangan kuadrat kelipatan 5 terdekat dengan 2020 adalah 402 =1600
+5 1
++20𝑏 =5( +4𝑏) =1600
+𝑎 𝑎
+1
+⇔ +4𝑏 = 320
+𝑎
+𝑏
+⇔ =320𝑏−4𝑏2 = 4𝑏(80−𝑏)
+𝑎
+𝑏 320
+Nilai Maksimum terjadi pada saat 𝑏 = = 40.
+𝑎 2×4
+𝑏
+Nilai maksimum = 4𝑏(80−𝑏) =4(40)(40) =6400
+𝑎
+21. Jika 𝑎,𝑏 bilangan real positif dengan 𝑎505+𝑏505 = 1, maka nilai minimum dari
+𝑎2020+𝑏2020 adalah….
+A. 1
+1
+B.
+2
+1
+C.
+4
+1
+D.
+8
+Jawab:
+Nilai minimum terjadi apabila 𝑎505 = 𝑏505 = 1 , sehingga nilai minimum dari:
+2
+1 4 1 4 1
+𝑎2020+𝑏2020 = ( ) +( ) =
+2 2 8
+22. Diketahui segi delapan ABCDEFGH dengan oanjang sisinya 2 cm. Akan dipilih secara
+acak 3 titik sudutnya dan digunakan untuk membentuk suatu segitiga yangbakan
+dihitung luas daerahnya. Jika A adalah himpunan semua luas daerah segitiga yang
+mungkin dan jumlah semua anggota A adalah (𝑎+𝑏√2)𝑐𝑚2, maka nilai dari 𝑎+𝑏
+adalah….
+A. 9
+B. 12
+C. 21
+D. 33
+Jawab: C
+Kemungkinan anggota A adalah
+F E
+1
+[𝐴𝐵𝐶] = ×2×√2 =√2
+2
+1
+G D [𝐴𝐵𝐷]= ×2×(2+√2) = 2+√2
+2
+2 1
+[𝐴𝐵𝐸] = ×2×(2+2√2) =2+2√2
+2
+H C 1 2
+[𝐴𝐶𝐸] = ×((2+√2) +2) =4+2√2
+√2 2
+1
+[𝐴𝐶𝐹]= ×(2+2√2)(2+√2) = 4+3√2
+A 2 B √2 2
+Jumlah semua anggota A adalah 12+9√2. Diperoleh nilai 𝑎 =12 dan 𝑏 =9, sehingga
+nilai dari 𝑎+𝑏 =21
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 8
+
+<<<PAGE 9>>>
+23. Diketahui persegipanjang ABCD di bidang koordinat kartesius dengan A dan B di
+sumbu X, D di sumbu Y, dan C di kuadran I. Ada 4 jenis rotasi yang akan dilakukan
+terhadap persegipanjang ABCD: 1.𝑅(𝐶,−90°),2.𝑅(𝐴,90°),3.𝑅(𝐶,90°),4.𝑅(𝐴,−90°)
+dimana 𝑅(𝐶,90°)berarti rotasi 90° berlawanan arah jarum jam dengan pusat 𝐶. Jika
+ABCD dirotasi berturut-turut dengan urutan 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3
+dan diperoleh koordinat akhir A adalah (38, 47), maka keliling persegi panjang ABCD
+adalah…satuan panjang.
+A. 9
+B. 17
+C. 38
+D. 47
+Jawab: B
+Pilih A(0, 0), B(x, 0), C(x, y) dan D(0, y)
+Bayangan A(0, 0) oleh 1.𝑅(𝐶,−90°) adalah 𝐴(−𝑦+𝑥,𝑥+𝑦)
+Bayangan C(x, y) oleh 1.𝑅(𝐶,−90°) adalah tetap 𝐶(𝑥,𝑦)
+Bayangan 𝐴(−𝑦+𝑥,𝑥+𝑦) oleh 2. 𝑅(𝐴,90°) adalah tetap A(−𝑦+𝑥,𝑥+𝑦)
+Bayangan 𝐶(𝑥,𝑦) oleh 2. 𝑅(𝐴,90°) adalah (2𝑥−𝑦,𝑥+2𝑦)
+Bayangan 𝐴(−𝑦+𝑥,𝑥+𝑦) oleh 3. 𝑅(𝐶,90°) adalah (2𝑥,2𝑦)
+Bayangan 𝐶(2𝑥−𝑦,𝑥+2𝑦) oleh 3. 𝑅(𝐶,90°) adalah 𝐶(2𝑥−𝑦,𝑥+2𝑦)
+Bayangan 𝐴(2𝑥,2𝑦) oleh 4. 𝑅(𝐴,−90°) adalah 𝐴(2𝑥,2𝑦)
+Bayangan 𝐶(2𝑥−𝑦,𝑥+2𝑦) oleh 4. 𝑅(𝐴,−90°) adalah 𝐶(3𝑥,3𝑦)
+2𝑥
+Dengan demikian Rotasi 1234 pada dasarnya sama dengan translasi sejauh ( )
+2𝑦
+𝑅(1234) 𝑅(1234) 𝑅(1234) 𝑅(1234) 𝑅(123)
+𝐴(0,0)→ 𝐴(2𝑥,2𝑦)→ 𝐴(4𝑥,4𝑦)→ 𝐴(6𝑥,6𝑦)→ 𝐴(8𝑥,8𝑦)→ 𝐴(10𝑥,10𝑦)
+10𝑥 = 38⇔𝑥 = 3,8
+10𝑦 = 47⇔𝑦 =4,7
+Jadi keliling persegipanjang ABCD = 2(𝑥+𝑦) = 2(3,8+4,7) =17
+24. Pada suatu kotak terdapat 40 bola warna merah dan hijau. Dua buah bola diambil secara
+acak dan diamati warnanya. Jika peluang bahwa terambil kedua bola berwarna merah
+5
+adalah , maka banyaknya bola merah di dalam kotak semula adalah… buah.
+12
+A. 20
+B. 22
+C. 25
+D. 26
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 9
+
+<<<PAGE 10>>>
+Jawab: D
+Misalkan x = banyak bola merah.
+Banyak cara memilih 2 bola merah dari x bola merah adalah 𝐶𝑥 = 1 𝑥(𝑥−1)
+2
+2
+Banyak cara memilih 2 bola dari 40 bola yang tersedia adalah 𝐶40 = 1 .40.39
+2
+2
+Peluang terambil kedua bola merah adalah:
+𝐶𝑥 𝑥(𝑥−1) 5
+2
+𝑃(2𝑀) = = =
+𝐶40 40.39 12
+2
+⇔ 𝑥2−𝑥−650 = 0
+⇔ (𝑥−26)(𝑥+25) = 0
+⇔ 𝑥 = 26
+Jadi banyak bola merah di dalam kotak semula adalah 26 buah.
+25. Suatu kelas terdiri dari 35 siswa. Pada saat ulangan matematika terdapat 2 orang siswa
+berhalangan, misalnya siswa A dan B. Nilai ulangan pada awalnya dicatat hanya dari 33
+siswa dan memiliki rata-rata 80. Setelah ditambah nilai susulan dua siswa yang
+berhalangan tersebut, nilai rata-rata kelas menjadi 78. Jika nilai A dua kali lipat lebih
+tinggi dibandingkan nilai B, maka selisih nilai A dan B adalah….
+A. 15
+B. 20
+C. 30
+D. 55
+Jawab: C
+35×78 = 33×80+(𝐴+𝐵)
+2730 = 2640+(𝐴+𝐵)
+𝐴+𝐵 =90
+3𝐵 =90
+𝐵 =30,dan 𝐴 = 60
+Jadi, 𝐴−𝐵 = 30
+Catatan:
+Pembahasan ini tidak dijamin sepenuhnya benar. Kesalahan kalkulasi atau perbedaan dalam
+menfsirkan soal sangat dimungkinkan terjadi. Oleh karena itu, tugas para pembaca untuk
+memberi koreksi atau saran yang positif.(CMIIW)
+Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 10

@@ -1,0 +1,783 @@
+{
+ "id": "2024-ipa-nas-tulis",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Tes terdiri atas pilihan jamak (PG=20 soal, PGK 1234= 10 soal, sebab-akibat= 10 soal) dengan skor 160, serta isian singkat 10 soal (skor 100)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Penilaian pada soal PG, PGK, sebab-akibat jika jawaban benar maka memperoleh skor 4, jawaban salah memperoleh skor-1, dan jika tidak menjawab memperoleh skor 0. Untuk isian singkat tidak ada penilaian seperti itu.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Waktu pengerjaan 150 menit Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 2 PILIHAN GANDA Pilihlah salah satu jawaban yang paling benar!",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p2_0006.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p2_0007.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p2_0008.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Enzim yang berperan dalam proses replikasi adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "amilase",
+    "B": "protease",
+    "C": "helikase",
+    "D": "selulase"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Bakteri yang digunakan untuk proses kloning adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Escherichia coli DH 5α",
+    "B": "Bacillus subtilis",
+    "C": "Escherichia coli BL21 Star",
+    "D": "Streptococuss sp"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Mekanisme yang terjadi dalam kontraksi otot adalah....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Memanjangnya ukuran otot akibat gesekan molekul aktin dan miosin yang memerlukan energi dari pemecahan ATP",
+    "B": "Memanjangnya ukuran otot akibat gesekan miofibril yang memerlukan energi dari metabolisme aerobik glukosa",
+    "C": "Mengendurnya ukuran otot akibat geseran miofibril yang memerlukan ion kalsium dan fosfat anorganik",
+    "D": "Memendeknya ukuran otot akibat zona Z menjadi lebih panjang dan zona H menjadi lebih pendek yang memerlukan energi dari pemecahan ATP"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Seorang pasien di rumah sakit mengalami gejala pembengkakan di beberapa bagian\ntubuh, mual dan muntah-muntah. Hasil pemeriksaan urine menunjukkan keruh dan berbusa.\nPenyakit yang dideritanya disebut ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "nefrolitiasis",
+    "B": "anuria",
+    "C": "albuminuria",
+    "D": "uremia"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Kandungan logam berat meningkat di perairan pantai yang tercemar oleh limbah cair\nindustri. Dampak jangka panjang pencemaran tersebut pada organisme laut yaitu ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "peningkatan jumlah populasi organisme dan penurunan pertumbuhan bakteri patogen",
+    "B": "penurunan jumlah populasi organisme tingkat tropik tinggi lebih cepat dibandingkan dengan tingkat tropik rendah",
+    "C": "peningkatan produktivitas organisme tingkat tropik tinggi karena logam berat bertindak sebagai nutrien",
+    "D": "penurunan jumlah populasi organisme tingkat tropik rendah lebih cepat dibandingkan dengan tingkat tropik tinggi"
+   }
+  },
+  {
+   "num": 6,
+   "text": "Tim peneliti melakukan survei mengenai pengaruh penambahan spesies ikan baru terhadap\nkeanekaragaman spesies pada ekosistem sebuah danau. Variabel yang paling relevan untuk\ndiukur adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "pola makan spesies ikan endemik",
+    "B": "tingkat pertumbuhan spesies ikan baru",
+    "C": "jumlah spesies ikan endemik",
+    "D": "pola makan spesies ikan baru"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Grafik berikut menunjukkan laju metabolisme basal (Basal Metabolic Rate/BMR) dari\nhewan X, Y, dan Z pada berbagai suhu lingkungan.\nSoal OSN Jenjang SMP/MTS Tahun 2024 Halaman 3\nBerdasarkan grafik di atas, pernyataan berikut yang paling sesuai adalah ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p3_0009.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p3_0010.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "pada semua suhu lingkungan, laju metabolisme basal hewan Y stabil",
+    "B": "pada suhu di bawah 10°C, hewan X memiliki peningkatan laju metabolisme basal terbesar",
+    "C": "pada suhu lingkungan 30°C, hewan Z memiliki laju metabolisme basal tertinggi",
+    "D": "pada suhu di atas 20°C, hewan X dan Y menunjukkan penurunan laju metabolisme basal"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Tabel di bawah ini menunjukkan beberapa parameter fisiologi empat jenis tanaman pada\nkondisi lingkungan yang berbeda.\nTanaman Ukuran Ketebalan Jumlah Laju Fotosintesis Laju Transpirasi\nDaun Daun (mm) Stomata (μmol CO₂/m²/s) (mg\n(cm²) per cm² H₂O/cm²/jam)\nP 50 0.4 300 15 10\nQ 40 0.5 250 12 8\nR 60 0.3 350 18 12\nS 45 0.6 200 10 7\nTanaman yang memiliki kemampuan adaptasi terbaik pada lingkungan dengan intensitas\ncahaya tinggi dan ketersediaan air rendah adalah tanaman ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "P",
+    "B": "Q",
+    "C": "R",
+    "D": "S"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Seorang peneliti melakukan percobaan reaksi enzim kalatalase dengan hidrogen\nperoksida pada beberapa suhu. Volume gas yang dihasilkan ditunjukkan pada tabel.\nHidrogen Produksi Gas (mL gas)\nperoksida 15 oC 25 oC 35 oC 50 oC\n(mL)\n10 21 30 56 35\n20 25 34 61 38\n30 26 34 61 38\nKesimpulan yang paling tepat berdasarkan data di atas adalah. ...",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p4_0011.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p4_0012.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p4_0013.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "pembentukan gas dipengaruhi oleh faktor suhu, semakin tinggi suhu maka semakin banyak volume gas yang dihasilkan Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 4",
+    "B": "pembentukan gas dipengaruhi oleh suhu dan jumlah substrat, semakin tinggi suhu dan semakin banyak jumlah substrat maka jumlah gas yang dihasilkan semakin banyak",
+    "C": "jumlah gas yang terbentuk berbanding lurus dengan jumlah hidrogen peroksida dan suhu",
+    "D": "pembentukan gas yang paling efisien pada jumlah hidrogen peroksida 10 mL"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Ditemukan mayat dengan tanda-tanda kulit lebam kebiruan, pembesaran jantung dan\npengerasan pembuluh nadi serta penyumbatan pembuluh darah sebesar 80% dan bercak\nwarna gading pada jaringan antar bilik jantung. Berdasarkan hasil autopsi di atas maka\ndisimpulkan bahwa kematian terjadi akibat. ...",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "serangan jantung",
+    "B": "gagal jantung",
+    "C": "stroke",
+    "D": "hipertensi"
+   }
+  },
+  {
+   "num": 11,
+   "text": "Penampang sebuah trafo disajikan seperti gambar di bawah ini.\nKuat arus pada lilitan primer Ip dan kuat arus pada lilitan sekunder Is. Jika Ip = 8 A dan\nefisiensi daya trafo 0,75, maka rasio antara Is dan Ip adalah ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p5_0016.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Rangkaian kapasitor berikut dihubungkan dengan sumber tegangan sebesar 6 Volt.\nBesarnya muatan listrik pada kapasitor 4µF adalah …µC.",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p5_0017.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Sebuah benda bergerak lurus dengan energi potensial ditunjukkan oleh grafik pada gambar.\nSoal OSN Jenjang SMP/MTS Tahun 2024 Halaman 5\nBenda bergerak dari kiri ke kanan dengan energi mekanik 16 J. Pernyataan yang benar\ntentang gerak benda tersebut adalah ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p5_0014.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p5_0015.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "benda bergerak semakin cepat",
+    "B": "percepatan benda selalu nol",
+    "C": "benda diam ketika berada di posisi x = 10 m",
+    "D": "energi kinetik benda 11 J di posisi x = 5 m"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Sebuah benda bergerak dengan percepatan tetap sepanjang lintasan lurus. Pada detik ke\nsatu benda memiliki kecepatan 2 m/s dan telah menempuh jarak 3 meter. Kecepatan benda\npada detik ke nol sama dengan … m/s.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5"
+   }
+  },
+  {
+   "num": 15,
+   "text": "Dua pipa identik A dan B dipasang secara vertikal, sehingga ujung atas keduanya sama\ntinggi. Ujung bawah kedua pipa saling dihubungkan. Air dimasukkan ke dalam pipa A dan\nminyak ke dalam pipa B, sehingga tinggi kolom minyak di dalam pipa B adalah 5 cm. Massa\njenis air 1 gram/cc dan minyak 0,9 gram/cc. Jika jarak permukaan minyak ke ujung atas\npipa B sama dengan 2,5 cm, jarak permukaan air ke ujung atas pipa A sama dengan … cm.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "2,7",
+    "B": "3,0",
+    "C": "4,0",
+    "D": "4,5"
+   }
+  },
+  {
+   "num": 16,
+   "text": "Di suatu pantai terdapat sebuah tebing karang. Kedalaman laut di sekitar tebing karang itu\n2 m. Diukur dari dasar laut tinggi tebing karang itu 12 m. Dari dalam air seorang\npenyelam melihat-lihat puncak tebing. Jika indeks bias air laut di tempat itu 1,34, tinggi\ntebing itu dari dasar laut menurut si penyelam sama dengan … m.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "13,4",
+    "B": "14,7",
+    "C": "15,4",
+    "D": "16,7"
+   }
+  },
+  {
+   "num": 17,
+   "text": "Salah satu besaran dalam fisika adalah daya listrik. Besaran ini merupakan turunan dari\nbesaran-besaran pokok ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "massa, panjang dan kuat arus",
+    "B": "massa, panjang dan waktu",
+    "C": "massa, kuat arus dan waktu",
+    "D": "tegangan dan kuat arus"
+   }
+  },
+  {
+   "num": 18,
+   "text": "Zat cair P dan Q masing-masing bersuhu T = 20,0 °C dan T = 90,0 °C dicampur dalam\nP Q\nsuatu wadah yang terisolasi secara termal. Perbandingan kalor jenis kedua zat tersebut\nadalah c :c = 2:3. Jika kedua zat tersebut masing-masing bermassa 250 gram, dan kalor\nP Q\nyang diserap atau dilepas oleh wadah dapat diabaikan, suhu akhir campuran tersebut sebesar\n… °C.",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p6_0018.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p6_0019.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p6_0020.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "48 Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 6",
+    "B": "55",
+    "C": "62",
+    "D": "75"
+   }
+  },
+  {
+   "num": 19,
+   "text": "Batang tengkorak dinosaurus Parasaurolophus memiliki rongga hidung yang membentuk\ntabung panjang yang terbuka di salah satu ujungnya. Dinosaurus diyakini menghasilkan\nsuara dengan melewatkan udara melalui rongga dan mengatur mode dasar di dalamnya.\nDengan memodelkan rongga tersebut sebagai sebuah tabung yang salah satu ujungnya\nterbuka dan panjangnya 2,50 m. Jika kecepatan bunyi di udara adalah 340 m/s, frekuensi\nnada dasar dan nada atas pertama yang dapat dihasilkan adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "136 Hz, 272 Hz",
+    "B": "34 Hz, 138 Hz",
+    "C": "34 Hz, 102 Hz",
+    "D": "68 Hz, 102 Hz"
+   }
+  },
+  {
+   "num": 20,
+   "text": "Sepotong gabus yang mengapung di permukaan air bergerak naik turun ketika dilewati\ngelombang air yang dalam waktu 30 detik menempuh jarak 9 m. Gabus itu bergerak naik\nturun 2 kali dalam 3 detik, maka panjang gelombang air itu adalah ....",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "30 cm",
+    "B": "45 cm",
+    "C": "60 cm",
+    "D": "90 cm"
+   }
+  },
+  {
+   "num": 21,
+   "text": "Berikut adalah daerah pada proses replikasi DNA:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Diskontinyu",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Leading kontinyu",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Lagging strand",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Double strand\nFragmen okazaki terdapat pada daerah yang ditunjukkan oleh nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2 dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "4 22. Perhatikan pernyataan-pernyataan berikut mengenai sel saraf :"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Sel saraf memiliki dendrit yang berfungsi menerima impuls dari sel saraf lain.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Sel saraf memiliki akson yang berfungsi menyampaikan impuls ke sel saraf lain atau organ lain.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Sel saraf memiliki selubung mielin yang membantu dalam transmisi impuls.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Sel saraf dapat melakukan pembelahan mitosis untuk mengganti sel yang rusak.\nPernyataan yang benar mengenai sel saraf adalah ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "4 23. Berikut ini pernyataan mengenai teori endosimbiosis:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Teori ini menjelaskan asal-usul mitokondria dan kloroplas di dalam sel eukariotik.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Mitokondria dan kloroplas memiliki DNA sendiri yang menyerupai DNA bakteri.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Teori ini pertama kali diusulkan oleh Lynn Margulis.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Teori endosimbiosis menyatakan bahwa sel eukariotik berasal dari sel prokariotik yang\nberukuran besar.\nPernyataan yang benar ditunjukkan oleh nomor ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p7_0021.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p7_0022.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2 dan 3",
+    "B": "1 dan 3 Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 7",
+    "C": "2 dan 4",
+    "D": "4 24. Metabolit sekunder seperti flavonoid dan tanin disintesis utamanya di dalam organel sel tumbuhan yaitu pada organel:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Kloroplas",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Vakuola",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Ribosom",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Plastida\nPernyataan yang benar ditunjukkan oleh nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2 dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "4 25. Perhatikan reaksi fotosintesis di bawah ini. 12 H O +6 CO → C H O +6 O ↑ +6 H O; ΔG ° '= -2880 kJ / Mol Glukosa 2 2 6 12 6 2 2 Pernyataan yang berhubungan dengan reaksi fotosintensis di atas adalah:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Perbandingan jumlah air dan karbodioksida pada reaksi fotosintesis adalah 1 : 2",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Jumlah karbondioksida yang di serap jumlahnya sama dengan jumlah oksigen yang dihasilkan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Reaksi fotosintesis berlangsung secara spontan",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Reaksi fotosintesis hanya bisa berlangsung jika ada sinar matahari\nPernyataan yang benar ditunjukkan oleh nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2 dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "4 26. Pada generator AC, ggl induksi yang terjadi dipengaruhi oleh:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Kecepatan perubahan garis gaya magnet",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Jumlah lilitan kawat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Luas penampang kawat",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Kuat medan magnet\nPenyataan yang benar ditunjukkan oleh nomor .…",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1,2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1,2,3,4 27. Pernyataan berikut ini berlaku pada sebuah ayunan sederhana yang terdiri dari tali dan beban:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "Tegangan tali bernilai maksimum ketika beban berada pada ketinggian maksimum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Energi potensial beban bernilai maksimum ketika beban berada pada ketinggian maksimum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Kelajuan beban bernilai maksimum ketika beban berada pada ketinggian maksimum",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Selisih antara energi mekanik dan energi kinetik beban bernilai maksimum ketika\nbeban berada pada ketinggian maksimum\nPernyataan yang benar adalah ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p8_0023.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p8_0024.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 8 28. Di depan sebuah lensa konvergen diletakkan sebuah benda dan di belakang lensa tersebut dipasang sebuah cermin konvergen. Sumbu lensa dan sumbu cermin berimpit. Panjang fokal lensa dan cermin berturut-turut adalah f dan g, dengan f > g. Jarak antara lensa dan cermin sama dengan f. Dengan s adalah jarak benda ke lensa, dinyatakan bahwa:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "jika s < f, bayangan yang dibentuk lensa menjadi benda yang bersifat nyata bagi cermin,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "jika s > f, bayangan akhir yang dibentuk cermin bersifat nyata,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "jika s < f, bayangan akhir yang dibentuk cermin bersifat nyata,",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "jika s > f, bayangan yang dibentuk lensa menjadi benda yang bersifat maya bagi cermin.\nPernyataan yang benar adalah ….",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p9_0027.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p9_0028.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2, dan 3",
+    "B": "1 dan 3",
+    "C": "2 dan 4",
+    "D": "1, 2, 3, dan 4 29. Benda X berupa balok yang memiliki titik beku 80 oC, dipanaskan selama 45 menit tanpa henti. Grafik temperatur terhadap waktu diperlihatkan pada gambar. Berikut ini pernyataan mengenai benda X berkaitan dengan grafik di atas."
+   }
+  },
+  {
+   "num": 1,
+   "text": "Pada menit ke-5 benda berwujud padat, dan pada menit ke-35 benda berwujud gas.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Pada menit ke-20 sampai ke-30 benda tidak menyerap kalor.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Sesaat setelah menit ke-30 benda mulai menguap.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Pada menit ke-25 sebagian benda bewujud cair.\nPernyataan yang benar yaitu nomor ….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1 dan 3",
+    "B": "2 dan 4",
+    "C": "1, 2 dan 3",
+    "D": "4 30. Faktor-faktor yang mempengaruhi cepat rambat gelombang pada dawai adalah:"
+   }
+  },
+  {
+   "num": 1,
+   "text": "panjang dawai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "massa jenis dawai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "tegangan dawai",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "diameter dawai\nPernyataan yang benar adalah...",
+   "images": [
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p9_0025.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p9_0026.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p10_0029.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p10_0030.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p11_0031.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p11_0032.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p12_0033.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p12_0034.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p12_0035.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p13_0036.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p13_0037.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p14_0038.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p14_0039.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p15_0040.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p15_0041.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p16_0042.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p16_0043.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p17_0044.png",
+    "img2/2024-ipa-nas-tulis/2024-ipa-nas-tulis_p17_0045.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "1, 2 dan 3",
+    "B": "2 dan 3",
+    "C": "3 dan 4",
+    "D": "1 dan 3 Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 9 31. Hukum Mendel II dikenal dengan nama hukum prinsip berpasangan SEBAB Pada saat proses gametogenesis alela akan mengadakan kombinasi secara bebas Kedua pernyataan di atas ….",
+    "E": "benar dan berhubungan F. benar tetapi tidak berhubungan G. hanya satu yang benar H. tidak benar 39. Suatu zat cair yang dipanaskan dapat mengalami penambahan suhu hingga mencapai titik didihnya. Pada saat mendidih suhu zat tidak bertambah. SEBAB Pada saat mendidih, zat tidak menyerap kalor. Kedua pernyataan di atas …."
+   }
+  }
+ ]
+}

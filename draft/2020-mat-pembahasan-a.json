@@ -1,0 +1,276 @@
+{
+ "id": "2020-mat-pembahasan-a",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Jika 𝑎,𝑏,𝑐,𝑑 adalah bilangan bulat positif berbeda sehingga 𝑎𝑏𝑐𝑑 = 2020, maka nilai\n𝑎+𝑏\nterkecil yang mungkin dari adalah….\n𝑐+𝑑\n3",
+   "images": [],
+   "key": "D",
+   "pemb": "2020 =22.5.101 Karena 𝑎 ≠𝑏 ≠𝑐 ≠𝑑, maka a dan b adalah bilangan terkecil yang mungkin 𝑎+𝑏 1+2 3 1 Pilih 𝑎 =1,𝑏 = 2,𝑐 = 5,𝑑 =202 sehingga diperoleh = = = 𝑐+𝑑 5+202 207 69",
+   "isian": false,
+   "options": {
+    "A": "507 5",
+    "B": "106 1",
+    "C": "17 1",
+    "D": "69"
+   }
+  },
+  {
+   "num": 2,
+   "text": "Manakah di antara bilangan berikut yang merupakan bilangan prima?",
+   "images": [],
+   "key": "A",
+   "pemb": "2019 = 3 x 673, 2021 = 43 x 47, 2023 = 7 x 289",
+   "isian": false,
+   "options": {
+    "A": "2017",
+    "B": "2019",
+    "C": "2021",
+    "D": "2023"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Jika ∆(𝑎,𝑏,𝑐) =𝑎𝑏+𝑏𝑐+𝑎𝑐, dan misalkan 𝑥 dan 𝑥 adalah bilangan yang memenuhi\n1 2\n1\n∆(𝑥+1,𝑥−2,5) =(𝑥−2)(𝑥+2), maka nilai terbesar yang mungkin dari 2𝑥 −3𝑥\n1 2\n3\nadalah….",
+   "images": [
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p1_0001.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p1_0002.png"
+   ],
+   "key": "D",
+   "pemb": "𝑎 = 𝑥+1,𝑏 = 𝑥−2,𝑐 = 5 1 ((𝑥+1)(𝑥−2)+5(𝑥−2)+5(𝑥+1)) =(𝑥−2)(𝑥+2) 3 1 (𝑥2+9𝑥−7) =𝑥2−4 3 𝑥2+9𝑥−7= 3𝑥2−12 2𝑥2−9𝑥−5= 0 ⇔ (2𝑥+1)(𝑥−5) =0 1 3 23 Agar 2𝑥 −3𝑥 maksimum, pilih 𝑥 = 5, 𝑥 = − diperoleh 2𝑥 −3𝑥 = 10+ = 1 2 1 2 1 2 2 2 2 Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 1",
+   "isian": false,
+   "options": {
+    "A": "−16",
+    "B": "13",
+    "C": "8 23",
+    "D": "2"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Jumlah 𝑛 suku pertama suatu deret aritmetika adalah 450. Jika suku pertama adalah 𝑛\ndan suku ke-𝑛 adalah 3, maka selisih barisan tersebut adalah….\n13",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "7 15",
+    "B": "7 13",
+    "C": "11 15",
+    "D": "11 Jawab: - Diketahui, suku pertama, 𝑎 =𝑛,𝑈 = 3 dan 𝑆 =450, selisih, 𝑏 =⋯? 𝑛 𝑛 𝑛 𝑛 𝑆 = (𝑎+𝑈 ) ⇔ 450 = (𝑛+3) ⇔ 𝑛2+3𝑛−900 = 0 𝑛 2 𝑛 2 (tidak ada bilangan bulat n yang memenuhi) 2"
+   }
+  },
+  {
+   "num": 5,
+   "text": "Jika 𝑓(𝑥) =5𝑥−3 , maka jumlah semua 𝑥 yang memenuhi (𝑓(𝑥)) −6𝑓(𝑥) =−9\nadalah….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "0",
+    "B": "3 3",
+    "C": "5 6",
+    "D": "5 Jawab: - (5𝑥−3)2−6(5𝑥−3) = −9⇔ 25𝑥2−30𝑥+9−30𝑥+18 =−9 ⇔ 25𝑥2−60𝑥+36 =0 60 12 ⇔ 𝑥 +𝑥 = = 1 2 25 5"
+   }
+  },
+  {
+   "num": 6,
+   "text": "𝑅 dan 𝑅 berturut-turut menyatakan jari-jari tabung dan jari-jari kerucut. Jika tinggi\n𝑡 𝑘\ntabung dan tinggi kerucut adalah 3600 cm, volum tabung 490𝜋 liter dan volum kerucut\n30𝜋 liter, maka hubungan antara 𝑅 dan 𝑅 adalah….\n𝑡 𝑘",
+   "images": [
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0003.png"
+   ],
+   "key": "B",
+   "pemb": "𝑉 𝜋𝑅 2𝑡 490𝜋 𝑅 2 49 𝑡 𝑡 𝑡 = = ⇔ = 𝑉 𝑘 1 𝜋𝑅 2𝑡 30𝜋 𝑅 𝑘 2 9 3 𝑘 𝑅 7 𝑡 ⇔ = ⇔ 3𝑅 =7𝑅 𝑅 3 𝑡 𝑘 𝑘 C",
+   "isian": false,
+   "options": {
+    "A": "7𝑅 = 3𝑅 𝑡 𝑘",
+    "B": "3𝑅 = 7𝑅 𝑡 𝑘",
+    "C": "6𝑅 = 7𝑅 𝑡 𝑘",
+    "D": "6𝑅 =3𝑅 𝑡 𝑘"
+   }
+  },
+  {
+   "num": 7,
+   "text": "Perhatikan bangun setengah lungkaran berikut. Jika\nD\nCA = 6 cm dan ED + DF = 8 cm, maka keliling bangun E\nyang diarsir adalah….",
+   "images": [
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0004.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0005.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0006.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0007.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p2_0008.png"
+   ],
+   "key": "D",
+   "pemb": "CE + DF = ED + FB = CA = 6 cm 1 Panjang busur BC= .2𝜋.6 =3𝜋 4 Jadi, keliling bangun yang diarsir adalah 3𝜋+6+6 = 3𝜋+12",
+   "isian": false,
+   "options": {
+    "A": "𝜋+36",
+    "B": "6𝜋+12",
+    "C": "3𝜋+36 A B F",
+    "D": "3𝜋+12 Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 2"
+   }
+  },
+  {
+   "num": 8,
+   "text": "Di dalam sebuah kerucut terdapat sebuah balok. Volum kerucut 600𝜋 cm3 dan jari-\njarinya 10 cm. Jika tinggi balok setengah tinggi kerucut, maka volum balok terbesar yang\nada di dalam kerucut tersebut adalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "Volum Kerucut = 600𝜋 cm3 1 𝜋×102 ×𝑡 =600𝜋 ⇔ 𝑡 =18 cm 3 Tinggi balok = 9 cm. Volum maksimum balok apabila diagonal sisi atas balok sama dengan diameter lingkaran pada sisi atas balok = 10cm. Jadi volum balok = 1 ×10×10×9 =450 cm3 2",
+   "isian": false,
+   "options": {
+    "A": "72 cm3",
+    "B": "225 cm3",
+    "C": "450 cm3",
+    "D": "900 cm3"
+   }
+  },
+  {
+   "num": 9,
+   "text": "Pada suatu pameran seni di sekolah, akan dipajang 8 lukisan istimewa terdiri dari 3\nlukisan cat air dan 5 lukisan cat minyak. Semua lukisan tersebut saling berbeda. Untuk\nalasan artistic, maka setiap lukisan cat air akan diletakkan di antara dua lukisan cat\nminyak. Banyak kemungkinan susunan duduk para guru dan tamu tersebut adalah….",
+   "images": [],
+   "key": "D",
+   "pemb": "Koreksi: mungkin pernyataan “susunan duduk para guru dan tamu” maksudnya adalah “susunan lukisan “. Banyak cara meletakkan 3 lukisan di antara 4 ruang antara 5 lukisan cat minyak adalah 𝐶4 = 4 cara. 3 Banyak cara mengatur posisi 3 lukisan cat air adalah 3! = 6 cara Banyak cara mengatur posisi 5 lukisan cat minyak adalah 5! = 120 cara. Banyak kemungkinan mengatur lukisan dimana lukisan cat air selalu berada di antara 2 cat minyak adalah 4 x 6 x 120 = 2880 cara.",
+   "isian": false,
+   "options": {
+    "A": "0",
+    "B": "24",
+    "C": "27",
+    "D": "54"
+   }
+  },
+  {
+   "num": 10,
+   "text": "Sebuah dadu bersisi enam dilempar sebanyak n kali, n > 0. Jika rata-rata mata dadu yang 1 keluar adalah 𝑛, maka median dari seluruh nilai n yang mungkin adalah…. 4 A. 11 B. 12 C. 13 D. 14 Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 3",
+   "images": [],
+   "key": "D",
+   "pemb": "1 1 ≤ 𝑛 ≤6 ⇔ 4 ≤𝑛 ≤24 4 1 Karena rata-ratadadu yang keluar adalah 𝑛 maka jumlah mata dadu dalam 𝑛 4 1 𝑛2 pelemparan adalah 𝑛×𝑛 = merupakan bilangan bulat, sehingga 𝑛 yang mungkin 4 4 1 adalah { 4, 6, 8, 10, 12, …, 24}. Median dari data tersebut adalah (4+24) =14. 2",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 11,
+   "text": "Jika 25𝑛dan 52𝑚 adalah faktor dari 20202020, maka jumlah digit dari nilai maksimum\n𝑚+2𝑛 adalah….",
+   "images": [],
+   "key": "A",
+   "pemb": "2020 =22.5.101 25𝑛 ≤ (22)2020 ⇔ 5𝑛 ≤4040 ⇔ 𝑛 ≤808. Maksimum n adalah 8080 52𝑚 ≤52020 ⇔ 2𝑚 ≤ 2020 ⇔ 𝑚 ≤ 1010. Maksimum m adalah 1010 Nilai maksimum 𝑚+2𝑛 = 1010+2×808 =2626 jumlah digit dari nilai maksimum 𝑚+2𝑛 adalah 2 + 6 + 2 + 6 = 16",
+   "isian": false,
+   "options": {
+    "A": "16",
+    "B": "18",
+    "C": "20",
+    "D": "22"
+   }
+  },
+  {
+   "num": 12,
+   "text": "Diberikan empat bilangan bulat positif a, b, c, dan d yang memenuhi pertaksamaan\n1 1 1 1\n𝑎 <𝑏 < 𝑐 < 𝑑. Diketahui pula + + + =1.\n𝑎 𝑏 𝑐 𝑑\nBanyaknya pasangan bilangan (𝑎,𝑏,𝑐,𝑑) yang memenuhi permasalahan di atas\nadalah….",
+   "images": [],
+   "key": "C",
+   "pemb": "1 1 1 1 Jika pilih 𝑎 =3,𝑏 = 4,𝑐 =5,𝑑 =6 maka + + + <1 maka nilai a yang mungkin 3 4 5 6 adalah 2. 1 1 1 1 1 1 1 Jika a = 2 dan b = 3 maka + + + = 1 ⇔ + = ⇔ 6(𝑐+𝑑) =𝑐𝑑 2 3 𝑐 𝑑 𝑐 𝑑 6 ⇔ (𝑐−6)(𝑑−6) =36 Diperoleh pasangan pasangan (c,d) = {(7,42),(8,24),(9,18),(10,15)} 1 1 1 1 1 1 1 Jika a = 2 dan b = 4 maka + + + = 1 ⇔ + = ⇔ 4(𝑐+𝑑) =𝑐𝑑 2 4 𝑐 𝑑 𝑐 𝑑 4 ⇔ (𝑐−4)(𝑑−4) = 16 Diperoleh pasangan pasangan (c,d) = {(5,20),(6,12)} Jika a = 2 dan b > 4 tidak diperoleh nilai c dan d yang memenuhi sehingga banyak pasangan (a,b,c,d) yang memenuhi adalah 6 pasang Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 4",
+   "isian": false,
+   "options": {
+    "A": "1",
+    "B": "4",
+    "C": "6",
+    "D": "9"
+   }
+  },
+  {
+   "num": 13,
+   "text": "Perhatikan barisan bilangan berikut.\n1, 2, 4, 8, 15, 26, ?, ?, ?, …\nTiga bilangan selanjutnya berturut-turut adalah….",
+   "images": [],
+   "key": "D",
+   "pemb": "1, 2, 4, 8, 15, 26, 42, 64, 93 ,……Perhatikan pola selisih berikut ini! 1 2 4 7 11 16 22 29 ……….pola selisih tingkat 1 1 2 3 4 5 6 7…………..pola selisih tingkat 2",
+   "isian": false,
+   "options": {
+    "A": "37,49,71",
+    "B": "37,61,99",
+    "C": "42,58,74",
+    "D": "42,64,93"
+   }
+  },
+  {
+   "num": 14,
+   "text": "Jika 𝑥 dan 𝑥 dengan 𝑥 < 𝑥 adalah",
+   "images": [],
+   "key": null,
+   "pemb": "yang memenuhi persamaan 𝑥(𝑥𝑥) =(𝑥𝑥)𝑥, 1 2 1 2 maka 25𝑥 2+4𝑥 2−10𝑥 𝑥 adalah…. 1 2 1 2 A. 1 B. 4 C. 64 D. 19 Jawab: - 𝑥(𝑥𝑥) = (𝑥𝑥)𝑥 dipenuhi apabila 𝑥𝑥 = 𝑥 diperoleh 𝑥 =1 atau 𝑥 = −1 atau 𝑥𝑥𝑙𝑜𝑔𝑥 = 𝑥𝑙𝑜𝑔𝑥𝑥 ⇔ 𝑥𝑥 = 𝑥2 diperoleh 𝑥 = 2. Jika maksud soal adalah 𝑥 dan 𝑥 >0 maka 𝑥 =1 dan 𝑥 = 2 1 2 1 2 25𝑥 2+4𝑥 2−10𝑥 𝑥 =25.(1)2+4.(2)2−10.(1)(2) =25+16−20 =21 1 2 1 2",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 15,
+   "text": "Diketahui tiga bilangan terurut (x, y, z) dengan x, y, dan z adalahbilangan bulat positif\nyang memenuhi (3𝑥+𝑦−1)𝑦+𝑧 = 729. Jika himpunan selesaiannya adalah\n{(𝑥 ,𝑦 ,𝑧 ),(𝑥 ,𝑦 ,𝑧 ),… , (𝑥 ,𝑦 ,𝑧 )}, maka nilai dari\n1 1 1 2 2 2 𝑛 𝑛 𝑛\n𝑥 + 𝑥 +⋯+𝑥 +𝑦 + 𝑦 +⋯+𝑦 +𝑧 + 𝑧 +⋯+𝑧 adalah….\n1 2 𝑛 1 2 𝑛 1 2 𝑛",
+   "images": [],
+   "key": "C",
+   "pemb": "(3𝑥+𝑦−1)𝑦+𝑧 =729 =36 =93 = 272",
+   "isian": false,
+   "options": {
+    "A": "17",
+    "B": "18",
+    "C": "24",
+    "D": "29"
+   }
+  },
+  {
+   "num": 1,
+   "text": "(3𝑥+𝑦−1)𝑦+𝑧 = 36 diperoleh",
+   "images": [],
+   "key": null,
+   "pemb": "(1,1,5)",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "(3𝑥+𝑦−1)𝑦+𝑧 = 92 diperoleh",
+   "images": [],
+   "key": null,
+   "pemb": "(3,1,2)",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "(3𝑥+𝑦−1)𝑦+𝑧 = 272 diperoleh penyelesaian (9,1,1)\nJadi,\n𝑥 + 𝑥 +𝑥 +𝑦 + 𝑦 +𝑦 +𝑧 + 𝑧 +𝑧 =1+3+9+1+1+1+5+2+1 =24\n1 2 3 1 2 3 1 2 3\nDibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 5\n16. Perhatikan gambar ∆ABC berikut.\nA\nE G D\nF\nC\nB\nDiketahui D titik tengah sisi AC, 𝐹 titik tengah sisi 𝐵𝐷, dan 𝐷𝐸 sejajar 𝐵𝐶. Jika 𝐺 adalah\ntitik potong 𝐴𝐹 dan 𝐷𝐸, maka perbandingan 𝐵𝐶 ∶ 𝐷𝐺 adalah adalah….",
+   "images": [
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0009.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0010.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0011.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0012.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0013.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0014.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0015.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0016.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0017.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0018.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0019.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0020.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0021.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0022.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p6_0023.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0024.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0025.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0026.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0027.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0028.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0029.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0030.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0031.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0032.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0033.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0034.png",
+    "img2/2020-mat-pembahasan-a/2020-mat-pembahasan-a_p8_0035.png"
+   ],
+   "key": "A",
+   "pemb": "F titik tengah BD berarti BF = FD. Karena DE sejajar A BC maka ∆𝐹𝐵𝐻 ≅∆𝐹𝐷𝐺 sehingga 𝐵𝐻 = 𝐺𝐷 Pandang AH sebagai garis transversal pada ∆𝐵𝐶𝐷. E G D 𝐵𝐻 𝐶𝐴 𝐷𝐹 . . =1 𝐻𝐶 𝐴𝐷 𝐹𝐵 F 𝐵𝐻 2 1 𝐻𝐶 2 C . . = 1⇔ = B H 𝐻𝐶 1 1 𝐵𝐻 1 𝐻𝐶 2 𝐵𝐶 3 Karena BH = DG maka = atau = 𝐷𝐺 1 𝐷𝐺 1 17. Diketahui suatu bilangan terdiri dari 6 digit. Jika digit terakhirnya sama dengan digit pertama, maka banyak kemungkinan bilangan tersebut adalah …. A. 90000 B. 100000 C. 900000 D. 1000000 Digit ke- 1 2 3 4 5 6 Banyak kemungkinan: 9 10 10 10 10 1 Banyak kemungkinan bilangan tersebut adalah 9x10x10x10x10x1 = 90000 18. Siswa-siswi sebuah SMP yang menyaksikan pertandingan sepak bola, oleh panitia diberi Nomor Undian Doorprize (NUD) pada kertas yang terdiri atas empat digit. Panitia pertandingan sudah menyiapkan hadiah untuk semua NUD untung, yaitu nomor yang digit ke-empatnya merupakan pengurangan bilangan dua digit pertama oleh bilangan digit ke-tiga. Contohnya 1156  11 – 5 = 6 adalah NUD untung. Banyak hadiah yang harus disediakan oleh panitia adalah…. A. 42 B. 44 C. 45 D. 46 Dibahas oleh: Najamuddin- MGMP Matematika SMP Kota Makassar 6 Jawab: C Karena bilangan dua digit pertama dikurang digit ke-3 sama dengan digit ke-4, maka digit pertama harus = 1 Digit ke-1 Digit ke-2 Digit ke-3 Digit ke-4 Banyak cara 1 0 1,2,3,4,5,6,7,8,9 9,8,7,6,5,4,3,2,1 9 1 2,3,4,5,6,7,8,9 9,8,7,6,5,4,3,2 8 2 3,4,5,6,7,8,9 9,8,7,6,5,4,3 7 3 4,5,6,7,8,9 9,8,7,6,5,4 6 4 5,6,7,8,9 9,8,7,6,5 5 5 6,7,8,9 9,8,7,6 4 6 7,8,9 9,8,7 3 7 8,9 9,8 2 8 9",
+   "isian": false,
+   "options": {
+    "A": "12 : 1",
+    "B": "8 : 1",
+    "C": "6 : 1",
+    "D": "4 : 1"
+   }
+  }
+ ]
+}

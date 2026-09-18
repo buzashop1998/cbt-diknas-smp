@@ -1,0 +1,571 @@
+{
+ "id": "2024-ipa-nas-praktikum",
+ "questions": [
+  {
+   "num": 1,
+   "text": "Tes praktikum: fisika dan biologi dengan total skor 260",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Peserta membawa alat tulis, namun tidak perlu membawa kalkulator dan gawai (Handphone).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Waktu masing-masing 90 menit- Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 2 MEKANISME KERJA ENZIM KATALASE Pendahuluan Enzim merupakan senyawa organik yang tersusun atas protein, yang berperan dalam proses biokimia (metabolisme) dalam tubuh makhluk hidup. Reaksi kimia yang terjadi di dalam tubuh, baik anabolisme maupun katabolisme selalu melibatkan enzim. Salah satu enzim yang berperan dalam reaksi metabolik adalah enzim katalase, yang menguraikan hidrogen peroksida. Tujuan:",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p2_0003.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p2_0004.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p2_0005.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Mampu melakukan prosedur kerja ilmiah praktikum mekanisme kerja enzim katalase",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Mampu melakukan pengamatan dan pengumpulan data pada praktikum mekanisme kerja enzim katalase",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Mampu menganalisis data hasil kegiatan praktikum mekanisme kerja enzim katalase",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Mendeskripsikan konsep mekanisme kerja enzim katalase Alat dan Bahan:  Lembar kerja  Tabung Reaksi 5 buah  Larutan Katalase  Stopwatch  Rak Tabung Reaksi  Larutan 1  Penggaris  Sarung Tangan Plastik  Larutan 2  Kertas Label  Baki Plastik  Larutan 3  Tissue  Aquades  Larutan Hidrogen  Pipet tetes Peroksida Prosedur Eksperimen",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Siapkan rak tabung reaksi dan 5 tabung reaksi.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Berikan label pada tabung reaksi seperti di bawah ini:",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "Hidrogen Peroksida + Aquades",
+    "B": "Hidrogen Peroksida + Katalase",
+    "C": "Hidrogen Peroksida + Larutan 1",
+    "D": "Hidrogen Peroksida + Larutan 2",
+    "E": "Hidrogen Peroksida + Larutan 3"
+   }
+  },
+  {
+   "num": 3,
+   "text": "Masukan 2 ml Hidrogen Peroksida pada tabung A kemudian tambahkan aquades sebanyak 2 ml, dan biarkan selama 5 menit. Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 3",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p3_0006.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p3_0007.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Amati pada tabung A apakah terjadi gelembung/busa, jika ya ukur tinggi gelembung/busa menggunakan penggaris dan catat data tersebut pada Tabel 1.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Masukan 2 ml Hidrogen Peroksida pada tabung B kemudian tambahkan larutan katalase sebanyak 2 ml, dan biarkan selama 5 menit.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Amati pada tabung B apakah terjadi gelembung/busa, jika ya ukur tinggi gelembung/busa menggunakan penggaris dan catat data tersebut pada Tabel 1.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 7,
+   "text": "Masukan 2 ml Hidrogen Peroksida pada tabung C kemudian tambahkan larutan 1 sebanyak 2 ml, dan biarkan selama 5 menit.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 8,
+   "text": "Amati pada tabung C apakah terjadi gelembung/busa, jika ya ukur tinggi gelembung/busa menggunakan penggaris dan catat data tersebut pada Tabel 1.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 9,
+   "text": "Masukan 2 ml Hidrogen Peroksida pada tabung D kemudian tambahkan larutan 2 sebanyak 2 ml, dibiarkan selama 5 menit.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 10,
+   "text": "Amati pada tabung D apakah terjadi gelembung/busa, jika ya ukur tinggi gelembung/busa menggunakan penggaris dan catat data tersebut pada Tabel 1.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 11,
+   "text": "Masukan 2 ml Hidrogen peroksida pada tabung E kemudian tambahkan larutan 3 sebanyak 2 ml, dibiarkan selama 5 menit",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 12,
+   "text": "Amati pada tabung E apakah terjadi gelembung/busa, jika ya ukur tinggi gelembung/busa menggunakan penggaris dan catat data tersebut pada Tabel 1. Jawablah pertanyaan berikut ini dengan singkat.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Tuliskan urutan tabung perlakuan yang menghasilkan gelembung/busa paling tinggi sampai ke yang menghasilkan gelembung/busa paling rendah! (Skor maks 15)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "a. Tuliskan persamaan reaksi kimia dari proses yang terjadi dari percobaan di atas! (Skor maks 10) b. Jika jumlah hidrogen peroksida sebanyak X mol. Maka berapa banyaknya masing-masing senyawa komponen hasil reaksi? (Skor maks 10)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Jika konsentrasi katalase yang dimasukan pada tabung B sebanyak Y mol maka kandungan\nkatalase pada: (Skor maks 20)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "A": "aquades sebanyak........ mol",
+    "B": "larutan 1 sebanyak........mol",
+    "C": "larutan 2 sebanyak....... mol",
+    "D": "larutan 3 sebanyak........mol"
+   }
+  },
+  {
+   "num": 4,
+   "text": "Pada percobaan di atas yang berperan sebagai substrat adalah (Skor maks 10) Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 4",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p4_0008.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p4_0009.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Reaksi yang terjadi pada percobaan di atas termasuk peristiwa metabolisme tipe (Skor maks 10)",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Deskripsikan mekanisme kerja enzim katalase berdasarkan percobaan di atas! (Skor maks 15) Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 5 LEMBAR KERJA MEKANISME KERJA ENZIM KATALASE Kode Peserta: Tabel 1. Data Hasil Pengamatan (Skor maks 40) Tabung Perlakuan Gelembung/busa Tinggi Reaksi (Ada/Tidak) Gelembung/busa Uji Katalase (cm) Positif/Negatif A Hidrogen Peroksida + Aquades B Hidrogen Peroksida + Larutan Katalase C Hidrogen Peroksida + Larutan 1 D Hidrogen Peroksida + Larutan 2 E Hidrogen Peroksida + Larutan 3 Jawaban pertanyaan:",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p5_0010.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p5_0011.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "...................................................................................................................................................... ...................................................................................................................................................... ......................................................................................................................................................",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "a..................................................................................................................................................... ...................................................................................................................................................... Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 6 b.................................................................................................................................................... ......................................................................................................................................................",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p6_0012.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p6_0013.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "a………………………………………………………………………………………………… b………………………………………………………………………………………………… c………………………………………………………………………………………………… d…………………………………………………………………………………………………",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "..................................................................................................................................................... …………………………………………………………………………………………………. ………………………………………………………………………………………………….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "…………………………………………………………………………………………………. …………………………………………………………………………………………………. ………………………………………………………………………………………………….",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "…………………………………………………………………………………………………. …………………………………………………………………………………………………. …………………………………………………………………………………………………. …………………………………………………………………………………………………. …………………………………………………………………………………………………. …………………………………………………………………………………………………. Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 7 TES EKSPERIMEN: RANGKAIAN LISTRIK Cara Penggunaan Multimeter A. Mengukur Tegangan DC",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p7_0014.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p7_0015.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Atur selektor pada posisi DCV / (mengukur tegangan baterai).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Pilih skala batas ukur berdasarkan perkiraan besar tegangan yang akan dicek. Jika tegangan yang dicek sekitar 5 Volt maka atur posisi skala di batas ukur yang lebih tinggi dari 5 Volt.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Untuk mengukur tegangan yang tidak diketahui besarnya maka atur batas ukur pada posisi tertinggi supaya multimeter tidak rusak.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Hubungkan atau tempelkan probe multimeter ke titik potensial yang akan dicek. Probe warna merah pada posisi (+) dan probe warna hitam pada titik (-), tidak boleh terbalik.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Baca hasil ukur pada multimeter. B. Mengukur kuat arus DC",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Atur selektor pada posisi DCA/ (mengukur arus listrik pada rangkaian).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Pilih skala batas ukur berdasarkan perkiraan besar arus yang akan dicek. Jika kuat arus yang dicek sekitar 100 mA maka atur posisi skala di batas ukur yang lebih tinggi dari 100 mA.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Untuk mengukur kuat arus yang tidak diketahui besarnya maka atur batas ukur pada posisi tertinggi supaya multimeter tidak rusak.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Pemasangan probe multimeter tidak sama dengan saat pengukuran tegangan DC, karena mengukur arus berarti kita memutus salah satu hubungan catu daya ke beban yang akan dicek arusnya, lalu menjadikan multimeter sebagai penghubung (dipasang serial).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Hubungkan probe multimeter merah pada output tegangan (+) catu daya, probe multimeter hitam pada beban/ rangkaian yang akan dicek pemakaian arusnya, ujung rangkaian lainnya disambungkan pada output tegangan (-) catu daya.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Baca hasil ukur pada multimeter. Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 8 TES EKSPERIMEN: RANGKAIAN LISTRIK Tujuan:",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p8_0016.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p8_0017.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Mampu mengukur tegangan dan arus listrik searah",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Mampu menyusun rangkaian listrik seri dan paralel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Mampu menentukan nilai hambatan listrik Bahan: 4 baterai 1,5 V 1 Saklar Kertas grafik 4 dudukan baterai Capit buaya Kertas kosong 2 Multimeter Kabel merah Ballpoint 2 resistor , Kabel hitam Penggaris Lembar kerja A. Rangkaian listrik seri",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Gambarlah dalam Lembar Kerja, diagram rangkaian hambatan seri yang terdiri atas dua resistor, sejumlah baterai dirangkai secara seri, saklar, serta alat ukur voltmeter dan amperemeter yang akan mengukur tegangan sumber dan arus yang keluar dari sumber tegangan.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Susunlah rangkaian listrik seri berdasarkan diagram yang Anda buat. Mula-mula gunakan hanya satu baterai. Pastikan saklar dalam keadaan off (terbuka).",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Lakukanlah pengukuran tegangan dan arus listrik dengan mengatur saklar dalam keadaan on. Catatlah hasil pengukuran Anda dalam Tabel 1 pada Lembar Kerja. Selanjutnya, posisikan saklar dalam keadaan off.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Ulangi percobaan 3 masing-masing untuk dua, tiga dan empat baterai.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Buatlah dalam satu grafik (namakan Grafik 1) kurva hubungan antara tegangan dalam Volt (sumbu Y) dan kuat arus dalam Ampere (sumbu X) berdasarkan data dari Tabel 1.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Berdasarkan grafik yang diperoleh tentukanlah hambatan total rangkaian seri ( ). B. Rangkaian listrik parallel",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 1,
+   "text": "Gambarlah dalam Lembar Kerja, diagram rangkaian hambatan paralel yang terdiri atas dua resistor, sejumlah baterai dirangkai secara seri, saklar, serta alat ukur voltmeter dan amperemeter yang akan mengukur tegangan sumber dan arus yang keluar dari sumber tegangan.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 2,
+   "text": "Susunlah rangkaian listrik paralel berdasarkan diagram yang Anda buat. Mula-mula gunakan hanya satu baterai. Pastikan saklar dalam keadaan off (terbuka). Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 9",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p9_0018.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p9_0019.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 3,
+   "text": "Lakukanlah pengukuran tegangan dan arus listrik dengan mengatur saklar dalam keadaan on. Catatlah hasil pengukuran Anda dalam Tabel 2 pada Lembar Kerja. Selanjutnya, posisikan saklar dalam keadaan off.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 4,
+   "text": "Ulangi percobaan 3 masing-masing untuk dua, tiga dan empat baterai.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 5,
+   "text": "Buatlah dalam satu grafik (namakan Grafik 2) kurva hubungan antara tegangan dalam Volt (sumbu Y) dan kuat arus dalam Ampere (sumbu X) berdasarkan data dari Tabel 2.",
+   "images": [],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {}
+  },
+  {
+   "num": 6,
+   "text": "Berdasarkan grafik yang diperoleh tentukanlah hambatan total rangkaian paralel ( ).",
+   "images": [
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p10_0020.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p10_0021.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p11_0022.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p11_0023.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p12_0024.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p12_0025.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p13_0026.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p13_0027.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p14_0028.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p14_0029.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p15_0030.png",
+    "img2/2024-ipa-nas-praktikum/2024-ipa-nas-praktikum_p15_0031.png"
+   ],
+   "key": null,
+   "pemb": "",
+   "isian": false,
+   "options": {
+    "C": "Menentukan hambatan resistor dan Berdasarkan nilai dan yang diperoleh, tentukanlah nilai hambatan dan . Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 10 LEMBAR KERJA EKSPERIMEN RANGKAIAN LISTRIK Kode Peserta : https://www.calonguru.com/",
+    "A": "Diagram rangkaian listrik seri https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ Tabel 1: Ranhgkttapiasn :S/e/rwi ww.calonguru.com/ Jumlah bahtetratip s://www.Tceagalnognang (Vu)r u.com/ Kuat arus (mA) 1 https:// www.calonguru.com/ 2 https:// www.calonguru.com/ 3 4 Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 11",
+    "B": "Diagram rangkaian listrik paralel https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ Tabel 2: Rangkaian Paralel Jumlah baterai Tegangan (V) Kuat arus (mA) 1 2 3 4 https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 12 Grafik 1. Hasil pengukuran rangkaian listrik seri Perhitungan Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 13 Grafik 2. Hasil pengukuran rangkaian paralel Perhitungan Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 14 Perhitungan dan https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ https://www.calonguru.com/ Soal OSN Jenjang SMP/MTS Tahun 2024 Halaman 15"
+   }
+  }
+ ]
+}
