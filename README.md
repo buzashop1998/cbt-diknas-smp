@@ -1,8 +1,8 @@
-# CBT OSN SMP/MTs (cbt-diknas-smp)
+﻿# CBT OSN SMP/MTs (cbt-diknas-smp)
 
-Web CBT (Computer Based Test) latihan **Olimpiade Sains Nasional (OSN) SMP/MTs** — IPA, Matematika, dan IPS — tahun 2020–2025 (Kemendikbudristek).
+Web CBT (Computer Based Test) latihan **Olimpiade Sains Nasional (OSN) SMP/MTs** â€” IPA, Matematika, dan IPS â€” tahun 2020â€“2025 (Kemendikbudristek).
 
-Murni **HTML + CSS + JavaScript** (tanpa backend, tanpa admin) — cukup buka `webapp/index.html`.
+Murni **HTML + CSS + JavaScript** (tanpa backend, tanpa admin) â€” cukup buka `webapp/index.html`.
 
 ## Fitur
 - Pilih paket soal per tahun/mapel/tingkat
@@ -12,8 +12,8 @@ Murni **HTML + CSS + JavaScript** (tanpa backend, tanpa admin) — cukup buka `w
 - Klik gambar soal untuk perbesar (lightbox, zoom di desktop & mobile)
 
 ## Struktur
-- `webapp/` — aplikasi (index.html, style.css, app.js, data/*.js, img/)
-- `draft/`, `img2/`, `txt2/`, `pdf/` — pipeline ekstraksi soal dari dokumen sumber
+- `webapp/` â€” aplikasi (index.html, style.css, app.js, data/*.js, img/)
+- `draft/`, `img2/`, `txt2/`, `pdf/` â€” pipeline ekstraksi soal dari dokumen sumber
 
 ## Menjalankan
 Buka `webapp/index.html` langsung di browser, atau:
@@ -21,3 +21,5 @@ Buka `webapp/index.html` langsung di browser, atau:
 cd webapp
 python -m http.server 8080
 ```
+
+<!-- rebuild 2026-09-19T01:39:23 -->
